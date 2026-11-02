@@ -5,11 +5,11 @@ The best games made with AI, playable in your browser, free or paid. Each one ha
 <a href="https://amusehall.com/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/mosaic.webp?v=04bcc3b728" alt="Previews of games made with AI" width="100%"></a>
 
 - **116 games** made with **20 AIs**
-- Latest issue: No. 2, week of November 2, 2026: 4 new games
+- Latest edition: No. 2, week of November 2, 2026: 4 new games
 
 ## Contents
 
-- [New in the latest issue](#new-in-the-latest-issue) (4)
+- [New in the latest edition](#new-in-the-latest-edition) (4)
 - [Hot right now: GPT-6 Astra](#hot-right-now-gpt-6-astra) (9)
 - [Claude](#claude) (83)
 - [GPT and Codex](#gpt-and-codex) (25)
@@ -18,7 +18,7 @@ The best games made with AI, playable in your browser, free or paid. Each one ha
 - [Submit a game](#submit-a-game)
 - [Credits](#credits)
 
-## New in the latest issue
+## New in the latest edition
 
 <table>
 <tr><td width="33%" valign="top"><a href="https://amusehall.com/games/tibo-dog/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/tibo-dog/preview.webp?v=e6cc225490" alt="tibo.dog by @poteto" width="100%"></a><br><a href="https://amusehall.com/games/tibo-dog/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-games-made-with-ai"><b>tibo.dog</b></a><br><sub>@poteto · Grok Bot + Cursor (model not named) · Action</sub><br><sub><a href="https://amusehall.com/games/tibo-dog/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-games-made-with-ai">▶ Play</a> · <a href="games/tibo-dog.md">Details</a></sub></td><td width="33%" valign="top"><a href="https://amusehall.com/games/blueprint-job/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/blueprint-job/preview.webp?v=ecff6e2740" alt="Blueprint Job by @Asleep-Carpet9030" width="100%"></a><br><a href="https://amusehall.com/games/blueprint-job/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-games-made-with-ai"><b>Blueprint Job</b></a><br><sub>@Asleep-Carpet9030 · Claude Opus 5.5 · Strategy</sub><br><sub><a href="https://amusehall.com/games/blueprint-job/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-games-made-with-ai">▶ Play</a> · <a href="games/blueprint-job.md">Details</a></sub></td><td width="33%" valign="top"><a href="https://amusehall.com/games/loomfall/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/loomfall/preview.webp?v=ed9dc7c6ec" alt="Loomfall by @PulIthEld" width="100%"></a><br><a href="https://amusehall.com/games/loomfall/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-games-made-with-ai"><b>Loomfall</b></a><br><sub>@PulIthEld · Claude · RPG</sub><br><sub><a href="https://amusehall.com/games/loomfall/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-games-made-with-ai">▶ Play</a> · <a href="games/loomfall.md">Details</a></sub></td></tr>
