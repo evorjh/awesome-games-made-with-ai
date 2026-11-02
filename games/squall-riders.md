@@ -1,0 +1,21 @@
+# Squall Riders
+
+**[▶ Play Squall Riders](https://amusehall.com/games/squall-riders/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://x.com/jani_penttinen/status/2104696554020114600)
+
+<a href="https://amusehall.com/games/squall-riders/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/squall-riders/preview.webp?v=eb011f9770" alt="Squall Riders by @jani_penttinen" width="100%"></a>
+
+- **Made with:** Claude Opus 5.5
+- **Creator:** [@jani\_penttinen](https://x.com/jani_penttinen)
+- **Genre:** Racing, Sports
+- **Plays on:** Computer and phone
+- **Price:** Free
+- **Controls:** W to accelerate, A and D to steer, Space to hop and trick, Shift for boost; touch buttons on phones
+- **Likes on the original post:** 5, counted 2026-11-01
+
+Race jet skis against four rivals on a rough, rolling sea, jumping off swells for tricks that charge a speed boost.
+
+## Play notes
+
+You pick one of five riders, a penguin and a crocodile among them, and race two laps around Lighthouse Reef against the other four, steering through buoy gates over big rolling waves. Space hops you off a swell for a trick, a clean landing on the back of a wave fills the surge meter that Shift burns for speed, and a flat landing costs you speed with a &quot;Bellyflop&quot;. The creator credits Bitmagic, an AI game-making platform, alongside Claude Opus 5.5, and says the game is also out on Steam. Works on phones and computers.
+
+<sub>The game belongs to @jani_penttinen. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

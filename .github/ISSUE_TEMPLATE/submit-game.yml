@@ -1,0 +1,41 @@
+name: Submit a game
+description: Suggest a game made with AI for the list.
+title: "Submit: "
+labels: [submission]
+body:
+  - type: input
+    id: name
+    attributes: { label: Game name }
+    validations: { required: true }
+  - type: input
+    id: play-link
+    attributes: { label: Play link, description: "Where it plays in a web browser, or where to buy it if it's paid." }
+    validations: { required: true }
+  - type: input
+    id: creator-post
+    attributes: { label: The creator's post, description: The post where the creator says which AI made it. }
+    validations: { required: true }
+  - type: input
+    id: ai
+    attributes: { label: Which AI and tool, placeholder: "Claude Opus 5.5 with Claude Code" }
+    validations: { required: true }
+  - type: input
+    id: prompt
+    attributes: { label: Prompt link (optional), description: Where the creator shared the prompt, if they did. }
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Did you make it?
+      options: [I made it, I found it]
+    validations: { required: true }
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: What gets in
+      options:
+        - label: AI wrote most of the code.
+          required: true
+        - label: It plays in a web browser, free or paid.
+          required: true
+        - label: It doesn't need another game's files.
+          required: true

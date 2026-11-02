@@ -1,0 +1,21 @@
+# Harness Hollow
+
+**[▶ Play Harness Hollow](https://amusehall.com/games/harness-hollow/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://github.com/KrasimirKralev/harvest-hollow)
+
+<a href="https://amusehall.com/games/harness-hollow/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/harness-hollow/preview.webp?v=7187cb522d" alt="Harness Hollow by @KrasimirKralev" width="100%"></a>
+
+- **Made with:** Claude Code, Codex
+- **Creator:** [@KrasimirKralev](https://github.com/KrasimirKralev)
+- **Genre:** Simulation, Cozy
+- **Plays on:** Computer and phone
+- **Price:** Free
+- **Controls:** Mouse or touch; click or drag across plots to plant and harvest, click to walk
+- **Likes on the original post:** Unknown
+
+A co-op farming game where two people share one 3D farm in real time, planting crops, raising animals and crafting goods.
+
+## Play notes
+
+You start a farm in one tap, name your farmer and can send a link to one partner, who then farms the same land with you live. Grandma Hazel&#39;s tips walk you through clicking a plot, picking Wheat and clicking or dragging across the field to plant it, and the first crop ripens in about a minute. Buttons for Build, Market, Barn and a Farm book sit in the corner, and the creator&#39;s README lists animals, 18 workshops and an orders board further on. There are no accounts: a private link is your key back to the farm, and farms nobody visits for seven days are deleted. Works on phones and computers.
+
+<sub>The game belongs to @KrasimirKralev. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

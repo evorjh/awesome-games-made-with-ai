@@ -1,0 +1,19 @@
+name: Change or remove a game
+description: Made a game that's listed? Ask for a correction, or for it to be removed.
+title: "Change: "
+labels: [change-request]
+body:
+  - type: input
+    id: game
+    attributes: { label: Game, description: Its name or its page link. }
+    validations: { required: true }
+  - type: dropdown
+    id: request
+    attributes:
+      label: What should happen?
+      options: [Correct something, Remove it]
+    validations: { required: true }
+  - type: textarea
+    id: details
+    attributes: { label: Details, description: What should change, or anything else we should know. }
+    validations: { required: true }
