@@ -32,14 +32,14 @@
       "maker": "xAI"
     },
     {
-      "id": "kimi",
-      "name": "Kimi",
-      "maker": "Moonshot AI"
-    },
-    {
       "id": "gpt",
       "name": "GPT and Codex",
       "maker": "OpenAI"
+    },
+    {
+      "id": "kimi",
+      "name": "Kimi",
+      "maker": "Moonshot AI"
     },
     {
       "id": "gemini",
@@ -57,7 +57,7 @@
       "id": "claude-opus-5-5",
       "name": "Claude Opus 5.5",
       "family": "claude",
-      "released": null,
+      "released": "2026-09-22",
       "major": true,
       "aliases": [
         "opus 5.5",
@@ -161,7 +161,7 @@
       "id": "gpt-6-astra",
       "name": "GPT-6 Astra",
       "family": "gpt",
-      "released": null,
+      "released": "2026-09-04",
       "major": true,
       "aliases": [
         "astra",
@@ -230,7 +230,7 @@
       "id": "gemini-4-argon",
       "name": "Gemini 4 Argon",
       "family": "gemini",
-      "released": null,
+      "released": "2026-10-13",
       "major": true,
       "aliases": [
         "argon"
@@ -252,7 +252,7 @@
       "id": "grok-4-7",
       "name": "Grok 4.7",
       "family": "grok",
-      "released": null,
+      "released": "2026-09-21",
       "major": true,
       "aliases": [],
       "firstSeen": null
@@ -281,7 +281,7 @@
       "id": "kimi-k3-1",
       "name": "Kimi K3.1",
       "family": "kimi",
-      "released": null,
+      "released": "2026-10-23",
       "major": true,
       "aliases": [
         "k3.1"
@@ -11371,17 +11371,17 @@
   ],
   "sections": {
     "hot": {
-      "modelId": "gpt-6-astra",
+      "modelId": "claude-opus-5-5",
       "gameIds": [
-        "g1bjx9y59",
-        "gw6g09v6h",
-        "go74usldh",
-        "g0licbu6a",
-        "g6av67v0c",
-        "g3v8d1w6z",
-        "gupsk4h7x",
-        "glmkik999",
-        "gf8t89ggq"
+        "grrn1mt5i",
+        "g8ze3q86y",
+        "gng0kobry",
+        "gpy3pa5mk",
+        "g7k2m9q4x",
+        "g361pfe4r",
+        "gj0w80p9f",
+        "gb5kg9kry",
+        "gywgtfpc3"
       ]
     },
     "families": [
