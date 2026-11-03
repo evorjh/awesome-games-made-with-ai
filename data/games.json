@@ -921,7 +921,7 @@
         "clip": "https://media.amusehall.com/tibo-dog/clip.mp4?v=52c0cc341d",
         "unrecordable": null
       },
-      "availability": "unknown",
+      "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
@@ -7727,7 +7727,7 @@
         "clip": "https://media.amusehall.com/loomfall/clip.mp4?v=f18050b44f",
         "unrecordable": null
       },
-      "availability": "unknown",
+      "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
