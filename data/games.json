@@ -7663,9 +7663,11 @@
     },
     {
       "id": "gkbrwv83k",
-      "slug": "loomfall",
-      "aliases": [],
-      "title": "Loomfall",
+      "slug": "path-of-defiance",
+      "aliases": [
+        "loomfall"
+      ],
+      "title": "Path of Defiance",
       "added": "2026-11-02",
       "creators": [
         {
@@ -7701,7 +7703,7 @@
       "controls": "Mouse or touch; the hero fights on its own",
       "brandIp": false,
       "description": "An idle RPG where your hero fights on its own along a route you set across the map, while you craft gear from reagents and spend skill points.",
-      "notes": "Its creator spent three years on an idle RPG from 2016, then had Claude remake it from scratch with new ideas. You pick one of five classes, from a Weaver who casts every element to a Necromancer with skeleton archers, and the hero fights by itself while you choose where it goes: clearing a place reveals the paths beyond it, and a route lets it walk on alone. The creator says gear drops are rare, so most progress comes from crafting with the reagents you collect, alongside a passive skill tree, a village and a rift. It is laid out like a phone app, and the game says combat goes on even while it is closed.",
+      "notes": "Its creator spent three years on an idle RPG from 2016, then had Claude remake it from scratch with new ideas; it was first posted as Loomfall. You pick one of five classes, from a Mage with fireballs and frost novas to a Necromancer with skeleton archers, and the hero fights by itself while you choose where it goes: clearing a place reveals the paths beyond it, and a route lets it walk on alone. The creator says gear drops are rare, so most progress comes from crafting with the reagents you collect, alongside ranked passive paths, a village and a rift. It is laid out like a phone app, and the game says combat goes on even while it is closed.",
       "prompt": {
         "shared": false,
         "partial": false,
@@ -7716,7 +7718,7 @@
         "url": "https://www.reddit.com/r/aigamedev/comments/1xl9ywj/",
         "quote": "Yesterday claude remade it entirely from scratch with a lot of improvements and design adjustments."
       },
-      "playUrl": "https://gutsengine.app/play/loomfall/",
+      "playUrl": "https://gutsengine.app/play/defiance/",
       "price": "free",
       "codeUrl": null,
       "media": {
@@ -7729,7 +7731,7 @@
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
-      "pageUrl": "https://amusehall.com/games/loomfall/"
+      "pageUrl": "https://amusehall.com/games/path-of-defiance/"
     },
     {
       "id": "gjuujapbl",
