@@ -21,7 +21,7 @@ body:
     validations: { required: true }
   - type: input
     id: prompt
-    attributes: { label: Prompt link (optional), description: Where the creator shared the prompt, if they did. }
+    attributes: { label: Prompt link (optional), description: "Where the creator shared the prompt, if they did." }
   - type: dropdown
     id: relationship
     attributes:

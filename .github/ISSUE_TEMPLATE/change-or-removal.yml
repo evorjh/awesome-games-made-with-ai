@@ -15,5 +15,5 @@ body:
     validations: { required: true }
   - type: textarea
     id: details
-    attributes: { label: Details, description: What should change, or anything else we should know. }
+    attributes: { label: Details, description: "What should change, or anything else we should know." }
     validations: { required: true }
