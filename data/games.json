@@ -7066,6 +7066,109 @@
       "pageUrl": "https://amusehall.com/games/long-exposure/"
     },
     {
+      "id": "gzfrlomi9",
+      "slug": "neon-zenith",
+      "aliases": [],
+      "title": "Neon Zenith",
+      "added": "2026-10-31",
+      "creators": [
+        {
+          "handle": "Billpwchan",
+          "name": "Bill Chan",
+          "url": "https://x.com/Billpwchan"
+        }
+      ],
+      "primaryHandle": "Billpwchan",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "flight",
+          "name": "Flight"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "racing",
+          "name": "Racing"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "W and S for thrust, A and D to steer, Space and C to climb and descend, Shift to boost, M for the map; an on-screen stick and buttons on phones",
+      "brandIp": true,
+      "description": "Drive a hover car out of a rainy Kowloon night market and fly it between thousands of neon-lit towers, with time trials and hidden shards.",
+      "notes": "You start on the wet street of the Temple Street night market, then lift your hover car off the road and fly up between tenements, neon signs and lanes of air traffic while a controller voice clears you into the sky lanes. Free Ride lets you roam the city with a map and waypoints, the Runs menu holds four time trials with medals, and 31 data shards are hidden around the city. The first load is large and spends a while compiling shaders before the title screen appears. Works on phones and computers.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 0,
+      "likesRead": "2026-11-01",
+      "posted": "2026-10-06",
+      "sourceUrl": "https://x.com/Billpwchan/status/2107461457936093325",
+      "evidence": {
+        "url": "https://github.com/billpwchan/neon-zenith",
+        "quote": "Built over a weekend in October 2026 with Claude Code running Claude Opus 5.5."
+      },
+      "playUrl": "https://zenith.billpwchan.art/",
+      "price": "free",
+      "codeUrl": "https://github.com/billpwchan/neon-zenith",
+      "media": {
+        "still": "https://media.amusehall.com/neon-zenith/still.webp?v=5f07599230",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/neon-zenith/"
+    },
+    {
       "id": "galxnak4n",
       "slug": "ember-and-ivory",
       "aliases": [],
@@ -11331,6 +11434,7 @@
           "guks7mvrv",
           "ghuag4909",
           "gbl2jj2mv",
+          "gzfrlomi9",
           "gz9zf9xuh",
           "gte8jihli",
           "gunx8qy5s",
