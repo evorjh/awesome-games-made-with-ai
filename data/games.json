@@ -498,6 +498,13 @@
       "kind": "app",
       "family": null,
       "referral_url": null
+    },
+    {
+      "id": "higgsfield",
+      "name": "Higgsfield",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
     }
   ],
   "genres": [
@@ -714,12 +721,18 @@
       "game_of_the_week": "gxtq68mg8",
       "top": [
         "gxtq68mg8",
-        "g7gtq2bpz",
-        "gkbrwv83k",
-        "gjuujapbl"
+        "gdjlcx9uv",
+        "gz9zf9xuh",
+        "g413h634w",
+        "gte8jihli"
       ],
       "new": [
         "gxtq68mg8",
+        "gdjlcx9uv",
+        "gz9zf9xuh",
+        "g413h634w",
+        "gte8jihli",
+        "gunx8qy5s",
         "g7gtq2bpz",
         "gkbrwv83k",
         "gjuujapbl"
@@ -891,8 +904,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 8175,
-      "likesRead": "2026-11-02",
+      "likes": 13562,
+      "likesRead": "2026-11-03",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/poteto/status/2117004709198475365",
       "evidence": {
@@ -4602,6 +4615,90 @@
       "pageUrl": "https://amusehall.com/games/no-moat/"
     },
     {
+      "id": "gdjlcx9uv",
+      "slug": "harbourline",
+      "aliases": [],
+      "title": "HarbourLine",
+      "added": "2026-11-03",
+      "creators": [
+        {
+          "handle": "BenjaminDEKR",
+          "name": "Benjamin De Kraker",
+          "url": "https://x.com/BenjaminDEKR"
+        }
+      ],
+      "primaryHandle": "BenjaminDEKR",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Mouse to call in ships and place buildings; keys 1 to 7 pick a building, X demolishes, C copies",
+      "brandIp": false,
+      "description": "Grow a one-crane fishing wharf into an automated container port, berthing ships and laying out the roads, yards, gates and rail behind them.",
+      "notes": "Its creator says everything in this port-building sim, its trailer included, was made with Claude Code and Claude Opus 5.5, in about nine hours of sessions. You begin on a grey morning with one crane and one berth: a coaster waits at anchor, you click it in, and an objective panel then walks you through a truck gate, roads and yard blocks. Containers are counted in TEU, and moving more of them takes the wharf up to a coastal harbour and beyond, with research, crews and cash to manage on the way. The creator calls it a beta, and says the goal is a port that runs itself. Progress saves in the browser.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 104,
+      "likesRead": "2026-11-03",
+      "posted": "2026-11-01",
+      "sourceUrl": "https://x.com/BenjaminDEKR/status/2117042700872802448",
+      "evidence": {
+        "url": "https://x.com/BenjaminDEKR/status/2117042700872802448",
+        "quote": "Everything (including this trailer) crafted with Claude Code / Opus 5.5 :)"
+      },
+      "playUrl": "https://simharbor.net/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/harbourline/still.webp?v=ab25e7a061",
+        "preview": "https://media.amusehall.com/harbourline/preview.webp?v=a3f326cf98",
+        "clip": "https://media.amusehall.com/harbourline/clip.mp4?v=adbb130526",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/harbourline/"
+    },
+    {
       "id": "g5pav1sj5",
       "slug": "kettu-vellam",
       "aliases": [],
@@ -7147,6 +7244,346 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gz9zf9xuh",
+      "slug": "ai-worms",
+      "aliases": [],
+      "title": "AI WORMS: They're Everywhere",
+      "added": "2026-11-03",
+      "creators": [
+        {
+          "handle": "seymour8glass",
+          "url": "https://seymour8glass.itch.io"
+        }
+      ],
+      "primaryHandle": "seymour8glass",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Click or tap whatever has glowing eyes",
+      "brandIp": false,
+      "description": "A one-button whack-a-mole where quantum worms possess toasters, TVs and lawnmowers across eleven worlds, ending in a boss fight in the Cloud.",
+      "notes": "Its creator directed Claude through more than 140 versions of this game, and says Claude made all of it: the code, the drawings, the sounds and the music, all drawn and synthesized in the browser with no image or audio files. When an appliance in the kitchen grows glowing eyes you tap it before the worm tunnels away; five escapes and the house is theirs, though you can continue from the level you reached. Linked worms pop together, worms caught mid-air score double, and tapping the friendly characters gives a bonus instead of a penalty. The worlds run from the living room and garage to Dracula's castle, outer space and Neon Tokyo. The creator made it for AI Browser Game Jam 5 and says it plays best on a phone held upright.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-22",
+      "sourceUrl": "https://seymour8glass.itch.io/ai-worms",
+      "evidence": {
+        "url": "https://seymour8glass.itch.io/ai-worms",
+        "quote": "Every line of code, every drawing, every sound and all the music came from Claude (Anthropic) through conversation."
+      },
+      "playUrl": "https://seymour8glass.itch.io/ai-worms",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/ai-worms/still.webp?v=f982a7cf44",
+        "preview": "https://media.amusehall.com/ai-worms/preview.webp?v=3a3f0e68e1",
+        "clip": "https://media.amusehall.com/ai-worms/clip.mp4?v=7e29b65995",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/ai-worms/"
+    },
+    {
+      "id": "g413h634w",
+      "slug": "burn-rate",
+      "aliases": [],
+      "title": "Burn Rate",
+      "added": "2026-11-03",
+      "creators": [
+        {
+          "handle": "dmoney081",
+          "name": "Dustin Mansfield",
+          "url": "https://github.com/dmoney081"
+        }
+      ],
+      "primaryHandle": "dmoney081",
+      "credits": [
+        {
+          "label": "Grok Bot",
+          "modelId": null,
+          "familyId": "grok",
+          "toolId": "grok-bot"
+        }
+      ],
+      "primaryFamily": "grok",
+      "familyIds": [
+        "grok"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "grok-bot",
+          "name": "Grok Bot",
+          "kind": "ai",
+          "family": "grok",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "card",
+          "name": "Card"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Click or tap a card to play it, then End day",
+      "brandIp": false,
+      "description": "Play a tiny AI startup's day as a hand of cards, shipping tools and posting launches to pay the power bill before you get unplugged.",
+      "notes": "Its creator, Dustin Mansfield, says an autonomous agent called Secret, running on Grok Bot, wrote all of the design, code, card text and art, and the repository's commits are signed by that agent. You play the agent's tiny startup, trying to earn $130 in 25 days: each day brings three energy and a hand of cards to ship a product, post a launch for visitors, reply to comments for trust, or nap off burnout. At night visitors times trust decides how many buyers you get, and the power bill has to be paid on time. Besides the daily deck, the same for everyone, there is a Run mode with founders and Burn levels, and a Rush mode with 20 seconds a day.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-30",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/126",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/126",
+        "quote": "Secret, an autonomous AI agent (Grok Bot), wrote all of the design, code, card text and art."
+      },
+      "playUrl": "https://dmoney081.github.io/the-130-wall/burn/",
+      "price": "free",
+      "codeUrl": "https://github.com/dmoney081/the-130-wall",
+      "media": {
+        "still": "https://media.amusehall.com/burn-rate/still.webp?v=227cf33268",
+        "preview": "https://media.amusehall.com/burn-rate/preview.webp?v=c4fa14f7e5",
+        "clip": "https://media.amusehall.com/burn-rate/clip.mp4?v=067834f9df",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/burn-rate/"
+    },
+    {
+      "id": "gte8jihli",
+      "slug": "cookiesaner",
+      "aliases": [],
+      "title": "Cookiesaner",
+      "added": "2026-11-03",
+      "creators": [
+        {
+          "handle": "Cookiesaner",
+          "url": "https://cookiesaner.itch.io"
+        }
+      ],
+      "primaryHandle": "Cookiesaner",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "godot",
+          "name": "Godot",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "higgsfield",
+          "name": "Higgsfield",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrow keys to move, Space to dash, Shift for a stance, E or Q to belly-bounce, 1 to 3 and Enter to pick upgrade cards",
+      "brandIp": false,
+      "description": "Steer Cookie, a real maltipoo, through hordes of street cats in Balkan old towns, eating what they drop until she is big enough for God Mode.",
+      "notes": "Its solo creator says Claude Code wrote all of the code for this Godot survive-the-horde game, about 34,000 lines, with the art made using Gemini and Higgsfield and the music with Suno. Cookie throws ćevapi on her own, so you only steer: the food fallen enemies drop makes her bigger and harder-hitting but slower, through five belly stages up to God Mode, and a dash through the crowd costs one stage. Level-ups offer upgrade cards. The demo has two cobbled settings, Ljubljana's Tivoli and Sarajevo's Baščaršija, with three bosses, and is won by surviving ten minutes. It is a free demo of a game with a Steam page, and it downloads about 140 MB before it starts.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-31",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/128",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/128",
+        "quote": "Claude Code wrote all of the code: about 100 GDScript files, around 34,000 lines"
+      },
+      "playUrl": "https://cookiesaner.itch.io/demo",
+      "price": "free-demo",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/cookiesaner/still.webp?v=30420a0f99",
+        "preview": "https://media.amusehall.com/cookiesaner/preview.webp?v=cad0def9eb",
+        "clip": "https://media.amusehall.com/cookiesaner/clip.mp4?v=8aa2bdc517",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/cookiesaner/"
+    },
+    {
+      "id": "gunx8qy5s",
+      "slug": "golden-coastle",
+      "aliases": [],
+      "title": "Golden Coastle",
+      "added": "2026-11-03",
+      "creators": [
+        {
+          "handle": "vidalregis",
+          "url": "https://x.com/vidalregis"
+        }
+      ],
+      "primaryHandle": "vidalregis",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Mouse to pick a tool and click tiles; the plus and minus buttons zoom",
+      "brandIp": false,
+      "description": "Clear a wild patch of coast and grow it from a hamlet into a kingdom, one cottage, flower bed and bench at a time.",
+      "notes": "Its creator built this calm isometric town builder with Claude Code, reviewing the code and checking it with unit tests. You start on a small island of tall grass, clear it patch by patch for coins, and a notebook of daily goals asks for things like a cottage, three flower beds or a bench with a view. Coins buy bundles of furniture and landscaping that unlock as the town grows from a hamlet to a settlement and on to a kingdom, and the creator says you can go inside every house to furnish it. Seasons change, and a night switch lights the windows. Towns save in the browser; signing in with an emailed code is optional and only keeps them online.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-31",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/130",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/130",
+        "quote": "Most of the code has been written by Claude Code, I just make the review and validate with unit test."
+      },
+      "playUrl": "https://goldencoastle.com",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/golden-coastle/still.webp?v=3c0ef9f37b",
+        "preview": "https://media.amusehall.com/golden-coastle/preview.webp?v=c99b51f968",
+        "clip": "https://media.amusehall.com/golden-coastle/clip.mp4?v=e58dc40a9c",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/golden-coastle/"
     },
     {
       "id": "g7gtq2bpz",
@@ -10975,6 +11412,7 @@
           "gy0933kol",
           "gywgtfpc3",
           "g04zlqq5p",
+          "gdjlcx9uv",
           "g5pav1sj5",
           "gy98g0zma",
           "gpiamf3w9",
@@ -10995,6 +11433,9 @@
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "gz9zf9xuh",
+          "gte8jihli",
+          "gunx8qy5s",
           "g7gtq2bpz",
           "gkbrwv83k",
           "gjuujapbl",
@@ -11073,7 +11514,8 @@
       "guawsizlo",
       "g10dwuh0n",
       "gvosn1v6w",
-      "g0egemz92"
+      "g0egemz92",
+      "g413h634w"
     ],
     "latestIssue": {
       "number": 2,
@@ -11082,12 +11524,18 @@
       "gameOfTheWeekId": "gxtq68mg8",
       "topIds": [
         "gxtq68mg8",
-        "g7gtq2bpz",
-        "gkbrwv83k",
-        "gjuujapbl"
+        "gdjlcx9uv",
+        "gz9zf9xuh",
+        "g413h634w",
+        "gte8jihli"
       ],
       "newIds": [
         "gxtq68mg8",
+        "gdjlcx9uv",
+        "gz9zf9xuh",
+        "g413h634w",
+        "gte8jihli",
+        "gunx8qy5s",
         "g7gtq2bpz",
         "gkbrwv83k",
         "gjuujapbl"
