@@ -14,8 +14,6 @@
 
 A space-flight adventure where you skim alien hills in a starfighter, take down giant walkers and hunt for warp cores to fix your drive.
 
-## Play notes
-
-You start in the air above Elysia, a green world of sandstone arches under a huge ringed planet, and fly low to harpoon the legs of towering walkers while the HUD tracks your altitude, hull and fuel. The objective panel sends you after warp cores kept in Ancient Spires, and the controls screen also covers landing, a jetpack and a mining multitool for exploring on foot. The menu lists four worlds around the ringed giant and an Online mode for up to 128 pilots. The creator says Claude Opus 5.5 built it in one go on the Tesana platform. Best on a computer: it needs a keyboard and mouse.
+[Play notes →](https://amusehall.com/games/sky-reach/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @Rubzem. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

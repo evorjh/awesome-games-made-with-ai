@@ -14,8 +14,6 @@
 
 Drive a taxi through a sunset 1980s beach city, picking up passengers and getting them to their stops before the timer runs out.
 
-## Play notes
-
-You drive a boxy yellow cab through Vibe City, a low-poly beach town of palm trees, apartment blocks and billboards under an orange sunset sky. Passengers show up as blue dots on the minimap: pick one up and drop them at the marked destination before your timer runs out. Radio and music buttons sit in the corner, and the creator says the music came from Suno, the sound effects from ElevenLabs and the 2D art from GPT-4o. It took first place at Vibe Jam 2025, and its title and logo riff on Rockstar&#39;s Grand Theft Auto: Vice City, which the creator calls a tribute. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/great-taxi-assignment/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @TomasBencko. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

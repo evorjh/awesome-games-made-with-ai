@@ -14,9 +14,7 @@
 
 Two trees grow from the same seed but differ in three small ways; turn them, look closer and find every difference to press the pair in your herbarium.
 
-## Play notes
-
-Each round grows a pair of trees from one seed, and three small details differ between them. You drag to turn both trees at once, scroll to look closer and click a difference in either tree when you spot it, and every finished pair goes into a herbarium. The creator made it from a single prompt in the regular Claude chat, with no follow-up prompts. It&#39;s a slow, relaxing game about noticing rather than a hard one.
+[Play notes →](https://amusehall.com/games/tree-appreciator/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

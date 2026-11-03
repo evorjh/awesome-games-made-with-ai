@@ -14,8 +14,6 @@
 
 A pixel-art fishing RPG in a seaside village where an old fisherman teaches you to cast, hook and land your catch.
 
-## Play notes
-
-You arrive in a small pixel-art fishing village with a bamboo rod, and Old Finn at the end of the docks shows you how it works: cast, wait for the bobber to dip, hook the fish, then tap Space when the marker reaches the sweet spot. Villagers marked with an exclamation point hand out quests, and the title screen promises selling, cooking and old legends to uncover as you go. The creator says they worked on it for two months with earlier Claude models, Opus 5.5 and the Tesana platform. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/cozy-cove/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @Rubzem. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

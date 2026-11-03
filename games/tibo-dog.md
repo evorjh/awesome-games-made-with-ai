@@ -14,8 +14,6 @@
 
 Keep Tibo alive for 20 minutes as a horde closes in, choosing a new kitchen weapon or perk from three cards at every level-up.
 
-## Play notes
-
-Its creator built this survive-the-horde game in four days as a side project, and made it play inside an X post as well as in its own tab. You walk Tibo across a pixel-art farm while the weapons fire on their own, and each level-up offers three cards, such as a peeler that slashes sideways or a gravy boat that leaves scalding pools, with rerolls, skips and banishes to steer the build. A short story mode comes first, then Easy to Nightmare runs that ask you to last 20 minutes. The creator says every sprite, song and sound effect is drawn or synthesized by code, with no image or audio files.
+[Play notes →](https://amusehall.com/games/tibo-dog/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @poteto. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

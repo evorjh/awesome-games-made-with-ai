@@ -14,9 +14,7 @@
 
 A free browser flight sim with a shared sky, where you pick a plane and fly and dogfight alongside other players.
 
-## Play notes
-
-You type a name and join one sky shared with other players online, flying a free Cessna 172, a free Cyberpink jet or a paid F-16. Its help text lists throttle, roll, pitch and rudder keys, missiles on Space, a turbo on Shift, landing gear and a chat. The creator says the game itself was made entirely with Cursor in about three hours, without naming the model, and that its multiplayer WebSocket server was later written in Python with Grok 3. Joining goes through a human-verification check. Best on a computer: it needs a keyboard.
+[Play notes →](https://amusehall.com/games/fly-pieter/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

@@ -14,8 +14,6 @@
 
 Climb onto a vintage tractor and mow a late duke&#39;s overgrown Great Lawn back into stripes, on an estate shared with everyone else on the server.
 
-## Play notes
-
-The Great Lawn at Wexcombe Park has grown knee-high since the old duke died, and you climb onto a vintage tractor to mow it back into stripes. W and S drive, A and D steer, Shift opens the throttle and Space lowers the blades, while a counter, milestones and a plan of the estate track how much of the lawn you&#39;ve restored. The lawn is shared with everyone on the creator&#39;s server, up to 100 gardeners at a time, and when the server is closed or full you get a lawn of your own. A swig of beer and a puff on the cigar are each a key away. It needs a keyboard, so it&#39;s best on a computer.
+[Play notes →](https://amusehall.com/games/the-dukes-lawn/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @_MaxBlade. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -14,8 +14,6 @@
 
 A side-scrolling Three Kingdoms siege game where you break through eight gates with physics-driven crossbows, catapults, rams and ladders.
 
-## Play notes
-
-You lead the army of KANA, a white rabbit general, through eight gates toward the Wei headquarters, and each stage gives you a different historical siege engine, from a repeating crossbow to a traction catapult, a battering ram and a scaling ladder. Aiming is a drag-and-release along a dotted arc, and a well-placed volley can topple a whole watchtower. Defenders answer with mounted crossbows, dropped millstones and rocks, and the creator says the rival general Xiahou Dun joins from the sixth stage. The game sits in the battlefield section of a Japanese-language promo site, and each stage card adds a short historical note. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/sangoku-rabbit-generals/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @KanaWorks_AI. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

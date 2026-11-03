@@ -14,9 +14,7 @@
 
 A freeride snowboard and ski game on one big mountain: drop in anywhere, throw tricks and chase medals in trick, race and freeride events.
 
-## Play notes
-
-You ride Mont Vireaux on a snowboard or skis, dropping in from any of nine spots on the mountain map or starting one of eight events, split into trick contests, races and freeride runs with bronze, silver and gold targets. Speed comes from the slope, holding Space charges a pop off lips and rollers, and tricks such as a frontside 540 are named and scored live, while a sideways landing ends in a crash that wipes the combo. The page opens on an AI demo run and hands you control as soon as you press a key. The creator says Claude Opus 5.5 built it alone in Claude Code from one long brief, and shared that brief in full. Best on a computer: it needs a keyboard.
+[Play notes →](https://amusehall.com/games/fall-line/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

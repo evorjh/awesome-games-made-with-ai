@@ -14,8 +14,6 @@
 
 Physics sword fighting in 1461 England, where the knights are active ragdolls and you swing the blade by dragging the mouse.
 
-## Play notes
-
-You fight as a knight on a torchlit tournament ground in the Wars of the Roses, walking with WASD and swinging your sword by holding a mouse button and dragging, while bars for blood and stamina show how you are holding up. Solo play offers Endless waves or a seven-bout Tournament with a single life, in three phases called The Opening, The Proving and The Final, and rising in rank unlocks weapons such as the saber, war hammer, longsword and poleaxe. Co-op for two to four players and online fights for up to 16 sit on the same menu. The creator says the knights are active ragdolls, and that ChatGPT made the concept art, ElevenLabs the speech and ComfyUI the music. Best on a computer: it needs a keyboard and mouse, and it captures the mouse during a fight.
+[Play notes →](https://amusehall.com/games/rose-and-blade/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @danielv8698. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

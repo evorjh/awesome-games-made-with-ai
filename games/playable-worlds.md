@@ -14,8 +14,6 @@
 
 Thirty-one short WebGL games that Claude rebuilt from AI-generated gameplay videos, each with its own art, music and one simple idea.
 
-## Play notes
-
-For each idea the creator first generated a gameplay video on fal, then had Claude watch it and rebuild it as a playable game in plain JavaScript on Three.js, with every texture, model and music track generated on fal too. The page gathers 31 of them, from Paper Moon Stairs, where you climb past lanterns that turn into stars, to a few made for two or four players. Each is a short piece built around one mechanic rather than a long game. The creator also shares the Video2Game skill that coding agents use to do this.
+[Play notes →](https://amusehall.com/games/playable-worlds/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @OdinLovis. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

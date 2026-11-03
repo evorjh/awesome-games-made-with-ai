@@ -14,8 +14,6 @@
 
 Drive a hover car out of a rainy Kowloon night market and fly it between thousands of neon-lit towers, with time trials and hidden shards.
 
-## Play notes
-
-You start on the wet street of the Temple Street night market, then lift your hover car off the road and fly up between tenements, neon signs and lanes of air traffic while a controller voice clears you into the sky lanes. Free Ride lets you roam the city with a map and waypoints, the Runs menu holds four time trials with medals, and 31 data shards are hidden around the city. The first load is large and spends a while compiling shaders before the title screen appears. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/neon-zenith/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @Billpwchan. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

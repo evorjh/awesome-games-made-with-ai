@@ -14,9 +14,7 @@
 
 A watercolor-style courtyard of a Spanish house where you water, shake and tap things to find five hidden gems in each of four seasons.
 
-## Play notes
-
-The garden starts bare: you pick up the watering can and hold the mouse button to pour, and a hot-pink bougainvillea grows out of the tree bed. Each season hides five gems, found by actions like tapping the little speaker to start the music, shaking a branch until its petals fall or picking a new petal color from the paint palette. Oli the owl on the tower roof gives a hint when you tap him. The creator says a full year takes 10 to 15 minutes and ends with a birthday message rising from the chimney; it was made as a gift for the creator&#39;s daughter, and a name can be added to the link. The creator also shared the full prompt for rebuilding it. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/casa-de-gemas/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

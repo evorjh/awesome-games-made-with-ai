@@ -14,8 +14,6 @@
 
 A cozy life sim about remote work, where you take contracts, build side projects and move between nine cities while keeping burnout down.
 
-## Play notes
-
-You walk a small 3D character through a building with a lounge, a café and bedrooms, using the furniture to rest, eat, take contracts at a desk or push your own app projects forward. Rent and food are charged every morning, so the aim is to reach $10,000 before the money runs out, while energy and burnout rise and fall with what you do. Each of the nine cities, from Chiang Mai to Mexico City, has its own costs and a bonus such as better-paid contracts or cheaper mentors, and speed buttons fast-forward the days. The creator says the game was rebuilt with Claude Code and improved after a review by Claude Sonnet 5.5, with Grok reviewing code, Suno making the music and fal the art. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/vybenomad/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @AlbertSimonDev. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

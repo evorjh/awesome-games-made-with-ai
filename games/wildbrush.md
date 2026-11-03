@@ -14,8 +14,6 @@
 
 Explore a grayed-out island with a giant paintbrush, using fire, ice, bounce and vine paints to fight, climb and clear trials.
 
-## Play notes
-
-You play a hooded painter with a long brush on their back, exploring an island of meadows, ruins and temples in third person. Four paints change whatever they hit: Ember sets grass and brambles alight and melts ice, Frost freezes water, Spring makes surfaces bouncy and Bloom grows vines you can climb. A compass bar points the way to the four Prism Trials, and the brush doubles as a weapon with combos, a lock-on and dodges. The creator says it was made together with their children, who described what they wanted while the creator typed it in for the AI. Best on a computer: it needs a keyboard and mouse.
+[Play notes →](https://amusehall.com/games/wildbrush/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @DannyLimanseta. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

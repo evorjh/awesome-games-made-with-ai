@@ -14,8 +14,6 @@
 
 A CRT-style arcade cabinet with a carousel of small retro games, including Rocket Ship, Space Jumper and Invaders, and shared high scores.
 
-## Play notes
-
-The cabinet opens on a carousel you scroll with the arrow keys, and Enter powers up a game with a CRT flicker. In Rocket Ship you thrust and turn to collect stars between drifting asteroids, Space Jumper is a side-scroller where you run and jump past critters and coins, and Invaders is a Space Invaders-style shooter where friends can join your room by code. A fourth game, Carrier Defense, was added by another creator, Henblox80, and more slots are marked as coming soon. Works on phones and computers: the cabinet has tap controls.
+[Play notes →](https://amusehall.com/games/oyster-arcade/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @mattslight. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

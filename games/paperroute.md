@@ -14,8 +14,6 @@
 
 Ride a bike down a sunny hillside street at dawn and land newspapers in lit-up mailboxes, one morning at a time across a week.
 
-## Play notes
-
-You cycle along both sidewalks of Cedar Hollow, a leafy hillside suburb, throwing papers into subscribers&#39; mailboxes as they light up while you steer around potholes, cars, neighbors and a dog that gives chase. A small radar shows the mailboxes coming up, and X lets you throw a paper at someone&#39;s window for a little mischief. The week runs from Monday to Sunday, one round each morning, and you can join the public leaderboard under a guest name with no email. The creator says the build took 1.6 billion tokens, and the site keeps a devlog of it. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/paperroute/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @BuiltBySketch. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

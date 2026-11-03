@@ -14,8 +14,6 @@
 
 A neon wireframe flight through tunnels that speed up with every circuit.
 
-## Play notes
-
-You fly a small ship down a glowing synthwave tunnel that gets faster with every circuit, steering around obstacles and picking your moments to boost or phase through danger. There are three environments to dive into (Pulseway, Cathedral and Rift Rush) and a &quot;Watch flight&quot; mode that shows a guided run before you take the controls. The creator says the AI also made the music. Best on a computer: it needs a keyboard.
+[Play notes →](https://amusehall.com/games/vector-dive/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @Dimillian. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

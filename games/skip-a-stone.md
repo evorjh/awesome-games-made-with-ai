@@ -14,8 +14,6 @@
 
 Skip stones across a sunlit mountain lake, timing your release for more bounces and hitting toy boats for bonus points.
 
-## Play notes
-
-You skip stones across a mountain lake at sunset: drag back to set the aim and power, then let go while two moving meters, angle and body, sit in the green. The camera follows the stone as it bounces, and a results card counts your skips and the distance. Toy sailboats drift across the water for bonus points, and you can choose from seven stones, such as Flat, Jade and Obsidian. Each throw takes a few seconds, so it suits a short break. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/skip-a-stone/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @chrisjdimarco. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

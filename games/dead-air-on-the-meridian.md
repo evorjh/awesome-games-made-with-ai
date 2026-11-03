@@ -14,9 +14,7 @@
 
 A voiced murder mystery on a snowbound 1936 sleeper train, where you search the victim&#39;s room, question the suspects and prove who did it before dawn.
 
-## Play notes
-
-A radio gossip host has been murdered on a sleeper train stopped overnight by a snow slide, and you play the railroad&#39;s detective, who slept right through it. You search his room for clues, question suspects in cinematic 3D rooms and catch lies by showing them evidence, while a notebook tracks people, statements and a timeline. The ending depends on whom you accuse and whether you can prove it. The creator had a team of Claude Opus 5.5 agents write the story, voice the cast, build the rooms in Blender and code the game over eight days. You move between scenes rather than walking freely, and it&#39;s best with the sound on.
+[Play notes →](https://amusehall.com/games/dead-air-on-the-meridian/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

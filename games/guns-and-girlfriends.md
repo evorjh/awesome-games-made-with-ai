@@ -14,8 +14,6 @@
 
 A base-building real-time strategy game where catgirls, witches and sirens fight over island maps with tanks, heroes and nuclear silos.
 
-## Play notes
-
-You pick one of three commanders, the Catgirl, the Witch or the Siren, then one of five battlefields from Neko Isle to Frostbite Shelf and an Easy, Normal or Hard computer opponent. Each match starts with a small base, a harvester and a build sidebar where you add barracks, reactors, refineries and factories, then train units and send them against the rival bases. The factions play differently, with a C4 commando, healing cauldrons and bubble-shielded troops, and an in-game wiki lists unit stats. Its announcer, EVA, and lines such as &quot;Battle control online&quot; borrow from Command &amp; Conquer. Best on a computer: it needs a mouse and keyboard.
+[Play notes →](https://amusehall.com/games/guns-and-girlfriends/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @DGSpitzer. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

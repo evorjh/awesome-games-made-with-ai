@@ -14,8 +14,6 @@
 
 A third-person boss fight in a candlelit gothic cathedral against a scythe-wielding knight called Armored Death.
 
-## Play notes
-
-You face a single boss, Armored Death, in the nave of a ruined cathedral, with a sword, a shield, a dodge roll and three healing draughts. The fight is slow and deliberate: the boss winds up long scythe swings, and you learn when to guard, when to roll and when to strike back, across two phases. The source code is public, and the creators say the models, animations, textures and sound came from Genex&#39;s asset tools. It is one fight, with a retry after a win or a loss. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/lost-cathedral/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @Rabneba. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

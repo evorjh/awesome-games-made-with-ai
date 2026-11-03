@@ -14,8 +14,6 @@
 
 Run a tiny charging kiosk, dragging customers&#39; plugs into sockets and buying adapters for odd shapes before their patience runs out.
 
-## Play notes
-
-Customers like a JoyBoy handheld, a Snapster camera and a Beat Bean music player line up at your counter, and you drag each dangling plug into a wall socket or into an adapter you bought with the coins from earlier charges. Each day runs on a shift clock with an order target, loose adapters can get knocked off the wall, and when the clock reads OVER you go into overtime to finish the devices already inside. The level trail described on the itch.io page was locked in the browser build when we tried it, so we started from Free Play&#39;s numbered days. The creator lists Codex with GPT-5.6 Sol for the code, Lyria for the music and GPT Image 2 for the art. Best on a computer: it is played by dragging with a mouse.
+[Play notes →](https://amusehall.com/games/plug-and-prosper/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @smallloopworks. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -14,8 +14,6 @@
 
 A poker battler: you and a dungeon guardian share one board of cards, and each poker hand you complete becomes an attack.
 
-## Play notes
-
-You fight your way through five dungeon guardians, starting with a Briar Kobold at the Moss Gate, by placing two cards from your hand on a shared five-by-five board to complete a row, column or diagonal. A pair or better lets you strike, a three of a kind hits harder, and then the enemy plays its own hand on the same board and hits back. A &quot;Find a hand&quot; button suggests a move, and you can redraw or heal when a turn goes badly. The creator says it recreates the mechanics of an old Android game they loved, and the itch.io page marks the code, art, sound and text as AI-assisted. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/ember-and-ivory/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @jlager. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

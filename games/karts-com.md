@@ -14,8 +14,6 @@
 
 An arcade kart racer on street circuits in 30 world cities, from Los Angeles to Kyoto, against seven CPU drivers or players online.
 
-## Play notes
-
-In single-player mode you pick one of 30 city circuits, a driver and a kart, then race three laps against seven CPU drivers, drifting to charge a boost and picking up items to throw. The Los Angeles track runs past a seaside pier with a Ferris wheel, palm-lined streets and an airport, and each city keeps your fastest time and a top-100 leaderboard. There are also online races and friend rooms, and coins unlock more drivers and karts. The creator says Claude Opus 5.5 built the city tracks in Blender, the characters were drawn with Nano Banana and ChatGPT and turned into 3D models with Tripo, and an earlier prototype was vibe-coded in Cursor with Claude Opus 4.7. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/karts-com/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @KenLin1985. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -14,8 +14,6 @@
 
 Full chess on a 3D board in a torch-lit castle hall, with animated soldiers for pieces and a computer opponent at three strengths.
 
-## Play notes
-
-You play chess against the computer on easy, medium or hard, against a friend on the same screen, or sit back and watch two engines play each other while the camera drifts around the hall. Every piece is an animated soldier from one of three armies, the Ivory Kingdom, the Sun Empire or Napoleon&#39;s Grande Armée, and the board can stand in six battlegrounds from a sun temple to a siege at dusk. Optional clocks, take-backs and a move ledger you can copy as PGN round it out. The creator says he vibe-coded the first version in about two hours. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/kings-gambit/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @alexcooldev. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

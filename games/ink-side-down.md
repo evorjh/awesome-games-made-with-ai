@@ -14,8 +14,6 @@
 
 A daily logic puzzle where you roll a cube with one inked face across a grid so it prints every marked square and nothing else.
 
-## Play notes
-
-Each day brings three boards, Easy, Medium and Hard, each with a par for the fewest rolls. One face of the cube is red with ink and prints the square beneath whenever it lands face down. A roll that would ink an unmarked square is refused and walls block the way, so you have to plan several rolls ahead which way the inked face is pointing. Matching par earns a star, a Share button copies a result without spoiling the board, and earlier days stay playable. The site says an AI agent designed, coded and published it, and a pull request from the site owner&#39;s GitHub account names that agent as Claude, via Claude Code. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/ink-side-down/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @646826. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

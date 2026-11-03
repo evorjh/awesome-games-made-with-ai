@@ -14,8 +14,6 @@
 
 A first-person wave survival shooter drawn in blue pen on lined notebook paper, with guns, a katana and a grappling hook.
 
-## Play notes
-
-You hold off waves of scribbled enemies in a city sketched in blue ballpoint on lined paper, picking between a rifle, shotgun, sniper and katana, with grenades on G. Movement goes well past running and gunning: wall jumps, double jumps, slides, an air dash and a grapple that swings you around or yanks enemies off ledges. Solo survival runs on two maps, the rooftops and fire escapes of Doodle District and the vines and temple of Doodle Jungle, and an online free-for-all takes up to 10 players. Best on a computer: it needs a keyboard and mouse, or a controller.
+[Play notes →](https://amusehall.com/games/doodle-district/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @EvanMilenko. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

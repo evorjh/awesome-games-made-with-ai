@@ -14,8 +14,6 @@
 
 Grow a one-crane fishing wharf into an automated container port, berthing ships and laying out the roads, yards, gates and rail behind them.
 
-## Play notes
-
-Its creator says everything in this port-building sim, its trailer included, was made with Claude Code and Claude Opus 5.5, in about nine hours of sessions. You begin on a grey morning with one crane and one berth: a coaster waits at anchor, you click it in, and an objective panel then walks you through a truck gate, roads and yard blocks. Containers are counted in TEU, and moving more of them takes the wharf up to a coastal harbour and beyond, with research, crews and cash to manage on the way. The creator calls it a beta, and says the goal is a port that runs itself. Progress saves in the browser.
+[Play notes →](https://amusehall.com/games/harbourline/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @BenjaminDEKR. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -14,9 +14,7 @@
 
 A real-time strategy game where robot armies mine scrap, build bases and fight for territory, with skirmishes, a daily op, waves to survive and random maps.
 
-## Play notes
-
-Two robot armies harvest scrap, build factories, airpads and turrets, and battle for the map, with fog of war and weapons that only hit air or ground units. Besides skirmishes against bots with different personalities there&#39;s a Last Stand mode against waves of enemies, a daily op, rule-changing mutators, medals and a random map generator. The creator started it with Claude Fable 5 and then had Claude Opus 5.5 make it a lot more fun and port it to 3D, mostly through Claude Code. It was built for phones first and also plays on computers.
+[Play notes →](https://amusehall.com/games/battle-drones/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

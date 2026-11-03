@@ -14,8 +14,6 @@
 
 A one-on-one zero-gravity duel among asteroids against a bot, with blaster bolts and a sling that hurls rocks.
 
-## Play notes
-
-You fly a small fighter through a field of asteroids in a one-on-one duel against a bot, firing blaster bolts or grabbing a rock with a grav-sling and hurling it at the other ship. Matches go to the first to win two 90-second rounds, and a red trajectory line warns you when the bot is lining up a throw. There are three bot difficulties and a choice of chase or cockpit view, and the menu lists online play as coming soon. The menus borrow the Battle School setting and character names from the novel Ender&#39;s Game. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/asteroid-duel/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @lucataco. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

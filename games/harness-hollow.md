@@ -14,8 +14,6 @@
 
 A co-op farming game where two people share one 3D farm in real time, planting crops, raising animals and crafting goods.
 
-## Play notes
-
-You start a farm in one tap, name your farmer and can send a link to one partner, who then farms the same land with you live. Grandma Hazel&#39;s tips walk you through clicking a plot, picking Wheat and clicking or dragging across the field to plant it, and the first crop ripens in about a minute. Buttons for Build, Market, Barn and a Farm book sit in the corner, and the creator&#39;s README lists animals, 18 workshops and an orders board further on. There are no accounts: a private link is your key back to the farm, and farms nobody visits for seven days are deleted. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/harness-hollow/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @KrasimirKralev. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

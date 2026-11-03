@@ -14,8 +14,6 @@
 
 A first-person dungeon crawler inside a deleted AI&#39;s memory, where you search five layers for fragments and the way out, and time your strikes in fights.
 
-## Play notes
-
-You step square by square through grid corridors in first person as GHOST.EXE, picking up memory fragments, power-ups and the core ID that opens each layer&#39;s exit, while traps and echo chambers drain your integrity. Running into a hostile process starts a turn-based fight where you time a strike on a sliding bar, scan for a weakness or back away. A minimap shows where you have been, four difficulty levels run from Sandbox to Production, and the creator says the story is told through recovered fragments and ends in one of three ways. It tied for first place overall in the AI Browser Game Jam. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/rogue-memory/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @quantumcodemonk. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

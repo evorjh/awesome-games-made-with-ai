@@ -14,8 +14,6 @@
 
 A third-person sword adventure in a grassy valley where you search for three ember shards that open an old gate.
 
-## Play notes
-
-You guide a small caped swordsman through a green valley of tall grass, forest paths and craggy peaks, looking for three ember shards that open a gate. A compass along the top points the way to places such as Mossheart Grove, and you fight with click combos, dodge rolls and jumps. The game says it uses no image, model or audio files: the terrain, creatures, boss and music are code written by Claude. It was posted by AgentCell, a hosting service for small web apps, and its end screen promotes that service. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/emberglade/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @agentcelldotdev. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

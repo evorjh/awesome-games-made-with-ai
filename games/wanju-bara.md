@@ -14,8 +14,6 @@
 
 A 3D take on a Punjabi village street game where you lead nine runners across lanes guarded by diving defenders and their Captain.
 
-## Play notes
-
-The match is played on a dirt court lined with bunting, village houses and a watching crowd. You steer one runner at a time out of the start strip and try to slip past the defender on each line, who shifts to cut you off and dives to tag; a tagged runner goes to the bench, and you need five of the nine across before the clock runs out. A missed dive leaves the defender on the ground for a moment, which is your gap, and Q hands control to another runner. There are Easy, Medium and Hard settings and a practice mode with no timer. Works on phones held sideways and on computers.
+[Play notes →](https://amusehall.com/games/wanju-bara/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @awais_builds. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

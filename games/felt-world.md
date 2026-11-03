@@ -14,9 +14,7 @@
 
 A felt-and-yarn open world where you drive, walk, fly as a felt bird or dive as a submarine or sea turtle, collecting buttons and pearls.
 
-## Play notes
-
-A small open world that looks knitted and felted: you start in a car in the meadows and can drive into Buttonbury, a town of felt houses with traffic and people walking, get out and walk, or turn into a felt bird and fly. Driving into deep water turns the car into a submarine, and in the sea you can switch to a sea turtle and swim among fish, crabs and kelp. Strings of felt buttons along the roads and pearls on the reefs are the collectibles, and finishing a string plays a short tune. There is no story or ending, so it plays as a toy to wander around in, with a radio, a time-of-day picker and several camera views. Works on phones and computers: on a phone, hold it sideways.
+[Play notes →](https://amusehall.com/games/felt-world/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

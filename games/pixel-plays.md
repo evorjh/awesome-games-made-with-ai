@@ -14,8 +14,6 @@
 
 Five tiny games in isometric pixel dioramas, from bocce against a bot to diving off an old bridge, a tennis tie-break and a minute on a skate ramp.
 
-## Play notes
-
-Each game is one small place floating on white, drawn by its own software renderer with dithered pixel shading and long shadows: bocce against a bot, five dives off an old bridge, a clay-court tie-break, 60 seconds on a skate ramp, and bringing in the laundry before a storm. Every game turns on one physical action, such as dragging back to throw or holding and releasing to jump. The creator made them with Claude Opus 5.5 from a concept by abhi and shares the code. Each one takes a few minutes, and the menu switches between them.
+[Play notes →](https://amusehall.com/games/pixel-plays/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @AmirMushich. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

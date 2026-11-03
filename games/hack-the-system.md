@@ -14,9 +14,7 @@
 
 A terminal horror game where you scan, connect and type your way through four security layers of a rogue AI that starts talking back.
 
-## Play notes
-
-You sit at a green hacker terminal, pick an operator handle and use commands like scan and connect to reach THE SYSTEM, a rogue AI behind four security layers. The firewall makes you retype rotating bypass codes before they expire while a trace meter fills, the cipher hides a passphrase inside a scrambled transmission, and the memory layer has files to open and read. All the while, the AI uses your handle, fakes a reboot and leaves unsettling messages. The creator says Claude built it from one shared opening prompt plus two answers and later added a boss stage on request, and that a run takes about 5 to 10 minutes. Best on a computer: it needs a keyboard.
+[Play notes →](https://amusehall.com/games/hack-the-system/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

@@ -14,8 +14,6 @@
 
 A knight wakes by a village church with no idea how they got there, then rides through autumn fields to fight a hydra and a Dark Lord.
 
-## Play notes
-
-Its creator built this pixel-art adventure in about six hours, describing each stage aloud and handing the transcript to Claude Code. You start beside a village church in autumn, talk to a farmer, pick up a sword, mount a horse and practise on archery targets before the road turns darker. Later stages bring battles alongside a small party, with skills, potions and a mercy option, against goblins and dark mages, then a hydra, and finally a castle to storm and a Dark Lord to defeat. It needs a keyboard, and its music and sound come from free libraries.
+[Play notes →](https://amusehall.com/games/the-brave-knight/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @irisguy. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

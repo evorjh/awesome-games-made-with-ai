@@ -14,8 +14,6 @@
 
 A first-person wave shooter on a toy-like harbor island, where you fight off a rabbit invasion with ink weapons and a grappling hook.
 
-## Play notes
-
-Rabbits have invaded Seabreeze, a small harbor town, and you hold them off in waves with first-person ink weapons: a rifle, a scattergun and a paper blade. You can double jump, dash and slide through the streets, or hold E to swing on a grappling hook up to the rooftops. Each wave shows how many rabbits remain, and your score climbs as you clear them. OpenDesign posted it beside a second game made with DeepSeek V4.1 Flash, as a comparison. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/harbor-skirmish/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @OpenDesignHQ. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

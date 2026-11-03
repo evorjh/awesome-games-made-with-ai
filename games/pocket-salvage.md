@@ -14,9 +14,7 @@
 
 Drive a swinging scrapyard crane, swap between a magnet and a claw, and sort steel, copper and rubber into bins before the clock runs out.
 
-## Play notes
-
-You steer a crane along an overhead rail, lower its head onto the scrap pile and carry each piece to the matching bin: the magnet lifts steel and the claw grabs copper and rubber, so you park one head at a tool stand to pick up the other. A wrong bin throws the piece back and costs points, and clearing the yard early adds a time bonus. Six levels pile weather on top, from wind and rain to a Blood Moon that reverses the heads and an Electric Storm whose blackouts cut the magnet. The two creators keep the source, their prompts and their design notes in a public repository, and say the art was made with Bitwright. Best on a computer: it needs a keyboard or a controller.
+[Play notes →](https://amusehall.com/games/pocket-salvage/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

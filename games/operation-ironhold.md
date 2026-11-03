@@ -14,9 +14,7 @@
 
 A one-map shooter where you clear 10 hostiles from a container yard in three minutes with a rifle, shotgun, pistol and sniper.
 
-## Play notes
-
-You drop into a container yard in Sector 7 with three minutes to eliminate 10 hostiles, who call out your position over the radio and push toward you. You carry an M4 carbine, a pump shotgun, a pistol and a bolt-action sniper with a scope you can steady by holding your breath, and you can sprint, crouch, double jump and mantle onto containers. A minimap shows where enemies are, and a mission report at the end counts kills, headshots and accuracy. It is a single map in a single HTML file, and the creator published the five prompts they used. Best on a computer: it needs a keyboard and mouse.
+[Play notes →](https://amusehall.com/games/operation-ironhold/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

@@ -14,8 +14,6 @@
 
 A time-travel guessing game where you study a 360-degree historical scene, then pin where it happened and pick the year.
 
-## Play notes
-
-Each game is five timed rounds. You stand inside a 360-degree scene, such as a riverside reed harvest or a crowd gathered beneath Uluru, and read the clues in the clothing, buildings and landscape. Then you drop a pin on the map, set the year on a timeline and submit, and the game draws a line to the real spot and shows your distance and year errors with a short article about the event. Single-player mode needs no account, while ranked and party modes ask you to sign in. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/wenware/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @underpaid_mom. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

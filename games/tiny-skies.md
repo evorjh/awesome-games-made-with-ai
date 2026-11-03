@@ -14,9 +14,7 @@
 
 A cozy online flying game on a tiny globe, where you explore by biplane, magic carpet or boat and try to save the world from the moon.
 
-## Play notes
-
-You fly a little biplane around a small round world of islands and sea, and pressing Go puts you in a world shared with other players online. The creator lists package deliveries, mini races, fishing, paintball fights and casual capture the flag, plus a magic carpet and a fishing boat that unlock over repeat playthroughs. The longer goal is to light five eternal braziers and save the world from the moon. It won Most Polished at Vibe Jam 2026, and the creator open-sourced the code and shared some of his Cursor chat threads. The creator recommends playing on a computer, with the sound on.
+[Play notes →](https://amusehall.com/games/tiny-skies/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

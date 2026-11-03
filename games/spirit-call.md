@@ -14,8 +14,6 @@
 
 A top-down action game where you lead a team of three elemental spirits through short wave fights, switching between them to set off element bursts.
 
-## Play notes
-
-You name a local account, run a short tutorial, then take quests from a home screen with Challenges, Characters and Collection menus. The first quest, First Blood, drops the wind Swordsman into a stone courtyard for eight waves of clawed creatures, fought with clicks for combos, a Gust special on Space and a Cyclone ultimate on Shift. The creator says there are 10 spirits across five elements, recruited one at a time through auditions, and that saves stay in the browser. On a phone it asks to be turned sideways, then shows a touch stick and attack buttons. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/spirit-call/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @SandroMaglione. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -14,9 +14,7 @@
 
 A calm, endless flight over procedural snow peaks, deserts and island chains, with six aircraft and a talking copilot called WREN.
 
-## Play notes
-
-You fly over a world that is generated as you go, from snowy peaks and pine valleys to deserts and flower meadows, with no fuel, no enemies and no way to lose. Keys 1 to 6 swap between a glider, a bush plane, a jet, a helicopter, a wingsuit and an FPV drone, and C cycles chase, wing and cockpit views, with working gauges in the cockpit. A copilot named WREN points out sights such as floating islands and, when you type or speak to it, sets waypoints, flies for you or changes the time of day; a world map and a journal track what you find. The page opens on the newer version, the first one-prompt build is a toggle away, and the creator shared that first prompt. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/driftwing/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

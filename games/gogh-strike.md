@@ -14,8 +14,6 @@
 
 A painterly team shooter where you pick a Post-Impressionist painter and fight a bot crew through a town made from Van Gogh&#39;s paintings.
 
-## Play notes
-
-You join The Yellow House or The Independents, then pick one of six painters per crew, each with a signature weapon, an art tag to spray on walls and a victory dance. Matches in Van Gogh&#39;s Town run to 20 eliminations or three minutes against bots, across streets and a sunflower field rendered in thick brushstroke textures, and respawns take only a couple of seconds. The creator says GPT-6 Astra built it over six hours with the fighters rendered in Blender, and the source is public under the MIT license. Best on a computer: it needs a keyboard and mouse.
+[Play notes →](https://amusehall.com/games/gogh-strike/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @petergostev. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

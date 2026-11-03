@@ -14,8 +14,6 @@
 
 A town builder in pale 3D line art where you grow an island hamlet into a city before your term as mayor runs out.
 
-## Play notes
-
-You start by choosing a charter: the size and richness of the land and a term of 45, 60 or 90 minutes. A random island appears with a lone town hall, and an eight-step guide walks you through laying homes along the road, then lumberjacks, sawmills and the chains that feed and clothe your settlers. Buildings and walkers are drawn as thin ink lines, and the camera turns and zooms around the town as new settlers walk in and move into their cottages. The creator says the AI agents also made the 3D models with Blender. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/inkline-town/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @SandroMaglione. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

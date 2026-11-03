@@ -14,8 +14,6 @@
 
 A voxel Three Kingdoms brawler where one officer cuts through hundreds of soldiers with combos, charge attacks and a Musou special.
 
-## Play notes
-
-You pick an officer such as Liu Bei, Guan Yu or Zhao Yun and wade into fields packed with voxel soldiers, chaining combos, charge attacks and dodges until a gold gauge fills for a Musou special attack. Story mode follows the Shu campaign through four chapters, from Hulao Gate to Mount Dingjun, with ink-map prologues and dialogue in Chinese and English. Trials add ranked challenges, such as defeating 1,000 soldiers in three minutes. The creator describes it as their take on Dynasty Warriors, and the title logo echoes that series&#39; Chinese name. Best on a computer: it needs a keyboard, or a gamepad.
+[Play notes →](https://amusehall.com/games/voxel-musou/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @BubuStd. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

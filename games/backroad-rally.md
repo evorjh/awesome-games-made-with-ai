@@ -14,8 +14,6 @@
 
 A top-down rally game with a diorama look, where you race small classic cars down point-to-point stages in clear weather, rain, snow or fog.
 
-## Play notes
-
-You drive a small rally car down a narrow gravel or tarmac stage seen from above, kicking up dust past crowds, caravans and farmhouses, against the clock and the ghost of your best run. Quick stage lets you pick one of six stages, such as Usui Touge in Japan or Harjunkulma in Finland, and set the direction, time of day and weather, while a career across four decades unlocks faster cars. The creator says the AI first built a desktop version in Unreal Engine 5 and then ported it to the web, and that the sound effects and music were generated with ElevenLabs. Best on a computer: it needs a keyboard or a gamepad.
+[Play notes →](https://amusehall.com/games/backroad-rally/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @jason-c-dev. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -14,8 +14,6 @@
 
 Survive on a desert island after a plane crash by gathering, crafting tools, fishing, cooking and building a hut.
 
-## Play notes
-
-A short cutscene drops your small plane onto a beach, and from there you click to walk around a low-poly island of sand, grass and palm trees. You pick up stones, branches and coconuts, then craft an axe, shovel, fishing rod, pickaxe or sling and build a campfire or a hut to sleep through the night. A health bar and a clock that runs from morning to night keep you moving, and the creator later added sheep and wool. Best on a computer: it needs a mouse and keyboard.
+[Play notes →](https://amusehall.com/games/island-adventure/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @jasperdeboer. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

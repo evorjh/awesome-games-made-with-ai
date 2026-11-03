@@ -14,8 +14,6 @@
 
 A calm first-person walk through a sunlit pine forest along a river, where you call fireflies and skip stones across the water.
 
-## Play notes
-
-You wander a dense forest of tall pines and mossy rocks along a clear river, with an airship drifting over the treetops. Holding the mouse button calls fireflies to you and letting go throws their light, and you can skip stones across the water while a counter tracks your skips. The creator says you can also splash into the water, chase fish and find a rainbow by the waterfall. It has touch controls with a left thumb to walk and a right thumb to look. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/boring-forest/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @AndreiProvkin. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

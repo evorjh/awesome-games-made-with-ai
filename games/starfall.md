@@ -14,9 +14,7 @@
 
 A space strategy game where you command a fleet around a two-kilometer mothership, building ships, harvesting asteroids and fighting an AI fleet.
 
-## Play notes
-
-You command a fleet in open space beside a ringed planet: a two-kilometer mothership, interceptors, scouts and resource collectors, with an AI fleet waiting on the sensor map. You band-select ships with the mouse, give move, attack, harvest and dock orders, set formations and stances, and queue new ships from the mothership&#39;s production panel. Orders can set altitude as well as position, so fleets move in three dimensions, and a cinematic camera can follow the ships you select. Its credits name the 1999 game Homeworld as the inspiration, and the creator says its hulls, planets and effects are generated in code; he also published the full prompt. Best on a computer: it needs a mouse and keyboard.
+[Play notes →](https://amusehall.com/games/starfall/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

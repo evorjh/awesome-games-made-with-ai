@@ -14,8 +14,6 @@
 
 Wake aboard a survey ship, take the helm and fly a procedural galaxy, scanning worlds and searching for seven alien Resonators.
 
-## Play notes
-
-You wake on the survey ship Pale Seeker, walk its cabin in first person and take the helm to fly through procedurally generated star systems. From the cockpit you throttle toward planets, ringed worlds and passing courier ships, hold F to scan what you find, and use a holographic star map to fold-jump to other systems in search of seven Resonators left by a vanished civilization. An archive tracks the systems you have charted and the story you unlock, and a chase camera shows the ship from outside. The creator says it came out of one 24-hour session with the AI, and the source is public. Best on a computer: it needs a keyboard and mouse, and it turns phones away.
+[Play notes →](https://amusehall.com/games/the-long-silence/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @anshuc. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

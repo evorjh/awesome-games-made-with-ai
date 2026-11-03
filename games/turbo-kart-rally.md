@@ -14,9 +14,7 @@
 
 A kart racer with drifting, mini-turbos and item boxes, where you race seven AI drivers around a seaside circuit.
 
-## Play notes
-
-You pick one of eight racers, a class from 50cc to 150cc and a lap count, then race seven AI drivers around Palm Cove Circuit, past grandstands, boost pads and jump ramps. Holding a drift through a corner charges a mini-turbo, and item boxes hand out shells, bananas, mushrooms and lightning. The racers and items closely copy Nintendo&#39;s Mario Kart, and the creator&#39;s post calls two of them Mario and Luigi. The creator&#39;s repository says five Claude Opus 5.5 sub-agents in Claude Code built it from one prompt, shared there in full, with models, sound and music generated in code. Best on a computer: it needs a keyboard or a gamepad.
+[Play notes →](https://amusehall.com/games/turbo-kart-rally/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

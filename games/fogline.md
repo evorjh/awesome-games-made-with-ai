@@ -14,9 +14,7 @@
 
 A bodycam-style horde shooter where you hold a rain-soaked trench line against waves of attackers coming out of the fog.
 
-## Play notes
-
-Through a chest-mounted bodycam with a timestamp, rain on the lens and a fisheye view, you defend a muddy trench position as HQ radios in waves of attackers emerging from the fog. Between waves a gunsmith screen lets you change your loadout, and the controls include leaning, sliding, grenades and a weapon light. When you go down, the feed cuts to &quot;NO SIGNAL&quot; and an after-action report of your waves, kills and accuracy. The creator says Claude Sonnet 5.5 worked on it for almost 12 hours from a single prompt. Best on a computer: it needs a keyboard and mouse.
+[Play notes →](https://amusehall.com/games/fogline/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

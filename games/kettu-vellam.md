@@ -14,8 +14,6 @@
 
 Race Kerala snake boats against rival crews through canals, a lake and a monsoon storm, or explore a backwater village on foot.
 
-## Play notes
-
-You steer a Kerala snake boat, a long wooden hull lined with oarsmen, in three-lap races against five rival crews on the Kuttanad canals, Punnamada Lake or a stormy Vembanad. Three boat types trade speed for handling, and races add side challenges such as collecting garlands. Open World is a separate on-foot mode in a backwater village, starting with a mission to walk home and greet Ammachi, with fishing, coconuts to drink and odd jobs for money. The creator says it was built using v0. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/kettu-vellam/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @jessinvibe. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

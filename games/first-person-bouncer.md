@@ -14,8 +14,6 @@
 
 A first-person bouncer game in a cartoon pub where you grab rowdy patrons, swing them around and throw them out the door.
 
-## Play notes
-
-You are the new doorman at The Corner Pub, and the boss wants the room cleared at closing time. A tutorial starts you on Gary, a regular asleep at the bar, and walks you through grabbing him, holding to swing him around and letting go to throw him out the door. A job board then offers more shifts, such as Two&#39;s Company at The Snug and Rough Crowd at The Crossroads, with pay, medals and a bill for anything you break. The creator says Tripo, Blender and ElevenLabs were used alongside the AI. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/first-person-bouncer/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @chongdashu. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -14,8 +14,6 @@
 
 Clear a wild patch of coast and grow it from a hamlet into a kingdom, one cottage, flower bed and bench at a time.
 
-## Play notes
-
-Its creator built this calm isometric town builder with Claude Code, reviewing the code and checking it with unit tests. You start on a small island of tall grass, clear it patch by patch for coins, and a notebook of daily goals asks for things like a cottage, three flower beds or a bench with a view. Coins buy bundles of furniture and landscaping that unlock as the town grows from a hamlet to a settlement and on to a kingdom, and the creator says you can go inside every house to furnish it. Seasons change, and a night switch lights the windows. Towns save in the browser; signing in with an emailed code is optional and only keeps them online.
+[Play notes →](https://amusehall.com/games/golden-coastle/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @vidalregis. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

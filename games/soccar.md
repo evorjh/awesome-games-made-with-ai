@@ -14,8 +14,6 @@
 
 Rocket-powered car soccer in a packed stadium, with 1v1, 2v2 and 3v3 matches against bots and a free play mode.
 
-## Play notes
-
-You drive a rocket car around the field of an enclosed stadium, using boost, jumps, flips and air rolls to knock an oversized ball into the other team&#39;s goal, with a ball cam to keep it in view. Exhibition matches come in 1v1, 2v2 and 3v3 against bots at Rookie, Pro or All-Star level, and there is a free play mode for practice. The car and ball are Rocket League fan models credited in the menu, next to a notice about Epic Games&#39; trademarks, and the creator calls it an unofficial fan project. Best on a computer: it needs a keyboard and mouse or a gamepad.
+[Play notes →](https://amusehall.com/games/soccar/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @BlendiByl. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

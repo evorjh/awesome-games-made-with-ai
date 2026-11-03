@@ -14,9 +14,7 @@
 
 A top-down fantasy RPG in a village on the eve of its harvest festival, with two companions, a magic system and a story about 15 minutes long.
 
-## Play notes
-
-On the eve of the harvest festival you walk the village of Emberwick with two companions, a dwarf axe-for-hire and an elven mage, and the wall between you and the camera turns see-through when you step inside a house. You talk to villagers, take on quests and cast spells on your way through a story the creator says takes about 15 minutes to finish. The creator built it in the regular Claude chat, starting from a prototype engine and then asking for a bigger world, a plot with twists and a magic system. There&#39;s also an experimental editor for placing your own houses and furniture. The game needs a keyboard, so it&#39;s best on a computer.
+[Play notes →](https://amusehall.com/games/emberwick/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

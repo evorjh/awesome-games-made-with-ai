@@ -14,8 +14,6 @@
 
 A fan-made battle royale where you pick one of 90 Nintendo and Pokémon fighters, grab guns and outlast the rest as the storm closes in.
 
-## Play notes
-
-You choose a fighter from 90 characters out of Mario, Zelda, Pokémon, Star Fox, Kirby and other Nintendo series, then land on Riftwild Kingdom, an island of giant mushrooms and forests, or the original Sunreach Shores. A solo match fills the island with dozens of other fighters; you collect up to three guns, med kits and shields, and a shrinking circle pushes everyone together while a counter shows how many are left. You can also host a private lobby for friends. The game calls itself a non-commercial fan project. The first load takes about a minute. Best on a computer: it needs a keyboard and mouse.
+[Play notes →](https://amusehall.com/games/super-smash-royale/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @0xRishi. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

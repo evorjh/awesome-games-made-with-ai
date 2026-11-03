@@ -14,8 +14,6 @@
 
 A daily piece-fitting puzzle where each polyomino can be rotated and doubled in size to fill three new grids a day.
 
-## Play notes
-
-Each day brings three grids, Classic, Pro and Extreme, with a handful of colored pieces scattered around the board. You drag them into place, rotate them and switch each one between normal and double size, and the puzzle only fits once you work out which pieces need to grow. A timer and move counter run as you play, and the start screen links to a replay of yesterday&#39;s solution. Play needs no account, though streaks and the leaderboard need one and older grids sit behind a one-time payment. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/jigsy/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @tallhat. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

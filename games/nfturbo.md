@@ -14,8 +14,6 @@
 
 A low-poly racer where you play as a guest and run three-lap races against up to five computer cars on three tracks.
 
-## Play notes
-
-In single-player Race you pick a grid of one to six cars, a difficulty and one of three tracks, Famverse, Lemon Legion Mall or Marcusverse, then race three laps through cartoon canyons and towns. You drive with the keyboard, drift with Space and can respawn on the track if you get stuck, and you can play as a guest without connecting a wallet. The menu also lists multiplayer, a career mode, a garage and a marketplace tied to an Algorand wallet, and the tracks carry sponsor logos such as Pera. The creator says it was their first game, made with no coding experience. Best on a computer: it needs a keyboard.
+[Play notes →](https://amusehall.com/games/nfturbo/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @brvchss. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

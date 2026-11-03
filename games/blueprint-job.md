@@ -14,8 +14,6 @@
 
 Plan a 1960s burglary second by second on a blueprint, then go live and watch your crew follow the drawing, or fail to.
 
-## Play notes
-
-Its creator built this heist planner with Claude Opus 5.5, steering it from the Claude phone app. Each job is a blueprint of a building: you tap doors and loot to give your crew orders, and every order lands on a timeline, so the plan is a schedule down to the tenth of a second. Bags and the van have weight limits, and each job sets the takings you need to bring back. When the plan looks right you go live and watch it play out. The first job, a small newsagent with one crew member, no guard and no alarm, doubles as the tutorial.
+[Play notes →](https://amusehall.com/games/blueprint-job/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @Asleep-Carpet9030. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

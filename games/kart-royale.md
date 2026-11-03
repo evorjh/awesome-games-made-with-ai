@@ -14,9 +14,7 @@
 
 An eight-kart racer on a seaside circuit with drift boosts and items, where bots fill empty seats and other players can join mid-race.
 
-## Play notes
-
-Pressing Play puts you in a public room on a sunlit seaside circuit with a full grid of eight karts: bots drive the karts nobody has, and anyone who arrives takes one over mid-race. Its page says you hold a drift through corners to charge a boost, pick up items from boxes to use on rival karts, and race two laps for points before the next grid lines up. A big-screen mode shows the race on a TV, with phones as the controllers. The creator says the AI built it from one prompt and improved it over nine rounds of multi-agent work, and he published the prompt and the source. Its page says it also plays on phones, which we haven&#39;t tried.
+[Play notes →](https://amusehall.com/games/kart-royale/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

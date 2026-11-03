@@ -14,9 +14,7 @@
 
 Race 12 other swimmers down a long tropical waterslide on an inflatable ring, steering to stay on the slide and jumping its ramps.
 
-## Play notes
-
-You ride an inflatable ring down Sunset Sprint, a 704-meter waterslide strung between tropical islands, racing 12 other swimmers to the pool at the bottom. Steering gently keeps you centered and fast; swing too hard and you fly over the edge, which ends the run unless you turn on practice mode with checkpoints. Two ramps and a shortcut, reached by steering right and jumping, add some risk. There is one course, and you pick a swimmer color and headwear before you start. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/splashline/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

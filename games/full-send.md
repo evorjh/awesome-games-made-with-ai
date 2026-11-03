@@ -14,8 +14,6 @@
 
 A top-down racer on real-world circuits, where you chase lap records in time trials or race others in rooms you share by code.
 
-## Play notes
-
-You drive an open-wheel race car around circuits such as Melbourne, seen from above, chasing your best lap in Time Trials against the record shown in the corner. Newbie and Hardcore classes have their own leaderboards, Multiplayer lets you create a room or join one by code, and the game gives you a random driver name, so there is nothing to sign up for. The creator says his children started the game in Cursor and that GPT-5.5 helped pull the track scenery from OpenStreetMap. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/full-send/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @dvassallo. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

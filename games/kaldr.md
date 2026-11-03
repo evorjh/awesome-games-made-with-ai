@@ -14,9 +14,7 @@
 
 Pilot a procedural mechanical beast across snowy mountains, then unfold its wings and fly.
 
-## Play notes
-
-You control a towering mechanical creature in a huge snowy mountain range: walk, sprint, charge a jump, then unfold its wings to fly between peaks and land again. The creature, the way it moves, the mountains and the clouds are all generated in code, with no imported models. A readout tracks your speed and altitude as you go, and the creator shared the full prompt. Best on a computer: it needs a keyboard and mouse.
+[Play notes →](https://amusehall.com/games/kaldr/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

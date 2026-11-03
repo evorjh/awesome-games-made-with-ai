@@ -14,8 +14,6 @@
 
 A fan-made browser shooter on remakes of four Call of Duty maps, with free-for-all and team deathmatch against bots or in online lobbies.
 
-## Play notes
-
-You pick one of four maps rebuilt from Call of Duty (Rust, Nuketown, Highrise and Terminal) and fight free-for-all or team deathmatch against up to 11 bots at Recruit, Regular or Veteran skill. Before a match you choose from 19 guns with camos and optics, and match rules can restrict a match to snipers, shotguns or another class. You can also host or join a lobby to play with other people online. The game calls itself a fan-made, non-commercial project and says the original Call of Duty rights belong to their holders, and the creator says it took a few days with the AI. Best on a computer: it needs a keyboard and mouse.
+[Play notes →](https://amusehall.com/games/modern-claudefare/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @0xRishi. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -14,8 +14,6 @@
 
 A three-lap mini 4WD race on a walled track built across a workshop, where each lap gets wetter until a storm hits.
 
-## Play notes
-
-You pick one of four mini 4WD cars in a garage, where you can spin the wheels or pull the car apart into an exploded view, then race three rivals over three laps around a track that runs across a workbench. The cars follow the track walls on their guide rollers, so you choose your line with A and D, boost the motor with Space and let it cool, and hold Shift to settle the car on wet corners and landings. Each lap brings more rain, from a dry run to a full storm, and races are short, with six camera views to switch between. It is an unofficial fan game that uses the cars and names of the Let&#39;s &amp; Go!! anime. Best on a computer: it needs a keyboard.
+[Play notes →](https://amusehall.com/games/storm-race/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @BubuStd. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

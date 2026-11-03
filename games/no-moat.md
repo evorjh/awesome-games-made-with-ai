@@ -14,8 +14,6 @@
 
 A roguelike deckbuilder about running an AI startup, where your team fights copycats, bugs and rival founders across a branching map.
 
-## Play notes
-
-You pick an AI founder, such as The Dropout or The Scientist, and move across a map of fights, recruiting stops, treasure and a workshop toward a boss called Hostile Takeover. Fights put your teammates in two rows against rivals like Scope Creeper and Wrapper Startup, and each turn you play one card, such as Ship It or Rate Limit, while attack countdowns tick down and your Runway acts as health. The creator says there are three regions with boss battles, from The Garage to The Endgame. Best on a computer: it is played with a mouse.
+[Play notes →](https://amusehall.com/games/no-moat/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @petergyang. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -14,8 +14,6 @@
 
 A space-themed match-3 puzzle game: swap crystals, set off cascades and special crystals, and meet each level&#39;s goals within a move limit.
 
-## Play notes
-
-You swap neighboring crystals on an eight-by-eight board to line up three or more of a kind, and in the first level, Moonlit Garden, the goals are to collect 2,600 light and 14 pink crystals within 24 moves. Matching four makes a ray of light, a T or L shape makes a cosmic blast and five in a row makes a rainbow prism, while each match charges a Supernova meter. Cascades keep scoring after a good swap, a hint button shows a possible move, and there is no timer. It is the first of 12 levels in its constellation. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/lumina/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @ToolBraidComp. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

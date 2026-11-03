@@ -14,8 +14,6 @@
 
 A top-down monster shooter you play only by scrolling, moving down a skull-lined corridor while your gun fires on its own.
 
-## Play notes
-
-You head down a stone corridor lined with skulls using nothing but the scroll wheel, or a swipe on a phone, while your gun fires by itself at the monsters coming up the hall. Scrolling only sets your speed forward or back, and the screen tracks your health, kills and distance, with a leaderboard on the title screen. The creator&#39;s write-up says kills unlock weapon upgrades, walls and spider webs slow you down, a wall of fire chases you if you stop, and the plaques on the walls show live news headlines. He made it with GPT-5 in ChatGPT. Its name plays on id Software&#39;s Doom. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/doomscroll/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @ironicsans. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -14,9 +14,7 @@
 
 A 1930s cartoon run-and-gun starring Kernel, a popcorn hero, with boss fights presented as films at an old movie palace.
 
-## Play notes
-
-You play Kernel, a popcorn hero, in a cartoon run-and-gun dressed up as a night at a 1930s movie palace. The first reel, based on A Trip to the Moon, has Kernel flying a capsule and shooting popcorn at a grinning Moon; the second, It Came From Planet Zog, is fought on foot. You can shoot, dash and parry pink objects to charge an EX shot, and a short rehearsal stage teaches each move first. A gentler Matinee showing and a harder Premiere set the difficulty, and the game names Cuphead in its credits. Works on phones and computers.
+[Play notes →](https://amusehall.com/games/double-feature/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 ## Prompt
 

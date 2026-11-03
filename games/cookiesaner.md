@@ -14,8 +14,6 @@
 
 Steer Cookie, a real maltipoo, through hordes of street cats in Balkan old towns, eating what they drop until she is big enough for God Mode.
 
-## Play notes
-
-Its solo creator says Claude Code wrote all of the code for this Godot survive-the-horde game, about 34,000 lines, with the art made using Gemini and Higgsfield and the music with Suno. Cookie throws ćevapi on her own, so you only steer: the food fallen enemies drop makes her bigger and harder-hitting but slower, through five belly stages up to God Mode, and a dash through the crowd costs one stage. Level-ups offer upgrade cards. The demo has two cobbled settings, Ljubljana&#39;s Tivoli and Sarajevo&#39;s Baščaršija, with three bosses, and is won by surviving ten minutes. It is a free demo of a game with a Steam page, and it downloads about 140 MB before it starts.
+[Play notes →](https://amusehall.com/games/cookiesaner/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
 <sub>The game belongs to @Cookiesaner. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>
