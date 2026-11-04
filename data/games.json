@@ -235,7 +235,7 @@
       "aliases": [
         "argon"
       ],
-      "firstSeen": null
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "gemini-4-carbon",
@@ -439,6 +439,13 @@
     {
       "id": "love2d",
       "name": "LÖVE",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "phaser",
+      "name": "Phaser",
       "kind": "library",
       "family": null,
       "referral_url": null
@@ -721,14 +728,21 @@
       "game_of_the_week": "gxtq68mg8",
       "top": [
         "gxtq68mg8",
-        "gdjlcx9uv",
-        "gz9zf9xuh",
-        "g413h634w",
-        "gte8jihli"
+        "gq9bdgg2i",
+        "go98yri36",
+        "g7lsoeejk",
+        "gdjlcx9uv"
       ],
       "new": [
         "gxtq68mg8",
+        "gq9bdgg2i",
+        "go98yri36",
+        "g7lsoeejk",
         "gdjlcx9uv",
+        "gspep8kwb",
+        "g4njs90m4",
+        "g7i19obf8",
+        "g4xdl5xx7",
         "gz9zf9xuh",
         "g413h634w",
         "gte8jihli",
@@ -904,8 +918,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 13562,
-      "likesRead": "2026-11-03",
+      "likes": 13984,
+      "likesRead": "2026-11-04",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/poteto/status/2117004709198475365",
       "evidence": {
@@ -1944,6 +1958,111 @@
       "pageUrl": "https://amusehall.com/games/soccar/"
     },
     {
+      "id": "gq9bdgg2i",
+      "slug": "sumiro",
+      "aliases": [],
+      "title": "Sumiro",
+      "added": "2026-11-04",
+      "creators": [
+        {
+          "handle": "xikhar",
+          "name": "Shikhar",
+          "url": "https://x.com/xikhar"
+        }
+      ],
+      "primaryHandle": "xikhar",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "platformer",
+          "name": "Platformer"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to move, Shift to sprint, Space to jump, leap and climb, E to rest or read, F to drink from the gourd",
+      "brandIp": false,
+      "description": "Climb a misty mountain road as a wandering traveler in a 3D world painted like ink on paper, leaping gaps and scaling ledges.",
+      "notes": "Its creator made this ink-wash platformer in 24 hours with Claude Opus 5.5 in Claude Code, which built the world in Three.js from scenes rebuilt in Blender, after a reference video from Flux and a hero modelled with GPT Image and Tripo. Chapter One, The Climb, sends a traveler in a straw hat up a mountain path of rope bridges, cliff stairs and shrine gates, through drifting mist. You run, sprint and leap the gaps, hang from ledges and shimmy or hop between holds, and stop to rest, read signs or drink from your gourd. Every sound is made in the browser. The creator says the climbing and platforming lead into fights with enemies later on.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 1982,
+      "likesRead": "2026-11-04",
+      "posted": "2026-11-04",
+      "sourceUrl": "https://x.com/xikhar/status/2117776295534997818",
+      "evidence": {
+        "url": "https://x.com/xikhar/status/2117776300236820925",
+        "quote": "Step 2: Build the world Screenshot the video, rebuild assets in Blender, place it in @threejs Using dynamic workflows in Claude Code, so agents build and check in parallel"
+      },
+      "playUrl": "https://xikhar.github.io/sumiro/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/sumiro/still.webp?v=f9ee130e51",
+        "preview": "https://media.amusehall.com/sumiro/preview.webp?v=16d214921d",
+        "clip": "https://media.amusehall.com/sumiro/clip.mp4?v=0e3bb3790c",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/sumiro/"
+    },
+    {
       "id": "gk98c3y8t",
       "slug": "rocket-arena",
       "aliases": [],
@@ -2627,6 +2746,102 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/astral-war/"
+    },
+    {
+      "id": "go98yri36",
+      "slug": "show-of-hands",
+      "aliases": [],
+      "title": "Show of Hands",
+      "added": "2026-11-04",
+      "creators": [
+        {
+          "handle": "MeticulAi",
+          "name": "Meticulai",
+          "url": "https://x.com/MeticulAi"
+        }
+      ],
+      "primaryHandle": "MeticulAi",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Hand gestures through your webcam (wave, pinch, fist, clap), or the mouse and keyboard; each game shows its own",
+      "brandIp": false,
+      "description": "Fifteen small 3D games played with your bare hands through a webcam, from steering a starship to releasing lanterns on a night lake.",
+      "notes": "Its creator built these fifteen games with Claude Code, Three.js, fal and Tripo, on top of a webcam hand-tracking kit they also released. A jungle hall holds them all: Starbreaker has you steer a starship through an asteroid field and bomb your way out, Lanterns has you cup your hands and lift a paper lantern into the night, and others take you to fireflies, a koi pond, a labyrinth and a marble jar. The camera is asked for once, and the page says the video never leaves your device. Every game also plays with the mouse, which is how we tried it, and the page says phones and tablets aren't supported yet.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 956,
+      "likesRead": "2026-11-04",
+      "posted": "2026-11-03",
+      "sourceUrl": "https://x.com/MeticulAi/status/2117474458671689995",
+      "evidence": {
+        "url": "https://x.com/MeticulAi/status/2117474458671689995",
+        "quote": "Here are 15 games I made with it, what will you build? 👇 - no controller, just your webcam - made with Claude Code, @fal , @threejs , @tripoai , and a dream"
+      },
+      "playUrl": "https://meticulai.com/games/show-of-hands/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/show-of-hands/still.webp?v=5876821dc6",
+        "preview": "https://media.amusehall.com/show-of-hands/preview.webp?v=385c4fbf0e",
+        "clip": "https://media.amusehall.com/show-of-hands/clip.mp4?v=e15000749d",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/show-of-hands/"
     },
     {
       "id": "gpy3pa5mk",
@@ -3983,6 +4198,98 @@
       "pageUrl": "https://amusehall.com/games/double-feature/"
     },
     {
+      "id": "g7lsoeejk",
+      "slug": "skywake",
+      "aliases": [],
+      "title": "SKYWAKE",
+      "added": "2026-11-04",
+      "creators": [
+        {
+          "handle": "aniketjart",
+          "name": "Aniket J",
+          "url": "https://x.com/aniketjart"
+        }
+      ],
+      "primaryHandle": "aniketjart",
+      "credits": [
+        {
+          "label": "Gemini 4 Argon",
+          "modelId": "gemini-4-argon",
+          "familyId": "gemini",
+          "toolId": null
+        },
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "crayon"
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini",
+        "claude"
+      ],
+      "modelIds": [
+        "gemini-4-argon",
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "crayon",
+          "name": "Crayon",
+          "kind": "ai",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "flight",
+          "name": "Flight"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to fly and dive, Shift to boost, Q and E to barrel roll, click or J to sing (hold for a long note), right click or K to shield",
+      "brandIp": false,
+      "description": "Ride a sky manta over a turquoise reef in a hand-painted world, following the herd and singing trapped mantas free.",
+      "notes": "Its creator made this flying adventure with Gemini 4 Argon for a Gemini hackathon, then refreshed it with Claude Opus 5.5 in Crayon. An illustrated opening tells how the sky mantas sing each year to hold the Great Ring of light together, and Kite and little Mo have overslept the great flight. In Act I you follow the herd's wake through the sea stacks of Dawn Reef, greet the towering Tallwalkers and sing to free trapped mantas, with a boost, a shield and barrel rolls for tight gaps. It loads inside Crayon's arcade page.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 184,
+      "likesRead": "2026-11-04",
+      "posted": "2026-11-03",
+      "sourceUrl": "https://x.com/aniketjart/status/2117508141076378029",
+      "evidence": {
+        "url": "https://x.com/aniketjart/status/2117508141076378029",
+        "quote": "Built this flying quest game for a Gemini hackathon recently! Now did a refresh. Created with Gemini 4 Argon, and refreshed with Opus 5.5 and @usecrayon."
+      },
+      "playUrl": "https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/skywake/still.webp?v=b8ffb524a3",
+        "preview": "https://media.amusehall.com/skywake/preview.webp?v=ff0d5cc212",
+        "clip": "https://media.amusehall.com/skywake/clip.mp4?v=b971d865b4",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/skywake/"
+    },
+    {
       "id": "gb5kg9kry",
       "slug": "last-train-to-the-sea",
       "aliases": [],
@@ -4675,8 +4982,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 104,
-      "likesRead": "2026-11-03",
+      "likes": 112,
+      "likesRead": "2026-11-04",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/BenjaminDEKR/status/2117042700872802448",
       "evidence": {
@@ -7244,6 +7551,396 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gspep8kwb",
+      "slug": "riposte-frontline",
+      "aliases": [],
+      "title": "Riposte: Frontline",
+      "added": "2026-11-04",
+      "creators": [
+        {
+          "handle": "Inevitable_Salad_128",
+          "url": "https://www.reddit.com/user/Inevitable_Salad_128"
+        }
+      ],
+      "primaryHandle": "Inevitable_Salad_128",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to aim and shoot, right click to aim down sights, Space to jump, Shift to sprint, R to reload, F for the knife, G for a grenade",
+      "brandIp": false,
+      "description": "A first-person shooter in the browser with team deathmatch against bots, private lobbies with friends and public online matches.",
+      "notes": "Its creator built this military shooter with Claude Code, which modelled the maps, weapons, soldiers and vehicles in Three.js from basic shapes, with no imported 3D models; only the soldiers' movements come from Mixamo. Solo puts you in a six-against-six team deathmatch against bots on maps such as Khamsin, a sun-bleached desert town, first team to 75 kills. Four starting classes carry an assault rifle, an SMG, a sniper rifle or a shotgun, and the Classes menu lets you build your own with attachments and camos. Online play and stats need an account, and the source code of an earlier version is on GitHub under the MIT license.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-25",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1xf2ip0/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/aigamedev/comments/1xf2ip0/",
+        "quote": "Last week I posted about Riposte: Frontline, the browser FPS I’ve been building with Claude Code, in a few subreddits."
+      },
+      "playUrl": "https://www.playriposte.com/",
+      "price": "free",
+      "codeUrl": "https://github.com/BenDBSS/Riposte-Frontline-Source",
+      "media": {
+        "still": "https://media.amusehall.com/riposte-frontline/still.webp?v=868298e5ba",
+        "preview": "https://media.amusehall.com/riposte-frontline/preview.webp?v=711a058664",
+        "clip": "https://media.amusehall.com/riposte-frontline/clip.mp4?v=3db53752f4",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/riposte-frontline/"
+    },
+    {
+      "id": "g4njs90m4",
+      "slug": "unicorn-academy",
+      "aliases": [],
+      "title": "Unicorn Academy",
+      "added": "2026-11-04",
+      "creators": [
+        {
+          "handle": "OnyxMonolith",
+          "url": "https://www.reddit.com/user/OnyxMonolith"
+        }
+      ],
+      "primaryHandle": "OnyxMonolith",
+      "credits": [
+        {
+          "label": "Claude Sonnet 5.5",
+          "modelId": "claude-sonnet-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-sonnet-5-5"
+      ],
+      "tools": [
+        {
+          "id": "phaser",
+          "name": "Phaser",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Tap or click where your unicorn should go",
+      "brandIp": true,
+      "description": "Lead a unicorn through a pixel-art forest and palace to find five lost friends, cast magic and play small playground games.",
+      "notes": "Its creator built this pixel-art game for their six-year-old daughter, who designed most of the maps and playground games, with Claude Sonnet 5.5 writing all of the code. You lead a unicorn through eight places, starting in a flower forest full of rabbits and butterflies, find five friends who then follow you as a herd, and cast six kinds of magic on things around you. A parent can switch on a learning mode that asks you to spell words letter by letter. It's made for phones and tablets, plays offline once added to the home screen, and keeps its saves on the device. Its title and some names come from an existing children's series.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-29",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeAI/comments/1xiks9w/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiks9w/",
+        "quote": "We built a private unicorn game for my six-year-old daughter, with Claude Sonnet 5.5 as the coding agent for all of it."
+      },
+      "playUrl": "https://unicorn-academy-game.github.io/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/unicorn-academy/still.webp?v=e04c01f36d",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/unicorn-academy/"
+    },
+    {
+      "id": "g7i19obf8",
+      "slug": "vectorclad",
+      "aliases": [],
+      "title": "VECTORCLAD",
+      "added": "2026-11-04",
+      "creators": [
+        {
+          "handle": "batmessiah",
+          "url": "https://www.reddit.com/user/batmessiah"
+        }
+      ],
+      "primaryHandle": "batmessiah",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "sandbox",
+          "name": "Sandbox"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to aim, left and right mouse to fire, T to lock on, Q and E for missiles, Space to jump, Shift to dash, ` to summon monsters, G to leave the mech",
+      "brandIp": false,
+      "description": "Pilot a 40-foot mech through a destructible city and fight spider-frames that you summon yourself, in a tech demo of a bigger game.",
+      "notes": "Its creator built this mech sandbox with Claude Code, which made the city and the models in Three.js, while ChatGPT painted the textures. A gunship drops your mech into the streets of Port Meridian, where buildings break apart and tiny people and furniture sit inside them. It's a tech demo, so nothing attacks until you open the summon menu with the backtick key and call in wall-climbing spider-frames or scorpion-frames, then fight them with a beam rifle, missile salvos and a shield. You can also pick other frames in the hangar, or press G to climb out and swing around town on a grappling hook.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-25",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1xf7px0/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/aigamedev/comments/1xf7px0/",
+        "quote": "Everything done in ChatGPT and Claude Code using three.js. 100% free."
+      },
+      "playUrl": "https://agilancer.github.io/vectorclad/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/vectorclad/still.webp?v=994b3751ad",
+        "preview": "https://media.amusehall.com/vectorclad/preview.webp?v=bbcefa50a9",
+        "clip": "https://media.amusehall.com/vectorclad/clip.mp4?v=cecb624290",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/vectorclad/"
+    },
+    {
+      "id": "g4xdl5xx7",
+      "slug": "voltane",
+      "aliases": [],
+      "title": "Voltane",
+      "added": "2026-11-04",
+      "creators": [
+        {
+          "handle": "MacXou34",
+          "url": "https://www.reddit.com/user/MacXou34"
+        }
+      ],
+      "primaryHandle": "MacXou34",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "elevenlabs",
+          "name": "ElevenLabs",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Arrows to drive, Space to brake, Shift for nitro, E to use an item, R to reset, V to change camera; gamepad and touch work too",
+      "brandIp": false,
+      "description": "Race radio-controlled toy cars through a whole neighborhood, a bowling alley and a fun fair, smashing everything in your path for nitro.",
+      "notes": "Its creator builds this RC-car racer with Claude Opus 5.5 in Claude Code, on Three.js and Rapier physics, with models from Tripo and Blender, sound from ElevenLabs and music from Suno, and ships updates almost daily. Little cars tear through streets and yards, a living room, a bowling alley, an attic and a fun fair, picking up items and smashing fences, dominoes and shop shelves for nitro. Solo races against seven rivals, a campaign against the neighborhood kids, time trials, free roam, minigames, split screen for two on a PC and online races for up to eight are all there, and \"Play as a guest\" skips the sign-up. The site is in French with an English version, and optional purchases buy cosmetics and badges, never speed.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-26",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1xgcszc/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/aigamedev/comments/1xgcszc/",
+        "quote": "Code: Claude Code + Opus 5.5, every day. three.js on WebGPU, Rapier physics, a Node server for online play."
+      },
+      "playUrl": "https://playvoltane.com/play/",
+      "price": "free-with-purchases",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/voltane/still.webp?v=20f5924465",
+        "preview": "https://media.amusehall.com/voltane/preview.webp?v=cfa3a74dca",
+        "clip": "https://media.amusehall.com/voltane/clip.mp4?v=8aff2b6b90",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/voltane/"
     },
     {
       "id": "gz9zf9xuh",
@@ -11376,12 +12073,12 @@
         "grrn1mt5i",
         "g8ze3q86y",
         "gng0kobry",
+        "gq9bdgg2i",
         "gpy3pa5mk",
         "g7k2m9q4x",
         "g361pfe4r",
         "gj0w80p9f",
-        "gb5kg9kry",
-        "gywgtfpc3"
+        "g7lsoeejk"
       ]
     },
     "families": [
@@ -11397,9 +12094,11 @@
           "gjh98608z",
           "g27qw9jqs",
           "g5n1e788h",
+          "gq9bdgg2i",
           "gk98c3y8t",
           "gpmj9q9ol",
           "g9t4d43un",
+          "go98yri36",
           "gpy3pa5mk",
           "g9141ggib",
           "g7k2m9q4x",
@@ -11435,6 +12134,10 @@
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "gspep8kwb",
+          "g4njs90m4",
+          "g7i19obf8",
+          "g4xdl5xx7",
           "gz9zf9xuh",
           "gte8jihli",
           "gunx8qy5s",
@@ -11517,6 +12220,7 @@
       "g10dwuh0n",
       "gvosn1v6w",
       "g0egemz92",
+      "g7lsoeejk",
       "g413h634w"
     ],
     "latestIssue": {
@@ -11526,14 +12230,21 @@
       "gameOfTheWeekId": "gxtq68mg8",
       "topIds": [
         "gxtq68mg8",
-        "gdjlcx9uv",
-        "gz9zf9xuh",
-        "g413h634w",
-        "gte8jihli"
+        "gq9bdgg2i",
+        "go98yri36",
+        "g7lsoeejk",
+        "gdjlcx9uv"
       ],
       "newIds": [
         "gxtq68mg8",
+        "gq9bdgg2i",
+        "go98yri36",
+        "g7lsoeejk",
         "gdjlcx9uv",
+        "gspep8kwb",
+        "g4njs90m4",
+        "g7i19obf8",
+        "g4xdl5xx7",
         "gz9zf9xuh",
         "g413h634w",
         "gte8jihli",
