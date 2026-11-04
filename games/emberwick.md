@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/emberwick/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/emberwick/preview.webp?v=7d5261de15" alt="Emberwick by @simonw" width="100%"></a>
 
 - **Made with:** Claude
+- **Where they name the AI:** [“This was a more ambitious project that I again built using regular Claude chat.”](https://simonwillison.net/2026/Oct/28/vibe-game-development/#emberwick)
 - **Creator:** [@simonw](https://x.com/simonw)
 - **Genre:** RPG, Adventure
 - **Plays on:** Computer

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/rose-and-blade/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/rose-and-blade/preview.webp?v=71d65edccc" alt="Rose &amp; Blade by @danielv8698" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“Claude Code (Opus 5.5) wrote nearly all of the code; I directed, designed and tested.”](https://github.com/lappemic/awesome-ai-built-games/issues/123)
 - **Creator:** [@danielv8698](https://x.com/danielv8698)
 - **Genre:** Action, Simulation
 - **Plays on:** Computer

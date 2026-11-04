@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/karts-com/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/karts-com/preview.webp?v=fa2d7f89f2" alt="Karts.com World Tour Grand Prix by @KenLin1985" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Opus 4.7
+- **Where they name the AI:** [“built the tracks with Claude Opus 5.5 and Blender, and brought it all together in Three.js”](https://x.com/KenLin1985/status/2103866807954399530)
 - **Creator:** [@KenLin1985](https://x.com/KenLin1985)
 - **Genre:** Racing
 - **Plays on:** Computer and phone

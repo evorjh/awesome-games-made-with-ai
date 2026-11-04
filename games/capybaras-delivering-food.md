@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/capybaras-delivering-food/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/capybaras-delivering-food/preview.webp?v=2f746fcd91" alt="A Game About Capybaras Delivering Food by @leocooout" width="100%"></a>
 
 - **Made with:** Claude Code
+- **Where they name the AI:** [“um jogo feito em 15 dias usando claude code”](https://x.com/leocooout/status/2075283340568166858)
 - **Creator:** [@leocooout](https://x.com/leocooout)
 - **Genre:** Cozy, Open world
 - **Plays on:** Computer

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/arkenfall/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/arkenfall/preview.webp?v=a0356a69a6" alt="Arkenfall by @LexnLin" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“Claude Opus 5.5 built a full open world game that runs in your browser”](https://x.com/LexnLin/status/2102834362530079093)
 - **Creator:** [@LexnLin](https://x.com/LexnLin)
 - **Genre:** Action, Open world
 - **Plays on:** Computer

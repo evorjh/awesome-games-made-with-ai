@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/flintwhistles-folly/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/flintwhistles-folly/preview.webp?v=e32e575fa4" alt="Flintwhistle&#39;s Folly by @pipisonx" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“A point-and-click pirate adventure in the style of the early-90s classics, built with Claude Code and Opus 5.5.”](https://x.com/pipisonx/status/2104541322900123800)
 - **Creator:** [@pipisonx](https://x.com/pipisonx)
 - **Genre:** Adventure, Puzzle
 - **Plays on:** Computer

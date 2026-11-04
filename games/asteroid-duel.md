@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/asteroid-duel/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/asteroid-duel/still.webp?v=4aadd17cb1" alt="Asteroid Duel by @lucataco" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“Asked Claude Opus 5.5 to build me a game in three.js”](https://x.com/lucataco/status/2104393224508882954)
 - **Creator:** [@lucataco](https://x.com/lucataco)
 - **Genre:** Shooter, Flight
 - **Plays on:** Computer and phone

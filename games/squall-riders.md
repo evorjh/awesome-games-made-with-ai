@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/squall-riders/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/squall-riders/preview.webp?v=eb011f9770" alt="Squall Riders by @jani_penttinen" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“Bitmagic + Opus 5.5.”](https://x.com/jani_penttinen/status/2104696554020114600)
 - **Creator:** [@jani\_penttinen](https://x.com/jani_penttinen)
 - **Genre:** Racing, Sports
 - **Plays on:** Computer and phone

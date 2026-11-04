@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/fall-line/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/fall-line/preview.webp?v=5219952f5b" alt="Fall Line by @Nipale-ai" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“Claude Opus 5.5 then worked alone in Claude Code”](https://github.com/Nipale-ai/opus-5-5-overnight-builds)
 - **Creator:** [@Nipale-ai](https://github.com/Nipale-ai)
 - **Genre:** Sports, Open world
 - **Plays on:** Computer

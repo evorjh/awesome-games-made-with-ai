@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/long-exposure/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/long-exposure/preview.webp?v=38053ea30e" alt="Long Exposure by @longmaba" width="100%"></a>
 
 - **Made with:** Claude Sonnet 5.5
+- **Where they name the AI:** [“I one-shot this cozy game about astrophotography using Sonnet 5.5”](https://x.com/longmaba/status/2105154719241187809)
 - **Creator:** [@longmaba](https://x.com/longmaba)
 - **Genre:** Simulation, Cozy
 - **Plays on:** Computer

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/full-send/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/full-send/preview.webp?v=4ef1728f25" alt="FULL SEND by @dvassallo" width="100%"></a>
 
 - **Made with:** Cursor (model not named), Cursor
+- **Where they name the AI tool:** [“They started it in Cursor, sketching the idea and writing the first version”](https://www.producthunt.com/products/full-send)
 - **Creator:** [@dvassallo](https://x.com/dvassallo)
 - **Genre:** Racing
 - **Plays on:** Computer and phone

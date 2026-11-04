@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/driftwing/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/driftwing/preview.webp?v=3102edce40" alt="DRIFTWING by @KyleBuildsAI" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“v1 and its tooling came from one prompt, reproduced below. Working in Claude Code, Opus 5.5”](https://github.com/KyleBuildsAI/driftwing)
 - **Creator:** [@KyleBuildsAI](https://github.com/KyleBuildsAI)
 - **Genre:** Flight, Exploration
 - **Plays on:** Computer and phone

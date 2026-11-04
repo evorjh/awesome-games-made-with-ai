@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/cozy-cove/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/cozy-cove/preview.webp?v=922b726172" alt="Cozy Cove by @Rubzem" width="100%"></a>
 
 - **Made with:** Claude, Claude Opus 5.5, Tesana
+- **Where they name the AI:** [“Made with previous Claude models and Opus 5.5 &amp; Tesana.”](https://x.com/Rubzem/status/2103983670034145726)
 - **Creator:** [@Rubzem](https://x.com/Rubzem)
 - **Genre:** Cozy, RPG
 - **Plays on:** Computer and phone

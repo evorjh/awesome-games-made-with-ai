@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/great-taxi-assignment/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/great-taxi-assignment/still.webp?v=a837414061" alt="Great Taxi Assignment: Vibe City by @TomasBencko" width="100%"></a>
 
 - **Made with:** Claude 3.7 Sonnet, Cursor, ChatGPT
+- **Where they name the AI:** [“99% of code was AI generated (Cursor AI + Claude Sonnet 3.7).”](https://great-taxi-assignment.netlify.app/)
 - **Creator:** [@TomasBencko](https://x.com/TomasBencko)
 - **Genre:** Arcade, Open world
 - **Plays on:** Computer and phone

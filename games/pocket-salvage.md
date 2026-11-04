@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/pocket-salvage/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/pocket-salvage/preview.webp?v=e62d69c2b8" alt="Pocket Salvage by @RaresKeY" width="100%"></a>
 
 - **Made with:** Claude, Codex
+- **Where they name the AI:** [“Claude, Codex, Dale&#39;s custom https://bitwright.app/ for art”](https://github.com/lappemic/awesome-ai-built-games/issues/49)
 - **Creator:** [@RaresKeY](https://github.com/RaresKeY), [@dalejmooney](https://github.com/dalejmooney)
 - **Genre:** Arcade, Puzzle
 - **Plays on:** Computer

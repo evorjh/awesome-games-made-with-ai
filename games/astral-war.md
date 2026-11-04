@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/astral-war/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/astral-war/still.webp?v=51b43b38f7" alt="Astral War by @0xRishi" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“Introducing Astral War, built in a day with GPT-6 Astra Ultra (fast mode)”](https://x.com/0xRishi/status/2096079660605997264)
 - **Creator:** [@0xRishi](https://x.com/0xRishi)
 - **Genre:** Shooter, Action
 - **Plays on:** Computer

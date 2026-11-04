@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/doodle-district/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/doodle-district/preview.webp?v=e4732b29b9" alt="Doodle District by @EvanMilenko" width="100%"></a>
 
 - **Made with:** Claude Fable 5.1, Claude Opus 5
+- **Where they name the AI:** [“Game made entirely with Fable 5.1 and Opus 5 using three.js”](https://x.com/EvanMilenko/status/2096359753584623933)
 - **Creator:** [@EvanMilenko](https://x.com/EvanMilenko)
 - **Genre:** Shooter, Action
 - **Plays on:** Computer

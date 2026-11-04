@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/show-of-hands/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/show-of-hands/preview.webp?v=385c4fbf0e" alt="Show of Hands by @MeticulAi" width="100%"></a>
 
 - **Made with:** Claude Code
+- **Where they name the AI:** [“Here are 15 games I made with it, what will you build? 👇 - no controller, just your webcam - made with Claude Code, @fal , @threejs , @tripoai , and a dream”](https://x.com/MeticulAi/status/2117474458671689995)
 - **Creator:** [@MeticulAi](https://x.com/MeticulAi)
 - **Genre:** Arcade, Cozy
 - **Plays on:** Computer

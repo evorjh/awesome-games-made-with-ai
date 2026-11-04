@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/neon-siege/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/neon-siege/preview.webp?v=04b215199a" alt="Neon Siege by @PromptEngineer48" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“Three browser games built with Claude Opus 5.5 and three.js.”](https://github.com/PromptEngineer48/claude-opus-5.5-games)
 - **Creator:** [@PromptEngineer48](https://github.com/PromptEngineer48)
 - **Genre:** Shooter, Action, Arcade
 - **Plays on:** Computer

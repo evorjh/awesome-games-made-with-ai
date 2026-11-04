@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/second-tail/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/second-tail/preview.webp?v=0c048407bd" alt="Second Tail by @parmuzin1992" width="100%"></a>
 
 - **Made with:** Claude Code, Codex
+- **Where they name the AI:** [“Claude Code and Codex agents wrote nearly all of the C# (481 files, 587 commits)”](https://github.com/lappemic/awesome-ai-built-games/issues/115)
 - **Creator:** [@parmuzin1992](https://x.com/parmuzin1992)
 - **Genre:** Platformer, Adventure
 - **Plays on:** Computer

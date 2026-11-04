@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/fogline/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/fogline/preview.webp?v=f6f148a486" alt="FOGLINE by @superalesha" width="100%"></a>
 
 - **Made with:** Claude Sonnet 5.5
+- **Where they name the AI:** [“Sonnet 5.5 built this FPS from 1 prompt.”](https://x.com/superalesha/status/2104920915112829231)
 - **Creator:** [@superalesha](https://x.com/superalesha)
 - **Genre:** Shooter, Action
 - **Plays on:** Computer

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/last-train-to-the-sea/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/last-train-to-the-sea/preview.webp?v=aa9d5bc441" alt="Last Train to the Sea by @aniketjart" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Crayon
+- **Where they name the AI:** [“Opus 5.5 built and updated my ghibli-themed underwater train sim game!”](https://x.com/aniketjart/status/2102546641253478674)
 - **Creator:** [@aniketjart](https://x.com/aniketjart)
 - **Genre:** Simulation, Cozy
 - **Plays on:** Computer

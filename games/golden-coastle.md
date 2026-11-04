@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/golden-coastle/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/golden-coastle/preview.webp?v=c99b51f968" alt="Golden Coastle by @vidalregis" width="100%"></a>
 
 - **Made with:** Claude Code
+- **Where they name the AI:** [“Most of the code has been written by Claude Code, I just make the review and validate with unit test.”](https://github.com/lappemic/awesome-ai-built-games/issues/130)
 - **Creator:** [@vidalregis](https://x.com/vidalregis)
 - **Genre:** Cozy, Simulation
 - **Plays on:** Computer

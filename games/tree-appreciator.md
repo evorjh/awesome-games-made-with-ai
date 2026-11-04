@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/tree-appreciator/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/tree-appreciator/preview.webp?v=23586b092b" alt="Tree Appreciator by @simonw" width="100%"></a>
 
 - **Made with:** Claude
+- **Where they name the AI:** [“I used the regular Claude chat interface for this—it didn’t even need Claude Code.”](https://simonwillison.net/2026/Oct/28/vibe-game-development/#tree-appreciator)
 - **Creator:** [@simonw](https://x.com/simonw)
 - **Genre:** Puzzle, Cozy
 - **Plays on:** Computer

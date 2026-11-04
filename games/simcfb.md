@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/simcfb/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/simcfb/still.webp?v=743075d30f" alt="SimCFB by @nick050183" width="100%"></a>
 
 - **Made with:** Claude Code, Codex
+- **Where they name the AI:** [“Nearly all of the code was written by AI coding agents (Claude Code and OpenAI Codex)”](https://github.com/lappemic/awesome-ai-built-games/issues/76)
 - **Creator:** [@nick050183](https://github.com/nick050183)
 - **Genre:** Sports, Simulation, Strategy
 - **Plays on:** Computer and phone

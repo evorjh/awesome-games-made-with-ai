@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/pyramid-wars/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/pyramid-wars/preview.webp?v=18ea8c74f3" alt="Pyramid Wars by @durian-arcade" width="100%"></a>
 
 - **Made with:** Claude Opus 4.8
+- **Where they name the AI:** [“This was vibe coded using Claude Opus 4.8 with a 20x Pro plan in 3 weeks.”](https://durian-arcade.itch.io/pyramid-wars)
 - **Creator:** [@durian-arcade](https://durian-arcade.itch.io)
 - **Genre:** Strategy, Action
 - **Plays on:** Computer

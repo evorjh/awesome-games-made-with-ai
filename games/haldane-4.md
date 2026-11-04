@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/haldane-4/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/haldane-4/preview.webp?v=383e7963cd" alt="HALDANE-4 by @denisbondare" width="100%"></a>
 
 - **Made with:** Claude, Cursor, Claude Code
+- **Where they name the AI:** [“Code written by @claudeai , with @cursor\_ai as IDE and for quick fixes.”](https://x.com/denisbondare/status/2045947329442718089)
 - **Creator:** [@denisbondare](https://x.com/denisbondare)
 - **Genre:** Horror, Exploration
 - **Plays on:** Computer and phone

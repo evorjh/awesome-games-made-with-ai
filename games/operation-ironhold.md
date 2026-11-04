@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/operation-ironhold/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/operation-ironhold/preview.webp?v=12798e1187" alt="Operation Ironhold by @prasenx" width="100%"></a>
 
 - **Made with:** Claude Opus 5
+- **Where they name the AI:** [“built a full FPS game with claude opus 5”](https://x.com/prasenx/status/2081022068561469715)
 - **Creator:** [@prasenx](https://x.com/prasenx)
 - **Genre:** Shooter, Action
 - **Plays on:** Computer

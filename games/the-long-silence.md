@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/the-long-silence/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/the-long-silence/preview.webp?v=7487414c6b" alt="The Long Silence by @anshuc" width="100%"></a>
 
 - **Made with:** Claude Opus 5
+- **Where they name the AI:** [“I ran Claude Opus 5 in one marathon session for 24 hours straight, and ended up with this game.”](https://x.com/anshuc/status/2081801966158811506)
 - **Creator:** [@anshuc](https://x.com/anshuc)
 - **Genre:** Exploration, Flight
 - **Plays on:** Computer

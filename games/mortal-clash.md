@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/mortal-clash/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/mortal-clash/still.webp?v=923d23f495" alt="Mortal Clash by @PromptEngineer48" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“Three browser games built with Claude Opus 5.5 and three.js.”](https://github.com/PromptEngineer48/claude-opus-5.5-games)
 - **Creator:** [@PromptEngineer48](https://github.com/PromptEngineer48)
 - **Genre:** Action, Arcade
 - **Plays on:** Computer

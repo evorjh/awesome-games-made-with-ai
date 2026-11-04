@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/vybeciv/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/vybeciv/preview.webp?v=5aa60106ec" alt="VybeCiv by @AlbertSimonDev" width="100%"></a>
 
 - **Made with:** Claude Code
+- **Where they name the AI:** [“I write the design spec, Claude Code turns it into PixiJS, and I playtest every change and send it back.”](https://x.com/AlbertSimonDev/status/2107699723574595794)
 - **Creator:** [@AlbertSimonDev](https://x.com/AlbertSimonDev)
 - **Genre:** Strategy
 - **Plays on:** Computer and phone

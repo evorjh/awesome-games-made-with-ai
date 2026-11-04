@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/kanso/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/kanso/preview.webp?v=803603c164" alt="Kansō by @mrsukeruton" width="100%"></a>
 
 - **Made with:** GPT-5.5, Codex
+- **Where they name the AI:** [“Opus 4.7 for 3d asset design, @suno music, @OpenAI Codex w/ GPT 5.5 for everything else.”](https://x.com/mrsukeruton/status/2049758014568095996)
 - **Creator:** [@mrsukeruton](https://x.com/mrsukeruton)
 - **Genre:** Cozy, Simulation
 - **Plays on:** Computer

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/neon-zenith/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/neon-zenith/still.webp?v=5f07599230" alt="Neon Zenith by @Billpwchan" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“Built over a weekend in October 2026 with Claude Code running Claude Opus 5.5.”](https://github.com/billpwchan/neon-zenith)
 - **Creator:** [@Billpwchan](https://x.com/Billpwchan)
 - **Genre:** Flight, Exploration, Racing
 - **Plays on:** Computer and phone

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/casa-de-gemas/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/casa-de-gemas/preview.webp?v=ebd5748ba7" alt="Casa de Gemas by @deepujain" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“Casa de Gemas was built entirely through conversation with Claude Opus 5.5 in Cursor — no code written by hand.”](https://github.com/deepujain/casadegema)
 - **Creator:** [@deepujain](https://github.com/deepujain)
 - **Genre:** Puzzle, Cozy
 - **Plays on:** Computer and phone

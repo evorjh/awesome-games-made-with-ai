@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/dead-air-on-the-meridian/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/dead-air-on-the-meridian/preview.webp?v=6cf80a88cd" alt="Dead Air on the Meridian by @per_simmons" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“A team of Claude Opus 5.5 agents wrote, cast, voiced, built and tested a browser murder mystery over eight days.”](https://www.aiformortals.co/blog/claude-agents-murder-mystery-game)
 - **Creator:** [@per\_simmons](https://www.youtube.com/@per_simmons)
 - **Genre:** Adventure, Puzzle
 - **Plays on:** Computer

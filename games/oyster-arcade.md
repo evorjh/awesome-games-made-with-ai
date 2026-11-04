@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/oyster-arcade/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/oyster-arcade/still.webp?v=19bd21f3b8" alt="Oyster Arcade by @mattslight" width="100%"></a>
 
 - **Made with:** Claude Code
+- **Where they name the AI:** [“built end-to-end with Claude Code”](https://github.com/lappemic/awesome-ai-built-games/pull/29)
 - **Creator:** [@mattslight](https://github.com/mattslight)
 - **Genre:** Arcade
 - **Plays on:** Computer and phone

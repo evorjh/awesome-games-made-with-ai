@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/long-wind/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/long-wind/preview.webp?v=115956df31" alt="Long Wind (长风) by @jbang2004" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“我只用中文向 Claude Code（Opus 5.5）描述想要什么”](https://github.com/jbang2004/long-wind)
 - **Creator:** [@jbang2004](https://github.com/jbang2004)
 - **Genre:** Action, Adventure
 - **Plays on:** Computer and phone

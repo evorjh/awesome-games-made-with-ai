@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/spirit-call/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/spirit-call/preview.webp?v=326b7e93b5" alt="Spirit Call by @SandroMaglione" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Codex, Claude Code
+- **Where they name the AI:** [“Claude Code (Claude Opus 5.5), Codex”](https://github.com/lappemic/awesome-ai-built-games/issues/107)
 - **Creator:** [@SandroMaglione](https://x.com/SandroMaglione)
 - **Genre:** Action, RPG
 - **Plays on:** Computer and phone

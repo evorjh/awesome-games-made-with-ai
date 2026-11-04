@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/starfall/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/starfall/preview.webp?v=2334c206b6" alt="Starfall by @mikeluan123" width="100%"></a>
 
 - **Made with:** Claude Opus 5
+- **Where they name the AI:** [“Homeworld Style Space RTS with OPUS 5 (workflow)”](https://x.com/mikeluan123/status/2081716631986983093)
 - **Creator:** [@mikeluan123](https://x.com/mikeluan123)
 - **Genre:** Strategy
 - **Plays on:** Computer

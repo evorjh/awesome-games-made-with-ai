@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/gogh-strike/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/gogh-strike/preview.webp?v=434c9ce910" alt="Gogh Strike by @petergostev" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“Built with GPT-6-Astra (Ultra) over 6 hours with Blender-rendered artists/fighters.”](https://x.com/petergostev/status/2096013280519016608)
 - **Creator:** [@petergostev](https://x.com/petergostev)
 - **Genre:** Shooter, Action
 - **Plays on:** Computer

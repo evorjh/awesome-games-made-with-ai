@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/apex-coast-run/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/apex-coast-run/still.webp?v=b09091ef4d" alt="APEX / Coast Run by @mindblown_ai" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“Three.js and Astra 6 overnight”](https://x.com/mindblown_ai/status/2097053892152594854)
 - **Creator:** [@mindblown\_ai](https://x.com/mindblown_ai)
 - **Genre:** Racing
 - **Plays on:** Computer

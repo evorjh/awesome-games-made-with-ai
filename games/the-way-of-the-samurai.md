@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/the-way-of-the-samurai/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/the-way-of-the-samurai/preview.webp?v=801f8a40ca" alt="The Way of the Samurai by @knightama" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Codex
+- **Where they name the AI:** [“Now, thanks to Opus 5.5, it’s actually playable.”](https://x.com/knightama/status/2104880496253817021)
 - **Creator:** [@knightama](https://x.com/knightama)
 - **Genre:** Action, Adventure
 - **Plays on:** Computer

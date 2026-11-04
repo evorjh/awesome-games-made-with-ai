@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/modern-claudefare/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/modern-claudefare/still.webp?v=ff566b62df" alt="Modern Claudefare by @0xRishi" width="100%"></a>
 
 - **Made with:** Claude Opus 5
+- **Where they name the AI:** [“Built fully with Opus 5 on High Mode over a few days”](https://x.com/0xRishi/status/2084322235788226653)
 - **Creator:** [@0xRishi](https://x.com/0xRishi)
 - **Genre:** Shooter, Action
 - **Plays on:** Computer

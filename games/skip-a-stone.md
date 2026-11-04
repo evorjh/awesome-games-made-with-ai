@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/skip-a-stone/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/skip-a-stone/preview.webp?v=b83ae80e82" alt="Skip a Stone by @chrisjdimarco" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“Most of it was built with GPT-6 Astra in Codex.”](https://x.com/chrisjdimarco/status/2103874824569344327)
 - **Creator:** [@chrisjdimarco](https://x.com/chrisjdimarco)
 - **Genre:** Arcade, Sports
 - **Plays on:** Computer and phone

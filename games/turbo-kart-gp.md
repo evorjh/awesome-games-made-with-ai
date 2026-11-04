@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/turbo-kart-gp/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/turbo-kart-gp/preview.webp?v=b2b3a87797" alt="Turbo Kart GP by @EnvolDev" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“I gave Claude Opus 5.5 ONE prompt and it built a full Mario Kart-style racer game from scratch”](https://x.com/EnvolDev/status/2104947552328261810)
 - **Creator:** [@EnvolDev](https://x.com/EnvolDev)
 - **Genre:** Racing, Arcade
 - **Plays on:** Computer and phone

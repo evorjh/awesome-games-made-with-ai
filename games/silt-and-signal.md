@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/silt-and-signal/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/silt-and-signal/preview.webp?v=77f47e9f58" alt="Silt &amp; Signal by @aniketjart" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, GPT-6.1 Sol, Crayon
+- **Where they name the AI:** [“Opus 5.5 vs 6.1 Sol comparison for my fantasy sci-fi game. Same brief but sol added so much life in the level design!”](https://x.com/aniketjart/status/2105102068818362637)
 - **Creator:** [@aniketjart](https://x.com/aniketjart)
 - **Genre:** Adventure, Racing
 - **Plays on:** Computer

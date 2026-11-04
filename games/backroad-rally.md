@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/backroad-rally/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/backroad-rally/preview.webp?v=09203f7c7e" alt="backroad rally by @jason-c-dev" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“An AI coding agent, Claude Code with Claude Opus 5.5, wrote almost all of this game.”](https://github.com/jason-c-dev/backroad-rally)
 - **Creator:** [@jason-c-dev](https://github.com/jason-c-dev)
 - **Genre:** Racing
 - **Plays on:** Computer

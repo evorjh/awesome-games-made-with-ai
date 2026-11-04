@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/skywake/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/skywake/preview.webp?v=ff0d5cc212" alt="SKYWAKE by @aniketjart" width="100%"></a>
 
 - **Made with:** Gemini 4 Argon, Claude Opus 5.5, Crayon
+- **Where they name the AI:** [“Built this flying quest game for a Gemini hackathon recently! Now did a refresh. Created with Gemini 4 Argon, and refreshed with Opus 5.5 and @usecrayon.”](https://x.com/aniketjart/status/2117508141076378029)
 - **Creator:** [@aniketjart](https://x.com/aniketjart)
 - **Genre:** Flight, Adventure
 - **Plays on:** Computer

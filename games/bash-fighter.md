@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/bash-fighter/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/bash-fighter/preview.webp?v=0920bc5fdf" alt="Bash Fighter by @Bash-Entertainment" width="100%"></a>
 
 - **Made with:** Claude
+- **Where they name the AI:** [“All of the code was written by an autonomous Claude-based agent”](https://github.com/lappemic/awesome-ai-built-games/pull/56)
 - **Creator:** [@Bash-Entertainment](https://github.com/Bash-Entertainment)
 - **Genre:** Action, Platformer
 - **Plays on:** Computer and phone

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/inkline-town/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/inkline-town/preview.webp?v=9dd093744d" alt="Inkline Town by @SandroMaglione" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Codex, Claude Code
+- **Where they name the AI:** [“Claude Code (Claude Opus 5.5), Codex”](https://github.com/lappemic/awesome-ai-built-games/issues/106)
 - **Creator:** [@SandroMaglione](https://x.com/SandroMaglione)
 - **Genre:** Simulation, Strategy
 - **Plays on:** Computer and phone

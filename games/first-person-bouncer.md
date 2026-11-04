@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/first-person-bouncer/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/first-person-bouncer/preview.webp?v=0266049306" alt="Closing Time: First Person Bouncer by @chongdashu" width="100%"></a>
 
 - **Made with:** Claude Sonnet 5.5
+- **Where they name the AI:** [“I&#39;m having a blast making games with Claude Sonnet 5.5!”](https://x.com/chongdashu/status/2104962609745428916)
 - **Creator:** [@chongdashu](https://x.com/chongdashu)
 - **Genre:** Action, Simulation
 - **Plays on:** Computer and phone

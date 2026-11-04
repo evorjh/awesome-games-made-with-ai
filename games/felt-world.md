@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/felt-world/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/felt-world/preview.webp?v=2523055b00" alt="Felt World by @az9713" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“Claude Code with the Opus 5.5 model wrote all the code.”](https://github.com/az9713/opus-5.5-open-world-game)
 - **Creator:** [@az9713](https://github.com/az9713)
 - **Genre:** Open world, Exploration, Sandbox
 - **Plays on:** Computer and phone

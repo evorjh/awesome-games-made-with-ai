@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/boring-forest/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/boring-forest/preview.webp?v=6420b69757" alt="Boring Forest by @AndreiProvkin" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“Boring Forest, built with Opus 5.5”](https://x.com/AndreiProvkin/status/2105566619443589600)
 - **Creator:** [@AndreiProvkin](https://x.com/AndreiProvkin)
 - **Genre:** Exploration, Cozy
 - **Plays on:** Computer and phone

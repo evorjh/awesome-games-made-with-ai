@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/nfturbo/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/nfturbo/still.webp?v=9c72ae4c9e" alt="NFTURBO by @brvchss" width="100%"></a>
 
 - **Made with:** Codex, Claude
+- **Where they name the AI:** [“I vibe coded my first game with no coding experience using codex and claude”](https://x.com/brvchss/status/2078421321856245846)
 - **Creator:** [@brvchss](https://x.com/brvchss)
 - **Genre:** Racing, Arcade
 - **Plays on:** Computer

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/lumina/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/lumina/preview.webp?v=77b946a85a" alt="LUMINA by @ToolBraidComp" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“GPT-6 Astra built this entire game.”](https://x.com/ToolBraidComp/status/2096348348773028115)
 - **Creator:** [@ToolBraidComp](https://x.com/ToolBraidComp)
 - **Genre:** Puzzle, Cozy
 - **Plays on:** Computer and phone

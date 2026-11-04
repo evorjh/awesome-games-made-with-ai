@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/transformer/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/transformer/still.webp?v=75eb1258e3" alt="Transformer by @scottstts" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, GPT-6 Astra
+- **Where they name the AI:** [“Built with Opus 5.5 and Astra, in @threejs and webgpu”](https://x.com/scottstts/status/2103260765847486734)
 - **Creator:** [@scottstts](https://x.com/scottstts)
 - **Genre:** Action, Racing
 - **Plays on:** Computer

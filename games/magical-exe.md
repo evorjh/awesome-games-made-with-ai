@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/magical-exe/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/magical-exe/still.webp?v=fecad669e2" alt="MAGICAL.EXE by @shirleyleng" width="100%"></a>
 
 - **Made with:** Claude Code
+- **Where they name the AI:** [“Made with: Claude Code · Suno · JetBrains Mono · Cloudflare Pages.”](https://github.com/shirleyleng/magical-exe/blob/main/src/update.js#L499)
 - **Creator:** [@shirleyleng](https://github.com/shirleyleng)
 - **Genre:** RPG, Adventure
 - **Plays on:** Computer and phone

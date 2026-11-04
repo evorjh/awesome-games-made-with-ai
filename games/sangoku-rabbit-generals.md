@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/sangoku-rabbit-generals/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/sangoku-rabbit-generals/preview.webp?v=d18a9c2127" alt="三国兎将志 by @KanaWorks_AI" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“Opus 5.5、さすがに凄すぎる🤯 2時間でWebサイト＋全8ステージの横スクロール攻城ゲームを作り”](https://x.com/KanaWorks_AI/status/2102684116525437206)
 - **Creator:** [@KanaWorks\_AI](https://x.com/KanaWorks_AI)
 - **Genre:** Arcade, Puzzle
 - **Plays on:** Computer and phone

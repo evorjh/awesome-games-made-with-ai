@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/hack-the-system/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/hack-the-system/preview.webp?v=085dcd2955" alt="Hack://TheSystem by @wietske" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“This game was entirely made by Claude Opus 5.5.”](https://wietske.itch.io/hackthesystem)
 - **Creator:** [@wietske](https://wietske.itch.io)
 - **Genre:** Horror, Puzzle
 - **Plays on:** Computer

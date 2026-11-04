@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/pixel-plays/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/pixel-plays/preview.webp?v=490277b0de" alt="Pixel Plays by @AmirMushich" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“3D pixel games with Claude Opus 5.5 (OS)”](https://x.com/AmirMushich/status/2116509069477621819)
 - **Creator:** [@AmirMushich](https://x.com/AmirMushich)
 - **Genre:** Sports, Arcade
 - **Plays on:** Computer

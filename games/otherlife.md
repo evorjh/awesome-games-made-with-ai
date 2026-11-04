@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/otherlife/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/otherlife/preview.webp?v=dd8c3ee429" alt="Otherlife / 人生岔路 by @LancerLSY" width="100%"></a>
 
 - **Made with:** Codex
+- **Where they name the AI:** [“Most of the implementation of Otherlife / 人生岔路 was written and revised with Codex, under the creator&#39;s direction.”](https://github.com/LancerLSY/life-crossroads/blob/main/docs/ai-assisted-development.md)
 - **Creator:** [@LancerLSY](https://github.com/LancerLSY)
 - **Genre:** Simulation
 - **Plays on:** Computer and phone

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/storm-race/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/storm-race/still.webp?v=d53c64105c" alt="Storm Race by @BubuStd" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“Built a Bakusou Kyoudai Let’s &amp; Go!! game with GPT-6 Astra”](https://x.com/BubuStd/status/2096587056755638553)
 - **Creator:** [@BubuStd](https://x.com/BubuStd)
 - **Genre:** Racing, Arcade
 - **Plays on:** Computer

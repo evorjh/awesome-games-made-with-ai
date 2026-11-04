@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/no-moat/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/no-moat/preview.webp?v=224571ffc9" alt="No Moat by @petergyang" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“my roguelike deckbuilding game created with Astra in 2 hours.”](https://x.com/petergyang/status/2096297378584375672)
 - **Creator:** [@petergyang](https://x.com/petergyang)
 - **Genre:** Card, Strategy
 - **Plays on:** Computer

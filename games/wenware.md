@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/wenware/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/wenware/still.webp?v=468ac95ebb" alt="WenWare by @underpaid_mom" width="100%"></a>
 
 - **Made with:** Codex
+- **Where they name the AI:** [“Time travel is now possible with gpt-image 2 and codex 5.5.”](https://x.com/underpaid_mom/status/2048286883080224877)
 - **Creator:** [@underpaid\_mom](https://x.com/underpaid_mom)
 - **Genre:** Puzzle, Exploration
 - **Plays on:** Computer and phone

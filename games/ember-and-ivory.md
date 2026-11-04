@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/ember-and-ivory/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/ember-and-ivory/preview.webp?v=799b34a015" alt="Ember &amp; Ivory by @jlager" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“I recreated the mechanics in an old Android game I loved with Astra”](https://x.com/jlager/status/2104748429192884380)
 - **Creator:** [@jlager](https://x.com/jlager)
 - **Genre:** Card, RPG
 - **Plays on:** Computer and phone

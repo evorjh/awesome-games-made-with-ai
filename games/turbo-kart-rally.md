@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/turbo-kart-rally/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/turbo-kart-rally/still.webp?v=257c1b8dbb" alt="Turbo Kart Rally by @bridgemindai" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“Claude Opus 5.5 just ONE SHOT a Mario Kart game.”](https://x.com/bridgemindai/status/2102451997395866021)
 - **Creator:** [@bridgemindai](https://x.com/bridgemindai)
 - **Genre:** Racing, Arcade
 - **Plays on:** Computer

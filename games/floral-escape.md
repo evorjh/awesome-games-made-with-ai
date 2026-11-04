@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/floral-escape/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/floral-escape/preview.webp?v=56ce25ac56" alt="Floral Escape: Ghost Forest by @nomalex_" width="100%"></a>
 
 - **Made with:** Claude, Cursor
+- **Where they name the AI:** [“My turn to create a 3D game with Cursor &amp; Claude (and @threejs!).”](https://x.com/nomalex_/status/1895890592179310616)
 - **Creator:** [@nomalex\_](https://x.com/nomalex_)
 - **Genre:** Horror, Exploration
 - **Plays on:** Computer and phone

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/above-the-desk/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/above-the-desk/preview.webp?v=22c4964b35" alt="书桌之上 · Above the Desk by @xingbugengming" width="100%"></a>
 
 - **Made with:** Kimi K3.1
+- **Where they name the AI:** [“由 Kimi K3.1 Pro × Tripo 打造的 3D 游戏《书桌之上》”](https://x.com/xingbugengming/status/2114958387846971570)
 - **Creator:** [@xingbugengming](https://x.com/xingbugengming)
 - **Genre:** Platformer, Adventure
 - **Plays on:** Computer

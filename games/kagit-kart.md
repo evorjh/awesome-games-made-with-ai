@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/kagit-kart/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/kagit-kart/preview.webp?v=8ae1e72ad2" alt="Kâğıt Kart by @BurakErdemci" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“gave Claude (Opus 5.5, in Claude Code) a single brief”](https://github.com/BurakErdemci/kagit-kart)
 - **Creator:** [@BurakErdemci](https://github.com/BurakErdemci)
 - **Genre:** Racing, Arcade
 - **Plays on:** Computer and phone

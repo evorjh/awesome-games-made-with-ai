@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/hoardborn/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/hoardborn/preview.webp?v=d3f86fd6ac" alt="Hoardborn by @MrBeeLive" width="100%"></a>
 
 - **Made with:** Claude Code
+- **Where they name the AI:** [“Claude Code”](https://github.com/lappemic/awesome-ai-built-games/issues/103)
 - **Creator:** [@MrBeeLive](https://github.com/MrBeeLive)
 - **Genre:** RPG, Action
 - **Plays on:** Computer and phone

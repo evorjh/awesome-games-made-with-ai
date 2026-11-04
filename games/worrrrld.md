@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/worrrrld/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/worrrrld/preview.webp?v=cb827264e7" alt="Worrrrld! by @yahoai" width="100%"></a>
 
 - **Made with:** Claude Code
+- **Where they name the AI:** [“Most of the code (game rules, scoring, server-side score validation, tests) was written with Claude Code”](https://github.com/lappemic/awesome-ai-built-games/issues/93)
 - **Creator:** [@yahoai](https://github.com/yahoai)
 - **Genre:** Arcade
 - **Plays on:** Computer and phone

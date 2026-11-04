@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/harbourline/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/harbourline/preview.webp?v=a3f326cf98" alt="HarbourLine by @BenjaminDEKR" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“Everything (including this trailer) crafted with Claude Code / Opus 5.5 :)”](https://x.com/BenjaminDEKR/status/2117042700872802448)
 - **Creator:** [@BenjaminDEKR](https://x.com/BenjaminDEKR)
 - **Genre:** Simulation, Strategy
 - **Plays on:** Computer

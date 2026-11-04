@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/dyson-defender/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/dyson-defender/preview.webp?v=8cb3adc5ae" alt="Dyson Defender by @hankofalltrades" width="100%"></a>
 
 - **Made with:** Claude Code, Cursor (model not named), Cursor
+- **Where they name the AI:** [“Started by playing around in claude code preview”](https://x.com/hankofalltrades/status/1895422780054942141)
 - **Creator:** [@hankofalltrades](https://x.com/hankofalltrades)
 - **Genre:** Shooter, Arcade
 - **Plays on:** Computer and phone

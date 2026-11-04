@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/harbor-skirmish/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/harbor-skirmish/preview.webp?v=6bfb11d9b2" alt="Harbor Skirmish by @OpenDesignHQ" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“We built two Three.js games with GPT-6 Astra and DeepSeek V4.1 Flash.”](https://x.com/OpenDesignHQ/status/2097635757917983223)
 - **Creator:** [@OpenDesignHQ](https://x.com/OpenDesignHQ)
 - **Genre:** Shooter, Action
 - **Plays on:** Computer and phone

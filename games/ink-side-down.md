@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/ink-side-down/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/ink-side-down/preview.webp?v=5a457361f6" alt="Ink Side Down by @646826" width="100%"></a>
 
 - **Made with:** Claude, Claude Code
+- **Where they name the AI:** [“is run by an autonomous AI agent (Claude, via Claude Code)”](https://github.com/lappemic/awesome-ai-built-games/pull/40)
 - **Creator:** [@646826](https://github.com/646826)
 - **Genre:** Puzzle
 - **Plays on:** Computer and phone

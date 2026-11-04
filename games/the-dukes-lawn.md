@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/the-dukes-lawn/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/the-dukes-lawn/preview.webp?v=7515c86f99" alt="The Duke&#39;s Lawn by @_MaxBlade" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“Opus 5.5 built a multiplayer lawn mow simulator with beers and cigars”](https://x.com/_MaxBlade/status/2102513817855094922)
 - **Creator:** [@\_MaxBlade](https://x.com/_MaxBlade)
 - **Genre:** Simulation, Cozy
 - **Plays on:** Computer

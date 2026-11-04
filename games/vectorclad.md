@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/vectorclad/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/vectorclad/preview.webp?v=bbcefa50a9" alt="VECTORCLAD by @batmessiah" width="100%"></a>
 
 - **Made with:** Claude Code, ChatGPT
+- **Where they name the AI:** [“Everything done in ChatGPT and Claude Code using three.js. 100% free.”](https://www.reddit.com/r/aigamedev/comments/1xf7px0/)
 - **Creator:** [@batmessiah](https://www.reddit.com/user/batmessiah)
 - **Genre:** Action, Shooter, Sandbox
 - **Plays on:** Computer

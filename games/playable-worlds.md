@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/playable-worlds/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/playable-worlds/preview.webp?v=d85bd6ddbc" alt="Playable Worlds by @OdinLovis" width="100%"></a>
 
 - **Made with:** Claude
+- **Where they name the AI:** [“So I let H3 Max on @fal generate the gameplay video first, and Claude turns it into a real game you can play in the browser: every image, 3D model and sound generated on fal, written in @threejs only.”](https://x.com/OdinLovis/status/2115526967802110284)
 - **Creator:** [@OdinLovis](https://x.com/OdinLovis)
 - **Genre:** Arcade
 - **Plays on:** Computer

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/creams-cozy-cottage/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/creams-cozy-cottage/preview.webp?v=4f899680ef" alt="Cream&#39;s Cozy Cottage by @ColaLeeeeeeeeee" width="100%"></a>
 
 - **Made with:** Codex
+- **Where they name the AI:** [“Artwork and development were assisted by generative AI, including OpenAI image generation and Codex.”](https://creamcozycottage.itch.io/creams-cozy-cottage)
 - **Creator:** [@ColaLeeeeeeeeee](https://x.com/ColaLeeeeeeeeee)
 - **Genre:** Cozy, Simulation, Puzzle
 - **Plays on:** Computer

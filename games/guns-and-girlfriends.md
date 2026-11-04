@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/guns-and-girlfriends/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/guns-and-girlfriends/still.webp?v=10d50adaa2" alt="AI2U - Guns &amp; Girlfriends by @DGSpitzer" width="100%"></a>
 
 - **Made with:** Claude Fable 5, Claude Opus 5
+- **Where they name the AI:** [“Made with three.js using Fable5 + Opus 5.”](https://helixngc7293.itch.io/gandg)
 - **Creator:** [@DGSpitzer](https://x.com/DGSpitzer)
 - **Genre:** Strategy
 - **Plays on:** Computer

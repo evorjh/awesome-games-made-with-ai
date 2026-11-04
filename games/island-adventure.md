@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/island-adventure/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/island-adventure/preview.webp?v=3301c6929a" alt="Island Adventure by @jasperdeboer" width="100%"></a>
 
 - **Made with:** Cursor (model not named), Cursor
+- **Where they name the AI tool:** [“Inspired by @levelsio i built my own survival island sim game with Cursor!”](https://x.com/jasperdeboer/status/1895139346216296611)
 - **Creator:** [@jasperdeboer](https://x.com/jasperdeboer)
 - **Genre:** Simulation, Adventure
 - **Plays on:** Computer

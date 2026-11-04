@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/harness-hollow/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/harness-hollow/preview.webp?v=7187cb522d" alt="Harness Hollow by @KrasimirKralev" width="100%"></a>
 
 - **Made with:** Claude Code, Codex
+- **Where they name the AI:** [“directing AI coding agents (mostly Claude Code, with OpenAI Codex for second opinions and screenshot reviews)”](https://github.com/KrasimirKralev/harvest-hollow#how-it-was-built)
 - **Creator:** [@KrasimirKralev](https://github.com/KrasimirKralev)
 - **Genre:** Simulation, Cozy
 - **Plays on:** Computer and phone

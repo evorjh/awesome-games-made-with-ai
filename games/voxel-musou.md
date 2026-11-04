@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/voxel-musou/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/voxel-musou/still.webp?v=e84076bf05" alt="Voxel Musou by @BubuStd" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“I just built the game I wanted most as a kid on PS2 — Dynasty Warriors — with Opus 5.5 ultracode.”](https://x.com/BubuStd/status/2102991290568954264)
 - **Creator:** [@BubuStd](https://x.com/BubuStd)
 - **Genre:** Action
 - **Plays on:** Computer

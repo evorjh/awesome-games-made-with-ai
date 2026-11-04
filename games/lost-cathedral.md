@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/lost-cathedral/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/lost-cathedral/preview.webp?v=93aa57e0a1" alt="Lost Cathedral by @Rabneba" width="100%"></a>
 
 - **Made with:** GPT-6 Astra, Claude
+- **Where they name the AI:** [“Souls-like boss fight, built with Astra, Fable + @threejs”](https://x.com/genex_games/status/2100586874754539672)
 - **Creator:** [@Rabneba](https://github.com/Rabneba)
 - **Genre:** Action, RPG
 - **Plays on:** Computer and phone

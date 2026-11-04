@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/turbo-rumble/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/turbo-rumble/preview.webp?v=07ca11c9f6" alt="Turbo Rumble by @dziksu" width="100%"></a>
 
 - **Made with:** GPT-6.1 Sol, Codex
+- **Where they name the AI:** [“All original application code was written using OpenAI Codex (primarily GPT-6.1 Sol)”](https://github.com/dziksu/turbo-rumble)
 - **Creator:** [@dziksu](https://github.com/dziksu)
 - **Genre:** Racing, Arcade
 - **Plays on:** Computer

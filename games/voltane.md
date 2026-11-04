@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/voltane/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/voltane/preview.webp?v=cfa3a74dca" alt="Voltane by @MacXou34" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
+- **Where they name the AI:** [“Code: Claude Code + Opus 5.5, every day. three.js on WebGPU, Rapier physics, a Node server for online play.”](https://www.reddit.com/r/aigamedev/comments/1xgcszc/)
 - **Creator:** [@MacXou34](https://www.reddit.com/user/MacXou34)
 - **Genre:** Racing, Action
 - **Plays on:** Computer and phone

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/silent-meridian/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/silent-meridian/preview.webp?v=ceef5a779c" alt="Silent Meridian by @stackloomdev" width="100%"></a>
 
 - **Made with:** GPT-6 Astra, Codex
+- **Where they name the AI:** [“Created by stackloomdev with GPT-6 Astra in Codex through multiple iterations.”](https://github.com/stackloomdev/silent-meridian)
 - **Creator:** [@stackloomdev](https://github.com/stackloomdev)
 - **Genre:** Puzzle, Adventure
 - **Plays on:** Computer and phone

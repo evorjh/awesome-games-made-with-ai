@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/kings-gambit/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/kings-gambit/preview.webp?v=20b80c0f5f" alt="King&#39;s Gambit by @alexcooldev" width="100%"></a>
 
 - **Made with:** Rork (model not named)
+- **Where they name the AI tool:** [“Created by Rork”](https://github.com/alexngdev99/rork-medieval-3d-chess)
 - **Creator:** [@alexcooldev](https://x.com/alexcooldev)
 - **Genre:** Strategy
 - **Plays on:** Computer and phone

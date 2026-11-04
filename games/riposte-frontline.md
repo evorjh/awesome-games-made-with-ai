@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/riposte-frontline/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/riposte-frontline/preview.webp?v=711a058664" alt="Riposte: Frontline by @Inevitable_Salad_128" width="100%"></a>
 
 - **Made with:** Claude Code
+- **Where they name the AI:** [“Last week I posted about Riposte: Frontline, the browser FPS I’ve been building with Claude Code, in a few subreddits.”](https://www.reddit.com/r/aigamedev/comments/1xf2ip0/)
 - **Creator:** [@Inevitable\_Salad\_128](https://www.reddit.com/user/Inevitable_Salad_128)
 - **Genre:** Shooter, Action
 - **Plays on:** Computer

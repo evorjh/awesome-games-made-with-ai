@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/kart-royale/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/kart-royale/still.webp?v=2f10c09955" alt="Kart Royale by @Ryancampbell" width="100%"></a>
 
 - **Made with:** Claude Opus 5
+- **Where they name the AI:** [“Thought I&#39;d try getting Opus 5 to build a Kart racing game after seeing what @mattshumer\_ did.”](https://x.com/Ryancampbell/status/2081750419857133709)
 - **Creator:** [@Ryancampbell](https://x.com/Ryancampbell)
 - **Genre:** Racing
 - **Plays on:** Computer

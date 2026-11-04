@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/emberglade/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/emberglade/preview.webp?v=10798cc6a3" alt="Emberglade by @agentcelldotdev" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“We joined the &quot;Claude Opus 5.5 made a game&quot; club.”](https://x.com/agentcelldotdev/status/2104893456028160336)
 - **Creator:** [@agentcelldotdev](https://x.com/agentcelldotdev)
 - **Genre:** Action, Adventure, Open world
 - **Plays on:** Computer and phone

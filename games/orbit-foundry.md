@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/orbit-foundry/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/orbit-foundry/preview.webp?v=e3989dfe97" alt="Orbit Foundry by @kimchistan" width="100%"></a>
 
 - **Made with:** Codex
+- **Where they name the AI:** [“Codex CLI”](https://github.com/lappemic/awesome-ai-built-games/issues/94)
 - **Creator:** [@kimchistan](https://kimchistan.itch.io)
 - **Genre:** Simulation, Strategy
 - **Plays on:** Computer

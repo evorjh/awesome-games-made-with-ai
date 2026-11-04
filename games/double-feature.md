@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/double-feature/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/double-feature/still.webp?v=c60fa60347" alt="Double Feature by @SestinaTW" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
+- **Where they name the AI:** [“a Cuphead Inspired Mini-Game built with Claude Opus 5.5.”](https://x.com/SestinaTW/status/2104045641706189192)
 - **Creator:** [@SestinaTW](https://x.com/SestinaTW)
 - **Genre:** Action, Platformer, Shooter
 - **Plays on:** Computer and phone

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/alder-valley-rail-atelier/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/alder-valley-rail-atelier/preview.webp?v=10f791a711" alt="Alder Valley Rail Atelier by @nickfromlater" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“Built this interactive model railroad with Astra + Three.js.”](https://x.com/nickfromlater/status/2097355845524726084)
 - **Creator:** [@nickfromlater](https://x.com/nickfromlater)
 - **Genre:** Simulation, Sandbox, Cozy
 - **Plays on:** Computer and phone

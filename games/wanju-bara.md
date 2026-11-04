@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/wanju-bara/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/wanju-bara/preview.webp?v=92b03239f1" alt="Wanju Bara by @awais_builds" width="100%"></a>
 
 - **Made with:** Claude Sonnet 5.5, Claude Opus 5.5
+- **Where they name the AI:** [“Claude Sonnet 5.5 + Opus 5.5 are honestly kind of insane.”](https://x.com/awais_builds/status/2104743474549694736)
 - **Creator:** [@awais\_builds](https://x.com/awais_builds)
 - **Genre:** Sports, Action
 - **Plays on:** Computer and phone

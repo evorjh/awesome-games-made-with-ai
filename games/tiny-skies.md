@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/tiny-skies/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/tiny-skies/still.webp?v=cb6cee4b37" alt="Tiny Skies by @DannyLimanseta" width="100%"></a>
 
 - **Made with:** Cursor (model not named), Cursor
+- **Where they name the AI tool:** [“You can see all the commits (100% commited by Cursor), right from the 1st day of the”](https://x.com/DannyLimanseta/status/2051306060020072632)
 - **Creator:** [@DannyLimanseta](https://x.com/DannyLimanseta)
 - **Genre:** Cozy, Exploration, Flight
 - **Plays on:** Computer

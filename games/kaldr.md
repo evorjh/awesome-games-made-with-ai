@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/kaldr/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/kaldr/preview.webp?v=ab87dd51f2" alt="KALDR by @pradeepXkapoor" width="100%"></a>
 
 - **Made with:** Claude Sonnet 5.5
+- **Where they name the AI:** [“Sonnet 5.5 built this mechanical beast game in one shot”](https://x.com/pradeepXkapoor/status/2104840409851822098)
 - **Creator:** [@pradeepXkapoor](https://x.com/pradeepXkapoor)
 - **Genre:** Exploration, Flight
 - **Plays on:** Computer

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/plug-and-prosper/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/plug-and-prosper/still.webp?v=80d0e1fbdd" alt="Plug &amp; Prosper by @smallloopworks" width="100%"></a>
 
 - **Made with:** GPT-5.6 Sol, Codex
+- **Where they name the AI:** [“codex (cli harness), 5.6 Sol low-xhigh (main llm)”](https://itch.io/jam/ai-jam-4/rate/4852654)
 - **Creator:** [@smallloopworks](https://smallloopworks.itch.io)
 - **Genre:** Puzzle, Simulation
 - **Plays on:** Computer

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/fly-pieter/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/fly-pieter/still.webp?v=3a4e3c0267" alt="fly.pieter.com by @levelsio" width="100%"></a>
 
 - **Made with:** Cursor (model not named)
+- **Where they name the AI tool:** [“just made my own flight simulator 100% with Cursor in I&#39;d say 3 hours by just telling it what I wanted”](https://x.com/levelsio/status/1893385114496766155)
 - **Creator:** [@levelsio](https://x.com/levelsio)
 - **Genre:** Flight, Simulation
 - **Plays on:** Computer

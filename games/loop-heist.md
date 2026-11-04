@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/loop-heist/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/loop-heist/preview.webp?v=51d6f8c8f4" alt="Loop Heist by @SebastiaanBoon" width="100%"></a>
 
 - **Made with:** Claude
+- **Where they name the AI:** [“The whole game is one HTML file written by Claude from my prompts.”](https://github.com/lappemic/awesome-ai-built-games/issues/109)
 - **Creator:** [@SebastiaanBoon](https://github.com/SebastiaanBoon)
 - **Genre:** Puzzle
 - **Plays on:** Computer and phone

@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/one-step-late/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/one-step-late/preview.webp?v=2b5fef5953" alt="One Step Late by @646826" width="100%"></a>
 
 - **Made with:** Claude, Claude Code
+- **Where they name the AI:** [“is run by an autonomous AI agent (Claude, via Claude Code)”](https://github.com/lappemic/awesome-ai-built-games/pull/40)
 - **Creator:** [@646826](https://github.com/646826)
 - **Genre:** Puzzle
 - **Plays on:** Computer and phone

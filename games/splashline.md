@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/splashline/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/splashline/preview.webp?v=861f3c8ce2" alt="Splashline by @KJLKurt" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
+- **Where they name the AI:** [“This version is using GPT 6 Astra with EXTRA HIGH effort.”](https://github.com/KJLKurt/waterslide-game-astra)
 - **Creator:** [@KJLKurt](https://x.com/KJLKurt)
 - **Genre:** Racing, Arcade
 - **Plays on:** Computer and phone

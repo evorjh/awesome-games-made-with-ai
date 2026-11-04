@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/jigsy/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/jigsy/preview.webp?v=0d1f4f97aa" alt="Jigsy by @tallhat" width="100%"></a>
 
 - **Made with:** Claude
+- **Where they name the AI:** [“Almost all of Jigsy&#39;s code was written by AI (Claude), working with me in short, iterative sessions.”](https://jigsypuzzle.itch.io/jigsy-puzzle/devlog/1730830/how-jigsy-was-built-tuning-difficulty-with-real-player-data)
 - **Creator:** [@tallhat](https://x.com/tallhat)
 - **Genre:** Puzzle
 - **Plays on:** Computer and phone

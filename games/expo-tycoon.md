@@ -5,6 +5,7 @@
 <a href="https://amusehall.com/games/expo-tycoon/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/expo-tycoon/preview.webp?v=226a8bcedf" alt="Expo Tycoon by @MrBeeLive" width="100%"></a>
 
 - **Made with:** Claude Code
+- **Where they name the AI:** [“Claude Code”](https://github.com/lappemic/awesome-ai-built-games/issues/102)
 - **Creator:** [@MrBeeLive](https://x.com/MrBeeLive)
 - **Genre:** Simulation
 - **Plays on:** Computer and phone
