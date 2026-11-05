@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD or arrow keys to move, Space to dash, P to pause, 1 to 3 or the mouse to pick an upgrade; drag to move and flick to dash on phones
-- **Likes on the original post:** 13,984, counted 2026-11-04
+- **Likes on the original post:** 14,027, counted 2026-11-05
 
 Keep Tibo alive for 20 minutes as a horde closes in, choosing a new kitchen weapon or perk from three cards at every level-up.
 

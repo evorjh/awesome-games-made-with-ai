@@ -5,14 +5,14 @@
     "media_base_url": "https://media.amusehall.com",
     "repo_url": "https://github.com/evorjh/awesome-games-made-with-ai",
     "contact_email": "hello@amusehall.com",
-    "mosaic": "mosaic.webp?v=04bcc3b728",
+    "mosaic": "mosaic.webp?v=87a2f267e5",
     "mosaic_games": [
       "gxtq68mg8",
+      "gq9bdgg2i",
       "g7er41or1",
       "g1bjx9y59",
       "grrn1mt5i",
-      "g8ze3q86y",
-      "gng0kobry"
+      "g8ze3q86y"
     ],
     "utm": {
       "source": "github",
@@ -739,6 +739,10 @@
         "go98yri36",
         "g7lsoeejk",
         "gdjlcx9uv",
+        "gcr414zni",
+        "g4agci3l3",
+        "gv4b2v57t",
+        "guyp9f4kz",
         "gspep8kwb",
         "g4njs90m4",
         "g7i19obf8",
@@ -918,8 +922,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 13984,
-      "likesRead": "2026-11-04",
+      "likes": 14027,
+      "likesRead": "2026-11-05",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/poteto/status/2117004709198475365",
       "evidence": {
@@ -940,6 +944,111 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/tibo-dog/"
+    },
+    {
+      "id": "gq9bdgg2i",
+      "slug": "sumiro",
+      "aliases": [],
+      "title": "Sumiro",
+      "added": "2026-11-04",
+      "creators": [
+        {
+          "handle": "xikhar",
+          "name": "Shikhar",
+          "url": "https://x.com/xikhar"
+        }
+      ],
+      "primaryHandle": "xikhar",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "platformer",
+          "name": "Platformer"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to move, Shift to sprint, Space to jump, leap and climb, E to rest or read, F to drink from the gourd",
+      "brandIp": false,
+      "description": "Climb a misty mountain road as a wandering traveler in a 3D world painted like ink on paper, leaping gaps and scaling ledges.",
+      "notes": "Its creator made this ink-wash platformer in 24 hours with Claude Opus 5.5 in Claude Code, which built the world in Three.js from scenes rebuilt in Blender, after a reference video from Flux and a hero modelled with GPT Image and Tripo. Chapter One, The Climb, sends a traveler in a straw hat up a mountain path of rope bridges, cliff stairs and shrine gates, through drifting mist. You run, sprint and leap the gaps, hang from ledges and shimmy or hop between holds, and stop to rest, read signs or drink from your gourd. Every sound is made in the browser. The creator says the climbing and platforming lead into fights with enemies later on.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 8274,
+      "likesRead": "2026-11-05",
+      "posted": "2026-11-04",
+      "sourceUrl": "https://x.com/xikhar/status/2117776295534997818",
+      "evidence": {
+        "url": "https://x.com/xikhar/status/2117776300236820925",
+        "quote": "Step 2: Build the world Screenshot the video, rebuild assets in Blender, place it in @threejs Using dynamic workflows in Claude Code, so agents build and check in parallel"
+      },
+      "playUrl": "https://xikhar.github.io/sumiro/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/sumiro/still.webp?v=f9ee130e51",
+        "preview": "https://media.amusehall.com/sumiro/preview.webp?v=16d214921d",
+        "clip": "https://media.amusehall.com/sumiro/clip.mp4?v=0e3bb3790c",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/sumiro/"
     },
     {
       "id": "g7er41or1",
@@ -1958,111 +2067,6 @@
       "pageUrl": "https://amusehall.com/games/soccar/"
     },
     {
-      "id": "gq9bdgg2i",
-      "slug": "sumiro",
-      "aliases": [],
-      "title": "Sumiro",
-      "added": "2026-11-04",
-      "creators": [
-        {
-          "handle": "xikhar",
-          "name": "Shikhar",
-          "url": "https://x.com/xikhar"
-        }
-      ],
-      "primaryHandle": "xikhar",
-      "credits": [
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": "claude-code"
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-opus-5-5"
-      ],
-      "tools": [
-        {
-          "id": "claude-code",
-          "name": "Claude Code",
-          "kind": "ai",
-          "family": "claude",
-          "referral_url": null
-        },
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "blender",
-          "name": "Blender",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "tripo",
-          "name": "Tripo",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "platformer",
-          "name": "Platformer"
-        },
-        {
-          "id": "adventure",
-          "name": "Adventure"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD or arrows to move, Shift to sprint, Space to jump, leap and climb, E to rest or read, F to drink from the gourd",
-      "brandIp": false,
-      "description": "Climb a misty mountain road as a wandering traveler in a 3D world painted like ink on paper, leaping gaps and scaling ledges.",
-      "notes": "Its creator made this ink-wash platformer in 24 hours with Claude Opus 5.5 in Claude Code, which built the world in Three.js from scenes rebuilt in Blender, after a reference video from Flux and a hero modelled with GPT Image and Tripo. Chapter One, The Climb, sends a traveler in a straw hat up a mountain path of rope bridges, cliff stairs and shrine gates, through drifting mist. You run, sprint and leap the gaps, hang from ledges and shimmy or hop between holds, and stop to rest, read signs or drink from your gourd. Every sound is made in the browser. The creator says the climbing and platforming lead into fights with enemies later on.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "likes": 1982,
-      "likesRead": "2026-11-04",
-      "posted": "2026-11-04",
-      "sourceUrl": "https://x.com/xikhar/status/2117776295534997818",
-      "evidence": {
-        "url": "https://x.com/xikhar/status/2117776300236820925",
-        "quote": "Step 2: Build the world Screenshot the video, rebuild assets in Blender, place it in @threejs Using dynamic workflows in Claude Code, so agents build and check in parallel"
-      },
-      "playUrl": "https://xikhar.github.io/sumiro/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/sumiro/still.webp?v=f9ee130e51",
-        "preview": "https://media.amusehall.com/sumiro/preview.webp?v=16d214921d",
-        "clip": "https://media.amusehall.com/sumiro/clip.mp4?v=0e3bb3790c",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/sumiro/"
-    },
-    {
       "id": "gk98c3y8t",
       "slug": "rocket-arena",
       "aliases": [],
@@ -2650,6 +2654,102 @@
       "pageUrl": "https://amusehall.com/games/kings-gambit/"
     },
     {
+      "id": "go98yri36",
+      "slug": "show-of-hands",
+      "aliases": [],
+      "title": "Show of Hands",
+      "added": "2026-11-04",
+      "creators": [
+        {
+          "handle": "MeticulAi",
+          "name": "Meticulai",
+          "url": "https://x.com/MeticulAi"
+        }
+      ],
+      "primaryHandle": "MeticulAi",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Hand gestures through your webcam (wave, pinch, fist, clap), or the mouse and keyboard; each game shows its own",
+      "brandIp": false,
+      "description": "Fifteen small 3D games played with your bare hands through a webcam, from steering a starship to releasing lanterns on a night lake.",
+      "notes": "Its creator built these fifteen games with Claude Code, Three.js, fal and Tripo, on top of a webcam hand-tracking kit they also released. A jungle hall holds them all: Starbreaker has you steer a starship through an asteroid field and bomb your way out, Lanterns has you cup your hands and lift a paper lantern into the night, and others take you to fireflies, a koi pond, a labyrinth and a marble jar. The camera is asked for once, and the page says the video never leaves your device. Every game also plays with the mouse, which is how we tried it, and the page says phones and tablets aren't supported yet.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 1123,
+      "likesRead": "2026-11-05",
+      "posted": "2026-11-03",
+      "sourceUrl": "https://x.com/MeticulAi/status/2117474458671689995",
+      "evidence": {
+        "url": "https://x.com/MeticulAi/status/2117474458671689995",
+        "quote": "Here are 15 games I made with it, what will you build? 👇 - no controller, just your webcam - made with Claude Code, @fal , @threejs , @tripoai , and a dream"
+      },
+      "playUrl": "https://meticulai.com/games/show-of-hands/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/show-of-hands/still.webp?v=5876821dc6",
+        "preview": "https://media.amusehall.com/show-of-hands/preview.webp?v=385c4fbf0e",
+        "clip": "https://media.amusehall.com/show-of-hands/clip.mp4?v=e15000749d",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/show-of-hands/"
+    },
+    {
       "id": "ghr9cl8oz",
       "slug": "astral-war",
       "aliases": [],
@@ -2746,102 +2846,6 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/astral-war/"
-    },
-    {
-      "id": "go98yri36",
-      "slug": "show-of-hands",
-      "aliases": [],
-      "title": "Show of Hands",
-      "added": "2026-11-04",
-      "creators": [
-        {
-          "handle": "MeticulAi",
-          "name": "Meticulai",
-          "url": "https://x.com/MeticulAi"
-        }
-      ],
-      "primaryHandle": "MeticulAi",
-      "credits": [
-        {
-          "label": "Claude Code",
-          "modelId": null,
-          "familyId": "claude",
-          "toolId": "claude-code"
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [],
-      "tools": [
-        {
-          "id": "claude-code",
-          "name": "Claude Code",
-          "kind": "ai",
-          "family": "claude",
-          "referral_url": null
-        },
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "tripo",
-          "name": "Tripo",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        },
-        {
-          "id": "cozy",
-          "name": "Cozy"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "Hand gestures through your webcam (wave, pinch, fist, clap), or the mouse and keyboard; each game shows its own",
-      "brandIp": false,
-      "description": "Fifteen small 3D games played with your bare hands through a webcam, from steering a starship to releasing lanterns on a night lake.",
-      "notes": "Its creator built these fifteen games with Claude Code, Three.js, fal and Tripo, on top of a webcam hand-tracking kit they also released. A jungle hall holds them all: Starbreaker has you steer a starship through an asteroid field and bomb your way out, Lanterns has you cup your hands and lift a paper lantern into the night, and others take you to fireflies, a koi pond, a labyrinth and a marble jar. The camera is asked for once, and the page says the video never leaves your device. Every game also plays with the mouse, which is how we tried it, and the page says phones and tablets aren't supported yet.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "likes": 956,
-      "likesRead": "2026-11-04",
-      "posted": "2026-11-03",
-      "sourceUrl": "https://x.com/MeticulAi/status/2117474458671689995",
-      "evidence": {
-        "url": "https://x.com/MeticulAi/status/2117474458671689995",
-        "quote": "Here are 15 games I made with it, what will you build? 👇 - no controller, just your webcam - made with Claude Code, @fal , @threejs , @tripoai , and a dream"
-      },
-      "playUrl": "https://meticulai.com/games/show-of-hands/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/show-of-hands/still.webp?v=5876821dc6",
-        "preview": "https://media.amusehall.com/show-of-hands/preview.webp?v=385c4fbf0e",
-        "clip": "https://media.amusehall.com/show-of-hands/clip.mp4?v=e15000749d",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/show-of-hands/"
     },
     {
       "id": "gpy3pa5mk",
@@ -4117,6 +4121,98 @@
       "pageUrl": "https://amusehall.com/games/capybaras-delivering-food/"
     },
     {
+      "id": "g7lsoeejk",
+      "slug": "skywake",
+      "aliases": [],
+      "title": "SKYWAKE",
+      "added": "2026-11-04",
+      "creators": [
+        {
+          "handle": "aniketjart",
+          "name": "Aniket J",
+          "url": "https://x.com/aniketjart"
+        }
+      ],
+      "primaryHandle": "aniketjart",
+      "credits": [
+        {
+          "label": "Gemini 4 Argon",
+          "modelId": "gemini-4-argon",
+          "familyId": "gemini",
+          "toolId": null
+        },
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "crayon"
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini",
+        "claude"
+      ],
+      "modelIds": [
+        "gemini-4-argon",
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "crayon",
+          "name": "Crayon",
+          "kind": "ai",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "flight",
+          "name": "Flight"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to fly and dive, Shift to boost, Q and E to barrel roll, click or J to sing (hold for a long note), right click or K to shield",
+      "brandIp": false,
+      "description": "Ride a sky manta over a turquoise reef in a hand-painted world, following the herd and singing trapped mantas free.",
+      "notes": "Its creator made this flying adventure with Gemini 4 Argon for a Gemini hackathon, then refreshed it with Claude Opus 5.5 in Crayon. An illustrated opening tells how the sky mantas sing each year to hold the Great Ring of light together, and Kite and little Mo have overslept the great flight. In Act I you follow the herd's wake through the sea stacks of Dawn Reef, greet the towering Tallwalkers and sing to free trapped mantas, with a boost, a shield and barrel rolls for tight gaps. It loads inside Crayon's arcade page.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 203,
+      "likesRead": "2026-11-05",
+      "posted": "2026-11-03",
+      "sourceUrl": "https://x.com/aniketjart/status/2117508141076378029",
+      "evidence": {
+        "url": "https://x.com/aniketjart/status/2117508141076378029",
+        "quote": "Built this flying quest game for a Gemini hackathon recently! Now did a refresh. Created with Gemini 4 Argon, and refreshed with Opus 5.5 and @usecrayon."
+      },
+      "playUrl": "https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/skywake/still.webp?v=b8ffb524a3",
+        "preview": "https://media.amusehall.com/skywake/preview.webp?v=ff0d5cc212",
+        "clip": "https://media.amusehall.com/skywake/clip.mp4?v=b971d865b4",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/skywake/"
+    },
+    {
       "id": "g66ibbf9z",
       "slug": "double-feature",
       "aliases": [],
@@ -4196,98 +4292,6 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/double-feature/"
-    },
-    {
-      "id": "g7lsoeejk",
-      "slug": "skywake",
-      "aliases": [],
-      "title": "SKYWAKE",
-      "added": "2026-11-04",
-      "creators": [
-        {
-          "handle": "aniketjart",
-          "name": "Aniket J",
-          "url": "https://x.com/aniketjart"
-        }
-      ],
-      "primaryHandle": "aniketjart",
-      "credits": [
-        {
-          "label": "Gemini 4 Argon",
-          "modelId": "gemini-4-argon",
-          "familyId": "gemini",
-          "toolId": null
-        },
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": "crayon"
-        }
-      ],
-      "primaryFamily": "gemini",
-      "familyIds": [
-        "gemini",
-        "claude"
-      ],
-      "modelIds": [
-        "gemini-4-argon",
-        "claude-opus-5-5"
-      ],
-      "tools": [
-        {
-          "id": "crayon",
-          "name": "Crayon",
-          "kind": "ai",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "flight",
-          "name": "Flight"
-        },
-        {
-          "id": "adventure",
-          "name": "Adventure"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD or arrows to fly and dive, Shift to boost, Q and E to barrel roll, click or J to sing (hold for a long note), right click or K to shield",
-      "brandIp": false,
-      "description": "Ride a sky manta over a turquoise reef in a hand-painted world, following the herd and singing trapped mantas free.",
-      "notes": "Its creator made this flying adventure with Gemini 4 Argon for a Gemini hackathon, then refreshed it with Claude Opus 5.5 in Crayon. An illustrated opening tells how the sky mantas sing each year to hold the Great Ring of light together, and Kite and little Mo have overslept the great flight. In Act I you follow the herd's wake through the sea stacks of Dawn Reef, greet the towering Tallwalkers and sing to free trapped mantas, with a boost, a shield and barrel rolls for tight gaps. It loads inside Crayon's arcade page.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "likes": 184,
-      "likesRead": "2026-11-04",
-      "posted": "2026-11-03",
-      "sourceUrl": "https://x.com/aniketjart/status/2117508141076378029",
-      "evidence": {
-        "url": "https://x.com/aniketjart/status/2117508141076378029",
-        "quote": "Built this flying quest game for a Gemini hackathon recently! Now did a refresh. Created with Gemini 4 Argon, and refreshed with Opus 5.5 and @usecrayon."
-      },
-      "playUrl": "https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/skywake/still.webp?v=b8ffb524a3",
-        "preview": "https://media.amusehall.com/skywake/preview.webp?v=ff0d5cc212",
-        "clip": "https://media.amusehall.com/skywake/clip.mp4?v=b971d865b4",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/skywake/"
     },
     {
       "id": "gb5kg9kry",
@@ -4983,7 +4987,7 @@
         "text": null
       },
       "likes": 112,
-      "likesRead": "2026-11-04",
+      "likesRead": "2026-11-05",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/BenjaminDEKR/status/2117042700872802448",
       "evidence": {
@@ -7551,6 +7555,360 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gcr414zni",
+      "slug": "operation-elsewhere",
+      "aliases": [],
+      "title": "Operation Elsewhere",
+      "added": "2026-11-05",
+      "creators": [
+        {
+          "handle": "technomeg",
+          "url": "https://www.reddit.com/user/technomeg"
+        }
+      ],
+      "primaryHandle": "technomeg",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        },
+        {
+          "label": "Grok",
+          "modelId": null,
+          "familyId": "grok",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude",
+        "grok"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to aim, click or Space to fire, Q and E or 1 to 7 to switch weapons, Esc to pause",
+      "brandIp": false,
+      "description": "Hold a white concrete room against endless waves of blocky enemies, alone with a bot partner or with a friend on one keyboard.",
+      "notes": "Its creator built this co-op arena shooter in Three.js, with Claude Opus 5.5 leading and reviewing the code and Grok writing the simulation and cameras. Endless waves pour into one room, the White Relay, and are drawn as instanced meshes, so hundreds of enemies stay smooth on screen. Solo play pairs you with a bot that covers you and revives you when you go down; a second player can join on the same keyboard. Ammo runs out, so the reload pads set the rhythm of each run. It is an early prototype with one room, and its creator plans more for a release in 2027.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-31",
+      "sourceUrl": "https://www.reddit.com/r/threejs/comments/1xkmn2m/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/threejs/comments/1xkmn2m/",
+        "quote": "All of the code was vibed with Opus 5.5 as lead/reviewer, with Grok on the sim gameplay and cameras."
+      },
+      "playUrl": "https://operationelsewhere.com/play/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/operation-elsewhere/still.webp?v=faa6f9b279",
+        "preview": "https://media.amusehall.com/operation-elsewhere/preview.webp?v=20b6a52755",
+        "clip": "https://media.amusehall.com/operation-elsewhere/clip.mp4?v=dece3d17bb",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/operation-elsewhere/"
+    },
+    {
+      "id": "g4agci3l3",
+      "slug": "sidewinder",
+      "aliases": [],
+      "title": "Sidewinder",
+      "added": "2026-11-05",
+      "creators": [
+        {
+          "handle": "dmassena",
+          "url": "https://www.reddit.com/user/dmassena"
+        }
+      ],
+      "primaryHandle": "dmassena",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Arrows or WASD to fly, Space to fire, Space or 1 to start, 2 for two players, Tab to switch remastered and original art, Esc to pause",
+      "brandIp": false,
+      "description": "A vertical-scrolling shooter from 1987, brought to the browser by one of its original creators, with remastered art you can switch off.",
+      "notes": "One of the creators of the 1987 Amiga and arcade shooter Sidewinder pointed Claude Code with Opus 5.5 at their old source, a disk image and unfinished ports, and asked for a faithful browser version with remastered art and sound. Its rules come from the original 68000 assembly, and you fly a fighter up a scrolling map of fortresses and water, shooting ground targets and planes. Tab switches between the remastered art and the original pixels, and there are five difficulty levels, two-player play, a CRT look and level warps. The remastered maps and sprites were made with image models from the originals on the disk.",
+      "prompt": {
+        "shared": true,
+        "partial": true,
+        "source_url": "https://www.reddit.com/r/gamedev/comments/1xeontp/",
+        "text": "I want to create a modern version, webgl, playable in the browser. Faithful to the original but with AI-remastered art and sound."
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-25",
+      "sourceUrl": "https://www.reddit.com/r/gamedev/comments/1xeontp/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/gamedev/comments/1xeontp/",
+        "quote": "I pointed Claude Code w/ Opus 5.5 at a dusty collection of Sidewinder directories on my drive"
+      },
+      "playUrl": "https://sidewinder.darrinm.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/sidewinder/still.webp?v=931dab759b",
+        "preview": "https://media.amusehall.com/sidewinder/preview.webp?v=32bc3ff90f",
+        "clip": "https://media.amusehall.com/sidewinder/clip.mp4?v=006f436267",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/sidewinder/"
+    },
+    {
+      "id": "gv4b2v57t",
+      "slug": "slipface",
+      "aliases": [],
+      "title": "Slipface",
+      "added": "2026-11-05",
+      "creators": [
+        {
+          "handle": "Slipfacegame",
+          "url": "https://www.reddit.com/user/Slipfacegame"
+        }
+      ],
+      "primaryHandle": "Slipfacegame",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "meshy",
+          "name": "Meshy",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to drive, R to restart, T to go back to the last checkpoint, C to change camera; gamepads work too",
+      "brandIp": false,
+      "description": "Race off-road trucks over sand, snow and mud that keep every rut your wheels dig, lap after lap.",
+      "notes": "Its creator built this off-road racer with Claude Code while off sick with the flu, using Three.js with WebGPU for terrain that really deforms, Meshy for the vehicles and Suno for the music. Every wheel digs ruts into sand, snow and mud that stay there for the next lap, so the racing line changes as the race goes on. There are race tracks against up to nine AI rivals, two demolition-derby arenas, sixteen vehicles unlocked with medals, ghost runs, online leaderboards, two-player split screen and a track editor. It needs a browser with WebGPU, such as desktop Chrome.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-29",
+      "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xiugmm/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/vibecoding/comments/1xiugmm/",
+        "quote": "Claude Code for the code (Opus for the big design stuff, Sonnet for the rest)"
+      },
+      "playUrl": "https://slipfacegame.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/slipface/still.webp?v=0d3446b588",
+        "preview": "https://media.amusehall.com/slipface/preview.webp?v=98caa8538d",
+        "clip": "https://media.amusehall.com/slipface/clip.mp4?v=0e0e0b0dd7",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/slipface/"
+    },
+    {
+      "id": "guyp9f4kz",
+      "slug": "the-bells-of-evermere",
+      "aliases": [],
+      "title": "The Bells of Evermere",
+      "added": "2026-11-05",
+      "creators": [
+        {
+          "handle": "Time_Talk7137",
+          "url": "https://www.reddit.com/user/Time_Talk7137"
+        }
+      ],
+      "primaryHandle": "Time_Talk7137",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, Shift to run, Space to talk and confirm",
+      "brandIp": false,
+      "description": "A pixel-art story about a winter village where the year has stopped, played through lit 3D dioramas with soft focus and candlelight.",
+      "notes": "This story campaign comes from the demos of Luminati, an open-source engine that puts pixel-art sprites into lit 3D scenes with shadows and depth of field. Its creator asked Claude Opus 5.5 for a campaign of 5 to 10 levels and let it invent whatever it wanted, and it wrote a six-chapter tale of a snowed-in village whose year has stopped. You walk between houses, a forge, a bell court and a blossom wood, talking to villagers and reading signs to move the story on. It is about talking and exploring rather than fighting; the engine's launcher holds more campaigns and an action demo.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-30",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1xjgozi/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/aigamedev/comments/1xjgozi/",
+        "quote": "I simply asked Opus 5.5 to create a campaign with 5–10 levels, use its creativity and imagination to build whatever it wants to build."
+      },
+      "playUrl": "https://lumina-static-584822.gitlab.io/game.html?campaign=bells-of-evermere",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/the-bells-of-evermere/still.webp?v=03a30e8e6f",
+        "preview": "https://media.amusehall.com/the-bells-of-evermere/preview.webp?v=d014cea022",
+        "clip": "https://media.amusehall.com/the-bells-of-evermere/clip.mp4?v=b7da6461b0",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/the-bells-of-evermere/"
     },
     {
       "id": "gspep8kwb",
@@ -12070,10 +12428,10 @@
     "hot": {
       "modelId": "claude-opus-5-5",
       "gameIds": [
+        "gq9bdgg2i",
         "grrn1mt5i",
         "g8ze3q86y",
         "gng0kobry",
-        "gq9bdgg2i",
         "gpy3pa5mk",
         "g7k2m9q4x",
         "g361pfe4r",
@@ -12086,6 +12444,7 @@
         "familyId": "claude",
         "gameIds": [
           "gk62onht3",
+          "gq9bdgg2i",
           "g7er41or1",
           "grrn1mt5i",
           "g8ze3q86y",
@@ -12094,7 +12453,6 @@
           "gjh98608z",
           "g27qw9jqs",
           "g5n1e788h",
-          "gq9bdgg2i",
           "gk98c3y8t",
           "gpmj9q9ol",
           "g9t4d43un",
@@ -12134,6 +12492,10 @@
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "gcr414zni",
+          "g4agci3l3",
+          "gv4b2v57t",
+          "guyp9f4kz",
           "gspep8kwb",
           "g4njs90m4",
           "g7i19obf8",
@@ -12241,6 +12603,10 @@
         "go98yri36",
         "g7lsoeejk",
         "gdjlcx9uv",
+        "gcr414zni",
+        "g4agci3l3",
+        "gv4b2v57t",
+        "guyp9f4kz",
         "gspep8kwb",
         "g4njs90m4",
         "g7i19obf8",
