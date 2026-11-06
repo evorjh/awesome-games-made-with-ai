@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrows to move, Shift to sprint, Space to jump, leap and climb, E to rest or read, F to drink from the gourd
-- **Likes on the original post:** 8,274, counted 2026-11-05
+- **Likes on the original post:** 12,309, counted 2026-11-06
 
 Climb a misty mountain road as a wandering traveler in a 3D world painted like ink on paper, leaping gaps and scaling ledges.
 

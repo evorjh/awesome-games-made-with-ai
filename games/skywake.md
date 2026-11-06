@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrows to fly and dive, Shift to boost, Q and E to barrel roll, click or J to sing (hold for a long note), right click or K to shield
-- **Likes on the original post:** 203, counted 2026-11-05
+- **Likes on the original post:** 203, counted 2026-11-06
 
 Ride a sky manta over a turquoise reef in a hand-painted world, following the herd and singing trapped mantas free.
 

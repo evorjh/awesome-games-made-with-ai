@@ -74,7 +74,7 @@
       "aliases": [
         "sonnet 5.5"
       ],
-      "firstSeen": "2026-09-29"
+      "firstSeen": "2026-09-28"
     },
     {
       "id": "claude-fable-5-1",
@@ -729,16 +729,21 @@
       "top": [
         "gxtq68mg8",
         "gq9bdgg2i",
+        "gjaguhz9t",
         "go98yri36",
-        "g7lsoeejk",
-        "gdjlcx9uv"
+        "gron4ulbj"
       ],
       "new": [
         "gxtq68mg8",
         "gq9bdgg2i",
+        "gjaguhz9t",
         "go98yri36",
+        "gron4ulbj",
+        "gqdquwa11",
         "g7lsoeejk",
+        "gmewfnndy",
         "gdjlcx9uv",
+        "gxlln26e4",
         "gcr414zni",
         "g4agci3l3",
         "gv4b2v57t",
@@ -922,8 +927,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 14027,
-      "likesRead": "2026-11-05",
+      "likes": 14053,
+      "likesRead": "2026-11-06",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/poteto/status/2117004709198475365",
       "evidence": {
@@ -1027,8 +1032,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 8274,
-      "likesRead": "2026-11-05",
+      "likes": 12309,
+      "likesRead": "2026-11-06",
       "posted": "2026-11-04",
       "sourceUrl": "https://x.com/xikhar/status/2117776295534997818",
       "evidence": {
@@ -2654,6 +2659,90 @@
       "pageUrl": "https://amusehall.com/games/kings-gambit/"
     },
     {
+      "id": "gjaguhz9t",
+      "slug": "tidebloom-rally",
+      "aliases": [],
+      "title": "Tidebloom Rally",
+      "added": "2026-11-06",
+      "creators": [
+        {
+          "handle": "superalesha",
+          "name": "Alexey Fateev",
+          "url": "https://x.com/superalesha"
+        }
+      ],
+      "primaryHandle": "superalesha",
+      "credits": [
+        {
+          "label": "GPT-6 Astra",
+          "modelId": "gpt-6-astra",
+          "familyId": "gpt",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [
+        "gpt-6-astra"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrow keys to drive, Shift to drift, Space or E for an item, R to reset, P or Esc to pause",
+      "brandIp": false,
+      "description": "A kart racer on a skyway high above a pastel sea, with four reef riders to pick from, drifting, items and three laps against five rivals.",
+      "notes": "Pick one of four sea-creature drivers, from a manta to a night pilot, and race five rivals over three laps of Pearldrift Atoll, a track raised on stilts above a calm turquoise sea. Holding Shift while turning drifts, gold rings along the road add speed, and gadgets picked up on the way fire with Space. The creator built it as one of four karts from the same brief, this one by GPT-6 Astra working alone, to compare how differently AI models build the same game; the other versions sit on the same site. It needs a keyboard, so it's best on a computer.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 1159,
+      "likesRead": "2026-11-06",
+      "posted": "2026-09-15",
+      "sourceUrl": "https://x.com/superalesha/status/2099836448044175427",
+      "evidence": {
+        "url": "https://x.com/superalesha/status/2099836448044175427",
+        "quote": "Same game prompt, each build from scratch. Astra on medium reasoning, DeepSeek on max throughout."
+      },
+      "playUrl": "https://bench-portal.pages.dev/games/kart-astra-solo/",
+      "price": "free",
+      "codeUrl": "https://github.com/alesha-pro/bench-portal/tree/main/games/kart-astra-solo",
+      "media": {
+        "still": "https://media.amusehall.com/tidebloom-rally/still.webp?v=3917bc3c1b",
+        "preview": "https://media.amusehall.com/tidebloom-rally/preview.webp?v=86841289ff",
+        "clip": "https://media.amusehall.com/tidebloom-rally/clip.mp4?v=cb448d13dc",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/tidebloom-rally/"
+    },
+    {
       "id": "go98yri36",
       "slug": "show-of-hands",
       "aliases": [],
@@ -2726,8 +2815,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 1123,
-      "likesRead": "2026-11-05",
+      "likes": 1137,
+      "likesRead": "2026-11-06",
       "posted": "2026-11-03",
       "sourceUrl": "https://x.com/MeticulAi/status/2117474458671689995",
       "evidence": {
@@ -2846,6 +2935,162 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/astral-war/"
+    },
+    {
+      "id": "gron4ulbj",
+      "slug": "chef-clash",
+      "aliases": [],
+      "title": "Chef Clash",
+      "added": "2026-11-06",
+      "creators": [
+        {
+          "handle": "_MaxBlade",
+          "name": "Max Blade",
+          "url": "https://x.com/_MaxBlade"
+        }
+      ],
+      "primaryHandle": "_MaxBlade",
+      "credits": [
+        {
+          "label": "Claude Sonnet 5.5",
+          "modelId": "claude-sonnet-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-sonnet-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrow keys to move, Space to grab or put down, hold E or Ctrl to chop, wash and spray, Shift to dash, or hold the mouse to walk",
+      "brandIp": false,
+      "description": "A head-to-head cooking race in a shared kitchen, chopping, frying and plating orders faster than a rival chef across the counter.",
+      "notes": "Two chefs share one kitchen, each with their own half, and race for three minutes to fill the orders at the top of the screen. You carry one thing at a time: chop tomatoes and lettuce on a board, fry patties, boil soup and pasta, plate the dish and serve it, then wash the plates that come back, while burnt food starts fires you put out with an extinguisher. The tomatoes sit in the middle where both chefs need them, and a dash knocks the food out of your rival's hands. Play online against another person, against a friend with a room code, or against a bot in practice; it needs a keyboard, so it's best on a computer.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 903,
+      "likesRead": "2026-11-06",
+      "posted": "2026-09-28",
+      "sourceUrl": "https://x.com/_MaxBlade/status/2104704696967368758",
+      "evidence": {
+        "url": "https://x.com/_MaxBlade/status/2104704696967368758",
+        "quote": "I asked Sonnet 5.5 to create a overcooked clone i could play in the broswer."
+      },
+      "playUrl": "https://dontdie.wtf/cooked/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/chef-clash/still.webp?v=1afefee112",
+        "preview": "https://media.amusehall.com/chef-clash/preview.webp?v=bbe58682b3",
+        "clip": "https://media.amusehall.com/chef-clash/clip.mp4?v=2eef442673",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/chef-clash/"
+    },
+    {
+      "id": "gqdquwa11",
+      "slug": "tidewater",
+      "aliases": [],
+      "title": "Tidewater",
+      "added": "2026-11-06",
+      "creators": [
+        {
+          "handle": "dangreenheck",
+          "name": "Dan Greenheck",
+          "url": "https://x.com/dangreenheck"
+        }
+      ],
+      "primaryHandle": "dangreenheck",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to look, E to interact, R for the rod, hold the left mouse button to cast and reel, H for settings",
+      "brandIp": false,
+      "description": "A cozy island fishing game: cast from the pier or your boat, fight the fish on the line, sell the catch to Joe and buy better tackle.",
+      "notes": "A tropical island with a pier, a reef and open water, where you fish from the shore or take your own boat out. Hold the mouse button to wind up a cast, wait for the bobber to go under, then keep the line tension in the green while the fish fights; where and when you fish decides which of the 18 species bite. Joe's stand buys the catch, and Marta's chandlery sells better rods, reels and boat parts. The creator says he wanted to see how far Claude Opus 5.5 could go, and the game draws everything with its own WebGPU engine: it needs a recent Chrome, Edge or Safari and a capable graphics card, and the first load can take a minute or two.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 893,
+      "likesRead": "2026-11-06",
+      "posted": "2026-09-24",
+      "sourceUrl": "https://x.com/dangreenheck/status/2103004432786993341",
+      "evidence": {
+        "url": "https://x.com/dangreenheck/status/2103004432786993341",
+        "quote": "Wanted to see how far I could take Opus 5.5."
+      },
+      "playUrl": "https://dgreenheck.github.io/tidewater/",
+      "price": "free",
+      "codeUrl": "https://github.com/dgreenheck/tidewater",
+      "media": {
+        "still": "https://media.amusehall.com/tidewater/still.webp?v=7d6bb04f25",
+        "preview": "https://media.amusehall.com/tidewater/preview.webp?v=e0a5b82069",
+        "clip": "https://media.amusehall.com/tidewater/clip.mp4?v=35b731d22d",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/tidewater/"
     },
     {
       "id": "gpy3pa5mk",
@@ -4190,7 +4435,7 @@
         "text": null
       },
       "likes": 203,
-      "likesRead": "2026-11-05",
+      "likesRead": "2026-11-06",
       "posted": "2026-11-03",
       "sourceUrl": "https://x.com/aniketjart/status/2117508141076378029",
       "evidence": {
@@ -4211,6 +4456,82 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/skywake/"
+    },
+    {
+      "id": "gmewfnndy",
+      "slug": "happy-farm",
+      "aliases": [],
+      "title": "Happy Farm",
+      "added": "2026-11-06",
+      "creators": [
+        {
+          "handle": "alexcooldev",
+          "name": "Alex Nguyen",
+          "url": "https://x.com/alexcooldev"
+        }
+      ],
+      "primaryHandle": "alexcooldev",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Mouse",
+      "brandIp": false,
+      "description": "A cozy farm that teaches a language as you play: grow crops, fill orders and chat with villagers in the language you're learning.",
+      "notes": "Choose the language you speak and one of six to learn, from Spanish to Korean, and you land on a bright isometric farm with fields, a barn, a chicken coop and a market stall. Planting, harvesting and filling orders earn coins and levels, while the schoolhouse's lessons and the villagers' chats teach the words that go with them, so the farm and the vocabulary grow together. The creator says Claude Opus 5.5 built all of it, with the art made by GPT Image 2.6. It plays with the mouse.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 194,
+      "likesRead": "2026-11-06",
+      "posted": "2026-11-05",
+      "sourceUrl": "https://x.com/alexcooldev/status/2118446768006541800",
+      "evidence": {
+        "url": "https://x.com/alexcooldev/status/2118446768006541800",
+        "quote": "Built entirely with Opus 5.5 + GPT-Image-2.6."
+      },
+      "playUrl": "https://cozy-farm-2d.rork.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/happy-farm/still.webp?v=6add1d725b",
+        "preview": "https://media.amusehall.com/happy-farm/preview.webp?v=033ac778d6",
+        "clip": "https://media.amusehall.com/happy-farm/clip.mp4?v=7d5d3197bd",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/happy-farm/"
     },
     {
       "id": "g66ibbf9z",
@@ -4987,7 +5308,7 @@
         "text": null
       },
       "likes": 112,
-      "likesRead": "2026-11-05",
+      "likesRead": "2026-11-06",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/BenjaminDEKR/status/2117042700872802448",
       "evidence": {
@@ -7555,6 +7876,94 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gxlln26e4",
+      "slug": "take-one",
+      "aliases": [],
+      "title": "Take One",
+      "added": "2026-11-06",
+      "creators": [
+        {
+          "handle": "Bonelessgummybear",
+          "url": "https://www.reddit.com/user/Bonelessgummybear"
+        }
+      ],
+      "primaryHandle": "Bonelessgummybear",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "elevenlabs",
+          "name": "ElevenLabs",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "horror",
+          "name": "Horror"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to look, Shift to sprint, C to crouch, E to use, F for the flashlight",
+      "brandIp": false,
+      "description": "On Halloween night your daughter and the dog vanish into a house with a TAKE ONE sign on the porch, and you go in after them with a flashlight.",
+      "notes": "It's Halloween, your daughter runs ahead to a porch with a bowl of candy and a TAKE ONE sign, and when you look up from your phone she and the dog are gone. You go into the house in first person with a flashlight, and it gets worse floor by floor, from a too-tidy ground floor down to a rotting basement. The creator says it takes about six minutes if you know where to go, and made it in 52 hours with Claude writing the code, 150 models from Tripo and sound from ElevenLabs. Click Start, then the game takes the mouse; it needs a keyboard, so play on a computer.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-30",
+      "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xjh65y/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/vibecoding/comments/1xjh65y/",
+        "quote": "The code is Claude; I don't write code, I direct, playtest and decide."
+      },
+      "playUrl": "https://take-one-bay.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/take-one/still.webp?v=3285723f88",
+        "preview": "https://media.amusehall.com/take-one/preview.webp?v=d45e2776b7",
+        "clip": "https://media.amusehall.com/take-one/clip.mp4?v=bb12f03083",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/take-one/"
     },
     {
       "id": "gcr414zni",
@@ -12432,11 +12841,11 @@
         "grrn1mt5i",
         "g8ze3q86y",
         "gng0kobry",
+        "gqdquwa11",
         "gpy3pa5mk",
         "g7k2m9q4x",
         "g361pfe4r",
-        "gj0w80p9f",
-        "g7lsoeejk"
+        "gj0w80p9f"
       ]
     },
     "families": [
@@ -12457,6 +12866,8 @@
           "gpmj9q9ol",
           "g9t4d43un",
           "go98yri36",
+          "gron4ulbj",
+          "gqdquwa11",
           "gpy3pa5mk",
           "g9141ggib",
           "g7k2m9q4x",
@@ -12466,6 +12877,7 @@
           "gserfbtbt",
           "gj0w80p9f",
           "g1xjn72p6",
+          "gmewfnndy",
           "g66ibbf9z",
           "gb5kg9kry",
           "gy0933kol",
@@ -12492,6 +12904,7 @@
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "gxlln26e4",
           "gcr414zni",
           "g4agci3l3",
           "gv4b2v57t",
@@ -12550,6 +12963,7 @@
           "gbb6qnox9",
           "gfn5t9qc7",
           "gw6g09v6h",
+          "gjaguhz9t",
           "ghr9cl8oz",
           "g4slt3fal",
           "gnqa68iap",
@@ -12593,16 +13007,21 @@
       "topIds": [
         "gxtq68mg8",
         "gq9bdgg2i",
+        "gjaguhz9t",
         "go98yri36",
-        "g7lsoeejk",
-        "gdjlcx9uv"
+        "gron4ulbj"
       ],
       "newIds": [
         "gxtq68mg8",
         "gq9bdgg2i",
+        "gjaguhz9t",
         "go98yri36",
+        "gron4ulbj",
+        "gqdquwa11",
         "g7lsoeejk",
+        "gmewfnndy",
         "gdjlcx9uv",
+        "gxlln26e4",
         "gcr414zni",
         "g4agci3l3",
         "gv4b2v57t",
