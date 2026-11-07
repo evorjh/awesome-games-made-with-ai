@@ -451,6 +451,13 @@
       "referral_url": null
     },
     {
+      "id": "cannon-es",
+      "name": "cannon-es",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
       "id": "blender",
       "name": "Blender",
       "kind": "app",
@@ -516,6 +523,27 @@
     {
       "id": "higgsfield",
       "name": "Higgsfield",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "mixamo",
+      "name": "Mixamo",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "mesh2motion",
+      "name": "Mesh2Motion",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "chatterbox",
+      "name": "Chatterbox",
       "kind": "app",
       "family": null,
       "referral_url": null
@@ -753,6 +781,7 @@
         "gaz9ilkcu",
         "gnioogdup",
         "grgw57tv7",
+        "gw537e8n4",
         "gxlln26e4",
         "gcr414zni",
         "g4agci3l3",
@@ -8168,6 +8197,120 @@
       "pageUrl": "https://amusehall.com/games/mt-mogul/"
     },
     {
+      "id": "gw537e8n4",
+      "slug": "ram-man",
+      "aliases": [],
+      "title": "Ram Man: Half Goat, Half God",
+      "added": "2026-11-07",
+      "creators": [
+        {
+          "handle": "iaz54",
+          "name": "Azreal the fallen",
+          "url": "https://x.com/iaz54"
+        }
+      ],
+      "primaryHandle": "iaz54",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "cannon-es",
+          "name": "cannon-es",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "meshy",
+          "name": "Meshy",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "mixamo",
+          "name": "Mixamo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "mesh2motion",
+          "name": "Mesh2Motion",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "chatterbox",
+          "name": "Chatterbox",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "WASD to move, J or Space to attack, K to ram, L or Shift to dodge, E to grab; touch buttons on phones",
+      "brandIp": false,
+      "description": "A 3D beat 'em up in a rainy neon city, where a goat-headed demigod brawls through gang turf to win back the Golden Fleece.",
+      "notes": "Azreal the fallen built it in three.js with Claude, which they say wrote most of the code, and made the characters with Meshy and the voices with Chatterbox. A voiced opening film tells how the old gods left the city and a gang stole the Golden Fleece, then you fight through Neon Row with combos, a horn charge, dodges and grabs that lift crates, trash cans, thugs and parked cars. Golden Fleeces lend powers from Zeus, Poseidon, Hermes, Ares and Medusa, and a run goes on into generated districts, five bosses, side quests and New Game+. The creator updates it often; on a computer the touch buttons stay on screen, which crowds the corner a little.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-14",
+      "sourceUrl": "https://azreal-the-fallen.itch.io/ram-man",
+      "evidence": {
+        "url": "https://itch.io/jam/ai-game-awards-jam-2026/rate/5139608",
+        "quote": "Ram Man was made with help from AI tools, mainly Claude: AI helped write the code, create the 3D models, generate the character voices, and draft in-game text."
+      },
+      "playUrl": "https://azreal-the-fallen.itch.io/ram-man",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/ram-man/still.webp?v=f84a629f5a",
+        "preview": "https://media.amusehall.com/ram-man/preview.webp?v=0e717491b7",
+        "clip": "https://media.amusehall.com/ram-man/clip.mp4?v=7ea744e125",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/ram-man/"
+    },
+    {
       "id": "gxlln26e4",
       "slug": "take-one",
       "aliases": [],
@@ -13197,6 +13340,7 @@
           "gaz9ilkcu",
           "gnioogdup",
           "grgw57tv7",
+          "gw537e8n4",
           "gxlln26e4",
           "gcr414zni",
           "g4agci3l3",
@@ -13317,6 +13461,7 @@
         "gaz9ilkcu",
         "gnioogdup",
         "grgw57tv7",
+        "gw537e8n4",
         "gxlln26e4",
         "gcr414zni",
         "g4agci3l3",
