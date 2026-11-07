@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrow keys to drive, Shift to drift, Space or E for an item, R to reset, P or Esc to pause
-- **Likes on the original post:** 1,159, counted 2026-11-06
+- **Likes on the original post:** 1,160, counted 2026-11-07
 
 A kart racer on a skyway high above a pastel sea, with four reef riders to pick from, drifting, items and three laps against five rivals.
 

@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Hand gestures through your webcam (wave, pinch, fist, clap), or the mouse and keyboard; each game shows its own
-- **Likes on the original post:** 1,137, counted 2026-11-06
+- **Likes on the original post:** 1,141, counted 2026-11-07
 
 Fifteen small 3D games played with your bare hands through a webcam, from steering a starship to releasing lanterns on a night lake.
 

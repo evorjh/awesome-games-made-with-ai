@@ -5,10 +5,10 @@
     "media_base_url": "https://media.amusehall.com",
     "repo_url": "https://github.com/evorjh/awesome-games-made-with-ai",
     "contact_email": "hello@amusehall.com",
-    "mosaic": "mosaic.webp?v=87a2f267e5",
+    "mosaic": "mosaic.webp?v=39e7a1f9fc",
     "mosaic_games": [
-      "gxtq68mg8",
       "gq9bdgg2i",
+      "gxtq68mg8",
       "g7er41or1",
       "g1bjx9y59",
       "grrn1mt5i",
@@ -500,6 +500,13 @@
       "referral_url": null
     },
     {
+      "id": "seedance",
+      "name": "Seedance",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
       "id": "suno",
       "name": "Suno",
       "kind": "app",
@@ -725,24 +732,27 @@
       "number": 2,
       "week_start": "2026-11-02",
       "published": null,
-      "game_of_the_week": "gxtq68mg8",
+      "game_of_the_week": "gq9bdgg2i",
       "top": [
-        "gxtq68mg8",
         "gq9bdgg2i",
+        "gxtq68mg8",
         "gjaguhz9t",
         "go98yri36",
-        "gron4ulbj"
+        "gmewfnndy"
       ],
       "new": [
-        "gxtq68mg8",
         "gq9bdgg2i",
+        "gxtq68mg8",
         "gjaguhz9t",
         "go98yri36",
+        "gmewfnndy",
         "gron4ulbj",
         "gqdquwa11",
         "g7lsoeejk",
-        "gmewfnndy",
         "gdjlcx9uv",
+        "gaz9ilkcu",
+        "gnioogdup",
+        "grgw57tv7",
         "gxlln26e4",
         "gcr414zni",
         "g4agci3l3",
@@ -855,102 +865,6 @@
       "pageUrl": "https://amusehall.com/games/little-prince-among-the-stars/"
     },
     {
-      "id": "gxtq68mg8",
-      "slug": "tibo-dog",
-      "aliases": [],
-      "title": "tibo.dog",
-      "added": "2026-11-02",
-      "creators": [
-        {
-          "handle": "poteto",
-          "name": "lauren",
-          "url": "https://x.com/poteto"
-        }
-      ],
-      "primaryHandle": "poteto",
-      "credits": [
-        {
-          "label": "Grok Bot",
-          "modelId": null,
-          "familyId": "grok",
-          "toolId": "grok-bot"
-        },
-        {
-          "label": "Cursor (model not named)",
-          "modelId": null,
-          "familyId": "",
-          "toolId": "cursor"
-        }
-      ],
-      "primaryFamily": "grok",
-      "familyIds": [
-        "grok"
-      ],
-      "modelIds": [],
-      "tools": [
-        {
-          "id": "grok-bot",
-          "name": "Grok Bot",
-          "kind": "ai",
-          "family": "grok",
-          "referral_url": null
-        },
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "action",
-          "name": "Action"
-        },
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        }
-      ],
-      "devices": [
-        "desktop",
-        "phone"
-      ],
-      "controls": "WASD or arrow keys to move, Space to dash, P to pause, 1 to 3 or the mouse to pick an upgrade; drag to move and flick to dash on phones",
-      "brandIp": false,
-      "description": "Keep Tibo alive for 20 minutes as a horde closes in, choosing a new kitchen weapon or perk from three cards at every level-up.",
-      "notes": "Its creator built this survive-the-horde game in four days as a side project, and made it play inside an X post as well as in its own tab. You walk Tibo across a pixel-art farm while the weapons fire on their own, and each level-up offers three cards, such as a peeler that slashes sideways or a gravy boat that leaves scalding pools, with rerolls, skips and banishes to steer the build. A short story mode comes first, then Easy to Nightmare runs that ask you to last 20 minutes. The creator says every sprite, song and sound effect is drawn or synthesized by code, with no image or audio files.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "likes": 14053,
-      "likesRead": "2026-11-06",
-      "posted": "2026-11-01",
-      "sourceUrl": "https://x.com/poteto/status/2117004709198475365",
-      "evidence": {
-        "url": "https://x.com/poteto/status/2117004709198475365",
-        "quote": "i spent $5.99 on this domain, but i had a blast making it with grok bot and cursor!"
-      },
-      "playUrl": "https://tibo.dog/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/tibo-dog/still.webp?v=31d4465de1",
-        "preview": "https://media.amusehall.com/tibo-dog/preview.webp?v=e6cc225490",
-        "clip": "https://media.amusehall.com/tibo-dog/clip.mp4?v=52c0cc341d",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/tibo-dog/"
-    },
-    {
       "id": "gq9bdgg2i",
       "slug": "sumiro",
       "aliases": [],
@@ -1032,8 +946,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 12309,
-      "likesRead": "2026-11-06",
+      "likes": 15139,
+      "likesRead": "2026-11-07",
       "posted": "2026-11-04",
       "sourceUrl": "https://x.com/xikhar/status/2117776295534997818",
       "evidence": {
@@ -1054,6 +968,102 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/sumiro/"
+    },
+    {
+      "id": "gxtq68mg8",
+      "slug": "tibo-dog",
+      "aliases": [],
+      "title": "tibo.dog",
+      "added": "2026-11-02",
+      "creators": [
+        {
+          "handle": "poteto",
+          "name": "lauren",
+          "url": "https://x.com/poteto"
+        }
+      ],
+      "primaryHandle": "poteto",
+      "credits": [
+        {
+          "label": "Grok Bot",
+          "modelId": null,
+          "familyId": "grok",
+          "toolId": "grok-bot"
+        },
+        {
+          "label": "Cursor (model not named)",
+          "modelId": null,
+          "familyId": "",
+          "toolId": "cursor"
+        }
+      ],
+      "primaryFamily": "grok",
+      "familyIds": [
+        "grok"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "grok-bot",
+          "name": "Grok Bot",
+          "kind": "ai",
+          "family": "grok",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "WASD or arrow keys to move, Space to dash, P to pause, 1 to 3 or the mouse to pick an upgrade; drag to move and flick to dash on phones",
+      "brandIp": false,
+      "description": "Keep Tibo alive for 20 minutes as a horde closes in, choosing a new kitchen weapon or perk from three cards at every level-up.",
+      "notes": "Its creator built this survive-the-horde game in four days as a side project, and made it play inside an X post as well as in its own tab. You walk Tibo across a pixel-art farm while the weapons fire on their own, and each level-up offers three cards, such as a peeler that slashes sideways or a gravy boat that leaves scalding pools, with rerolls, skips and banishes to steer the build. A short story mode comes first, then Easy to Nightmare runs that ask you to last 20 minutes. The creator says every sprite, song and sound effect is drawn or synthesized by code, with no image or audio files.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 14060,
+      "likesRead": "2026-11-07",
+      "posted": "2026-11-01",
+      "sourceUrl": "https://x.com/poteto/status/2117004709198475365",
+      "evidence": {
+        "url": "https://x.com/poteto/status/2117004709198475365",
+        "quote": "i spent $5.99 on this domain, but i had a blast making it with grok bot and cursor!"
+      },
+      "playUrl": "https://tibo.dog/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/tibo-dog/still.webp?v=31d4465de1",
+        "preview": "https://media.amusehall.com/tibo-dog/preview.webp?v=e6cc225490",
+        "clip": "https://media.amusehall.com/tibo-dog/clip.mp4?v=52c0cc341d",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/tibo-dog/"
     },
     {
       "id": "g7er41or1",
@@ -2719,8 +2729,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 1159,
-      "likesRead": "2026-11-06",
+      "likes": 1160,
+      "likesRead": "2026-11-07",
       "posted": "2026-09-15",
       "sourceUrl": "https://x.com/superalesha/status/2099836448044175427",
       "evidence": {
@@ -2815,8 +2825,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 1137,
-      "likesRead": "2026-11-06",
+      "likes": 1141,
+      "likesRead": "2026-11-07",
       "posted": "2026-11-03",
       "sourceUrl": "https://x.com/MeticulAi/status/2117474458671689995",
       "evidence": {
@@ -2837,6 +2847,82 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/show-of-hands/"
+    },
+    {
+      "id": "gmewfnndy",
+      "slug": "happy-farm",
+      "aliases": [],
+      "title": "Happy Farm",
+      "added": "2026-11-06",
+      "creators": [
+        {
+          "handle": "alexcooldev",
+          "name": "Alex Nguyen",
+          "url": "https://x.com/alexcooldev"
+        }
+      ],
+      "primaryHandle": "alexcooldev",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Mouse",
+      "brandIp": false,
+      "description": "A cozy farm that teaches a language as you play: grow crops, fill orders and chat with villagers in the language you're learning.",
+      "notes": "Choose the language you speak and one of six to learn, from Spanish to Korean, and you land on a bright isometric farm with fields, a barn, a chicken coop and a market stall. Planting, harvesting and filling orders earn coins and levels, while the schoolhouse's lessons and the villagers' chats teach the words that go with them, so the farm and the vocabulary grow together. The creator says Claude Opus 5.5 built all of it, with the art made by GPT Image 2.6. It plays with the mouse.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 1020,
+      "likesRead": "2026-11-07",
+      "posted": "2026-11-05",
+      "sourceUrl": "https://x.com/alexcooldev/status/2118446768006541800",
+      "evidence": {
+        "url": "https://x.com/alexcooldev/status/2118446768006541800",
+        "quote": "Built entirely with Opus 5.5 + GPT-Image-2.6."
+      },
+      "playUrl": "https://cozy-farm-2d.rork.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/happy-farm/still.webp?v=6add1d725b",
+        "preview": "https://media.amusehall.com/happy-farm/preview.webp?v=033ac778d6",
+        "clip": "https://media.amusehall.com/happy-farm/clip.mp4?v=7d5d3197bd",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/happy-farm/"
     },
     {
       "id": "ghr9cl8oz",
@@ -2990,7 +3076,7 @@
         "text": null
       },
       "likes": 903,
-      "likesRead": "2026-11-06",
+      "likesRead": "2026-11-07",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/_MaxBlade/status/2104704696967368758",
       "evidence": {
@@ -3070,7 +3156,7 @@
         "text": null
       },
       "likes": 893,
-      "likesRead": "2026-11-06",
+      "likesRead": "2026-11-07",
       "posted": "2026-09-24",
       "sourceUrl": "https://x.com/dangreenheck/status/2103004432786993341",
       "evidence": {
@@ -4435,7 +4521,7 @@
         "text": null
       },
       "likes": 203,
-      "likesRead": "2026-11-06",
+      "likesRead": "2026-11-07",
       "posted": "2026-11-03",
       "sourceUrl": "https://x.com/aniketjart/status/2117508141076378029",
       "evidence": {
@@ -4456,82 +4542,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/skywake/"
-    },
-    {
-      "id": "gmewfnndy",
-      "slug": "happy-farm",
-      "aliases": [],
-      "title": "Happy Farm",
-      "added": "2026-11-06",
-      "creators": [
-        {
-          "handle": "alexcooldev",
-          "name": "Alex Nguyen",
-          "url": "https://x.com/alexcooldev"
-        }
-      ],
-      "primaryHandle": "alexcooldev",
-      "credits": [
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-opus-5-5"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "simulation",
-          "name": "Simulation"
-        },
-        {
-          "id": "cozy",
-          "name": "Cozy"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "Mouse",
-      "brandIp": false,
-      "description": "A cozy farm that teaches a language as you play: grow crops, fill orders and chat with villagers in the language you're learning.",
-      "notes": "Choose the language you speak and one of six to learn, from Spanish to Korean, and you land on a bright isometric farm with fields, a barn, a chicken coop and a market stall. Planting, harvesting and filling orders earn coins and levels, while the schoolhouse's lessons and the villagers' chats teach the words that go with them, so the farm and the vocabulary grow together. The creator says Claude Opus 5.5 built all of it, with the art made by GPT Image 2.6. It plays with the mouse.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "likes": 194,
-      "likesRead": "2026-11-06",
-      "posted": "2026-11-05",
-      "sourceUrl": "https://x.com/alexcooldev/status/2118446768006541800",
-      "evidence": {
-        "url": "https://x.com/alexcooldev/status/2118446768006541800",
-        "quote": "Built entirely with Opus 5.5 + GPT-Image-2.6."
-      },
-      "playUrl": "https://cozy-farm-2d.rork.app/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/happy-farm/still.webp?v=6add1d725b",
-        "preview": "https://media.amusehall.com/happy-farm/preview.webp?v=033ac778d6",
-        "clip": "https://media.amusehall.com/happy-farm/clip.mp4?v=7d5d3197bd",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/happy-farm/"
     },
     {
       "id": "g66ibbf9z",
@@ -5308,7 +5318,7 @@
         "text": null
       },
       "likes": 112,
-      "likesRead": "2026-11-06",
+      "likesRead": "2026-11-07",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/BenjaminDEKR/status/2117042700872802448",
       "evidence": {
@@ -7876,6 +7886,286 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gaz9ilkcu",
+      "slug": "agentic-wars-conquest",
+      "aliases": [],
+      "title": "Agentic Wars: Conquest",
+      "added": "2026-11-07",
+      "creators": [
+        {
+          "handle": "Virtual_Hair_1987",
+          "url": "https://www.reddit.com/user/Virtual_Hair_1987"
+        }
+      ],
+      "primaryHandle": "Virtual_Hair_1987",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to aim and shoot, F for your class gadget, Q for the sentry turret, G for a grenade, 1 and 2 to switch weapons, Tab for the score, Esc for the menu",
+      "brandIp": false,
+      "description": "A conquest shooter where four parody AI-lab factions fight over capture points, 4v4 up to 12v12, against bots in your browser or online in a beta.",
+      "notes": "The creator built this team shooter with Claude Opus 5.5 and Blender, on three.js. Pick a map such as Times Square or Doom Town, a team size from 4v4 to 12v12 and how sharp the bots are, then a class and a spawn flag, and fight to hold the capture points while the other side's tickets run down. The factions are fans' parodies of AI labs, and the points you earn in matches buy skins and paint that change looks, never stats. Space starts a match against bots on your own machine; Play Online, still a beta, puts you among other players.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-31",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeGameDev/comments/1xjxrrq/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xjxrrq/",
+        "quote": "My browser multiplayer shooter using Claude Opus 5.5 + Blender"
+      },
+      "playUrl": "https://agenticwarsconquest.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/agentic-wars-conquest/still.webp?v=486393ceb5",
+        "preview": "https://media.amusehall.com/agentic-wars-conquest/preview.webp?v=57c9b50018",
+        "clip": "https://media.amusehall.com/agentic-wars-conquest/clip.mp4?v=36778c5105",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/agentic-wars-conquest/"
+    },
+    {
+      "id": "gnioogdup",
+      "slug": "finding-idlepeep",
+      "aliases": [],
+      "title": "Finding IdlePeep: Tables by the River",
+      "added": "2026-11-07",
+      "creators": [
+        {
+          "handle": "RedKard76",
+          "url": "https://www.reddit.com/user/RedKard76"
+        }
+      ],
+      "primaryHandle": "RedKard76",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "meshy",
+          "name": "Meshy",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "elevenlabs",
+          "name": "ElevenLabs",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "seedance",
+          "name": "Seedance",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to walk, drag to look, M for the map; at the table, click the cup to throw and click checkers to move",
+      "brandIp": false,
+      "description": "Walk a frozen medieval lane to the river and play Tables, an old form of backgammon, against Quinn, one of five friends from D. M. Andrews's novel.",
+      "notes": "D. M. Andrews made this companion to their novel Finding IdlePeep, and says Claude Code built it from a plan Claude wrote: the 3D village, the board from their own artwork, the dice physics and the opponent. You walk a foggy lane of thatched houses down to the river, sit at a stone wall and play Tables against Quinn at a gentle, fair or sharp level, with spoken lines and short video cutaways. The credits say the rules engine and Quinn are built from Watchfire Games' Golden Point Backgammon engine. Loading and the walk to the table take about a minute, and the site around the game is the novel's, with the book and a shop.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-31",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeAI/comments/1xjxf1l/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjxf1l/",
+        "quote": "Claude wrote a full build plan and Claude Code built the whole entire thing"
+      },
+      "playUrl": "https://www.idlepeep.com/play/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/finding-idlepeep/still.webp?v=00a34897a0",
+        "preview": "https://media.amusehall.com/finding-idlepeep/preview.webp?v=d04eede7eb",
+        "clip": "https://media.amusehall.com/finding-idlepeep/clip.mp4?v=01bebaaab5",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/finding-idlepeep/"
+    },
+    {
+      "id": "grgw57tv7",
+      "slug": "mt-mogul",
+      "aliases": [],
+      "title": "Mountain Mogul",
+      "added": "2026-11-07",
+      "creators": [
+        {
+          "handle": "phildbs",
+          "url": "https://www.reddit.com/user/phildbs"
+        }
+      ],
+      "primaryHandle": "phildbs",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Mouse to pick and place, drag to move, scroll to zoom, Q and E to rotate, 1 to 5 for tools, click a trail or lift to inspect it",
+      "brandIp": false,
+      "description": "Turn an untouched New England hill into a ski resort: place lifts, trails and lodges, open for the day and keep skiers coming through thaws and ice storms.",
+      "notes": "The creator built this ski-resort tycoon in 11 days, describing what they wanted while Claude Code wrote the code. You start in December with two weeks before the holiday crowds, then place lifts, trails, lodges and parking, make snow and open the mountain one day at a time, reading each evening's report for what to fix. A starter-resort button builds a first lift, trail and lodge for you, and there's a three-minute tutorial and a sandbox with unlimited money. It plays as a guest with no account; a four-player online mode, King of the Mountain, is separate.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-27",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeGameDev/comments/1xgr37y/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xgr37y/",
+        "quote": "Claude Code wrote the code."
+      },
+      "playUrl": "https://mtmogul.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/mt-mogul/still.webp?v=1692232523",
+        "preview": "https://media.amusehall.com/mt-mogul/preview.webp?v=a12cba971c",
+        "clip": "https://media.amusehall.com/mt-mogul/clip.mp4?v=9c461b3b50",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/mt-mogul/"
     },
     {
       "id": "gxlln26e4",
@@ -12841,11 +13131,11 @@
         "grrn1mt5i",
         "g8ze3q86y",
         "gng0kobry",
+        "gmewfnndy",
         "gqdquwa11",
         "gpy3pa5mk",
         "g7k2m9q4x",
-        "g361pfe4r",
-        "gj0w80p9f"
+        "g361pfe4r"
       ]
     },
     "families": [
@@ -12866,6 +13156,7 @@
           "gpmj9q9ol",
           "g9t4d43un",
           "go98yri36",
+          "gmewfnndy",
           "gron4ulbj",
           "gqdquwa11",
           "gpy3pa5mk",
@@ -12877,7 +13168,6 @@
           "gserfbtbt",
           "gj0w80p9f",
           "g1xjn72p6",
-          "gmewfnndy",
           "g66ibbf9z",
           "gb5kg9kry",
           "gy0933kol",
@@ -12904,6 +13194,9 @@
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "gaz9ilkcu",
+          "gnioogdup",
+          "grgw57tv7",
           "gxlln26e4",
           "gcr414zni",
           "g4agci3l3",
@@ -13003,24 +13296,27 @@
       "number": 2,
       "weekStart": "2026-11-02",
       "published": null,
-      "gameOfTheWeekId": "gxtq68mg8",
+      "gameOfTheWeekId": "gq9bdgg2i",
       "topIds": [
-        "gxtq68mg8",
         "gq9bdgg2i",
+        "gxtq68mg8",
         "gjaguhz9t",
         "go98yri36",
-        "gron4ulbj"
+        "gmewfnndy"
       ],
       "newIds": [
-        "gxtq68mg8",
         "gq9bdgg2i",
+        "gxtq68mg8",
         "gjaguhz9t",
         "go98yri36",
+        "gmewfnndy",
         "gron4ulbj",
         "gqdquwa11",
         "g7lsoeejk",
-        "gmewfnndy",
         "gdjlcx9uv",
+        "gaz9ilkcu",
+        "gnioogdup",
+        "grgw57tv7",
         "gxlln26e4",
         "gcr414zni",
         "g4agci3l3",
