@@ -778,6 +778,9 @@
         "gqdquwa11",
         "g7lsoeejk",
         "gdjlcx9uv",
+        "g8ts281cp",
+        "g8723hxsn",
+        "g15lg3dbd",
         "gaz9ilkcu",
         "gnioogdup",
         "grgw57tv7",
@@ -975,8 +978,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 15139,
-      "likesRead": "2026-11-07",
+      "likes": 15413,
+      "likesRead": "2026-11-08",
       "posted": "2026-11-04",
       "sourceUrl": "https://x.com/xikhar/status/2117776295534997818",
       "evidence": {
@@ -1071,8 +1074,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 14060,
-      "likesRead": "2026-11-07",
+      "likes": 14077,
+      "likesRead": "2026-11-08",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/poteto/status/2117004709198475365",
       "evidence": {
@@ -2758,8 +2761,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 1160,
-      "likesRead": "2026-11-07",
+      "likes": 1158,
+      "likesRead": "2026-11-08",
       "posted": "2026-09-15",
       "sourceUrl": "https://x.com/superalesha/status/2099836448044175427",
       "evidence": {
@@ -2854,8 +2857,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 1141,
-      "likesRead": "2026-11-07",
+      "likes": 1148,
+      "likesRead": "2026-11-08",
       "posted": "2026-11-03",
       "sourceUrl": "https://x.com/MeticulAi/status/2117474458671689995",
       "evidence": {
@@ -2930,8 +2933,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 1020,
-      "likesRead": "2026-11-07",
+      "likes": 1078,
+      "likesRead": "2026-11-08",
       "posted": "2026-11-05",
       "sourceUrl": "https://x.com/alexcooldev/status/2118446768006541800",
       "evidence": {
@@ -3105,7 +3108,7 @@
         "text": null
       },
       "likes": 903,
-      "likesRead": "2026-11-07",
+      "likesRead": "2026-11-08",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/_MaxBlade/status/2104704696967368758",
       "evidence": {
@@ -3184,8 +3187,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 893,
-      "likesRead": "2026-11-07",
+      "likes": 894,
+      "likesRead": "2026-11-08",
       "posted": "2026-09-24",
       "sourceUrl": "https://x.com/dangreenheck/status/2103004432786993341",
       "evidence": {
@@ -4549,8 +4552,8 @@
         "source_url": null,
         "text": null
       },
-      "likes": 203,
-      "likesRead": "2026-11-07",
+      "likes": 202,
+      "likesRead": "2026-11-08",
       "posted": "2026-11-03",
       "sourceUrl": "https://x.com/aniketjart/status/2117508141076378029",
       "evidence": {
@@ -5347,7 +5350,7 @@
         "text": null
       },
       "likes": 112,
-      "likesRead": "2026-11-07",
+      "likesRead": "2026-11-08",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/BenjaminDEKR/status/2117042700872802448",
       "evidence": {
@@ -7915,6 +7918,266 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "g8ts281cp",
+      "slug": "dragonscape-idle",
+      "aliases": [],
+      "title": "DragonScape Idle",
+      "added": "2026-11-08",
+      "creators": [
+        {
+          "handle": "SushiMasterPro",
+          "url": "https://www.reddit.com/user/SushiMasterPro"
+        }
+      ],
+      "primaryHandle": "SushiMasterPro",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "rpg",
+          "name": "RPG"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Mouse or touch to pick a skill, a quest or a fight, and to manage your inventory and shop",
+      "brandIp": false,
+      "description": "An idle fantasy RPG in the old-school MMO mould: train 19 skills, follow quests and fight monsters while your hero keeps working after you close the tab.",
+      "notes": "The creator vibecoded this idle RPG with Claude Code and says it has around 500 daily players. You wash up on a tutorial island with a small net, then pick a skill such as fishing, woodcutting or mining and let your hero work it, even with the tab closed, while a chain of quests opens up cooking, combat, crafting and more. Skill gloves, supplies and tools come from an in-game shop, and gems can also be bought. It's an open beta: every hero starts fresh at the global launch on 30 January 2027.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-28",
+      "sourceUrl": "https://www.reddit.com/r/vibecoding/comments/1xhz8dg/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/vibecoding/comments/1xhz8dg/",
+        "quote": "The stack (React, TypeScript, Vite, Tailwind, Firebase, Claude Code)."
+      },
+      "playUrl": "https://dragonscapeidle.com/",
+      "price": "free-with-purchases",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/dragonscape-idle/still.webp?v=081fc1e4c8",
+        "preview": "https://media.amusehall.com/dragonscape-idle/preview.webp?v=964c192010",
+        "clip": "https://media.amusehall.com/dragonscape-idle/clip.mp4?v=952c9627e3",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/dragonscape-idle/"
+    },
+    {
+      "id": "g8723hxsn",
+      "slug": "powder-kings",
+      "aliases": [],
+      "title": "Powder Kings",
+      "added": "2026-11-08",
+      "creators": [
+        {
+          "handle": "turnerskizzle",
+          "url": "https://www.reddit.com/user/turnerskizzle"
+        }
+      ],
+      "primaryHandle": "turnerskizzle",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "higgsfield",
+          "name": "Higgsfield",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "sports",
+          "name": "Sports"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Left and Right arrows to carve and spin, Space to jump and grab, hold Shift to boost, Down to brake, R to restart; on a phone, touch to steer, with buttons to jump and boost",
+      "brandIp": false,
+      "description": "Race down a new snowboard course every day: carve the banks, send the kickers for grabs and spins, and chase other riders' ghosts for the day's crown.",
+      "notes": "The creator wrote the game with Claude Code, made the concept sheets and the announcer's voice with Higgsfield, and built and rigged the rider in Blender by script. Each day brings a new mountain, sometimes a rare night run, and one leaderboard: carve with the arrow keys, jump at the lip of a kicker, grab in the air, and land facing downhill to keep your speed. Big air and tricks fill a boost meter, and you race the ghosts of other riders' runs. It plays as a guest; signing in by email code only carries your rider across devices.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-31",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1xkfdv6/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/aigamedev/comments/1xkfdv6/",
+        "quote": "Claude Code for general coding"
+      },
+      "playUrl": "https://powderkings.gg/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/powder-kings/still.webp?v=65b29e4751",
+        "preview": "https://media.amusehall.com/powder-kings/preview.webp?v=711fe7f2f0",
+        "clip": "https://media.amusehall.com/powder-kings/clip.mp4?v=1f97ad030b",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/powder-kings/"
+    },
+    {
+      "id": "g15lg3dbd",
+      "slug": "zeno-ai-strikers",
+      "aliases": [],
+      "title": "Zeno AI Strikers",
+      "added": "2026-11-08",
+      "creators": [
+        {
+          "handle": "YasuoMain528",
+          "url": "https://www.reddit.com/user/YasuoMain528"
+        }
+      ],
+      "primaryHandle": "YasuoMain528",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "sports",
+          "name": "Sports"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "W A S D or arrows to move, Space to sprint, J to pass or switch player, hold K to charge a shot, L to juke or slide tackle, I to lob; gamepads and a touch joystick work too",
+      "brandIp": true,
+      "description": "A fast five-a-side football game against the computer: pick two national teams, then pass, charge shots that curl and dip, and slide in for tackles.",
+      "notes": "The creator designed this arcade football game while Claude Code wrote the code. You pick your team and the opponent from sixteen nations, each led by a captain with their own speed, shooting and passing, then play a short match against the computer at one of three difficulties. Shots are charged by holding the button, with height and curl from how you lean and steer, and there are lobs, through balls, jukes and slide tackles. Penalty shootouts, a tournament and a local two-player mode sit beside the match; the creator says online play still has bugs. The captains carry real footballers' names.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-28",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeAI/comments/1xhrdvj/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhrdvj/",
+        "quote": "I built this one and Claude Code wrote the code."
+      },
+      "playUrl": "https://zeno-ai-strikers.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/zeno-ai-strikers/still.webp?v=dc509f0324",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/zeno-ai-strikers/"
     },
     {
       "id": "gaz9ilkcu",
@@ -13337,6 +13600,9 @@
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "g8ts281cp",
+          "g8723hxsn",
+          "g15lg3dbd",
           "gaz9ilkcu",
           "gnioogdup",
           "grgw57tv7",
@@ -13458,6 +13724,9 @@
         "gqdquwa11",
         "g7lsoeejk",
         "gdjlcx9uv",
+        "g8ts281cp",
+        "g8723hxsn",
+        "g15lg3dbd",
         "gaz9ilkcu",
         "gnioogdup",
         "grgw57tv7",

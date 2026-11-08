@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, mouse to look, E to interact, R for the rod, hold the left mouse button to cast and reel, H for settings
-- **Likes on the original post:** 893, counted 2026-11-07
+- **Likes on the original post:** 894, counted 2026-11-08
 
 A cozy island fishing game: cast from the pier or your boat, fight the fish on the line, sell the catch to Joe and buy better tackle.
 

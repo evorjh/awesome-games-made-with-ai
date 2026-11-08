@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse to call in ships and place buildings; keys 1 to 7 pick a building, X demolishes, C copies
-- **Likes on the original post:** 112, counted 2026-11-07
+- **Likes on the original post:** 112, counted 2026-11-08
 
 Grow a one-crane fishing wharf into an automated container port, berthing ships and laying out the roads, yards, gates and rail behind them.
 

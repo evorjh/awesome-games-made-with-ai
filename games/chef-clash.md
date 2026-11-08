@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrow keys to move, Space to grab or put down, hold E or Ctrl to chop, wash and spray, Shift to dash, or hold the mouse to walk
-- **Likes on the original post:** 903, counted 2026-11-07
+- **Likes on the original post:** 903, counted 2026-11-08
 
 A head-to-head cooking race in a shared kitchen, chopping, frying and plating orders faster than a rival chef across the counter.
 
