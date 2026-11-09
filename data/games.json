@@ -32,6 +32,11 @@
       "maker": "xAI"
     },
     {
+      "id": "gemini",
+      "name": "Gemini",
+      "maker": "Google"
+    },
+    {
       "id": "gpt",
       "name": "GPT and Codex",
       "maker": "OpenAI"
@@ -40,11 +45,6 @@
       "id": "kimi",
       "name": "Kimi",
       "maker": "Moonshot AI"
-    },
-    {
-      "id": "gemini",
-      "name": "Gemini",
-      "maker": "Google"
     },
     {
       "id": "muse",
@@ -547,6 +547,13 @@
       "kind": "app",
       "family": null,
       "referral_url": null
+    },
+    {
+      "id": "devin",
+      "name": "Devin",
+      "kind": "ai",
+      "family": null,
+      "referral_url": null
     }
   ],
   "genres": [
@@ -759,7 +766,7 @@
     {
       "number": 2,
       "week_start": "2026-11-02",
-      "published": null,
+      "published": "2026-11-09",
       "game_of_the_week": "gq9bdgg2i",
       "top": [
         "gq9bdgg2i",
@@ -801,6 +808,22 @@
         "g7gtq2bpz",
         "gkbrwv83k",
         "gjuujapbl"
+      ]
+    },
+    {
+      "number": 3,
+      "week_start": "2026-11-09",
+      "published": null,
+      "game_of_the_week": "g4yrw77l6",
+      "top": [
+        "ggldrbxft",
+        "g4yrw77l6"
+      ],
+      "new": [
+        "goor334d3",
+        "gh79jcfs0",
+        "ggldrbxft",
+        "g4yrw77l6"
       ]
     }
   ],
@@ -4203,6 +4226,89 @@
       "pageUrl": "https://amusehall.com/games/night-market-runner/"
     },
     {
+      "id": "goor334d3",
+      "slug": "blackwater-silent-harbor",
+      "aliases": [],
+      "title": "BLACKWATER — Silent Harbor",
+      "added": "2026-11-09",
+      "creators": [
+        {
+          "handle": "WoahWurdz",
+          "url": "https://x.com/WoahWurdz"
+        }
+      ],
+      "primaryHandle": "WoahWurdz",
+      "credits": [
+        {
+          "label": "GPT-6 Astra",
+          "modelId": "gpt-6-astra",
+          "familyId": "gpt",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [
+        "gpt-6-astra"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "W A S D to move, mouse to look and fire, right mouse or Q to aim, Shift to sprint, Space to jump, R to reload, E to resupply, Esc to pause",
+      "brandIp": true,
+      "description": "A single-player tactical shooter in a rain-soaked freight terminal at night: clear nine hostiles from cover, then reach the extraction beacon.",
+      "notes": "The creator says GPT-6 Astra built this first-person shooter from one prompt in about 30 minutes, in the style of a modern military shooter. One mission plays out in a storm at a freight terminal: containers, cranes, wet pavement and rain, nine enemies that move between cover, and a carbine with aiming, recoil and reloads. You recover health behind cover and resupply at a crate near the start. All art and sound are made in code, and it needs a keyboard and mouse. Its special-operations unit carries the name of a real military contractor.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 340,
+      "likesRead": "2026-11-09",
+      "posted": "2026-09-04",
+      "sourceUrl": "https://x.com/WoahWurdz/status/2095958882732355908",
+      "evidence": {
+        "url": "https://x.com/WoahWurdz/status/2095958882732355908",
+        "quote": "MY FIRST GAME OUTPUT WITH GPT-6 ASTRA IT ONE-SHOTTED THIS CALL OF DUTY GAME IN 30 MINUTES!!!"
+      },
+      "playUrl": "https://blackwater-roan.vercel.app/",
+      "price": "free",
+      "codeUrl": "https://github.com/Hiraeth010/blackwater",
+      "media": {
+        "still": "https://media.amusehall.com/blackwater-silent-harbor/still.webp?v=b498bd56c3",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/blackwater-silent-harbor/"
+    },
+    {
       "id": "gj0w80p9f",
       "slug": "silt-and-signal",
       "aliases": [],
@@ -5371,6 +5477,86 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/harbourline/"
+    },
+    {
+      "id": "gh79jcfs0",
+      "slug": "magic-the-gathering-gb",
+      "aliases": [],
+      "title": "Magic: The Gathering GB",
+      "added": "2026-11-09",
+      "creators": [
+        {
+          "handle": "kylebrussell",
+          "url": "https://x.com/kylebrussell"
+        }
+      ],
+      "primaryHandle": "kylebrussell",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "card",
+          "name": "Card"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        },
+        {
+          "id": "rpg",
+          "name": "RPG"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Arrows or W A S D to move and choose, Z or Space for A, X or Esc for B, Enter for Start, Shift for Select; gamepads and the on-screen buttons work too",
+      "brandIp": true,
+      "description": "A Game Boy Color-style card adventure: duel club members with early-era Magic: The Gathering rules, crack booster packs and build your decks.",
+      "notes": "The creator turned a fan concept video into a playable handheld-style game with Claude Opus 5.5, structured like the old Pokémon card game for the Game Boy. You explore an island of six color clubs, duel their members with real early-era rules (the stack, instants, first strike, trample, flying and more) and earn booster packs, gold and club medals. About 158 classic cards each get procedurally drawn pixel art, and you can build up to three decks; progress saves in the browser. It uses Magic: The Gathering's name and card names as an unofficial fan project.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 102,
+      "likesRead": "2026-11-09",
+      "posted": "2026-11-07",
+      "sourceUrl": "https://x.com/kylebrussell/status/2118874479862419640",
+      "evidence": {
+        "url": "https://x.com/kylebrussell/status/2118874479862419640",
+        "quote": "Made it real last month when Opus 5.5 dropped"
+      },
+      "playUrl": "https://kylebrussell.github.io/magic-gathering-gb/",
+      "price": "free",
+      "codeUrl": "https://github.com/kylebrussell/magic-gathering-gb",
+      "media": {
+        "still": "https://media.amusehall.com/magic-the-gathering-gb/still.webp?v=012dc9ded9",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/magic-the-gathering-gb/"
     },
     {
       "id": "g5pav1sj5",
@@ -7918,6 +8104,201 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "ggldrbxft",
+      "slug": "dogfighter",
+      "aliases": [],
+      "title": "dogfighter.io",
+      "added": "2026-11-09",
+      "creators": [
+        {
+          "handle": "Pretend_Jackfruit173",
+          "url": "https://www.reddit.com/user/Pretend_Jackfruit173"
+        }
+      ],
+      "primaryHandle": "Pretend_Jackfruit173",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "flight",
+          "name": "Flight"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Mouse to steer and fire, mouse wheel for throttle, W and S to pitch, A and D to roll, Q and E for rudder, Ctrl for flaps; a gamepad is recommended",
+      "brandIp": false,
+      "description": "Fly Second World War fighters over the Channel, Malta or Normandy, alone against computer pilots or online in a running Allies-versus-Axis air war.",
+      "notes": "The creator says Claude did the coding, testing and checking for this flight game, which aims for real handling: speed, energy, G-forces, stalls and spins all matter. Solo training pits you against computer pilots in eight theatres from the Channel in 1940 to the Rhineland in 1945, with tutorials and a sandbox to learn the controls, and every aircraft is free there. The online Front is a continuous war where you can fly as a fighter, escort, bomber, ground-attack pilot or scout. Joining the online war asks for a quick human check; solo play doesn't.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-27",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeAI/comments/1xgw3vd/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgw3vd/",
+        "quote": "Coding, testing and checking as a whole."
+      },
+      "playUrl": "https://dogfighter.io/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/dogfighter/still.webp?v=f7f7e06adb",
+        "preview": null,
+        "clip": null,
+        "unrecordable": "human-verification"
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/dogfighter/"
+    },
+    {
+      "id": "g4yrw77l6",
+      "slug": "torch-duck-parade",
+      "aliases": [],
+      "title": "Torch Duck Parade",
+      "added": "2026-11-09",
+      "creators": [
+        {
+          "handle": "CaCC-Lab",
+          "url": "https://cacc-lab.itch.io"
+        }
+      ],
+      "primaryHandle": "CaCC-Lab",
+      "credits": [
+        {
+          "label": "Gemini",
+          "modelId": null,
+          "familyId": "gemini",
+          "toolId": "antigravity"
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "antigravity",
+          "name": "Google Antigravity",
+          "kind": "ai",
+          "family": "gemini",
+          "referral_url": null
+        },
+        {
+          "id": "devin",
+          "name": "Devin",
+          "kind": "ai",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "cursor",
+          "name": "Cursor",
+          "kind": "ai",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "grok-bot",
+          "name": "Grok Bot",
+          "kind": "ai",
+          "family": "grok",
+          "referral_url": null
+        },
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Drag with the mouse or a finger, or use the arrow keys or W A S D, to steer the mother duck",
+      "brandIp": false,
+      "description": "Lead a growing line of ducklings to the pond in 35 seconds: steer around puddles and toy carts, and light torches to call more ducklings.",
+      "notes": "The creator made this short jam game for AI Browser Game Jam 5, with Gemini in Antigravity writing the code, Devin and Cursor reviewing it and Grok Bot playtesting it; the art came from Codex's image generation. A mother duck carries a torch along a park path, a duckling joins every second, and lighting torch stands calls more. Each run to the pond lasts about 35 seconds, and the coins you earn buy upgrades for more starting ducklings, faster spawns and a longer torch reach. It's a light game for a few runs.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-30",
+      "sourceUrl": "https://cacc-lab.itch.io/torch-duck-parade",
+      "evidence": {
+        "url": "https://cacc-lab.itch.io/torch-duck-parade",
+        "quote": "How AI was used: code by Gemini via Antigravity, reviews by Devin and Cursor, playtests by Grok Bot."
+      },
+      "playUrl": "https://cacc-lab.itch.io/torch-duck-parade",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/torch-duck-parade/still.webp?v=5bba0fd271",
+        "preview": "https://media.amusehall.com/torch-duck-parade/preview.webp?v=2a08e0b7b8",
+        "clip": "https://media.amusehall.com/torch-duck-parade/clip.mp4?v=a49fcb342a",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/torch-duck-parade/"
     },
     {
       "id": "g8ts281cp",
@@ -13580,6 +13961,7 @@
           "gywgtfpc3",
           "g04zlqq5p",
           "gdjlcx9uv",
+          "gh79jcfs0",
           "g5pav1sj5",
           "gy98g0zma",
           "gpiamf3w9",
@@ -13600,6 +13982,7 @@
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "ggldrbxft",
           "g8ts281cp",
           "g8723hxsn",
           "g15lg3dbd",
@@ -13670,6 +14053,7 @@
           "ghr9cl8oz",
           "g4slt3fal",
           "gnqa68iap",
+          "goor334d3",
           "go74usldh",
           "g0licbu6a",
           "g6av67v0c",
@@ -13700,53 +14084,23 @@
       "gvosn1v6w",
       "g0egemz92",
       "g7lsoeejk",
+      "g4yrw77l6",
       "g413h634w"
     ],
     "latestIssue": {
-      "number": 2,
-      "weekStart": "2026-11-02",
+      "number": 3,
+      "weekStart": "2026-11-09",
       "published": null,
-      "gameOfTheWeekId": "gq9bdgg2i",
+      "gameOfTheWeekId": "g4yrw77l6",
       "topIds": [
-        "gq9bdgg2i",
-        "gxtq68mg8",
-        "gjaguhz9t",
-        "go98yri36",
-        "gmewfnndy"
+        "ggldrbxft",
+        "g4yrw77l6"
       ],
       "newIds": [
-        "gq9bdgg2i",
-        "gxtq68mg8",
-        "gjaguhz9t",
-        "go98yri36",
-        "gmewfnndy",
-        "gron4ulbj",
-        "gqdquwa11",
-        "g7lsoeejk",
-        "gdjlcx9uv",
-        "g8ts281cp",
-        "g8723hxsn",
-        "g15lg3dbd",
-        "gaz9ilkcu",
-        "gnioogdup",
-        "grgw57tv7",
-        "gw537e8n4",
-        "gxlln26e4",
-        "gcr414zni",
-        "g4agci3l3",
-        "gv4b2v57t",
-        "guyp9f4kz",
-        "gspep8kwb",
-        "g4njs90m4",
-        "g7i19obf8",
-        "g4xdl5xx7",
-        "gz9zf9xuh",
-        "g413h634w",
-        "gte8jihli",
-        "gunx8qy5s",
-        "g7gtq2bpz",
-        "gkbrwv83k",
-        "gjuujapbl"
+        "goor334d3",
+        "gh79jcfs0",
+        "ggldrbxft",
+        "g4yrw77l6"
       ]
     }
   }
