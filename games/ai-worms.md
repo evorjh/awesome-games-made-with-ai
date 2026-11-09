@@ -2,7 +2,7 @@
 
 **[▶ Play AI WORMS: They&#39;re Everywhere](https://amusehall.com/games/ai-worms/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://seymour8glass.itch.io/ai-worms)
 
-<a href="https://amusehall.com/games/ai-worms/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/ai-worms/preview.webp?v=3a3f0e68e1" alt="AI WORMS: They&#39;re Everywhere by @seymour8glass" width="100%"></a>
+<a href="https://amusehall.com/games/ai-worms/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/ai-worms/preview.webp?v=d9f556b52e" alt="AI WORMS: They&#39;re Everywhere by @seymour8glass" width="100%"></a>
 
 - **Made with:** Claude
 - **Where they name the AI:** [“Every line of code, every drawing, every sound and all the music came from Claude (Anthropic) through conversation.”](https://seymour8glass.itch.io/ai-worms)

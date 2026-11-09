@@ -2,7 +2,7 @@
 
 **[▶ Play DragonScape Idle](https://amusehall.com/games/dragonscape-idle/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/vibecoding/comments/1xhz8dg/)
 
-<a href="https://amusehall.com/games/dragonscape-idle/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/dragonscape-idle/preview.webp?v=964c192010" alt="DragonScape Idle by @SushiMasterPro" width="100%"></a>
+<a href="https://amusehall.com/games/dragonscape-idle/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/dragonscape-idle/preview.webp?v=e0f9107328" alt="DragonScape Idle by @SushiMasterPro" width="100%"></a>
 
 - **Made with:** Claude Code
 - **Where they name the AI:** [“The stack (React, TypeScript, Vite, Tailwind, Firebase, Claude Code).”](https://www.reddit.com/r/vibecoding/comments/1xhz8dg/)

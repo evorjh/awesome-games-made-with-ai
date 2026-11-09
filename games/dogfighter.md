@@ -2,7 +2,7 @@
 
 **[▶ Play dogfighter.io](https://amusehall.com/games/dogfighter/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/ClaudeAI/comments/1xgw3vd/)
 
-<a href="https://amusehall.com/games/dogfighter/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/dogfighter/still.webp?v=f7f7e06adb" alt="dogfighter.io by @Pretend_Jackfruit173" width="100%"></a>
+<a href="https://amusehall.com/games/dogfighter/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/dogfighter/still.webp?v=375acdd97d" alt="dogfighter.io by @Pretend_Jackfruit173" width="100%"></a>
 
 - **Made with:** Claude
 - **Where they name the AI:** [“Coding, testing and checking as a whole.”](https://www.reddit.com/r/ClaudeAI/comments/1xgw3vd/)

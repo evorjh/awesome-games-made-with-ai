@@ -2,7 +2,7 @@
 
 **[▶ Play Cookiesaner](https://amusehall.com/games/cookiesaner/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://github.com/lappemic/awesome-ai-built-games/issues/128)
 
-<a href="https://amusehall.com/games/cookiesaner/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/cookiesaner/preview.webp?v=cad0def9eb" alt="Cookiesaner by @Cookiesaner" width="100%"></a>
+<a href="https://amusehall.com/games/cookiesaner/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/cookiesaner/preview.webp?v=cac646ea2a" alt="Cookiesaner by @Cookiesaner" width="100%"></a>
 
 - **Made with:** Claude Code
 - **Where they name the AI:** [“Claude Code wrote all of the code: about 100 GDScript files, around 34,000 lines”](https://github.com/lappemic/awesome-ai-built-games/issues/128)

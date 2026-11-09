@@ -2,7 +2,7 @@
 
 **[▶ Play Take One](https://amusehall.com/games/take-one/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/vibecoding/comments/1xjh65y/)
 
-<a href="https://amusehall.com/games/take-one/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/take-one/preview.webp?v=d45e2776b7" alt="Take One by @Bonelessgummybear" width="100%"></a>
+<a href="https://amusehall.com/games/take-one/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/take-one/preview.webp?v=afcc71ca46" alt="Take One by @Bonelessgummybear" width="100%"></a>
 
 - **Made with:** Claude
 - **Where they name the AI:** [“The code is Claude; I don&#39;t write code, I direct, playtest and decide.”](https://www.reddit.com/r/vibecoding/comments/1xjh65y/)

@@ -2,7 +2,7 @@
 
 **[▶ Play Tidebloom Rally](https://amusehall.com/games/tidebloom-rally/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://x.com/superalesha/status/2099836448044175427)
 
-<a href="https://amusehall.com/games/tidebloom-rally/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/tidebloom-rally/preview.webp?v=86841289ff" alt="Tidebloom Rally by @superalesha" width="100%"></a>
+<a href="https://amusehall.com/games/tidebloom-rally/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/tidebloom-rally/preview.webp?v=84eb3db512" alt="Tidebloom Rally by @superalesha" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
 - **Where they name the AI:** [“Same game prompt, each build from scratch. Astra on medium reasoning, DeepSeek on max throughout.”](https://x.com/superalesha/status/2099836448044175427)

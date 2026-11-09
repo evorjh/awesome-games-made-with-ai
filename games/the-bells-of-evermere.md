@@ -2,7 +2,7 @@
 
 **[▶ Play The Bells of Evermere](https://amusehall.com/games/the-bells-of-evermere/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/aigamedev/comments/1xjgozi/)
 
-<a href="https://amusehall.com/games/the-bells-of-evermere/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/the-bells-of-evermere/preview.webp?v=d014cea022" alt="The Bells of Evermere by @Time_Talk7137" width="100%"></a>
+<a href="https://amusehall.com/games/the-bells-of-evermere/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/the-bells-of-evermere/preview.webp?v=f1e96b26ba" alt="The Bells of Evermere by @Time_Talk7137" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
 - **Where they name the AI:** [“I simply asked Opus 5.5 to create a campaign with 5–10 levels, use its creativity and imagination to build whatever it wants to build.”](https://www.reddit.com/r/aigamedev/comments/1xjgozi/)

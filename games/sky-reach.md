@@ -2,7 +2,7 @@
 
 **[▶ Play Sky Reach](https://amusehall.com/games/sky-reach/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://x.com/Rubzem/status/2104253584737230926)
 
-<a href="https://amusehall.com/games/sky-reach/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/sky-reach/preview.webp?v=70c7b87b2c" alt="Sky Reach by @Rubzem" width="100%"></a>
+<a href="https://amusehall.com/games/sky-reach/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/sky-reach/preview.webp?v=ecda8f6593" alt="Sky Reach by @Rubzem" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Tesana
 - **Where they name the AI:** [“Using Opus 5.5 &amp; @threejs on @TesanaAI”](https://x.com/Rubzem/status/2104253584737230926)

@@ -2,7 +2,7 @@
 
 **[▶ Play Unicorn Academy](https://amusehall.com/games/unicorn-academy/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/ClaudeAI/comments/1xiks9w/)
 
-<a href="https://amusehall.com/games/unicorn-academy/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/unicorn-academy/still.webp?v=e04c01f36d" alt="Unicorn Academy by @OnyxMonolith" width="100%"></a>
+<a href="https://amusehall.com/games/unicorn-academy/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/unicorn-academy/still.webp?v=bb6ac16ba1" alt="Unicorn Academy by @OnyxMonolith" width="100%"></a>
 
 - **Made with:** Claude Sonnet 5.5
 - **Where they name the AI:** [“We built a private unicorn game for my six-year-old daughter, with Claude Sonnet 5.5 as the coding agent for all of it.”](https://www.reddit.com/r/ClaudeAI/comments/1xiks9w/)

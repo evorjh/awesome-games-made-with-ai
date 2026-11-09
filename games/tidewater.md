@@ -2,7 +2,7 @@
 
 **[▶ Play Tidewater](https://amusehall.com/games/tidewater/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://x.com/dangreenheck/status/2103004432786993341)
 
-<a href="https://amusehall.com/games/tidewater/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/tidewater/preview.webp?v=e0a5b82069" alt="Tidewater by @dangreenheck" width="100%"></a>
+<a href="https://amusehall.com/games/tidewater/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/tidewater/preview.webp?v=90e3bce9b5" alt="Tidewater by @dangreenheck" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
 - **Where they name the AI:** [“Wanted to see how far I could take Opus 5.5.”](https://x.com/dangreenheck/status/2103004432786993341)

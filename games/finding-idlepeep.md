@@ -2,7 +2,7 @@
 
 **[▶ Play Finding IdlePeep: Tables by the River](https://amusehall.com/games/finding-idlepeep/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/ClaudeAI/comments/1xjxf1l/)
 
-<a href="https://amusehall.com/games/finding-idlepeep/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/finding-idlepeep/preview.webp?v=d04eede7eb" alt="Finding IdlePeep: Tables by the River by @RedKard76" width="100%"></a>
+<a href="https://amusehall.com/games/finding-idlepeep/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/finding-idlepeep/preview.webp?v=8da3a333c7" alt="Finding IdlePeep: Tables by the River by @RedKard76" width="100%"></a>
 
 - **Made with:** Claude Code
 - **Where they name the AI:** [“Claude wrote a full build plan and Claude Code built the whole entire thing”](https://www.reddit.com/r/ClaudeAI/comments/1xjxf1l/)

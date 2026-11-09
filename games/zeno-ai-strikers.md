@@ -2,7 +2,7 @@
 
 **[▶ Play Zeno AI Strikers](https://amusehall.com/games/zeno-ai-strikers/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/ClaudeAI/comments/1xhrdvj/)
 
-<a href="https://amusehall.com/games/zeno-ai-strikers/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/zeno-ai-strikers/still.webp?v=dc509f0324" alt="Zeno AI Strikers by @YasuoMain528" width="100%"></a>
+<a href="https://amusehall.com/games/zeno-ai-strikers/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/zeno-ai-strikers/still.webp?v=c935238edd" alt="Zeno AI Strikers by @YasuoMain528" width="100%"></a>
 
 - **Made with:** Claude Code
 - **Where they name the AI:** [“I built this one and Claude Code wrote the code.”](https://www.reddit.com/r/ClaudeAI/comments/1xhrdvj/)

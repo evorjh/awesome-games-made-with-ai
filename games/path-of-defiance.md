@@ -2,7 +2,7 @@
 
 **[▶ Play Path of Defiance](https://amusehall.com/games/path-of-defiance/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/aigamedev/comments/1xl9ywj/)
 
-<a href="https://amusehall.com/games/path-of-defiance/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/loomfall/preview.webp?v=ed9dc7c6ec" alt="Path of Defiance by @PulIthEld" width="100%"></a>
+<a href="https://amusehall.com/games/path-of-defiance/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/path-of-defiance/preview.webp?v=12287c7148" alt="Path of Defiance by @PulIthEld" width="100%"></a>
 
 - **Made with:** Claude
 - **Where they name the AI:** [“Yesterday claude remade it entirely from scratch with a lot of improvements and design adjustments.”](https://www.reddit.com/r/aigamedev/comments/1xl9ywj/)

@@ -2,7 +2,7 @@
 
 **[▶ Play BLACKWATER — Silent Harbor](https://amusehall.com/games/blackwater-silent-harbor/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://x.com/WoahWurdz/status/2095958882732355908)
 
-<a href="https://amusehall.com/games/blackwater-silent-harbor/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/blackwater-silent-harbor/still.webp?v=b498bd56c3" alt="BLACKWATER — Silent Harbor by @WoahWurdz" width="100%"></a>
+<a href="https://amusehall.com/games/blackwater-silent-harbor/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/blackwater-silent-harbor/still.webp?v=3e3c1b3bd2" alt="BLACKWATER — Silent Harbor by @WoahWurdz" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
 - **Where they name the AI:** [“MY FIRST GAME OUTPUT WITH GPT-6 ASTRA IT ONE-SHOTTED THIS CALL OF DUTY GAME IN 30 MINUTES!!!”](https://x.com/WoahWurdz/status/2095958882732355908)

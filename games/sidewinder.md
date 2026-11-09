@@ -2,7 +2,7 @@
 
 **[▶ Play Sidewinder](https://amusehall.com/games/sidewinder/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/gamedev/comments/1xeontp/)
 
-<a href="https://amusehall.com/games/sidewinder/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/sidewinder/preview.webp?v=32bc3ff90f" alt="Sidewinder by @dmassena" width="100%"></a>
+<a href="https://amusehall.com/games/sidewinder/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/sidewinder/preview.webp?v=f33c2c3402" alt="Sidewinder by @dmassena" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
 - **Where they name the AI:** [“I pointed Claude Code w/ Opus 5.5 at a dusty collection of Sidewinder directories on my drive”](https://www.reddit.com/r/gamedev/comments/1xeontp/)

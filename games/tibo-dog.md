@@ -2,7 +2,7 @@
 
 **[▶ Play tibo.dog](https://amusehall.com/games/tibo-dog/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://x.com/poteto/status/2117004709198475365)
 
-<a href="https://amusehall.com/games/tibo-dog/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/tibo-dog/preview.webp?v=e6cc225490" alt="tibo.dog by @poteto" width="100%"></a>
+<a href="https://amusehall.com/games/tibo-dog/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/tibo-dog/preview.webp?v=fe10efbe22" alt="tibo.dog by @poteto" width="100%"></a>
 
 - **Made with:** Grok Bot, Cursor (model not named)
 - **Where they name the AI:** [“i spent $5.99 on this domain, but i had a blast making it with grok bot and cursor!”](https://x.com/poteto/status/2117004709198475365)

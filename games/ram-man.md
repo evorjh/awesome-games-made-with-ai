@@ -2,7 +2,7 @@
 
 **[▶ Play Ram Man: Half Goat, Half God](https://amusehall.com/games/ram-man/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://azreal-the-fallen.itch.io/ram-man)
 
-<a href="https://amusehall.com/games/ram-man/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/ram-man/preview.webp?v=0e717491b7" alt="Ram Man: Half Goat, Half God by @iaz54" width="100%"></a>
+<a href="https://amusehall.com/games/ram-man/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/ram-man/preview.webp?v=3dc3198c12" alt="Ram Man: Half Goat, Half God by @iaz54" width="100%"></a>
 
 - **Made with:** Claude
 - **Where they name the AI:** [“Ram Man was made with help from AI tools, mainly Claude: AI helped write the code, create the 3D models, generate the character voices, and draft in-game text.”](https://itch.io/jam/ai-game-awards-jam-2026/rate/5139608)

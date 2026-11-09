@@ -2,7 +2,7 @@
 
 **[▶ Play Blueprint Job](https://amusehall.com/games/blueprint-job/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/aigamedev/comments/1xl5ruj/)
 
-<a href="https://amusehall.com/games/blueprint-job/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/blueprint-job/preview.webp?v=ecff6e2740" alt="Blueprint Job by @Asleep-Carpet9030" width="100%"></a>
+<a href="https://amusehall.com/games/blueprint-job/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/blueprint-job/preview.webp?v=e1214a0542" alt="Blueprint Job by @Asleep-Carpet9030" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
 - **Where they name the AI:** [“Blueprint Job: a 1960s heist planner I built using Opus 5.5 with Claude mobile app”](https://www.reddit.com/r/aigamedev/comments/1xl5ruj/)

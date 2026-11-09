@@ -2,7 +2,7 @@
 
 **[▶ Play Slipface](https://amusehall.com/games/slipface/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/vibecoding/comments/1xiugmm/)
 
-<a href="https://amusehall.com/games/slipface/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/slipface/preview.webp?v=98caa8538d" alt="Slipface by @Slipfacegame" width="100%"></a>
+<a href="https://amusehall.com/games/slipface/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/slipface/preview.webp?v=8626ca9a04" alt="Slipface by @Slipfacegame" width="100%"></a>
 
 - **Made with:** Claude, Claude Code
 - **Where they name the AI:** [“Claude Code for the code (Opus for the big design stuff, Sonnet for the rest)”](https://www.reddit.com/r/vibecoding/comments/1xiugmm/)

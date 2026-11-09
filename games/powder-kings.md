@@ -2,7 +2,7 @@
 
 **[▶ Play Powder Kings](https://amusehall.com/games/powder-kings/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/aigamedev/comments/1xkfdv6/)
 
-<a href="https://amusehall.com/games/powder-kings/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/powder-kings/preview.webp?v=711fe7f2f0" alt="Powder Kings by @turnerskizzle" width="100%"></a>
+<a href="https://amusehall.com/games/powder-kings/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/powder-kings/preview.webp?v=278592befc" alt="Powder Kings by @turnerskizzle" width="100%"></a>
 
 - **Made with:** Claude Code
 - **Where they name the AI:** [“Claude Code for general coding”](https://www.reddit.com/r/aigamedev/comments/1xkfdv6/)

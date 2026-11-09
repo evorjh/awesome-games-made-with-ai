@@ -2,7 +2,7 @@
 
 **[▶ Play Chef Clash](https://amusehall.com/games/chef-clash/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://x.com/_MaxBlade/status/2104704696967368758)
 
-<a href="https://amusehall.com/games/chef-clash/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/chef-clash/preview.webp?v=bbe58682b3" alt="Chef Clash by @_MaxBlade" width="100%"></a>
+<a href="https://amusehall.com/games/chef-clash/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/chef-clash/preview.webp?v=1703feb33c" alt="Chef Clash by @_MaxBlade" width="100%"></a>
 
 - **Made with:** Claude Sonnet 5.5
 - **Where they name the AI:** [“I asked Sonnet 5.5 to create a overcooked clone i could play in the broswer.”](https://x.com/_MaxBlade/status/2104704696967368758)

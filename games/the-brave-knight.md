@@ -2,7 +2,7 @@
 
 **[▶ Play The Brave Knight](https://amusehall.com/games/the-brave-knight/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://news.ycombinator.com/item?id=50326721)
 
-<a href="https://amusehall.com/games/the-brave-knight/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/the-brave-knight/preview.webp?v=918e272345" alt="The Brave Knight by @irisguy" width="100%"></a>
+<a href="https://amusehall.com/games/the-brave-knight/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/the-brave-knight/preview.webp?v=1265fbea6d" alt="The Brave Knight by @irisguy" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5, Claude Code
 - **Where they name the AI:** [“Plugged that into claude code with opus 5.5 (opus is unbeatable rn). It thought for 30min, I saw the result, asked for a few changes to the trees and a few stuff.”](https://news.ycombinator.com/item?id=50330866)

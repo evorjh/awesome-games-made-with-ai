@@ -2,7 +2,7 @@
 
 **[▶ Play Mountain Mogul](https://amusehall.com/games/mt-mogul/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://www.reddit.com/r/ClaudeGameDev/comments/1xgr37y/)
 
-<a href="https://amusehall.com/games/mt-mogul/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/mt-mogul/preview.webp?v=a12cba971c" alt="Mountain Mogul by @phildbs" width="100%"></a>
+<a href="https://amusehall.com/games/mt-mogul/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/mt-mogul/preview.webp?v=4204955926" alt="Mountain Mogul by @phildbs" width="100%"></a>
 
 - **Made with:** Claude Code
 - **Where they name the AI:** [“Claude Code wrote the code.”](https://www.reddit.com/r/ClaudeGameDev/comments/1xgr37y/)

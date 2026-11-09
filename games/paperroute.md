@@ -2,7 +2,7 @@
 
 **[▶ Play PaperRoute](https://amusehall.com/games/paperroute/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://x.com/builtbysketch/status/2098777028078211283)
 
-<a href="https://amusehall.com/games/paperroute/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/paperroute/preview.webp?v=bb88cbeb9a" alt="PaperRoute by @BuiltBySketch" width="100%"></a>
+<a href="https://amusehall.com/games/paperroute/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/paperroute/preview.webp?v=a73230ccfb" alt="PaperRoute by @BuiltBySketch" width="100%"></a>
 
 - **Made with:** GPT-6 Astra
 - **Where they name the AI:** [“I spent 1.6 billion tokens building a full game with GPT-6 ASTRA.”](https://x.com/builtbysketch/status/2098777028078211283)

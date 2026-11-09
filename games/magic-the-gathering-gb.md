@@ -2,7 +2,7 @@
 
 **[▶ Play Magic: The Gathering GB](https://amusehall.com/games/magic-the-gathering-gb/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://x.com/kylebrussell/status/2118874479862419640)
 
-<a href="https://amusehall.com/games/magic-the-gathering-gb/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/magic-the-gathering-gb/still.webp?v=012dc9ded9" alt="Magic: The Gathering GB by @kylebrussell" width="100%"></a>
+<a href="https://amusehall.com/games/magic-the-gathering-gb/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/magic-the-gathering-gb/still.webp?v=55729a428e" alt="Magic: The Gathering GB by @kylebrussell" width="100%"></a>
 
 - **Made with:** Claude Opus 5.5
 - **Where they name the AI:** [“Made it real last month when Opus 5.5 dropped”](https://x.com/kylebrussell/status/2118874479862419640)
