@@ -5,7 +5,7 @@
     "media_base_url": "https://media.amusehall.com",
     "repo_url": "https://github.com/evorjh/awesome-games-made-with-ai",
     "contact_email": "hello@amusehall.com",
-    "mosaic": "mosaic.webp?v=39e7a1f9fc",
+    "mosaic": "mosaic.webp?v=74d1bdb240",
     "mosaic_games": [
       "gq9bdgg2i",
       "gxtq68mg8",
@@ -1013,9 +1013,9 @@
       "price": "free",
       "codeUrl": null,
       "media": {
-        "still": "https://media.amusehall.com/sumiro/still.webp?v=f9ee130e51",
-        "preview": "https://media.amusehall.com/sumiro/preview.webp?v=16d214921d",
-        "clip": "https://media.amusehall.com/sumiro/clip.mp4?v=0e3bb3790c",
+        "still": "https://media.amusehall.com/sumiro/still.webp?v=344d390547",
+        "preview": "https://media.amusehall.com/sumiro/preview.webp?v=70126208fa",
+        "clip": "https://media.amusehall.com/sumiro/clip.mp4?v=60c5bce28d",
         "unrecordable": null
       },
       "availability": "available",
