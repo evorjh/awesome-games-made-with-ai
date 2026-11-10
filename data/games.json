@@ -5,14 +5,14 @@
     "media_base_url": "https://media.amusehall.com",
     "repo_url": "https://github.com/evorjh/awesome-games-made-with-ai",
     "contact_email": "hello@amusehall.com",
-    "mosaic": "mosaic.webp?v=5e5321c5c9",
+    "mosaic": "mosaic.webp?v=5647442830",
     "mosaic_games": [
       "gq9bdgg2i",
       "gxtq68mg8",
       "g7er41or1",
       "g1bjx9y59",
-      "grrn1mt5i",
-      "g8ze3q86y"
+      "gohxe896s",
+      "grrn1mt5i"
     ],
     "utm": {
       "source": "github",
@@ -53,6 +53,19 @@
     }
   ],
   "models": [
+    {
+      "id": "claude-fable-5-2",
+      "name": "Claude Fable 5.2",
+      "family": "claude",
+      "released": "2026-11-09",
+      "major": true,
+      "aliases": [
+        "fable 5.2",
+        "claude fable 5.2",
+        "fable5.2"
+      ],
+      "firstSeen": "2026-11-09"
+    },
     {
       "id": "claude-opus-5-5",
       "name": "Claude Opus 5.5",
@@ -554,6 +567,27 @@
       "kind": "ai",
       "family": null,
       "referral_url": null
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "fal",
+      "name": "fal",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "firefly",
+      "name": "Adobe Firefly",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
     }
   ],
   "genres": [
@@ -816,12 +850,25 @@
       "published": null,
       "game_of_the_week": "g4yrw77l6",
       "top": [
-        "ggldrbxft",
-        "g4yrw77l6"
+        "gohxe896s",
+        "gklib6jqo",
+        "gw96j1zcp",
+        "gmja9kp2v",
+        "gxshani2z"
       ],
       "new": [
+        "gohxe896s",
+        "gklib6jqo",
+        "gw96j1zcp",
+        "gmja9kp2v",
         "goor334d3",
+        "gxshani2z",
         "gh79jcfs0",
+        "g6lthz9ty",
+        "gam9t6fa5",
+        "gg2s479rq",
+        "grgx50cz7",
+        "gewgvbipq",
         "ggldrbxft",
         "g4yrw77l6"
       ]
@@ -1283,6 +1330,82 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/paperroute/"
+    },
+    {
+      "id": "gohxe896s",
+      "slug": "saltline",
+      "aliases": [],
+      "title": "Saltline",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "felixrieseberg",
+          "name": "Felix Rieseberg",
+          "url": "https://x.com/felixrieseberg"
+        }
+      ],
+      "primaryHandle": "felixrieseberg",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to look, left click to fire, right click to aim, R to reload, E to cut a relay, Space to jump, Shift to sprint, C to crouch, Esc to pause",
+      "brandIp": false,
+      "description": "Cut three uplink relays in a rain-soaked container port in a first-person shooter whose models, textures and sounds are all made in code.",
+      "notes": "Its creator tested Claude Fable 5.2 with one-shot prompts and no human feedback: the model ran for about eight hours and made every model, texture and sound from scratch, which the creator puts at about $550 at API prices. You drop into Saltline Terminal, a wet container port at dusk, with a rifle and three relays to cut while the port's security net fights back, and then you have to reach the boat. The lighting, rain and gun model are the draw, and the post's thousands of replies argued over how close it gets to a commercial shooter. It's one small level, so a run is short.",
+      "prompt": {
+        "shared": true,
+        "partial": true,
+        "source_url": "https://x.com/felixrieseberg/status/2119927483994907024",
+        "text": "You know, you should also build me a FPS. Insanely detailed quality pls, something that looks visually like it can keep up with AAA. Make it small in scope (like a tiny level) but otherwise impressive photorealistic graphics"
+      },
+      "likes": 5281,
+      "likesRead": "2026-11-10",
+      "posted": "2026-11-09",
+      "sourceUrl": "https://x.com/felixrieseberg/status/2119925633564463609",
+      "evidence": {
+        "url": "https://x.com/felixrieseberg/status/2119925633564463609",
+        "quote": "I wanted to test Fable 5.2's quality with one-shot prompts without human feedback. Everything in this game is from scratch: models, sounds, textures."
+      },
+      "playUrl": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/saltline/still.webp?v=5b6da0aef0",
+        "preview": "https://media.amusehall.com/saltline/preview.webp?v=f7088e6578",
+        "clip": "https://media.amusehall.com/saltline/clip.mp4?v=11ccb1eb8a",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/saltline/"
     },
     {
       "id": "grrn1mt5i",
@@ -1880,6 +2003,90 @@
       "pageUrl": "https://amusehall.com/games/turbo-kart-rally/"
     },
     {
+      "id": "gklib6jqo",
+      "slug": "what-the-water-keeps",
+      "aliases": [],
+      "title": "What the Water Keeps",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "kevin_t_ngo",
+          "name": "Kevin Ngo",
+          "url": "https://x.com/kevin_t_ngo"
+        }
+      ],
+      "primaryHandle": "kevin_t_ngo",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "W A S D or the arrow keys to paddle and steer, drag to look around",
+      "brandIp": false,
+      "description": "Ride a small lantern-lit boat through eight dreamlike river worlds in one night, from a sunset landing to a sky of stars at first light.",
+      "notes": "The creator made this slow first-person boat ride with Claude Fable 5.2 and released it on the model's launch day; the in-game music came from Suno. A young woman sculls the boat behind you while the river carries you through eight very different places, each with a lamp someone left burning. You can paddle and steer, or just let the current take you: there is nothing to win or lose. It's a short, calm piece to look at more than a challenge.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 3308,
+      "likesRead": "2026-11-10",
+      "posted": "2026-11-09",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+      "evidence": {
+        "url": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+        "quote": "Claude Fable 5.2 made this game demo, playable in the browser"
+      },
+      "playUrl": "https://what-the-water-keeps.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/what-the-water-keeps/still.webp?v=3e22d27dc8",
+        "preview": "https://media.amusehall.com/what-the-water-keeps/preview.webp?v=2534cea18d",
+        "clip": "https://media.amusehall.com/what-the-water-keeps/clip.mp4?v=4b4f61969b",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/what-the-water-keeps/"
+    },
+    {
       "id": "gbb6qnox9",
       "slug": "super-smash-royale",
       "aliases": [],
@@ -2215,6 +2422,82 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/rocket-arena/"
+    },
+    {
+      "id": "gw96j1zcp",
+      "slug": "mirror-earth",
+      "aliases": [],
+      "title": "Mirror Earth",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "mattshumer_",
+          "name": "Matt Shumer",
+          "url": "https://x.com/mattshumer_"
+        }
+      ],
+      "primaryHandle": "mattshumer_",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "sandbox",
+          "name": "Sandbox"
+        },
+        {
+          "id": "open-world",
+          "name": "Open world"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, Shift to run, B to break things, J for a car, U for a helicopter, P to go to a place, E to step out",
+      "brandIp": false,
+      "description": "Walk, drive and fly a helicopter anywhere on a voxel copy of the real Earth, with real-time weather, and break whatever you like.",
+      "notes": "The creator had Claude Fable 5.2 build this voxel copy of the whole planet, built from real map data; the creator says its weather matches the real Earth's as you play. You start on a crowded street, can jump to any place by name, and switch between walking, a car and a helicopter. Almost everything can be broken, and the post invites you to destroy anything. There are no goals: it's a sandbox to roam and wreck. It runs on Spawn, in a solo room.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 1897,
+      "likesRead": "2026-11-10",
+      "posted": "2026-11-09",
+      "sourceUrl": "https://x.com/mattshumer_/status/2119877065701036047",
+      "evidence": {
+        "url": "https://x.com/mattshumer_/status/2119877065701036047",
+        "quote": "Fable 5.2 created a MIRROR EARTH as a game."
+      },
+      "playUrl": "https://www.spawn.co/@mattshumer/earth?room=local",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/mirror-earth/still.webp?v=23913779b7",
+        "preview": "https://media.amusehall.com/mirror-earth/preview.webp?v=4ce7a2d7da",
+        "clip": "https://media.amusehall.com/mirror-earth/clip.mp4?v=8c8f607dc4",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/mirror-earth/"
     },
     {
       "id": "gpmj9q9ol",
@@ -2573,6 +2856,117 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/alder-valley-rail-atelier/"
+    },
+    {
+      "id": "gmja9kp2v",
+      "slug": "sol-the-last-imperium",
+      "aliases": [],
+      "title": "SOL: The Last Imperium",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "Rubzem",
+          "url": "https://x.com/Rubzem"
+        }
+      ],
+      "primaryHandle": "Rubzem",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "fal",
+          "name": "fal",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to aim, left click to fire, right click to aim down sights, Shift to sprint, Space to jump, R to reload, X to kick, G for a grenade, V for third person, Esc to pause",
+      "brandIp": false,
+      "description": "Fight through a sci-fi war as an imperial soldier: fast gunplay, grenades and melee, vehicles, and giant bosses from walkers to a Leviathan.",
+      "notes": "The creator says this sci-fi shooter was made in 24 hours, entirely vibe coded on Three.js, with models made in Tripo and refined by Opus 5.5 in Blender. You deploy as an imperial soldier, with a squad that talks over the radio, and fight across large battlefields on foot and in vehicles. The post drew more than a thousand replies, and the creator says a large game company has offered to help release it. The browser version is an early test build hosted on Tesana.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 1530,
+      "likesRead": "2026-11-10",
+      "posted": "2026-11-05",
+      "sourceUrl": "https://x.com/Rubzem/status/2118343870450954318",
+      "evidence": {
+        "url": "https://x.com/Rubzem/status/2118343870450954318",
+        "quote": "Graphics, gameplay, concept art, music, sound effects and animation. All made with AI, entirely vibe coded. Built on Three.js."
+      },
+      "playUrl": "https://tesana.com/play/205445b1-8867-43f8-bd89-3fab23eefee6",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/sol-the-last-imperium/still.webp?v=695348e994",
+        "preview": "https://media.amusehall.com/sol-the-last-imperium/preview.webp?v=8d585ebaed",
+        "clip": "https://media.amusehall.com/sol-the-last-imperium/clip.mp4?v=ba078cb3e6",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/sol-the-last-imperium/"
     },
     {
       "id": "g9t4d43un",
@@ -4286,7 +4680,7 @@
         "text": null
       },
       "likes": 340,
-      "likesRead": "2026-11-09",
+      "likesRead": "2026-11-10",
       "posted": "2026-09-04",
       "sourceUrl": "https://x.com/WoahWurdz/status/2095958882732355908",
       "evidence": {
@@ -4588,6 +4982,90 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/capybaras-delivering-food/"
+    },
+    {
+      "id": "gxshani2z",
+      "slug": "gilt-and-gutter",
+      "aliases": [],
+      "title": "Gilt & Gutter",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "kevin_t_ngo",
+          "name": "Kevin Ngo",
+          "url": "https://x.com/kevin_t_ngo"
+        }
+      ],
+      "primaryHandle": "kevin_t_ngo",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to look and to fire gilt or gutter shots, Shift to turn your coat, Space to jump",
+      "brandIp": false,
+      "description": "Duel a bot in a gilded arena where shots are gold or teal: the color that matches your coat charges your gun, the other one hurts.",
+      "notes": "The creator made this 1v1 first-person shooter with Claude Fable 5.2, generating the two characters in Tripo and having Fable rig and animate them. Every shot is gold or teal, and turning your coat to match the incoming color turns damage into ammo, so duels come down to switching at the right moment. You pick one of two fighters and a bot's difficulty, and a practice round teaches the controls first. The creator says the bot started out too hard and was eased after launch.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": 235,
+      "likesRead": "2026-11-10",
+      "posted": "2026-11-09",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2119900487688622171",
+      "evidence": {
+        "url": "https://x.com/kevin_t_ngo/status/2119900487688622171",
+        "quote": "Claude Fable 5.2 made this game demo, playable in the browser"
+      },
+      "playUrl": "https://gilt-and-gutter.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/gilt-and-gutter/still.webp?v=9dd6ba6c58",
+        "preview": "https://media.amusehall.com/gilt-and-gutter/preview.webp?v=5f2a8d4ef6",
+        "clip": "https://media.amusehall.com/gilt-and-gutter/clip.mp4?v=e3a2456679",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/gilt-and-gutter/"
     },
     {
       "id": "g7lsoeejk",
@@ -5536,7 +6014,7 @@
         "text": null
       },
       "likes": 102,
-      "likesRead": "2026-11-09",
+      "likesRead": "2026-11-10",
       "posted": "2026-11-07",
       "sourceUrl": "https://x.com/kylebrussell/status/2118874479862419640",
       "evidence": {
@@ -8104,6 +8582,480 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "g6lthz9ty",
+      "slug": "black-figure-the-stolen-flame",
+      "aliases": [],
+      "title": "Black-Figure: The Stolen Flame",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "m040xie",
+          "url": "https://m040xie.itch.io"
+        }
+      ],
+      "primaryHandle": "m040xie",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        },
+        {
+          "id": "elevenlabs",
+          "name": "ElevenLabs",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "firefly",
+          "name": "Adobe Firefly",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "A and D or the arrow keys to turn the vase, hold Space to fan the ember, hold Shift for a quiet step, S or the down arrow to climb down, Esc to pause",
+      "brandIp": false,
+      "description": "Steal fire for Prometheus across eleven painted Greek vases: you don't walk, you turn the vase, and you hide your ember from the gods.",
+      "notes": "The creator made this jam game with Claude writing all the code, ChatGPT making the art and Gemini the music, and lays out the whole process on the game's page. Prometheus stays in the middle of a black-figure amphora while you turn the vase around him, carrying an ember that cools unless you fan it, and gods who see light catch you if you glow in their gaze. Each of the eleven vases has its own guardian, and a finished vase is fired from black to terracotta. It takes about 15 to 20 minutes.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-30",
+      "sourceUrl": "https://m040xie.itch.io/black-figure-the-stolen-flame",
+      "evidence": {
+        "url": "https://m040xie.itch.io/black-figure-the-stolen-flame",
+        "quote": "Claude (Anthropic, Opus) All game code: the turning-vase engine, eleven levels, the gods' rules"
+      },
+      "playUrl": "https://m040xie.itch.io/black-figure-the-stolen-flame",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/black-figure-the-stolen-flame/still.webp?v=9414f31df1",
+        "preview": "https://media.amusehall.com/black-figure-the-stolen-flame/preview.webp?v=6384dec939",
+        "clip": "https://media.amusehall.com/black-figure-the-stolen-flame/clip.mp4?v=e0d1572432",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/black-figure-the-stolen-flame/"
+    },
+    {
+      "id": "gam9t6fa5",
+      "slug": "hiraeth",
+      "aliases": [],
+      "title": "Hiraeth",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "4nf",
+          "url": "https://www.reddit.com/user/4nf"
+        }
+      ],
+      "primaryHandle": "4nf",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        },
+        {
+          "label": "GPT-6 Astra",
+          "modelId": "gpt-6-astra",
+          "familyId": "gpt",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude",
+        "gpt"
+      ],
+      "modelIds": [
+        "claude-opus-5-5",
+        "gpt-6-astra"
+      ],
+      "tools": [
+        {
+          "id": "midjourney",
+          "name": "Midjourney",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Keyboard and mouse with on-screen prompts; the creator says it plays much better with a controller",
+      "brandIp": false,
+      "description": "Hop between worlds drawn in ink, from deserts to sunken cities and planets afloat in space, on the long way home.",
+      "notes": "The creator built this adventure in a month with Claude Opus 5.5 and GPT-6 Astra, using Midjourney for visual references, Tripo and the two models for 3D assets, and Suno for music. Its worlds are drawn in a flat inked style inspired by Moebius, and the creator plans 14 temples across them. You wake in a small room and head out toward a city in the sky. It is an early build that the creator keeps updating, and it plays best with a controller.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-03",
+      "sourceUrl": "https://www.reddit.com/r/threejs/comments/1xn2uff/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/threejs/comments/1xn2uff/",
+        "quote": "I used Opus 5.5 and Astra for development, Midjourney for visual references, Tripo for 3D assets"
+      },
+      "playUrl": "https://hiraeth.my/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/hiraeth/still.webp?v=1d15db7e54",
+        "preview": "https://media.amusehall.com/hiraeth/preview.webp?v=7c3c362c99",
+        "clip": "https://media.amusehall.com/hiraeth/clip.mp4?v=ace3652831",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/hiraeth/"
+    },
+    {
+      "id": "gg2s479rq",
+      "slug": "my-earth-toy",
+      "aliases": [],
+      "title": "My Earth Toy",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "monoloni",
+          "url": "https://www.reddit.com/user/monoloni"
+        }
+      ],
+      "primaryHandle": "monoloni",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Drag to spin the globe, scroll or the + and − buttons to zoom, click landmarks and animals; the Game button opens the games",
+      "brandIp": false,
+      "description": "Spin a 3D globe full of landmarks, animals and rideable vehicles, then play a daily landmark puzzle, a pin-the-place game or a quiz.",
+      "notes": "A dad with no coding background built this globe for his two sons with Claude Code and Opus 5.5, adding what the boys asked for and testing it with them. The Earth carries more than 830 landmarks and 470 animals to find and collect. The Game button holds a daily puzzle where you find a secret spot in six tries, a round of pinning landmarks to their real places, and a quiz for up to four players. It's a toy as much as a game, made with children in mind.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-05",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeAI/comments/1xou90f/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xou90f/",
+        "quote": "I'm just a dad with no coding background, and I built the whole thing with Claude Code (Opus 5.5)."
+      },
+      "playUrl": "https://myearthtoy.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/my-earth-toy/still.webp?v=c9d1b2c77a",
+        "preview": "https://media.amusehall.com/my-earth-toy/preview.webp?v=366e3d91f6",
+        "clip": "https://media.amusehall.com/my-earth-toy/clip.mp4?v=a04b511e00",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/my-earth-toy/"
+    },
+    {
+      "id": "grgx50cz7",
+      "slug": "torched",
+      "aliases": [],
+      "title": "Torched!",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "Erathul",
+          "url": "https://erathul.itch.io"
+        }
+      ],
+      "primaryHandle": "Erathul",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        },
+        {
+          "label": "Claude Sonnet 5.5",
+          "modelId": "claude-sonnet-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5",
+        "claude-sonnet-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "elevenlabs",
+          "name": "ElevenLabs",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "pixijs",
+          "name": "PixiJS",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Hold the mouse button to torch, keep it moving, ring the bell or press Space to serve",
+      "brandIp": false,
+      "description": "Torch crème brûlées gold, not black, in a tiny Paris bistro while the most feared food critic in town waits with his notebook.",
+      "notes": "The creator directed and playtested this jam game while Claude Code did the building, with Opus 5.5 as head chef and Sonnet 5.5 agents on each station; an Opus agent called Gaston playtested every build in a browser and wrote reviews in character. You hold a kitchen torch over sugar and sweep until the whole surface turns amber, while each guest asks for it lighter or darker. Four nights add salmon, a meringue tart and marshmallows that catch fire, and an endless service mode opens after the fourth. The critic's newspaper review after each night, read aloud, is the highlight.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-27",
+      "sourceUrl": "https://erathul.itch.io/torched",
+      "evidence": {
+        "url": "https://erathul.itch.io/torched",
+        "quote": "Code, shaders, tests and text: Claude Code (Claude Opus 5.5, Claude Sonnet 5.5)"
+      },
+      "playUrl": "https://erathul.itch.io/torched",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/torched/still.webp?v=c441b7ad8c",
+        "preview": "https://media.amusehall.com/torched/preview.webp?v=99d4bafce9",
+        "clip": "https://media.amusehall.com/torched/clip.mp4?v=e6e3b73ad7",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/torched/"
+    },
+    {
+      "id": "gewgvbipq",
+      "slug": "viper-one-one",
+      "aliases": [],
+      "title": "Viper One One",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "aCakeShip",
+          "url": "https://www.reddit.com/user/aCakeShip"
+        },
+        {
+          "handle": "apekshik",
+          "url": "https://x.com/apekshik"
+        }
+      ],
+      "primaryHandle": "aCakeShip",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "fal",
+          "name": "fal",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "flight",
+          "name": "Flight"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Arrow keys and Enter in the menus; W and S to pitch up and down (changeable in Settings); the on-screen guide shows the rest",
+      "brandIp": false,
+      "description": "Fly an F-16 over Nevada in a detailed jet sim: a 12-mission campaign, daily challenges, a shared sky with other pilots and ranked duels.",
+      "notes": "The creator built this fighter-jet simulator with Claude Opus 5.5 and fal's models, running several agents at once on missions, sound and load speed. A campaign of 12 missions starts with a scramble from Nellis to identify an unknown contact and moves on to dogfights, SAM alleys and carrier defense, with stars and badges for each. Free Flight shares the sky with other players, and Ranked pits you against them one on one. A shop sells skins and effects.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-05",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeAI/comments/1xobggp/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xobggp/",
+        "quote": "I built this entirely with Claude Opus 5.5, fal models, and a whole ot attention to details!!"
+      },
+      "playUrl": "https://viperoneone.com/",
+      "price": "free-with-purchases",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/viper-one-one/still.webp?v=217663159a",
+        "preview": "https://media.amusehall.com/viper-one-one/preview.webp?v=e7746b1beb",
+        "clip": "https://media.amusehall.com/viper-one-one/clip.mp4?v=fcc682613c",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/viper-one-one/"
     },
     {
       "id": "ggldrbxft",
@@ -13912,17 +14864,12 @@
   ],
   "sections": {
     "hot": {
-      "modelId": "claude-opus-5-5",
+      "modelId": "claude-fable-5-2",
       "gameIds": [
-        "gq9bdgg2i",
-        "grrn1mt5i",
-        "g8ze3q86y",
-        "gng0kobry",
-        "gmewfnndy",
-        "gqdquwa11",
-        "gpy3pa5mk",
-        "g7k2m9q4x",
-        "g361pfe4r"
+        "gohxe896s",
+        "gklib6jqo",
+        "gw96j1zcp",
+        "gxshani2z"
       ]
     },
     "families": [
@@ -13932,15 +14879,19 @@
           "gk62onht3",
           "gq9bdgg2i",
           "g7er41or1",
+          "gohxe896s",
           "grrn1mt5i",
           "g8ze3q86y",
           "gng0kobry",
           "g0u52kl87",
           "gjh98608z",
+          "gklib6jqo",
           "g27qw9jqs",
           "g5n1e788h",
           "gk98c3y8t",
+          "gw96j1zcp",
           "gpmj9q9ol",
+          "gmja9kp2v",
           "g9t4d43un",
           "go98yri36",
           "gmewfnndy",
@@ -13955,6 +14906,7 @@
           "gserfbtbt",
           "gj0w80p9f",
           "g1xjn72p6",
+          "gxshani2z",
           "g66ibbf9z",
           "gb5kg9kry",
           "gy0933kol",
@@ -13982,6 +14934,11 @@
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "g6lthz9ty",
+          "gam9t6fa5",
+          "gg2s479rq",
+          "grgx50cz7",
+          "gewgvbipq",
           "ggldrbxft",
           "g8ts281cp",
           "g8723hxsn",
@@ -14093,12 +15050,25 @@
       "published": null,
       "gameOfTheWeekId": "g4yrw77l6",
       "topIds": [
-        "ggldrbxft",
-        "g4yrw77l6"
+        "gohxe896s",
+        "gklib6jqo",
+        "gw96j1zcp",
+        "gmja9kp2v",
+        "gxshani2z"
       ],
       "newIds": [
+        "gohxe896s",
+        "gklib6jqo",
+        "gw96j1zcp",
+        "gmja9kp2v",
         "goor334d3",
+        "gxshani2z",
         "gh79jcfs0",
+        "g6lthz9ty",
+        "gam9t6fa5",
+        "gg2s479rq",
+        "grgx50cz7",
+        "gewgvbipq",
         "ggldrbxft",
         "g4yrw77l6"
       ]
