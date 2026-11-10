@@ -5037,7 +5037,7 @@
       "controls": "WASD to move, mouse to look and to fire gilt or gutter shots, Shift to turn your coat, Space to jump",
       "brandIp": false,
       "description": "Duel a bot in a gilded arena where shots are gold or teal: the color that matches your coat charges your gun, the other one hurts.",
-      "notes": "The creator made this 1v1 first-person shooter with Claude Fable 5.2, generating the two characters in Tripo and having Fable rig and animate them. Every shot is gold or teal, and turning your coat to match the incoming color turns damage into ammo, so duels come down to switching at the right moment. You pick one of two fighters and a bot's difficulty, and a practice round teaches the controls first. The creator says the bot started out too hard and was eased after launch.",
+      "notes": "The creator made this 1v1 first-person shooter with Claude Fable 5.2, generating the two characters in Tripo and having Fable rig and animate them. Every shot is gold or teal, and turning your coat to match the incoming color turns damage into ammo, so duels come down to switching at the right moment. You pick one of two fighters and a bot's difficulty, and a practice round teaches the controls first. After players said the bot was too hard to beat, the creator promised to make it easier.",
       "prompt": {
         "shared": false,
         "partial": false,
