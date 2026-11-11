@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Arrows or W A S D to move and choose, Z or Space for A, X or Esc for B, Enter for Start, Shift for Select; gamepads and the on-screen buttons work too
-- **Likes on the original post:** 102, counted 2026-11-10
+- **Likes on the original post:** 102, counted 2026-11-11
 
 A Game Boy Color-style card adventure: duel club members with early-era Magic: The Gathering rules, crack booster packs and build your decks.
 

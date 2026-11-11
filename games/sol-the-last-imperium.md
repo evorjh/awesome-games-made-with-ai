@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, mouse to aim, left click to fire, right click to aim down sights, Shift to sprint, Space to jump, R to reload, X to kick, G for a grenade, V for third person, Esc to pause
-- **Likes on the original post:** 1,530, counted 2026-11-10
+- **Likes on the original post:** 1,531, counted 2026-11-11
 
 Fight through a sci-fi war as an imperial soldier: fast gunplay, grenades and melee, vehicles, and giant bosses from walkers to a Leviathan.
 

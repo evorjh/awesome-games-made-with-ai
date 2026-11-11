@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** W A S D to move, mouse to look and fire, right mouse or Q to aim, Shift to sprint, Space to jump, R to reload, E to resupply, Esc to pause
-- **Likes on the original post:** 340, counted 2026-11-10
+- **Likes on the original post:** 341, counted 2026-11-11
 
 A single-player tactical shooter in a rain-soaked freight terminal at night: clear nine hostiles from cover, then reach the extraction beacon.
 
