@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** The party fights on its own; click the level-up cards, Space fires a flare, M opens the menu, C toggles the close camera, + and - change the speed
-- **Likes on the original post:** 940, counted 2026-11-11
+- **Likes on the original post:** 1,379, counted 2026-11-12
 
 Lead a lantern-lit party of heroes through waves of the dark in a 3D auto-battler, choosing an upgrade at every level until the Barrow King arrives.
 

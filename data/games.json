@@ -5,11 +5,11 @@
     "media_base_url": "https://media.amusehall.com",
     "repo_url": "https://github.com/evorjh/awesome-games-made-with-ai",
     "contact_email": "hello@amusehall.com",
-    "mosaic": "mosaic.webp?v=fb59303814",
+    "mosaic": "mosaic.webp?v=b677712f19",
     "mosaic_games": [
       "gq9bdgg2i",
-      "gxtq68mg8",
       "gohxe896s",
+      "gxtq68mg8",
       "g7er41or1",
       "g1bjx9y59",
       "grrn1mt5i"
@@ -254,8 +254,8 @@
       "id": "gemini-4-carbon",
       "name": "Gemini 4 Carbon",
       "family": "gemini",
-      "released": null,
-      "major": false,
+      "released": "2026-11-10",
+      "major": true,
       "aliases": [
         "carbon"
       ],
@@ -588,6 +588,20 @@
       "kind": "app",
       "family": null,
       "referral_url": null
+    },
+    {
+      "id": "trellis",
+      "name": "TRELLIS",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "jimeng",
+      "name": "Jimeng",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
     }
   ],
   "genres": [
@@ -854,25 +868,29 @@
         "gklib6jqo",
         "gw96j1zcp",
         "gls4dgy15",
-        "gmja9kp2v"
+        "geg91cy2q"
       ],
       "new": [
         "gohxe896s",
         "gklib6jqo",
         "gw96j1zcp",
         "gls4dgy15",
-        "gmja9kp2v",
         "geg91cy2q",
+        "gmja9kp2v",
         "go4slgb6w",
         "gie0au2by",
         "g8svijhf1",
+        "gb72dv8lx",
         "goor334d3",
         "gxshani2z",
         "g17kxz4cm",
+        "gatg3soyn",
         "gle9npeju",
         "g36yaqj7f",
-        "gatg3soyn",
+        "gvz6r7sy1",
         "gh79jcfs0",
+        "gn5esgohi",
+        "gqtpnp68f",
         "g6lthz9ty",
         "gam9t6fa5",
         "gg2s479rq",
@@ -952,6 +970,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 17086,
       "likesRead": "2026-11-01",
       "posted": "2026-10-13",
@@ -1057,6 +1076,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 15413,
       "likesRead": "2026-11-08",
       "posted": "2026-11-04",
@@ -1079,6 +1099,83 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/sumiro/"
+    },
+    {
+      "id": "gohxe896s",
+      "slug": "saltline",
+      "aliases": [],
+      "title": "Saltline",
+      "added": "2026-11-10",
+      "creators": [
+        {
+          "handle": "felixrieseberg",
+          "name": "Felix Rieseberg",
+          "url": "https://x.com/felixrieseberg"
+        }
+      ],
+      "primaryHandle": "felixrieseberg",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to look, left click to fire, right click to aim, R to reload, E to cut a relay, Space to jump, Shift to sprint, C to crouch, Esc to pause",
+      "brandIp": false,
+      "description": "Cut three uplink relays in a rain-soaked container port in a first-person shooter whose models, textures and sounds are all made in code.",
+      "notes": "Its creator tested Claude Fable 5.2 with one-shot prompts and no human feedback: the model ran for about eight hours and made every model, texture and sound from scratch, which the creator puts at about $550 at API prices. You drop into Saltline Terminal, a wet container port at dusk, with a rifle and three relays to cut while the port's security net fights back, and then you have to reach the boat. The lighting, rain and gun model are the draw, and the post's thousands of replies argued over how close it gets to a commercial shooter. It's one small level, so a run is short.",
+      "prompt": {
+        "shared": true,
+        "partial": true,
+        "source_url": "https://x.com/felixrieseberg/status/2119927483994907024",
+        "text": "You know, you should also build me a FPS. Insanely detailed quality pls, something that looks visually like it can keep up with AAA. Make it small in scope (like a tiny level) but otherwise impressive photorealistic graphics"
+      },
+      "makingOf": null,
+      "likes": 14229,
+      "likesRead": "2026-11-12",
+      "posted": "2026-11-09",
+      "sourceUrl": "https://x.com/felixrieseberg/status/2119925633564463609",
+      "evidence": {
+        "url": "https://x.com/felixrieseberg/status/2119925633564463609",
+        "quote": "I wanted to test Fable 5.2's quality with one-shot prompts without human feedback. Everything in this game is from scratch: models, sounds, textures."
+      },
+      "playUrl": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/saltline/still.webp?v=5b6da0aef0",
+        "preview": "https://media.amusehall.com/saltline/preview.webp?v=f7088e6578",
+        "clip": "https://media.amusehall.com/saltline/clip.mp4?v=11ccb1eb8a",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/saltline/"
     },
     {
       "id": "gxtq68mg8",
@@ -1153,6 +1250,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 14077,
       "likesRead": "2026-11-08",
       "posted": "2026-11-01",
@@ -1175,82 +1273,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/tibo-dog/"
-    },
-    {
-      "id": "gohxe896s",
-      "slug": "saltline",
-      "aliases": [],
-      "title": "Saltline",
-      "added": "2026-11-10",
-      "creators": [
-        {
-          "handle": "felixrieseberg",
-          "name": "Felix Rieseberg",
-          "url": "https://x.com/felixrieseberg"
-        }
-      ],
-      "primaryHandle": "felixrieseberg",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "shooter",
-          "name": "Shooter"
-        },
-        {
-          "id": "action",
-          "name": "Action"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD to move, mouse to look, left click to fire, right click to aim, R to reload, E to cut a relay, Space to jump, Shift to sprint, C to crouch, Esc to pause",
-      "brandIp": false,
-      "description": "Cut three uplink relays in a rain-soaked container port in a first-person shooter whose models, textures and sounds are all made in code.",
-      "notes": "Its creator tested Claude Fable 5.2 with one-shot prompts and no human feedback: the model ran for about eight hours and made every model, texture and sound from scratch, which the creator puts at about $550 at API prices. You drop into Saltline Terminal, a wet container port at dusk, with a rifle and three relays to cut while the port's security net fights back, and then you have to reach the boat. The lighting, rain and gun model are the draw, and the post's thousands of replies argued over how close it gets to a commercial shooter. It's one small level, so a run is short.",
-      "prompt": {
-        "shared": true,
-        "partial": true,
-        "source_url": "https://x.com/felixrieseberg/status/2119927483994907024",
-        "text": "You know, you should also build me a FPS. Insanely detailed quality pls, something that looks visually like it can keep up with AAA. Make it small in scope (like a tiny level) but otherwise impressive photorealistic graphics"
-      },
-      "likes": 12397,
-      "likesRead": "2026-11-11",
-      "posted": "2026-11-09",
-      "sourceUrl": "https://x.com/felixrieseberg/status/2119925633564463609",
-      "evidence": {
-        "url": "https://x.com/felixrieseberg/status/2119925633564463609",
-        "quote": "I wanted to test Fable 5.2's quality with one-shot prompts without human feedback. Everything in this game is from scratch: models, sounds, textures."
-      },
-      "playUrl": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/saltline/still.webp?v=5b6da0aef0",
-        "preview": "https://media.amusehall.com/saltline/preview.webp?v=f7088e6578",
-        "clip": "https://media.amusehall.com/saltline/clip.mp4?v=11ccb1eb8a",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/saltline/"
     },
     {
       "id": "g7er41or1",
@@ -1320,6 +1342,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 7955,
       "likesRead": "2026-11-01",
       "posted": "2026-09-04",
@@ -1393,6 +1416,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 6742,
       "likesRead": "2026-11-01",
       "posted": "2026-09-12",
@@ -1473,6 +1497,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 4645,
       "likesRead": "2026-11-01",
       "posted": "2026-09-27",
@@ -1557,6 +1582,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 4375,
       "likesRead": "2026-11-01",
       "posted": "2026-09-06",
@@ -1636,6 +1662,7 @@
         "source_url": "https://x.com/levelsio/status/1893350391158292550",
         "text": "make a 3d flying game in browser with skyscrapers"
       },
+      "makingOf": null,
       "likes": 4311,
       "likesRead": "2026-11-01",
       "posted": "2025-02-22",
@@ -1720,8 +1747,9 @@
         "source_url": null,
         "text": null
       },
-      "likes": 4094,
-      "likesRead": "2026-11-11",
+      "makingOf": null,
+      "likes": 4171,
+      "likesRead": "2026-11-12",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2119868968307695818",
       "evidence": {
@@ -1814,6 +1842,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 4039,
       "likesRead": "2026-11-01",
       "posted": "2026-09-27",
@@ -1890,6 +1919,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 3948,
       "likesRead": "2026-11-01",
       "posted": "2026-09-22",
@@ -1981,6 +2011,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 3662,
       "likesRead": "2026-11-01",
       "posted": "2026-07-27",
@@ -2072,6 +2103,7 @@
         "source_url": "https://github.com/bridge-mind/turbo-kart-rally",
         "text": "I need you to launch five opus 5.5 sub-agents and help me build a triple A quality game that is a clone of Mario Kart. What I want you to do is I want you to launch these sub-agents, build the game without asking me any questions at all, and use 3JS to build the game. And once you're done, report back to me."
       },
+      "makingOf": null,
       "likes": 3621,
       "likesRead": "2026-11-01",
       "posted": "2026-09-22",
@@ -2177,6 +2209,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 2968,
       "likesRead": "2026-11-01",
       "posted": "2026-09-11",
@@ -2257,6 +2290,7 @@
         "source_url": "https://github.com/e01-ai/starfall/blob/main/prompt.md",
         "text": "I want you to build a homeworld style universe scale RTS at the level of most recent space RTS games. It should be utterly perfect, visually beautiful, stunning in detail, with every single thing done at AAA quality—from textures to physics to anything you could think of, with the sense of massivenss and scale.\n\nFan out sub-agents and have sub-agents tackle each one individually so that the game is utterly perfect. You should /loop on each item and have a separate sub-agent check it visually to ensure it looks triple A. That separate sub-agent should be a really harsh critic, and if it doesn't look triple A, it should keep going.\n\nDon't stop until each sub-agent is utterly wowed with the quality when compared with the actual homeworld game. It should literally compare them side by side blind and say which one looks better. Do this in ThreeJS. /loop until it's utterly perfect. Fan out sub-agents and ultracode.\n\nOnly need random mode, not mission, create multiple ship types, great UI, HUD, and game machanics, and fluent control, max quality.\n\nFor ship models, and effects, AAA, max detail needed, use shaders, generative textures, and instancing to ensure best performance."
       },
+      "makingOf": null,
       "likes": 2484,
       "likesRead": "2026-11-01",
       "posted": "2026-07-27",
@@ -2333,8 +2367,9 @@
         "source_url": null,
         "text": null
       },
-      "likes": 2329,
-      "likesRead": "2026-11-11",
+      "makingOf": null,
+      "likes": 2366,
+      "likesRead": "2026-11-12",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/mattshumer_/status/2119877065701036047",
       "evidence": {
@@ -2405,6 +2440,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 2136,
       "likesRead": "2026-11-01",
       "posted": "2026-09-29",
@@ -2480,8 +2516,9 @@
         "source_url": null,
         "text": null
       },
-      "likes": 1998,
-      "likesRead": "2026-11-11",
+      "makingOf": null,
+      "likes": 2118,
+      "likesRead": "2026-11-12",
       "posted": "2026-11-05",
       "sourceUrl": "https://www.youtube.com/watch?v=Ei57tuaHbJc",
       "evidence": {
@@ -2560,6 +2597,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 1920,
       "likesRead": "2026-11-01",
       "posted": "2026-07-24",
@@ -2638,6 +2676,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 1856,
       "likesRead": "2026-11-01",
       "posted": "2026-10-28",
@@ -2660,6 +2699,87 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/playable-worlds/"
+    },
+    {
+      "id": "geg91cy2q",
+      "slug": "evensong",
+      "aliases": [],
+      "title": "Evensong",
+      "added": "2026-11-11",
+      "creators": [
+        {
+          "handle": "kevin_t_ngo",
+          "name": "Kevin Ngo",
+          "url": "https://x.com/kevin_t_ngo"
+        }
+      ],
+      "primaryHandle": "kevin_t_ngo",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to look, left click for a light attack, E for a heavy attack, right mouse to block, Space to roll, Q to lock on, R to drink a flask; hold Enter to skip the intro",
+      "brandIp": false,
+      "description": "A souls-like boss duel against a drowned cathedral's choir mistress, made with Claude Fable 5.2, where falling never ends the fight.",
+      "notes": "The creator made this boss fight with Claude Fable 5.2 in about ten prompts, most of them fixing character animations, with models from Tripo. You face Ondine, Cantor of the Drowned Choir, in a flooded cathedral: lock on, roll through her attacks, block, and land light and heavy blows. The creator kept losing, so they made it impossible to lose: when you fall, a rescue scene plays and the fight goes on. She still has two phases before the ending. It takes the mouse pointer, so click into the game to fight.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": null,
+      "likes": 1694,
+      "likesRead": "2026-11-12",
+      "posted": "2026-11-10",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+      "evidence": {
+        "url": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+        "quote": "Claude Fable 5.2 made this game demo, playable in the browser"
+      },
+      "playUrl": "https://evensong-phi.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/evensong/still.webp?v=49354b02a0",
+        "preview": "https://media.amusehall.com/evensong/preview.webp?v=e0cd43bfa4",
+        "clip": "https://media.amusehall.com/evensong/clip.mp4?v=6dbd57beb7",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/evensong/"
     },
     {
       "id": "g8p6ybzyp",
@@ -2750,6 +2870,7 @@
         "source_url": "https://x.com/DannyLimanseta/status/2052040017007251946",
         "text": "can you review this game and see what ideas to improve the game"
       },
+      "makingOf": null,
       "likes": 1663,
       "likesRead": "2026-11-01",
       "posted": "2026-05-04",
@@ -2830,6 +2951,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 1604,
       "likesRead": "2026-11-01",
       "posted": "2026-07-18",
@@ -2918,6 +3040,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 1570,
       "likesRead": "2026-11-01",
       "posted": "2026-09-08",
@@ -3029,8 +3152,9 @@
         "source_url": null,
         "text": null
       },
-      "likes": 1531,
-      "likesRead": "2026-11-11",
+      "makingOf": null,
+      "likes": 1508,
+      "likesRead": "2026-11-12",
       "posted": "2026-11-05",
       "sourceUrl": "https://x.com/Rubzem/status/2118343870450954318",
       "evidence": {
@@ -3101,6 +3225,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 1497,
       "likesRead": "2026-11-01",
       "posted": "2026-09-24",
@@ -3123,6 +3248,83 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/voxel-musou/"
+    },
+    {
+      "id": "go4slgb6w",
+      "slug": "lanternfall",
+      "aliases": [],
+      "title": "Lanternfall",
+      "added": "2026-11-11",
+      "creators": [
+        {
+          "handle": "loktar00",
+          "name": "Loktar",
+          "url": "https://x.com/loktar00"
+        }
+      ],
+      "primaryHandle": "loktar00",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "rpg",
+          "name": "RPG"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "The party fights on its own; click the level-up cards, Space fires a flare, M opens the menu, C toggles the close camera, + and - change the speed",
+      "brandIp": false,
+      "description": "Lead a lantern-lit party of heroes through waves of the dark in a 3D auto-battler, choosing an upgrade at every level until the Barrow King arrives.",
+      "notes": "The creator, who has made games since the 90s, says they only prompted and Claude Fable 5.2 made the rest, including the models and skeletal animations. Your party of heroes fights waves on its own in a lantern-lit 3D field; your part is choosing an upgrade card at each level, firing flares and managing gear and camp from the menu. A boss, the Barrow King, arrives about a minute in. Speed controls let a run go faster. The layout is made for a computer screen.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": null,
+      "likes": 1379,
+      "likesRead": "2026-11-12",
+      "posted": "2026-11-10",
+      "sourceUrl": "https://x.com/loktar00/status/2120192761542615271",
+      "evidence": {
+        "url": "https://x.com/loktar00/status/2120192761542615271",
+        "quote": "Fable 5.2 just created this entire game, animations, models, everything."
+      },
+      "playUrl": "https://loktar00.github.io/lanternfall/",
+      "price": "free",
+      "codeUrl": "https://github.com/loktar00/lanternfall",
+      "media": {
+        "still": "https://media.amusehall.com/lanternfall/still.webp?v=578f01f74b",
+        "preview": "https://media.amusehall.com/lanternfall/preview.webp?v=fc710b4bfe",
+        "clip": "https://media.amusehall.com/lanternfall/clip.mp4?v=54d36601a3",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/lanternfall/"
     },
     {
       "id": "gth5ddt8o",
@@ -3178,6 +3380,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 1365,
       "likesRead": "2026-11-01",
       "posted": "2026-08-02",
@@ -3262,6 +3465,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 1158,
       "likesRead": "2026-11-08",
       "posted": "2026-09-15",
@@ -3358,6 +3562,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 1148,
       "likesRead": "2026-11-08",
       "posted": "2026-11-03",
@@ -3380,86 +3585,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/show-of-hands/"
-    },
-    {
-      "id": "geg91cy2q",
-      "slug": "evensong",
-      "aliases": [],
-      "title": "Evensong",
-      "added": "2026-11-11",
-      "creators": [
-        {
-          "handle": "kevin_t_ngo",
-          "name": "Kevin Ngo",
-          "url": "https://x.com/kevin_t_ngo"
-        }
-      ],
-      "primaryHandle": "kevin_t_ngo",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2"
-      ],
-      "tools": [
-        {
-          "id": "tripo",
-          "name": "Tripo",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "action",
-          "name": "Action"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD to move, mouse to look, left click for a light attack, E for a heavy attack, right mouse to block, Space to roll, Q to lock on, R to drink a flask; hold Enter to skip the intro",
-      "brandIp": false,
-      "description": "A souls-like boss duel against a drowned cathedral's choir mistress, made with Claude Fable 5.2, where falling never ends the fight.",
-      "notes": "The creator made this boss fight with Claude Fable 5.2 in about ten prompts, most of them fixing character animations, with models from Tripo. You face Ondine, Cantor of the Drowned Choir, in a flooded cathedral: lock on, roll through her attacks, block, and land light and heavy blows. The creator kept losing, so they made it impossible to lose: when you fall, a rescue scene plays and the fight goes on. She still has two phases before the ending. It takes the mouse pointer, so click into the game to fight.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "likes": 1080,
-      "likesRead": "2026-11-11",
-      "posted": "2026-11-10",
-      "sourceUrl": "https://x.com/kevin_t_ngo/status/2120238844754923874",
-      "evidence": {
-        "url": "https://x.com/kevin_t_ngo/status/2120238844754923874",
-        "quote": "Claude Fable 5.2 made this game demo, playable in the browser"
-      },
-      "playUrl": "https://evensong-phi.vercel.app/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/evensong/still.webp?v=49354b02a0",
-        "preview": "https://media.amusehall.com/evensong/preview.webp?v=e0cd43bfa4",
-        "clip": "https://media.amusehall.com/evensong/clip.mp4?v=6dbd57beb7",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/evensong/"
     },
     {
       "id": "gmewfnndy",
@@ -3514,6 +3639,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 1078,
       "likesRead": "2026-11-08",
       "posted": "2026-11-05",
@@ -3612,6 +3738,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 975,
       "likesRead": "2026-11-01",
       "posted": "2026-09-05",
@@ -3634,82 +3761,6 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/astral-war/"
-    },
-    {
-      "id": "go4slgb6w",
-      "slug": "lanternfall",
-      "aliases": [],
-      "title": "Lanternfall",
-      "added": "2026-11-11",
-      "creators": [
-        {
-          "handle": "loktar00",
-          "name": "Loktar",
-          "url": "https://x.com/loktar00"
-        }
-      ],
-      "primaryHandle": "loktar00",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "rpg",
-          "name": "RPG"
-        },
-        {
-          "id": "strategy",
-          "name": "Strategy"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "The party fights on its own; click the level-up cards, Space fires a flare, M opens the menu, C toggles the close camera, + and - change the speed",
-      "brandIp": false,
-      "description": "Lead a lantern-lit party of heroes through waves of the dark in a 3D auto-battler, choosing an upgrade at every level until the Barrow King arrives.",
-      "notes": "The creator, who has made games since the 90s, says they only prompted and Claude Fable 5.2 made the rest, including the models and skeletal animations. Your party of heroes fights waves on its own in a lantern-lit 3D field; your part is choosing an upgrade card at each level, firing flares and managing gear and camp from the menu. A boss, the Barrow King, arrives about a minute in. Speed controls let a run go faster. The layout is made for a computer screen.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "likes": 940,
-      "likesRead": "2026-11-11",
-      "posted": "2026-11-10",
-      "sourceUrl": "https://x.com/loktar00/status/2120192761542615271",
-      "evidence": {
-        "url": "https://x.com/loktar00/status/2120192761542615271",
-        "quote": "Fable 5.2 just created this entire game, animations, models, everything."
-      },
-      "playUrl": "https://loktar00.github.io/lanternfall/",
-      "price": "free",
-      "codeUrl": "https://github.com/loktar00/lanternfall",
-      "media": {
-        "still": "https://media.amusehall.com/lanternfall/still.webp?v=578f01f74b",
-        "preview": "https://media.amusehall.com/lanternfall/preview.webp?v=fc710b4bfe",
-        "clip": "https://media.amusehall.com/lanternfall/clip.mp4?v=54d36601a3",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/lanternfall/"
     },
     {
       "id": "gron4ulbj",
@@ -3764,6 +3815,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 903,
       "likesRead": "2026-11-08",
       "posted": "2026-09-28",
@@ -3844,6 +3896,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 894,
       "likesRead": "2026-11-08",
       "posted": "2026-09-24",
@@ -3920,6 +3973,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 863,
       "likesRead": "2026-11-01",
       "posted": "2026-10-31",
@@ -3999,6 +4053,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 861,
       "likesRead": "2026-11-01",
       "posted": "2026-09-07",
@@ -4021,6 +4076,109 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/apex-coast-run/"
+    },
+    {
+      "id": "gie0au2by",
+      "slug": "petalwake",
+      "aliases": [],
+      "title": "Petalwake",
+      "added": "2026-11-11",
+      "creators": [
+        {
+          "handle": "pwnies",
+          "name": "Jacob Miller",
+          "url": "https://x.com/pwnies"
+        }
+      ],
+      "primaryHandle": "pwnies",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "fal",
+          "name": "fal",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "meshy",
+          "name": "Meshy",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "flight",
+          "name": "Flight"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "W and S to dive and climb, A and D to bank, Shift to ride the gust, Space twice by a lit pad to land; J opens the journal",
+      "brandIp": false,
+      "description": "Ride a broom over a painted coast, delivering parcels to tower tops and hunting hidden treasures, built in a day with Claude Fable 5.2.",
+      "notes": "The creator built this in a day with Claude Code and Claude Fable 5.2 from a short brief and a mood clip, and says the model wrote all the code and shaders; art came from image and 3D tools. You fly a broom low over a soft, painted coast and towns, riding gusts, landing on lit pads to hand over parcels, and hunting 12 hidden treasures and wind seeds. It's calm, with no fail state. The first load is about 95 MB and it needs a computer with WebGL2.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": null,
+      "likes": 840,
+      "likesRead": "2026-11-12",
+      "posted": "2026-11-10",
+      "sourceUrl": "https://x.com/pwnies/status/2119987174884143348",
+      "evidence": {
+        "url": "https://github.com/jjcm/petalwake#how-it-was-made",
+        "quote": "Petalwake was built in a day with Claude Code (Claude Fable 5.2)"
+      },
+      "playUrl": "https://petalwake.non.io/v2/",
+      "price": "free",
+      "codeUrl": "https://github.com/jjcm/petalwake",
+      "media": {
+        "still": "https://media.amusehall.com/petalwake/still.webp?v=aaeb24abe7",
+        "preview": "https://media.amusehall.com/petalwake/preview.webp?v=54ce84831a",
+        "clip": "https://media.amusehall.com/petalwake/clip.mp4?v=13c5d0dd1e",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/petalwake/"
     },
     {
       "id": "g9141ggib",
@@ -4083,6 +4241,7 @@
         "source_url": "https://github.com/StarKnightt/operation-ironhold/blob/main/PROMPTS.md",
         "text": "build a complete realistic FPS shooter game in a single HTML file. everything inline — JS and CSS in the same file. no external dependencies except three.js from CDN (https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js). no build tools, no npm.\n\n**core gameplay:**\n- first person shooter, single player vs AI enemies\n- WASD movement, mouse look with pointer lock on click\n- left click to shoot, R to reload, shift to sprint, ctrl to crouch, space to jump\n- sprint adds FOV push effect and lowers weapon slightly\n- crouch lowers camera height and reduces movement speed\n- jump with landing camera shake\n\n**weapons system (switch with 1, 2, 3):**\n- slot 1: assault rifle — full auto, 30 round mag, moderate spread that increases with sustained fire, semi-auto toggle with V key\n- slot 2: shotgun — pump action, 8 shells, wide spread, high damage up close, pump animation between shots\n- slot 3: pistol — semi auto, 15 rounds, accurate, fast draw speed\n- each weapon needs a visible 3D viewmodel at bottom right — build them from three.js geometry (boxes, cylinders). add gloved hands holding the weapon\n- weapon sway on mouse movement, bob when walking synced to footsteps\n- muzzle flash (point light + sprite) on every shot\n- shell casings that eject and bounce on the ground with physics\n- reload animation (weapon dips down off screen and comes back)\n- draw animation when switching weapons\n\n**enemies (10 total):**\n- humanoid models built from three.js geometry (capsule body, sphere head, box limbs)\n- each enemy has a floating name tag and health bar above their head\n- enemy names: VIPER, GHOST, REAPER, HAVOC, STRIKER, COBRA, TALON, WOLF, DIESEL, SHADOW\n- enemies patrol waypoints around the map using simple pathfinding\n- when they spot you (line of sight + distance check), they stop, aim, and shoot with human-like reaction delay (300-800ms random)\n- enemies strafe left/right during combat\n- headshot detection — 2x damage on head hitbox\n- hit reaction animation (flinch backward)\n- death animation (ragdoll-style fall, weapon drops to ground)\n- enemies deal damage to player with visible red screen flash\n\n**map design — abandoned warehouse district:**\n- 60x60 unit play area\n- concrete floor with grid texture (procedural)\n- shipping containers (large colored boxes) placed as cover throughout\n- two story building on one side with accessible second floor via ramp — gives sniper advantage\n- long corridor between container stacks (close quarters)\n- open center area with a destroyed vehicle (boxes arranged as car shape)\n- chain link fence sections around the perimeter (thin planes with alpha)\n- barrel stacks that block sightlines\n- crate clusters for cover\n- directional lighting with shadows casting from a sun position\n- fog in the distance for atmosphere\n\n**HUD:**\n- crosshair center screen (dynamic — expands when moving/shooting, contracts when still)\n- health bar bottom left with number (starts at 100)\n- armor bar below health (starts at 50, reduces damage by 50%)\n- ammo counter bottom right: current mag / total reserve\n- weapon name and icon next to ammo\n- kill feed top right — shows \"YOU killed ENEMY\" with headshot icon when applicable\n- hit marker (white X flash) when you land a shot\n- damage direction indicator (red arc on screen edge showing where damage came from)\n- minimap top left showing player position, enemy dots (red when spotted), and map walls\n- round timer top center counting down from 3:00\n- kill counter: \"X / 10 eliminated\"\n\n**audio (all procedural Web Audio API, no external files):**\n- gunshot sounds per weapon (rifle = sharp crack, shotgun = deep boom, pistol = snap)\n- reload sound (metallic click)\n- footsteps synced to movement (concrete sound)\n- bullet impact sounds (different for wall vs enemy)\n- enemy death sound\n- hit confirmation beep\n- low health heartbeat warning when under 20hp\n- ambient industrial hum in background\n\n**post processing:**\n- bloom on muzzle flash and bright lights\n- vignette darkening at screen edges\n- slight color grading (desaturated, slightly blue shadows)\n- screen shake on taking damage and on shooting shotgun\n\n**game flow:**\n- start screen: \"PRESS TO START\" with title\n- pointer lock activates on click\n- kill all 10 enemies to win\n- die or run out of time to lose\n- end screen shows: kills, headshots, accuracy percentage, time survived\n- restart button on end screen\n\n**performance:**\n- use merged geometries where possible to reduce draw calls\n- shadow maps at 2048\n- keep it running 60fps on mid-range hardware\n- use instanced mesh for repeated objects like crates and barrels\n\nmake it feel like a real game. weight to the movement, punch to the guns, tension in the combat. not a tech demo.\n\n---\n\naim-down-sights (ADS) for all weapons on right click:\n\nassault rifle: FOV goes from 75 to 55, weapon model moves to center screen, tighter spread while aiming\nshotgun: FOV goes from 75 to 60, slight zoom, weapon centers\npistol: FOV goes from 75 to 50, weapon raises to center with iron sight alignment\nsniper: FOV goes from 75 to 15, full scope overlay with dark circular vignette and mil-dot crosshair lines, subtle scope sway (slow sine wave on x and y), hold shift while scoped to hold breath (sway settles to near zero for 3 seconds)\n\nsmooth transition in and out (0.2 sec lerp) for all weapons\nreduce movement speed by 40% while ADS\nright click to toggle ADS on/off\ndisable normal crosshair while using sniper scope\n\nsniper rifle as slot 4: bolt action, 5 round mag, one shot kill to body, headshot instant kill\nbolt cycle animation between shots (1.5 sec delay)\nloud crack sound, visible bullet tracer line\nswitch weapons with 1-4 and scroll wheel\n\nparkour/mantle: when player jumps near a container or crate edge and holds space, auto-mantle onto it (camera lifts up smoothly to the top)\nplayer can stand and walk on top of containers, crates, the vehicle, and barrel stacks\ndouble jump: tap space twice quickly for extra height\nincrease base jump height slightly so player can reach container tops with mantle\nadd collision on top of all objects so player doesn't fall through\n\n---\n\nthe game has major bugs that need fixing before this is shareable. go through everything and fix all of these:\n\n**collision bugs (highest priority):**\n- player can walk through some walls. every single wall, container, crate, barrel, and building must have solid collision. the player should never pass through any object. check every single object in the scene has a collider and that the collision detection actually works\n- enemies are getting stuck inside containers and walls. add collision checks for enemy pathfinding so they navigate AROUND objects, never through them. if an enemy is stuck, teleport them to the nearest valid position outside any object\n- enemies stuck inside containers can still shoot the player but player can't shoot back. fix this — if there's no clear line of sight between player and enemy (raycast hits a wall/container), the enemy cannot deal damage\n\n**enemy AI fixes:**\n- enemies should never walk into walls or containers. their pathfinding needs to respect all solid objects\n- enemies should never stand still in the open doing nothing. if they're not in combat, they patrol. if they spot the player, they engage immediately\n- enemies should take cover behind containers and crates during combat, not just stand in the open\n- if an enemy can't reach the player, they should find an alternative path, not freeze\n\n**weapon and shooting fixes:**\n- make sure every weapon actually fires when clicking. if there's any delay or missed input, fix it\n- muzzle flash needs to be visible and punchy — bright flash + point light for 2 frames\n- bullet hit detection needs to be accurate. if crosshair is on the enemy, the bullet should hit. no phantom misses\n- shell casings should eject properly from the right side of the weapon\n- reload should feel smooth — weapon dips, mag change sound, weapon comes back\n- ADS (aim down sights) on right click must work for every weapon. if it's broken, fix it\n- sniper scope overlay must appear on right click with the sniper equipped\n\n**general polish:**\n- make sure the player cannot leave the map boundaries. add invisible walls at all edges\n- fix any z-fighting or flickering textures\n- make sure the minimap accurately shows wall positions and enemy dots\n- death screen and win screen must work properly with accurate stats\n- fix any console errors\n\ntest everything after fixing. walk along every wall. try to walk through every container. watch every enemy for 30 seconds to make sure they're not stuck. fire every weapon and confirm it works. this needs to feel like a finished game, not a broken prototype.\n\n---\n\nreplace the current crosshair with a valorant-style competitive crosshair:\n\n**inner lines:**\n- 4 lines (top, bottom, left, right)\n- each line is 4px long, 2px thick\n- offset 1px from center (small gap in the middle)\n- color: white with thin black outline for visibility on any background\n- no center dot\n\n**outer lines:**\n- 4 lines (top, bottom, left, right)\n- each line is 3px long, 2px thick\n- offset 2px from the end of the inner lines (gap between inner and outer)\n- same white with black outline\n\n**behavior:**\n- crosshair stays static when standing still\n- inner lines expand outward when moving or shooting (dynamic spread)\n- inner lines return to default position when standing still and not firing (0.15 sec lerp back)\n- outer lines don't move\n- no firing error on outer lines\n- no movement error on outer lines\n- crosshair disappears when using sniper scope ADS\n- crosshair stays visible for all other weapons during ADS\n\ndraw this with canvas overlay, not HTML elements. needs to be pixel-perfect and centered.\n\n---\n\ntime to fix some bugs, enemeies guns are pointing backwards if you see while shooting and our sky looks pixelated like you can see here and one more thing zooming in in m4 carbine is like trash i mean theres' no use if i can't zoom in more and see enemy"
       },
+      "makingOf": null,
       "likes": 793,
       "likesRead": "2026-11-01",
       "posted": "2026-07-25",
@@ -4167,6 +4326,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 752,
       "likesRead": "2026-11-01",
       "posted": "2026-10-27",
@@ -4244,6 +4404,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 744,
       "likesRead": "2026-11-01",
       "posted": "2026-04-26",
@@ -4266,108 +4427,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/full-send/"
-    },
-    {
-      "id": "gie0au2by",
-      "slug": "petalwake",
-      "aliases": [],
-      "title": "Petalwake",
-      "added": "2026-11-11",
-      "creators": [
-        {
-          "handle": "pwnies",
-          "name": "Jacob Miller",
-          "url": "https://x.com/pwnies"
-        }
-      ],
-      "primaryHandle": "pwnies",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": "claude-code"
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2"
-      ],
-      "tools": [
-        {
-          "id": "claude-code",
-          "name": "Claude Code",
-          "kind": "ai",
-          "family": "claude",
-          "referral_url": null
-        },
-        {
-          "id": "fal",
-          "name": "fal",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "meshy",
-          "name": "Meshy",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "flight",
-          "name": "Flight"
-        },
-        {
-          "id": "exploration",
-          "name": "Exploration"
-        },
-        {
-          "id": "cozy",
-          "name": "Cozy"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "W and S to dive and climb, A and D to bank, Shift to ride the gust, Space twice by a lit pad to land; J opens the journal",
-      "brandIp": false,
-      "description": "Ride a broom over a painted coast, delivering parcels to tower tops and hunting hidden treasures, built in a day with Claude Fable 5.2.",
-      "notes": "The creator built this in a day with Claude Code and Claude Fable 5.2 from a short brief and a mood clip, and says the model wrote all the code and shaders; art came from image and 3D tools. You fly a broom low over a soft, painted coast and towns, riding gusts, landing on lit pads to hand over parcels, and hunting 12 hidden treasures and wind seeds. It's calm, with no fail state. The first load is about 95 MB and it needs a computer with WebGL2.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "likes": 735,
-      "likesRead": "2026-11-11",
-      "posted": "2026-11-10",
-      "sourceUrl": "https://x.com/pwnies/status/2119987174884143348",
-      "evidence": {
-        "url": "https://github.com/jjcm/petalwake#how-it-was-made",
-        "quote": "Petalwake was built in a day with Claude Code (Claude Fable 5.2)"
-      },
-      "playUrl": "https://petalwake.non.io/v2/",
-      "price": "free",
-      "codeUrl": "https://github.com/jjcm/petalwake",
-      "media": {
-        "still": "https://media.amusehall.com/petalwake/still.webp?v=aaeb24abe7",
-        "preview": "https://media.amusehall.com/petalwake/preview.webp?v=54ce84831a",
-        "clip": "https://media.amusehall.com/petalwake/clip.mp4?v=13c5d0dd1e",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/petalwake/"
     },
     {
       "id": "gvosn1v6w",
@@ -4426,6 +4485,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 709,
       "likesRead": "2026-11-01",
       "posted": "2025-02-27",
@@ -4501,6 +4561,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 664,
       "likesRead": "2026-11-01",
       "posted": "2026-09-23",
@@ -4585,6 +4646,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 633,
       "likesRead": "2026-11-01",
       "posted": "2026-08-03",
@@ -4687,6 +4749,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 532,
       "likesRead": "2026-11-01",
       "posted": "2026-09-26",
@@ -4761,6 +4824,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 518,
       "likesRead": "2026-11-09",
       "posted": "2026-11-07",
@@ -4783,6 +4847,111 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/ram-altman/"
+    },
+    {
+      "id": "gb72dv8lx",
+      "slug": "mist-locked-gate",
+      "aliases": [],
+      "title": "雾锁山门",
+      "added": "2026-11-12",
+      "creators": [
+        {
+          "handle": "op7418",
+          "name": "歸藏",
+          "url": "https://x.com/op7418"
+        }
+      ],
+      "primaryHandle": "op7418",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "jimeng",
+          "name": "Jimeng",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, left click to slash, hold right click to block, Space to dodge",
+      "brandIp": false,
+      "description": "Mist-Locked Gate is a short Chinese-language sword-fighting game with a snowy temple path, a skirmish and a two-phase boss.",
+      "notes": "Follow the snowy path to a fight outside a mountain temple. Chain sword strikes, block to create an opening and dodge when enemies commit to an attack. The demo is in Chinese and covers one area, a group encounter and a boss.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator gave Fable 5.2 a Chinese fantasy theme and says the game took one afternoon of repeated revisions. They describe starting with concept art in Jimeng and turning it into rigged 3D models with Tripo, with the AI writing the asset prompts. The creator turned the process into a reusable skill and describes how it checks gameplay with screenshots and packages the game into a single HTML file.",
+        "sources": [
+          "https://x.com/op7418/status/2120694045299327187",
+          "https://github.com/op7418/guizang-game-skill#演示游戏雾锁山门"
+        ]
+      },
+      "likes": 424,
+      "likesRead": "2026-11-12",
+      "posted": "2026-11-12",
+      "sourceUrl": "https://x.com/op7418/status/2120694045299327187",
+      "evidence": {
+        "url": "https://x.com/op7418/status/2120694045299327187",
+        "quote": "Fable 5.2 只用了一下午"
+      },
+      "playUrl": "https://op7418.github.io/guizang-game-skill/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/mist-locked-gate/still.webp?v=6cb05ccbbd",
+        "preview": "https://media.amusehall.com/mist-locked-gate/preview.webp?v=b301eccd3b",
+        "clip": "https://media.amusehall.com/mist-locked-gate/clip.mp4?v=6eb4c3e90c",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/mist-locked-gate/"
     },
     {
       "id": "gnqa68iap",
@@ -4850,6 +5019,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 390,
       "likesRead": "2026-11-01",
       "posted": "2026-04-26",
@@ -4930,6 +5100,7 @@
         "source_url": "https://github.com/ryancampbell/kart-royale/blob/main/README.md",
         "text": "I want you to build a kat racing game at the level of the most recent Mario Kart games. It should be utterly perfect, visually beautiful, with every single thing done at AAA quality—from textures to physics to anything you could think of.\n\nFan out sub-agents and have sub-agents tackle each one individually so that the game is utterly perfect. You should /loop on each item and have a separate sub-agent check it visually to ensure it looks triple A. That separate sub-agent should be a really harsh critic, and if it doesn't look triple A, it should keep going.\n\nDon't stop until each sub-agent is utterly wowed with the quality when compared with the actual Mario Kart game. It should literally compare them side by side blind and say which one looks better. Do this in ThreeJS. /loop until it's utterly perfect. Fan out sub-agents and ultracode."
       },
+      "makingOf": null,
       "likes": 362,
       "likesRead": "2026-11-01",
       "posted": "2026-07-27",
@@ -5012,6 +5183,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 361,
       "likesRead": "2026-11-01",
       "posted": "2026-10-26",
@@ -5095,8 +5267,9 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 341,
-      "likesRead": "2026-11-11",
+      "likesRead": "2026-11-12",
       "posted": "2026-09-04",
       "sourceUrl": "https://x.com/WoahWurdz/status/2095958882732355908",
       "evidence": {
@@ -5179,8 +5352,9 @@
         "source_url": null,
         "text": null
       },
-      "likes": 313,
-      "likesRead": "2026-11-11",
+      "makingOf": null,
+      "likes": 320,
+      "likesRead": "2026-11-12",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2119900487688622171",
       "evidence": {
@@ -5201,6 +5375,87 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/gilt-and-gutter/"
+    },
+    {
+      "id": "g17kxz4cm",
+      "slug": "dread-and-district",
+      "aliases": [],
+      "title": "Dread & District",
+      "added": "2026-11-11",
+      "creators": [
+        {
+          "handle": "emollick",
+          "url": "https://x.com/emollick"
+        }
+      ],
+      "primaryHandle": "emollick",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Drag from stop to stop to lay a line, drag a line's end to extend it, click the panels to add crews, stops and coaches",
+      "brandIp": false,
+      "description": "Run coach lines across a hand-drawn fantasy realm where a dark lord is rising, in a transit puzzle written and drawn by Claude agents.",
+      "notes": "The creator gave Claude Fable 5.2 one vague paragraph and left a group of agents to argue over the art, lore and jokes; the game's credits say Claude designed, built, drew and wrote it. You lay coach lines between towns on a hand-drawn map, then add crews, stops and longer coaches as towns grow and travellers pile up. A guided first year teaches the basics, and the writing is full of jokes, starting with \"All services subject to dragons\". A Sunday Service mode can't be lost. It plays on a phone in landscape too.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": null,
+      "likes": 296,
+      "likesRead": "2026-11-12",
+      "posted": "2026-11-10",
+      "sourceUrl": "https://x.com/emollick/status/2120248525254742318",
+      "evidence": {
+        "url": "https://x.com/emollick/status/2120248525254742318",
+        "quote": "I gave Claude Fable 5.2 a vague paragraph asking for a fantasy transport sim with heart. Then I left it to a bunch of agents arguing about art, lore and jokes."
+      },
+      "playUrl": "https://dread-and-district.netlify.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/dread-and-district/still.webp?v=83e3b2b701",
+        "preview": "https://media.amusehall.com/dread-and-district/preview.webp?v=8fdf981de4",
+        "clip": "https://media.amusehall.com/dread-and-district/clip.mp4?v=6279dba5db",
+        "unrecordable": null
+      },
+      "availability": "unknown",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/dread-and-district/"
     },
     {
       "id": "gj0w80p9f",
@@ -5278,6 +5533,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 269,
       "likesRead": "2026-11-01",
       "posted": "2026-09-30",
@@ -5358,6 +5614,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 254,
       "likesRead": "2026-11-01",
       "posted": "2026-07-30",
@@ -5460,6 +5717,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 250,
       "likesRead": "2026-11-01",
       "posted": "2026-04-29",
@@ -5484,18 +5742,19 @@
       "pageUrl": "https://amusehall.com/games/capybaras-delivering-food/"
     },
     {
-      "id": "g17kxz4cm",
-      "slug": "dread-and-district",
+      "id": "gatg3soyn",
+      "slug": "yard-clash",
       "aliases": [],
-      "title": "Dread & District",
+      "title": "Yard Clash",
       "added": "2026-11-11",
       "creators": [
         {
-          "handle": "emollick",
-          "url": "https://x.com/emollick"
+          "handle": "AugustCastilIo",
+          "name": "August",
+          "url": "https://x.com/AugustCastilIo"
         }
       ],
-      "primaryHandle": "emollick",
+      "primaryHandle": "AugustCastilIo",
       "credits": [
         {
           "label": "Claude Fable 5.2",
@@ -5511,57 +5770,83 @@
       "modelIds": [
         "claude-fable-5-2"
       ],
-      "tools": [],
+      "tools": [
+        {
+          "id": "higgsfield",
+          "name": "Higgsfield",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
       "genres": [
         {
-          "id": "strategy",
-          "name": "Strategy"
+          "id": "sports",
+          "name": "Sports"
         },
         {
-          "id": "simulation",
-          "name": "Simulation"
-        },
-        {
-          "id": "puzzle",
-          "name": "Puzzle"
+          "id": "arcade",
+          "name": "Arcade"
         }
       ],
       "devices": [
         "desktop",
         "phone"
       ],
-      "controls": "Drag from stop to stop to lay a line, drag a line's end to extend it, click the panels to add crews, stops and coaches",
+      "controls": "1 to 3 pick a play, Space to snap, hold the mouse to aim and throw, WASD to run, Shift to sprint, F to switch player; Space tackles on defense",
       "brandIp": false,
-      "description": "Run coach lines across a hand-drawn fantasy realm where a dark lord is rising, in a transit puzzle written and drawn by Claude agents.",
-      "notes": "The creator gave Claude Fable 5.2 one vague paragraph and left a group of agents to argue over the art, lore and jokes; the game's credits say Claude designed, built, drew and wrote it. You lay coach lines between towns on a hand-drawn map, then add crews, stops and longer coaches as towns grow and travellers pile up. A guided first year teaches the basics, and the writing is full of jokes, starting with \"All services subject to dragons\". A Sunday Service mode can't be lost. It plays on a phone in landscape too.",
+      "description": "Call plays, throw and tackle in 7v7 backyard American football against a bot team, with a neighbourhood league to climb.",
+      "notes": "The creator's first game with Claude Fable 5.2, with graphics made using Higgsfield, Claude Code, Blender and Three.js. It's backyard American football, seven a side: pick a play, snap, then aim a throw at a receiver's ring or run it yourself, and call plays on defense too. Solo against a bot is a full game, and a career mode takes your team through neighbourhood leagues. An online mode lets friends play with a room code.",
       "prompt": {
         "shared": false,
         "partial": false,
         "source_url": null,
         "text": null
       },
-      "likes": 221,
-      "likesRead": "2026-11-11",
+      "makingOf": null,
+      "likes": 213,
+      "likesRead": "2026-11-12",
       "posted": "2026-11-10",
-      "sourceUrl": "https://x.com/emollick/status/2120248525254742318",
+      "sourceUrl": "https://x.com/AugustCastilIo/status/2120302122776342865",
       "evidence": {
-        "url": "https://x.com/emollick/status/2120248525254742318",
-        "quote": "I gave Claude Fable 5.2 a vague paragraph asking for a fantasy transport sim with heart. Then I left it to a bunch of agents arguing about art, lore and jokes."
+        "url": "https://x.com/AugustCastilIo/status/2120302122776342865",
+        "quote": "This is the first game I built with Fable 5.2"
       },
-      "playUrl": "https://dread-and-district.netlify.app/",
+      "playUrl": "https://yardclash.vercel.app/",
       "price": "free",
       "codeUrl": null,
       "media": {
-        "still": "https://media.amusehall.com/dread-and-district/still.webp?v=83e3b2b701",
-        "preview": "https://media.amusehall.com/dread-and-district/preview.webp?v=8fdf981de4",
-        "clip": "https://media.amusehall.com/dread-and-district/clip.mp4?v=6279dba5db",
+        "still": "https://media.amusehall.com/yard-clash/still.webp?v=3e80e6f0e0",
+        "preview": "https://media.amusehall.com/yard-clash/preview.webp?v=b54e4a7300",
+        "clip": "https://media.amusehall.com/yard-clash/clip.mp4?v=83a096c071",
         "unrecordable": null
       },
-      "availability": "unknown",
+      "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
-      "pageUrl": "https://amusehall.com/games/dread-and-district/"
+      "pageUrl": "https://amusehall.com/games/yard-clash/"
     },
     {
       "id": "g7lsoeejk",
@@ -5632,6 +5917,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 202,
       "likesRead": "2026-11-08",
       "posted": "2026-11-03",
@@ -5713,6 +5999,7 @@
         "source_url": "https://x.com/SestinaTW/status/2104047477573947581",
         "text": "Make a Cuphead inspired game that uses film styles from various eras or ages and Uh, when I say Cuphead, I mean like that visual style. Your focus is very much on the visuals for this here. As well as the fun gameplay. Make one or two actually, make two full complete levels. Actually, let's start with one. Just make one full complete level here. That transitions, but ah, no, we need two. So yeah, make two full complete levels here. And consider this an homage to particular films. of those eras that you choose as well. This is not meant to be informational. It is meant to be fun and extremely polished visually. You have full creative freedom on this, but keep in mind that this is going to go on Twitter. So I want you to consider the angles first and make sure that you have all the tools that you need for this. Uh, you're going to make this into an artifact as well. And I want you to Live up to the challenge."
       },
+      "makingOf": null,
       "likes": 188,
       "likesRead": "2026-11-01",
       "posted": "2026-09-27",
@@ -5804,6 +6091,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 183,
       "likesRead": "2026-11-01",
       "posted": "2026-09-22",
@@ -5917,6 +6205,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 179,
       "likesRead": "2026-11-01",
       "posted": "2025-04-11",
@@ -5989,6 +6278,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 174,
       "likesRead": "2026-11-09",
       "posted": "2026-11-05",
@@ -6066,6 +6356,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 169,
       "likesRead": "2026-11-01",
       "posted": "2026-09-23",
@@ -6157,6 +6448,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 165,
       "likesRead": "2026-11-01",
       "posted": "2026-09-04",
@@ -6240,6 +6532,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 157,
       "likesRead": "2026-11-09",
       "posted": "2026-11-08",
@@ -6332,6 +6625,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 143,
       "likesRead": "2026-11-01",
       "posted": "2026-09-17",
@@ -6354,6 +6648,99 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/lost-cathedral/"
+    },
+    {
+      "id": "gvz6r7sy1",
+      "slug": "turbo-tails",
+      "aliases": [],
+      "title": "Turbo Tails",
+      "added": "2026-11-12",
+      "creators": [
+        {
+          "handle": "petergyang",
+          "name": "Peter Yang",
+          "url": "https://x.com/petergyang"
+        }
+      ],
+      "primaryHandle": "petergyang",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Arrow keys or WASD to steer and accelerate, Shift for turbo",
+      "brandIp": false,
+      "description": "Drift, collect coins and spend your turbo in a 3D kart racer with six racers and four tracks.",
+      "notes": "Single-player races put you up against five computer-controlled karts. Coins raise your speed, while drifting and tricks fill the turbo meter. You can also race friends in a multiplayer room.",
+      "prompt": {
+        "shared": true,
+        "partial": true,
+        "source_url": "https://x.com/petergyang/status/2119992966320415042",
+        "text": "Let's make mobile work please\n\nOk let's add multiplayer the simplest way"
+      },
+      "makingOf": {
+        "summary": "The creator says three prompts went into the first version, including requests to make it work on mobile and to add simple multiplayer. They generated the music with Suno and asked Claude to put it in the game. Their comparison video shows how they built the racer with Fable 5.2.",
+        "sources": [
+          "https://x.com/petergyang/status/2119901658394358005",
+          "https://x.com/petergyang/status/2119992966320415042",
+          "https://x.com/petergyang/status/2120013582851293493",
+          "https://www.youtube.com/watch?v=SsSKJA0EHD4&t=184s"
+        ]
+      },
+      "likes": 138,
+      "likesRead": "2026-11-12",
+      "posted": "2026-11-09",
+      "sourceUrl": "https://x.com/petergyang/status/2119901658394358005",
+      "evidence": {
+        "url": "https://x.com/petergyang/status/2119901658394358005",
+        "quote": "Here's my new 3D kart racer game I built with @claudeai Fable 5.2"
+      },
+      "playUrl": "https://turbo-tails.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/turbo-tails/still.webp?v=c1e06b22f1",
+        "preview": "https://media.amusehall.com/turbo-tails/preview.webp?v=d9dbba3159",
+        "clip": "https://media.amusehall.com/turbo-tails/clip.mp4?v=f64a7b9243",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/turbo-tails/"
     },
     {
       "id": "g04zlqq5p",
@@ -6424,6 +6811,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 132,
       "likesRead": "2026-11-01",
       "posted": "2026-08-21",
@@ -6500,6 +6888,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 131,
       "likesRead": "2026-11-01",
       "posted": "2026-09-05",
@@ -6522,112 +6911,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/no-moat/"
-    },
-    {
-      "id": "gatg3soyn",
-      "slug": "yard-clash",
-      "aliases": [],
-      "title": "Yard Clash",
-      "added": "2026-11-11",
-      "creators": [
-        {
-          "handle": "AugustCastilIo",
-          "name": "August",
-          "url": "https://x.com/AugustCastilIo"
-        }
-      ],
-      "primaryHandle": "AugustCastilIo",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2"
-      ],
-      "tools": [
-        {
-          "id": "higgsfield",
-          "name": "Higgsfield",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "claude-code",
-          "name": "Claude Code",
-          "kind": "ai",
-          "family": "claude",
-          "referral_url": null
-        },
-        {
-          "id": "blender",
-          "name": "Blender",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "sports",
-          "name": "Sports"
-        },
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        }
-      ],
-      "devices": [
-        "desktop",
-        "phone"
-      ],
-      "controls": "1 to 3 pick a play, Space to snap, hold the mouse to aim and throw, WASD to run, Shift to sprint, F to switch player; Space tackles on defense",
-      "brandIp": false,
-      "description": "Call plays, throw and tackle in 7v7 backyard American football against a bot team, with a neighbourhood league to climb.",
-      "notes": "The creator's first game with Claude Fable 5.2, with graphics made using Higgsfield, Claude Code, Blender and Three.js. It's backyard American football, seven a side: pick a play, snap, then aim a throw at a receiver's ring or run it yourself, and call plays on defense too. Solo against a bot is a full game, and a career mode takes your team through neighbourhood leagues. An online mode lets friends play with a room code.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "likes": 115,
-      "likesRead": "2026-11-11",
-      "posted": "2026-11-10",
-      "sourceUrl": "https://x.com/AugustCastilIo/status/2120302122776342865",
-      "evidence": {
-        "url": "https://x.com/AugustCastilIo/status/2120302122776342865",
-        "quote": "This is the first game I built with Fable 5.2"
-      },
-      "playUrl": "https://yardclash.vercel.app/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/yard-clash/still.webp?v=3e80e6f0e0",
-        "preview": "https://media.amusehall.com/yard-clash/preview.webp?v=b54e4a7300",
-        "clip": "https://media.amusehall.com/yard-clash/clip.mp4?v=83a096c071",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/yard-clash/"
     },
     {
       "id": "gdjlcx9uv",
@@ -6690,6 +6973,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 112,
       "likesRead": "2026-11-08",
       "posted": "2026-11-01",
@@ -6770,8 +7054,9 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 102,
-      "likesRead": "2026-11-11",
+      "likesRead": "2026-11-12",
       "posted": "2026-11-07",
       "sourceUrl": "https://x.com/kylebrussell/status/2118874479862419640",
       "evidence": {
@@ -6855,6 +7140,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 69,
       "likesRead": "2026-11-01",
       "posted": "2026-09-25",
@@ -6954,6 +7240,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 59,
       "likesRead": "2026-11-01",
       "posted": "2026-09-29",
@@ -7029,6 +7316,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 56,
       "likesRead": "2026-11-01",
       "posted": "2026-09-08",
@@ -7126,6 +7414,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 53,
       "likesRead": "2026-11-01",
       "posted": "2026-04-19",
@@ -7211,6 +7500,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 52,
       "likesRead": "2026-11-01",
       "posted": "2026-09-09",
@@ -7316,6 +7606,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 42,
       "likesRead": "2026-11-01",
       "posted": "2026-09-29",
@@ -7408,6 +7699,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 39,
       "likesRead": "2026-11-01",
       "posted": "2026-09-24",
@@ -7492,6 +7784,7 @@
         "source_url": "https://x.com/superalesha/status/2104920915112829231",
         "text": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this."
       },
+      "makingOf": null,
       "likes": 30,
       "likesRead": "2026-11-01",
       "posted": "2026-09-29",
@@ -7582,6 +7875,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 28,
       "likesRead": "2026-11-01",
       "posted": "2026-09-26",
@@ -7667,6 +7961,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 12,
       "likesRead": "2026-11-01",
       "posted": "2026-09-29",
@@ -7752,6 +8047,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 11,
       "likesRead": "2026-11-01",
       "posted": "2026-09-28",
@@ -7836,6 +8132,7 @@
         "source_url": "https://x.com/pradeepXkapoor/status/2104840413169189065",
         "text": "Create a visually stunning small game centered around an original mechanical creature.\nThe game takes place high in a vast snowy mountain environment with steep peaks, cliffs, valleys, deep snow, rocks and open areas to explore.\nI want an original creature that feels genuinely engineered rather than a normal animal covered in metal. Its body should be made from interconnected mechanical parts, articulated joints, pistons, linkages, cables and moving components that appear to have a real purpose.\nThe creature should have a strong, intimidating silhouette and enough mechanical detail that close-up views are interesting.\nI should be able to directly control the creature and freely explore the mountains.\nThe creature must be able to:\nwalk naturally\nrun with a convincing sense of speed and weight\njump\nclimb and move across uneven terrain\nrecover naturally when landing or losing balance\n\nfly through the mountains\ntransition smoothly between ground movement and flight\nIts feet should find the terrain naturally, its body should react to slopes and obstacles, and the mechanical structure should respond believably to movement.\nFlying should feel especially satisfying. I want to be able to launch from a mountain or cliff, gain altitude, fly between peaks, dive into valleys and land back on the terrain.\nMake the environment feel atmospheric and beautiful: huge snowy mountains, distant peaks, changing elevation, clouds, wind, snow and a strong sense of scale.\nDo not rely on a pre-made creature or canned animation. The creature, its movement and its mechanical behavior should be created specifically for this project.\nThe final experience should make the creature feel heavy, physical, intricate, powerful and slightly terrifying, while still being genuinely fun to control.\nPrioritize visual quality, responsive controls, believable movement, mechanical detail, atmosphere and the feeling of exploring a massive mountain world.\nUse whatever approach and tools you believe will produce the strongest result.\nTake creative control over the creature's design, environment, movement, camera, lighting, sound and overall atmosphere. Make ambitious choices.\nBefore considering it finished, actually play the game yourself. Run around, jump, climb, fly between the mountains and land again. Inspect it critically and improve anything that feels fake, broken, weightless, awkward or visually weak.\nUse can use 2-3 sub agents at max if you want but dont let them spawn more agents please"
       },
+      "makingOf": null,
       "likes": 10,
       "likesRead": "2026-11-01",
       "posted": "2026-09-29",
@@ -7913,6 +8210,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 9,
       "likesRead": "2026-11-01",
       "posted": "2026-09-26",
@@ -8003,6 +8301,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 8,
       "likesRead": "2026-11-01",
       "posted": "2025-03-01",
@@ -8117,6 +8416,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 8,
       "likesRead": "2026-11-01",
       "posted": "2026-09-23",
@@ -8220,6 +8520,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 7,
       "likesRead": "2026-11-01",
       "posted": "2025-02-28",
@@ -8305,6 +8606,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 6,
       "likesRead": "2026-10-31",
       "posted": "2025-08-08",
@@ -8384,6 +8686,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 6,
       "likesRead": "2026-11-01",
       "posted": "2026-10-07",
@@ -8461,6 +8764,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 5,
       "likesRead": "2026-11-01",
       "posted": "2026-09-28",
@@ -8545,6 +8849,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 4,
       "likesRead": "2026-11-01",
       "posted": "2026-09-28",
@@ -8636,6 +8941,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 4,
       "likesRead": "2026-11-01",
       "posted": "2026-04-30",
@@ -8721,6 +9027,7 @@
         "source_url": "https://github.com/KJLKurt/waterslide-game-astra/blob/main/progress.md",
         "text": "Build a mobile-first, original 3D waterslide racing PWA with Three.js and Vite for GitHub Pages. Player plus 12 humanoid NPCs, banked turns, two ramps and a jumpable shortcut, stable track-constrained physics, race elimination and practice checkpoints, personality-driven AI, responsive touch/keyboard controls, adaptive graphics, local-only persistence, path-scoped offline caching, menu/countdown/results/settings."
       },
+      "makingOf": null,
       "likes": 3,
       "likesRead": "2026-11-01",
       "posted": "2026-09-28",
@@ -8812,6 +9119,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 2,
       "likesRead": "2026-11-01",
       "posted": "2026-10-20",
@@ -8904,6 +9212,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 2,
       "likesRead": "2026-11-01",
       "posted": "2026-09-29",
@@ -8985,6 +9294,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 2,
       "likesRead": "2026-11-01",
       "posted": "2026-09-29",
@@ -9062,6 +9372,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 2,
       "likesRead": "2026-11-01",
       "posted": "2026-09-05",
@@ -9137,6 +9448,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 0,
       "likesRead": "2026-11-01",
       "posted": "2026-09-30",
@@ -9240,6 +9552,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 0,
       "likesRead": "2026-11-01",
       "posted": "2026-10-06",
@@ -9317,6 +9630,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": 0,
       "likesRead": "2026-11-01",
       "posted": "2026-09-29",
@@ -9339,6 +9653,222 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gn5esgohi",
+      "slug": "gaga-pit-showdown",
+      "aliases": [],
+      "title": "Gaga Pit Showdown",
+      "added": "2026-11-12",
+      "creators": [
+        {
+          "handle": "Crazyh1803",
+          "name": "AppsbyDan",
+          "url": "https://github.com/Crazyh1803"
+        }
+      ],
+      "primaryHandle": "Crazyh1803",
+      "credits": [
+        {
+          "label": "Claude Opus 5",
+          "modelId": "claude-opus-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        },
+        {
+          "label": "GPT-5.6 Sol",
+          "modelId": "gpt-5-6-sol",
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude",
+        "gpt"
+      ],
+      "modelIds": [
+        "claude-opus-5",
+        "gpt-5-6-sol"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        },
+        {
+          "id": "godot",
+          "name": "Godot",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "sports",
+          "name": "Sports"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to move, mouse to aim, Space or click to slap, J or E to jump, Shift to dash, C to trap or steal",
+      "brandIp": false,
+      "description": "A pixel-art take on playground gaga ball. Slap the ball across an octagonal court, jump incoming shots and stay in the pit.",
+      "notes": "Jump straight into a free-for-all against three opponents, or build a player and try the Pit Tour. The ball rebounds off the walls, so a shot you dodge can come back across the court. The browser build is a large download.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": null,
+      "likes": null,
+      "likesRead": null,
+      "posted": null,
+      "sourceUrl": "https://www.instagram.com/reel/DfZdYgFHLUU/",
+      "evidence": {
+        "url": "https://github.com/evorjh/awesome-games-made-with-ai/issues/1",
+        "quote": "Claude Opus 5 with Claude Code, Codex 5.6 Sol"
+      },
+      "playUrl": "https://crazyh1803.github.io/Gagaball/",
+      "price": "free",
+      "codeUrl": "https://github.com/Crazyh1803/Gagaball",
+      "media": {
+        "still": "https://media.amusehall.com/gaga-pit-showdown/still.webp?v=ca966dad31",
+        "preview": "https://media.amusehall.com/gaga-pit-showdown/preview.webp?v=5ee08c4c3d",
+        "clip": "https://media.amusehall.com/gaga-pit-showdown/clip.mp4?v=c366b26311",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/gaga-pit-showdown/"
+    },
+    {
+      "id": "gqtpnp68f",
+      "slug": "hold-the-bridge",
+      "aliases": [],
+      "title": "Hold the Bridge (Demo)",
+      "added": "2026-11-12",
+      "creators": [
+        {
+          "handle": "Legpain",
+          "url": "https://legpain.itch.io/"
+        }
+      ],
+      "primaryHandle": "Legpain",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "mixamo",
+          "name": "Mixamo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "trellis",
+          "name": "TRELLIS",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Drag left or right, or use the arrow keys. The squad fires automatically.",
+      "brandIp": false,
+      "description": "Slide a squad across three lanes to shoot upgrade barrels, recruit soldiers and keep a zombie horde off the bridge.",
+      "notes": "Your squad shoots straight ahead while you decide where to stand. Move left for upgrade barrels, stay in the middle to thin the horde, or risk a giant on the right for a choice of rewards. The six-level demo starts with a large download, and its Low graphics setting helps on slower devices.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator wanted to build the lane-defence game shown in ads that led to a different game. They used Claude Code to brainstorm, build and fix their version, then capped the fire-rate upgrades after stacking them made the squad too strong. The credits say the characters began as AI-generated designs, went through TRELLIS for 3D models and use Mixamo animation.",
+        "sources": [
+          "https://www.reddit.com/r/ClaudeGameDev/comments/1xqobog/i_got_tired_of_fake_ad_games_so_i_made_one_on_my/",
+          "https://legpain.itch.io/hold-the-bridge-demo"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": null,
+      "sourceUrl": "https://www.reddit.com/r/ClaudeGameDev/comments/1xqobog/i_got_tired_of_fake_ad_games_so_i_made_one_on_my/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1xqobog/i_got_tired_of_fake_ad_games_so_i_made_one_on_my/",
+        "quote": "Claude Code made this entirely"
+      },
+      "playUrl": "https://legpain.itch.io/hold-the-bridge-demo",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/hold-the-bridge/still.webp?v=9218e211ac",
+        "preview": "https://media.amusehall.com/hold-the-bridge/preview.webp?v=b3f6c605ef",
+        "clip": "https://media.amusehall.com/hold-the-bridge/clip.mp4?v=be6be09e33",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/hold-the-bridge/"
     },
     {
       "id": "g6lthz9ty",
@@ -9412,6 +9942,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-30",
@@ -9517,6 +10048,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-11-03",
@@ -9600,6 +10132,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-11-05",
@@ -9704,6 +10237,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-27",
@@ -9791,6 +10325,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-11-05",
@@ -9876,6 +10411,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-27",
@@ -9986,6 +10522,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-30",
@@ -10068,6 +10605,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-28",
@@ -10164,6 +10702,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-31",
@@ -10246,6 +10785,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-28",
@@ -10336,6 +10876,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-31",
@@ -10445,6 +10986,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-31",
@@ -10526,6 +11068,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-27",
@@ -10640,6 +11183,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-14",
@@ -10728,6 +11272,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-30",
@@ -10818,6 +11363,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-31",
@@ -10901,6 +11447,7 @@
         "source_url": "https://www.reddit.com/r/gamedev/comments/1xeontp/",
         "text": "I want to create a modern version, webgl, playable in the browser. Faithful to the original but with AI-remastered art and sound."
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-25",
@@ -10999,6 +11546,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-29",
@@ -11082,6 +11630,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-30",
@@ -11170,6 +11719,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-25",
@@ -11254,6 +11804,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-29",
@@ -11353,6 +11904,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-25",
@@ -11472,6 +12024,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-26",
@@ -11546,6 +12099,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-22",
@@ -11629,6 +12183,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-30",
@@ -11731,6 +12286,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-31",
@@ -11812,6 +12368,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-31",
@@ -11888,6 +12445,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-11-01",
@@ -11960,6 +12518,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-11-01",
@@ -12044,6 +12603,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-11-01",
@@ -12132,12 +12692,19 @@
       "controls": "Click or tap to select units and send them; use the Base panel to build",
       "brandIp": false,
       "description": "A real-time strategy game where robot armies mine scrap, build bases and fight for territory, with skirmishes, a daily op, waves to survive and random maps.",
-      "notes": "Two robot armies harvest scrap, build factories, airpads and turrets, and battle for the map, with fog of war and weapons that only hit air or ground units. Besides skirmishes against bots with different personalities there's a Last Stand mode against waves of enemies, a daily op, rule-changing mutators, medals and a random map generator. The creator started it with Claude Fable 5 and then had Claude Opus 5.5 make it a lot more fun and port it to 3D, mostly through Claude Code. It was built for phones first and also plays on computers.",
+      "notes": "Two robot armies harvest scrap, build factories, airpads and turrets, and battle for the map, with fog of war and weapons that only hit air or ground units. Besides skirmishes against bots with different personalities there's a Last Stand mode against waves of enemies, a daily op, rule-changing mutators, medals and a random map generator. It was built for phones first and also plays on computers.",
       "prompt": {
         "shared": true,
         "partial": false,
         "source_url": "https://simonwillison.net/2026/Oct/20/battledrones/#v1-the-initial-prototype",
         "text": "We are going to build a mobile friendly RTS game - command and conquer style - called Battle Drones, in which two armies of drones (both flying and ground-based) battle for territory and resources\n\nLet's start with a MVP design, ask me some questions"
+      },
+      "makingOf": {
+        "summary": "The creator began in July with Claude Fable 5 in Claude Code for Web, which used OpenAI's image API for the first sprites. In October they asked Claude Opus 5.5, in Ultracode mode, to \"Make it a LOT more fun\", and the overnight run played over a thousand simulated test games to rebalance it. A second overnight run ported it to Three.js, with every 3D model built in code, and later they wrote their own designs into prompts, such as the Archipelago map and the Goliath mechs. The creator says coding agents, mostly Claude Code, made 321 commits over 12 major versions, and that they reviewed almost none of the code and put in no more than four hours of their own work. Their write-up walks through the versions with the key prompts and transcripts.",
+        "sources": [
+          "https://simonwillison.net/2026/Oct/20/battledrones/#how-i-built-this",
+          "https://simonwillison.net/2026/Oct/28/vibe-game-development/#what-happens-if-someone-actually-puts-the-work-in-"
+        ]
       },
       "likes": null,
       "likesRead": null,
@@ -12230,6 +12797,7 @@
         "source_url": "https://www.aiformortals.co/blog/claude-agents-murder-mystery-game",
         "text": "/game-studio:new I want to build a murder mystery game that runs in the browser. You're on a 1936 sleeper train stopped overnight by a snow slide, someone's been murdered, and you have to interview six suspects before the sheriff arrives at dawn. Every suspect is voiced, so you catch liars by how they sound. Make it look cinematic, with real 3D rooms."
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-30",
@@ -12312,6 +12880,7 @@
         "source_url": "https://claude.ai/share/840e0bc0-a68e-4894-8eec-8f83bd6ade26",
         "text": "Build a demo game engine three.js which is a top down (but at an angle) RPG - the player gets to move through the world with one or two companions. Create a fantasy village setting that demonstrates walking around outside and then shows how when the player enters a building the wall between the player and the camera goes transparent so the user can see what is happening\n\nAdd some NPCs and plenty of furniture and different types of building some with an upstairs - be creative, make it look great\n\nMake it not so flat - the buildings are great but the landscape itself is completely flat at the moment, fix that\n\nAdd basements to two of the buildings with a tunnel system joining them below the village\n\nAdd the start of a rocky mountain on one side of the village containing a cave with a sleeping troll\n\nNow turn this into an actual game - quadruple the size of the playable area, introduce fun game mechanics, add a plot that isn't too cliche, some twists, a magic system, make it really good"
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-28",
@@ -12394,6 +12963,7 @@
         "source_url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/#tree-appreciator",
         "text": "Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful."
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-28",
@@ -12487,6 +13057,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-08-06",
@@ -12594,6 +13165,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-15",
@@ -12677,6 +13249,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-06",
@@ -12754,6 +13327,7 @@
         "source_url": "https://github.com/deepujain/casadegema/blob/main/SKILL.md#the-full-prompt",
         "text": "Build a single self-contained index.html (pure JavaScript + Canvas 2D, no libraries, no\nimages, no build step) called \"Casa de Gemas\" — a little garden of hidden gems, made as a\nbirthday gift for a daughter and shared as a link (mostly opened on phones).\n\nSCENE\n- Soft watercolor illustration on warm cream paper. Fixed 1200×950 logical stage scaled to\n  fit the window (letterboxed on laptops; phones get a zoomed camera, see TOUCH). Pre-render static\n  art into offscreen layers using layered low-alpha deformed polygons plus paper grain.\n- A whitewashed Spanish house: a tower with a terracotta roof, blue shutters and wall pots,\n  a main house with a tiled roof, a chimney, an arched wooden door with blue-tile surround\n  and steps, a balcony with iron railing, a barred window with flowers, exposed brick\n  patches, two lanterns beside the door.\n- In the courtyard: a round brick tree bed on the right of the house (no pot for the main\n  tree; it stands clear of the facade), two small pots, a wooden bench/table with two jars\n  and a little pink speaker, a wooden paint palette on the ground, a twig lying on the\n  ground, a chalkboard easel on the left in front of the tower with a stick of chalk on its\n  ledge, a cute watering can, and a little girl seen from behind holding a heart balloon on a\n  string, with a bow on the back of her dress.\n- Custom cursor: a butterfly in the current petal color, with sparkles. It perches (slow\n  wings) on whatever tool you hold. When the pointer is away it flies to the girl's dress\n  and rests there as her bow, full size, still fluttering.\n\nGROWTH\n- The garden starts bare. Pick up the watering can (click), click-and-hold to pour — water\n  drops, splashes and a pouring sound. Watering the bed grows a bougainvillea tree\n  (procedural segments with stable spring physics; grabbing a branch bends its parent\n  chain). Watering each pot grows a small plant. Every tree uses a different petal color,\n  bright and saturated so it pops against the cream walls: hot pink for the main tree, then\n  vivid purple, sunny gold, coral and sky blue (blush and ivory stay soft). Each petal has a\n  deeper rim in its own color and a small white sheen; a soft mint wash sits behind the\n  main tree instead of pink.\n  Put the can back by clicking its spot or pressing Esc; it also returns by itself when\n  everything is planted.\n- Petals: shaking a branch hard detaches petals that flutter side to side as they fall\n  (gravity wins; only a light breeze, stronger in autumn) and settle on the ground near\n  their tree, then slowly fade; bare spots regrow.\n\nA YEAR IN FOUR SEASONS (about 10–15 minutes)\n- Spring, summer, autumn, winter. A counter at the top-left shows four season dots, the\n  season name, \"n/5\" and one gem icon per gem of the current season (five every season). Each\n  discovery pops a gem at that spot which then flies to the counter and lights it up.\n- When a season's gems are all found, Oli says goodbye to it and the next season arrives\n  on its own element, changing the garden as it passes (every effect stays subtle): summer\n  on a soft, faint rising sun with a few gentle motes, whose light\n  spreads out from the top-right corner, autumn on a gust of wind that blows leaves across\n  from the left (trees sway in it), winter on a snowfall that settles from the top down.\n  Trees, bushes, geraniums and window boxes change color where the element has reached;\n  the color grade cross-fades, the counter resets and Oli introduces the next season.\n- Trees and plants match the season; only spring has flowers on the trees. Spring:\n  mostly blossoms with a few fresh green leaves (under a tenth leaves), green bushes, red geraniums.\n  Summer: warm golden grade, trees are full of deep green leaves and no flowers, brighter\n  geraniums. Autumn: amber grade, every tree and bush turns orange, red and gold with\n  leaf-shaped sprites, leaves drift down on their own. Winter: cool blue grade; as the\n  snowfall passes the last leaves drop and the branches go bare, then snow slowly builds up\n  over about 45 seconds as small clumps on the twigs and white lines along the tops of the\n  flatter branches (shaking a branch knocks snow off). Plants turn grey-green with white\n  dabs; snow covers the roofs, sills, steps and courtyard, and flakes keep falling.\n- ?season=summer|autumn|winter starts there with everything before it done.\n\nOLI THE OWL\n- Oli perches on the tower roof from the start and speaks in a small speech bubble:\n  an intro and a goodbye for each season, a short reaction to most discoveries, and a hint\n  for the next gem when you tap him (which also sends the feather there). He only hoots at\n  night and wears a red scarf in winter.\n\nWALL-POT VISITORS\n- Every season one of the seven blue wall pots on the tower hides a little visitor (a\n  different pot each season); finding it is that season's fifth gem. Tapping a pot mostly\n  just puffs a few petals — the visitor needs an action. Spring: water the pots with the can,\n  a nest of chicks; they burst into chirps when they appear, then peep in small bursts\n  every few seconds with their beaks opening in time (`Music.chirp`). The nest stays in\n  its pot for the rest of the year (`nook.nest`, drawn by `drawNest`, snow on its rim in\n  winter; later visitors never pick that pot) and the chicks chirp whenever the cursor\n  butterfly or a butterfly friend comes near. The chicks grow a little each season. In\n  winter they wait out the long night; once it is light again (`nightLv < .3`, at least\n  7 s into winter, or after 60 s regardless) `nest.fly` is set and they take off 0.8 s\n  apart with a chirp each, small yellow birds flapping up and away to the upper left\n  (`fledgling`). Oli says they are off somewhere warm; the empty nest keeps its snow. Summer: water the pots or rest the butterfly\n  cursor still on one (holding the can is fine), a ladybug crawls onto the rim. Autumn: a little tail curls over the rim of the mouse's pot\n  and that pot rustles now and then; tap it (or press and wiggle it) for a field mouse nibbling an acorn.\n  Winter: tap or brush the pots with the held twig (any part of it) to knock the snow off,\n  a robin. Every pot the twig touches sheds a little snow.\n\nLANTERNS (all year)\n- Tap a lantern — it goes out and its fireflies fly off to hang in the tree canopy (or the\n  balcony railing if there's no tree); relighting calls them back. One lantern off = sunset\n  tint, both off = night with stars, moon and a warm balcony glow. Relighting one =\n  early-morning tint, both = day. No sun, no \"good morning\" text.\n\nSPRING GEMS (5)\n1. Music: tap the speaker on the bench. Nothing else starts music.\n2. Shake: shake a branch.\n3. Pots: grow every plant.\n4. Butterfly: tap the palette, pick a new petal color (panel closes itself after picking).\n5. Nest: the wall-pot visitor.\n\nSUMMER GEMS (5)\n- When summer begins, a smaller little sister (pigtails) walks out of the front door,\n  facing us with a smiling face while she walks, then turns to face the house and holds\n  the girl's left hand for the rest of the year. She dresses for the season: yellow dress\n  in summer, orange dress with tights in autumn, red coat with scarf and knit hat in\n  winter.\n1. Kite: a colorful diamond kite with a bow tail is tangled in the right side of the main\n   tree's canopy (the open courtyard side, `placeKite`); shake the tree\n   and it rises into the sky on a string held in the girl's raised hand.\n2. Sunflower: water a seed mound next to the little pot by the tower; a sunflower grows tall, with a\n   bee circling it. It stays for the rest of the year (drooping in autumn, snow on it in\n   winter).\n3. Friends: tap the blue jar on the bench; its cork pops and three small butterflies fly\n   out and follow the cursor (or flit around the girl). They fly away when winter comes.\n4. Balloon: pick up the twig and pop the balloon with its tip (a mouse hover never pops\n   it; in spring the balloon just bobs away from the twig). \"pop!\" + shards; the twig\n   floats back home slowly; the girl's arm lowers to rest; the balloon does not return.\n   Balloon is sky blue so it never matches the butterfly.\n5. Ladybug: the wall-pot visitor.\n\nAUTUMN GEMS (5)\n1. Leaves: fallen leaves cover the courtyard. Pick up the rake (a held tool); its tines\n   stay on the ground and follow the pointer with a little lag and chatter. A small heap of\n   leaves already sits at the girl's feet. Sweep any way you like: every leaf the tines\n   touch skitters along the stones onto that heap, which visibly grows into a pile. The tines\n   also scratch settled petals off the stones. Raking makes a dry scraping sound with leaf\n   crunches (when music is on). When most leaves are in, the rest follow, the whole\n   courtyard is swept clean, she hops into the pile and leaves burst up; the trees then\n   drop only the odd leaf.\n2. Umbrella: tap the grey cloud (it has a sleepy face) to make it rain — streaks,\n   splashes, a darker grade, pitter-patter sound; then tap the umbrella leaning by the wall\n   and it opens in her raised hand, dome up like a real umbrella, tilted over her little\n   sister so it keeps them both dry (rain splashes on the canopy). When the rain stops she lowers it and it\n   leans by the wall again (and goes back up if it rains again). Tapping the umbrella\n   before the rain makes Oli nudge you toward the cloud.\n3. Pumpkin: water a patch of soil in front of the small pot; a vine grows and a pumpkin\n   swells.\n4. Night: turn both lanterns off; Oli hoots and flies one loop around the tree, then lands\n   back on the tower.\n5. Mouse: the wall-pot visitor.\n\nWINTER GEMS (5)\n- Winter opens on a long night: both lanterns are out and their fireflies rest in the bare\n  tree. Relighting them brings the day back.\n1. Snowman: tap three snowy mounds; each rolls a growing snowball that stacks at the right\n   edge of the courtyard. Once all three are stacked his carrot nose pops on by itself (he has coal eyes,\n   twig arms and a blue scarf).\n2. Hearth: tap the cold chimney; smoke puffs rise and every window glows warmly.\n3. Lights: tap the balcony railing; colorful fairy lights string themselves along it and\n   twinkle, brighter at night.\n4. Name: pick up the chalk from the easel's ledge, tap the board, type a name (DOM input\n   over the board), Enter. The name is written on the board in chalk. ?name= in the URL\n   pre-fills it, and then this gem lights up by itself a few seconds into winter.\n5. Robin: the wall-pot visitor.\n\nHINTS\n- A small feather roams the garden on a gentle path. It never hints right away. After a\n  random 18–48 s without a discovery (and a few seconds idle), it flies to the next gem's\n  location for 10 s (or to the tool that gem needs first).\n- A cute pink alarm clock stands on the ground at the bottom-right of the house: a gold\n  wedge and a single hand sweep down to zero, with a small seconds number; it rings and\n  wobbles when the hint arrives. Tapping it rings the hint early.\n- Coco, a cute puppy with perky ears (folded tips that wiggle the whole time he is out\n  and flick as he pops up), peeks from behind the casa every 25–40 s (over the chimney, over\n  the roof ridge, around the tower, or around the far corner above the clock), stays about\n  5 s, then ducks back. He says a soft \"woof woof\" each time he pops up\n  (even before the music is on). The first time, Oli whispers that someone is peeking. Tapping him\n  woofs again, he pants happily, and he sniffs out every gem still hidden this season, one every ~1.3 s, doing each gem's own action\n  where possible, so the season can finish.\n\nENDING\n- After the last winter gem: \"Happy Birthday,\" and the name on a second line come\n  out of the chimney letter by letter. Each letter puffs out with a little smoke, starts\n  small and tilted, and floats up and over to its place in the line, in a script font\n  with a pink-to-orange gradient. At the same time colorful balloons on thin strings\n  squeeze out of the chimney (small at first, growing as they come out), about one every\n  0.4 s for the first 7 s and then now and then, drifting out to either side of the words\n  and floating up and away with a gentle sway (`partyBalloons`, drawn behind the letters).\n  Floating hearts follow, while Oli says \"Every season she\n  grew a little more, just like our tree.\" It fades after ~22 s and the snowy garden stays\n  calm. The finished message sits just below the title, clear of it.\n\nTITLE\n- On load, \"Casa de Gemas\" in a script font with \"a little garden of hidden gems\" under\n  it fades in at the top center (with padding so the swashes aren't clipped) and stays\n  there for the whole game. On short screens (phones in landscape) it is smaller and sits\n  in the top-right corner, clear of the house.\n\nSOUND (Web Audio, all generated, silent until the speaker is tapped, except the puppy's woof)\n- Gentle Andalusian cadence Am–G–F–E: soft pads, plucked notes, chimes, convolution\n  reverb. Petal-flutter notes only while your hand is shaking a branch (short notes that\n  fade within ~0.6 s of letting go — never loop), water pour and rain, pop, owl hoots,\n  lantern chimes. Build the audio engine silently on the first tap and resume it on touchend so\n  iOS allows sound.\n\nTOUCH\n- Works with fingers: taps snap to the nearest interactive thing within fingertip reach\n  (including every seasonal object), bigger branch/balloon hit areas, no double-tap zoom,\n  no text selection, no stuck hover glows. Keep interactive objects inside the phone crop.\n- On phones the garden opens zoomed in to a finger-friendly size in either orientation:\n  drag on the garden to look around, pinch to zoom, and hints and the finale glide the\n  view to where to look. The finger never hides what it moves: the butterfly sits just\n  above the fingertip, the watering can pours just above it, and the twig, rake and chalk\n  ride above it too. Taps and put-downs still land under the finger. Carrying a tool to\n  the screen edge pans that way. Oli's bubble stays readable and on screen.\n\nKEYS: Esc drops the held tool, M toggles music, R starts the year over from spring."
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-28",
@@ -12847,6 +13421,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-24",
@@ -12926,6 +13501,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-23",
@@ -13021,6 +13597,7 @@
         "source_url": "https://github.com/az9713/opus-5.5-open-world-game",
         "text": "What can be beyond paper and ink but still visually comforting?\nThe underwater world needs more living organisms\nHow do I know how deep I am?\nPhysics is violated"
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-27",
@@ -13105,6 +13682,7 @@
         "source_url": "https://wietske.itch.io/hackthesystem",
         "text": "I want to make a scary hacking game that gives AI vibes. And it would be even more fun if you can hide some of the features for me so you can surprise me when I playtest it. I didn't add any art assets, so you will have to get creative with those. I imagine a text heavy game that has scary effects and animations to give that hacker vibe sort of like the matrix. I don't want the game to be complicated but add scary elements and unexpected game behavior. The main goal of the game will be to hack \"The System\" So completing that will be the end of the game. Any ideas if you can make this work?"
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-23",
@@ -13209,6 +13787,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-05",
@@ -13299,6 +13878,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-23",
@@ -13378,6 +13958,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-17",
@@ -13449,6 +14030,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-26",
@@ -13520,6 +14102,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-24",
@@ -13610,6 +14193,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-06-20",
@@ -13697,6 +14281,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-24",
@@ -13776,6 +14361,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-17",
@@ -13865,6 +14451,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-21",
@@ -13944,6 +14531,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-05-22",
@@ -14035,6 +14623,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": null,
@@ -14128,6 +14717,7 @@
         "source_url": "https://github.com/RaresKeY/pocket-salvage/blob/main/prompts/source/pocket-salvage.md",
         "text": "prepare a rope submodule for Pocket Salvage: control a magnetic crane, collect scrap, and sort it before the timer expires.\nfrom white approach and plug and prosper first take the code and then copy it, then from the more refined one make a submodule we can use in the game in the repo for rope physics and a lab to showcase it\nalso make official name Pocket Salvage, do not change repository name though so upstream remains like before, do it in README, design, specs and whatnot"
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-26",
@@ -14204,6 +14794,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": null,
@@ -14278,6 +14869,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": null,
@@ -14383,6 +14975,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-28",
@@ -14493,6 +15086,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-25",
@@ -14577,6 +15171,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-08",
@@ -14671,6 +15266,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-12",
@@ -14762,6 +15358,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-22",
@@ -14841,6 +15438,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-21",
@@ -14932,6 +15530,7 @@
         "source_url": "https://github.com/KyleBuildsAI/driftwing#about-this-project",
         "text": "Build a complete, self-contained browser game in a SINGLE index.html file. No build step, no external assets, libraries only via CDN importmap. Use three.js (latest) with WebGPURenderer and automatic WebGL fallback.\nTHE GAME: \"DRIFTWING\", an ambient infinite-flight exploration game. You pilot a low-poly glider over an endless procedural world. No fail state, no fuel, no enemies. The fantasy: a golden-hour flight that never has to end, with an AI copilot riding shotgun.\nFLIGHT MODEL (arcade with soul):\n- Mouse steers pitch and roll (WASD/arrows also work), scroll or W/S for throttle, space for a gentle boost on cooldown\n- Banking turns: rolling into a turn induces natural yaw; speed bleeds in climbs and builds in dives\n- Soft stall: below minimum speed the nose eases down, never a tumble\n- Chase cam with smooth lag that banks with the plane, FOV stretches with speed, subtle shake at max velocity\n- Touch support: virtual joystick plus throttle slider\n- Double-tap A or D triggers a smooth canned barrel roll\nINFINITE TERRAIN (the engineering core):\n- Chunked heightmap terrain from seeded simplex noise, multiple octaves, fully deterministic from a seed shown in the UI so worlds are shareable\n- Biomes blended by temperature/moisture noise: snow peaks, pine valleys, dunes, archipelago ocean, flower meadows; vertex-colored, flat-shaded low-poly\n- Chunk generation in a Web Worker with transferable buffers, ring LOD (high detail near, low far), pooled and recycled chunk meshes, zero frame hitches while streaming\n- Stitched LOD edges or skirts so there are never visible cracks\n- Procedural landmarks every few km: stone arches, monolith circles, a lighthouse on a lone island, drifting hot air balloons; discoveries log to a journal\nLIVING ATMOSPHERE:\n- Day/night cycle (6 min loop, settable): sun, moon, star field, dawn/dusk gradients, aurora over snow biomes at night\n- Sky: gradient dome with a sun disc and cheap radial god rays near the horizon; fog color always matches the sky\n- Clouds: instanced soft puffs in a slow-drifting layer casting faint shadow blobs\n- Water: animated vertex waves, sun glint streak, foam band at shorelines\n- Boid bird flocks that scatter when you dive through them\n- Wingtip contrails when banking hard, wind streak lines at speed\nTHE COPILOT (critical architecture):\n- class Copilot { async respond(flightState, transcript) -> { speech, action } }\n- Default brain = local keyword grammar via the Web Speech API: \"where am I\", \"find mountains / ocean / desert\", \"set waypoint\", \"autopilot on/off\", \"make it night / dawn\", \"barrel roll\", \"ring course\"\n- Executable actions: place a glowing waypoint beacon, autopilot to a heading, change time of day, spawn a ring course, describe current biome and altitude\n- RemoteCopilot: POSTs { flightState, transcript } to a configurable endpoint (default http://localhost:3000/copilot), expects { speech, action } back, falls back to the local grammar after an 800ms timeout\n- Copilot answers via speechSynthesis plus a subtitle line in the glass UI; mic toggle with a pulsing listening indicator; every command also reachable by keyboard/UI so voice is never required\nGENTLE OBJECTIVES (optional, never nagging):\n- Ring courses on request: fly-through rings with chime feedback, time and best streak\n- Discovery journal: biomes visited, landmarks found, distance flown, max altitude\n- Photo mode: P pauses, frees the camera, hides UI, adds letterbox and a screenshot button\nVISUAL QUALITY BAR (this is the entire point):\n- Cohesive 6-color palette per biome, flat shading, soft sun shadows\n- Post stack: subtle bloom, vignette, warm color grade, light film grain\n- Golden-hour default start: long shadows, warm fog, the screenshot moment inside the first 5 seconds\n- Minimal glass UI: altitude, speed, compass strip, waypoint arrow, world seed, mic toggle; auto-hides after 3 seconds of stillness\nPERFORMANCE:\n- 60fps target on desktop: frustum culling, instancing for trees/rocks/clouds, worker-side terrain, auto-degrade view distance before frame drops\n- Guard against: LOD cracks, falling through unloaded chunks (clamp altitude to terrain height plus epsilon), NaN attitude, worker backlog, tab-blur dt spikes\nPOLISH RULES:\n- Every listed system must actually function, zero placeholders\n- Opens already airborne at golden hour with a 1-second fade, no menu wall, no console errors"
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-26",
@@ -15023,6 +15622,7 @@
         "source_url": "https://github.com/Nipale-ai/opus-5-5-overnight-builds/blob/main/briefs/fall-line-prompt-as-sent.md",
         "text": "BRIEF: FREERIDE MOUNTAIN - LONG AUTONOMOUS BUILD\n\nYou are a senior game developer and technical artist, working alone and\nfully autonomously for a long session in this workspace. Nobody will answer\nquestions: make every decision yourself and write it down. This brief is a\nbenchmark. Your result will be shown on video side by side with other runs\nof exactly this brief, and a human will play it. The goal is the most\nimpressive game you are capable of building, not \"something that runs\nwithout errors\". Everything below is a floor, not a ceiling: wherever you\ncan go further, go further, and add whatever else makes it feel like the\nfull game. Never cut scope to play it safe.\n\n====================================================================\n1. THE MISSION\n====================================================================\nRecreate the gameplay of Ubisoft's Steep (2016) as a browser game, as\nfaithfully and as ultra-accurately as you can: one huge alpine mountain,\ndrop in wherever you want, ride any line on skis or on a snowboard, throw\ntricks off anything, and get judged on every run. Real physics, real snow,\nthe complete trick vocabulary and a deep scoring system. It must feel like\na shipped game from a professional studio, not a tech demo.\n\nIf you know the original, match its feel: how speed builds on the\nmountain, how carving and powder feel, how tricks are controlled, the\ncameras, the event and medal structure. Where your memory is unsure,\ndesign it yourself to the same standard. Do not spend time trying to\nremember; build.\n\nRecreate the gameplay only. Do not use the name \"Steep\", the Ubisoft name\nor logo, or any original art, audio, music, UI design, text, characters or\nlocation names from the game. Invent your own title and visual identity.\n\n====================================================================\n2. PHYSICS - THE HEART OF THE GAME\n====================================================================\nThis is where the game is won or lost. A viewer must be able to see the\nphysics working.\n- Speed comes only from the mountain: gravity along the real local slope,\n  snow friction that depends on the snow type, air drag that depends on the\n  rider's stance (tucked vs. upright). No scripted speed, no artificial\n  speed caps.\n- Board and skis touch the terrain along their length, not at one point:\n  sample the surface under nose, waist and tail and follow the real\n  terrain normal. No floating, no sinking through the ground, no jitter on\n  steep or uneven terrain.\n- A real edge model. Carving vs. skidding follows from edge angle, speed\n  and lean. The turn radius follows from edge angle and sidecut. Skidding\n  scrubs speed and throws snow, carving holds speed, catching an edge at\n  speed throws the rider.\n- Snowboard: regular and goofy stance, toeside and heelside edges, switch\n  riding. Skis: parallel carving, skidded turns, switch riding. Both are\n  selectable and each has a clearly different feel.\n- Deep powder: board or skis sink and float depending on speed and weight\n  distribution; lose too much speed and you bog down. Ice: little grip,\n  long slides, chatter. Groomed piste: fast and predictable. Wind-packed\n  crust: grippy but rough.\n- Jumps: charge the pop, time the release on the lip, fly a true\n  ballistic arc from the take-off velocity. Spins and flips follow the\n  angular momentum set at take-off plus limited in-air control, the way the\n  original feels. Terrain launches the rider naturally (lips, rollers,\n  cornices, cliffs, pillows); no scripted jump zones.\n- Landings are judged by physics: board or ski angle vs. slope and vs.\n  direction of travel, rotation completed or not, landing in the steep\n  transition vs. on the flat. The outcome ranges from a perfect stomp\n  through a sketchy recovery to a full crash.\n- Crashes: a physically simulated ragdoll (jointed body with joint\n  limits) that tumbles believably down the slope, hits trees and rocks,\n  slides to a stop in the snow, then a quick respawn.\n- Collisions with trees, rocks, huts and every solid object on the\n  mountain.\n- Fixed-timestep simulation (for example 120 Hz), decoupled from rendering\n  and interpolated, so the game behaves identically at any frame rate.\n- Tune with numbers, not only by feel: log speeds, air times, jump heights\n  and turn radii, compare them with what real riders achieve, and record\n  these checks in NOTES.md.\n\n====================================================================\n3. SNOW - IT MUST LOOK, SOUND AND BEHAVE LIKE SNOW\n====================================================================\n- Several snow types across the mountain: deep powder, groomed piste,\n  wind-packed crust, ice, and anything else you consider essential. Each\n  has its own grip, speed, spray, look and sound. The player feels and\n  sees the difference.\n- Persistent tracks: trenches in powder with real depth, carve lines on the\n  piste, landing craters, crash marks. They stay for the whole session. Use\n  a deformation technique that scales, for example world-space trail\n  textures that displace the surface and feed its normals and shading.\n- Carves throw spray scaled by speed and edge pressure. Landings and\n  crashes explode into powder clouds. Spindrift blows off the ridges. Snow\n  falls where the weather calls for it.\n- Snow shading that reads as real snow up close and from far away:\n  sparkling glints in the sun, soft blue light in shadows and inside track\n  walls, visible surface texture. Never a flat white surface.\n- Procedural audio in Web Audio, driven by the physics (speed, edge\n  pressure, snow type): powder hiss, ice scrape, carve crunch, landing\n  thud, crash, wind that rises with speed.\n\n====================================================================\n4. TRICKS - THE COMPLETE VOCABULARY\n====================================================================\n- Spins from 180 to 1440 and beyond, frontside and backside, in both\n  directions. Front and back flips. Off-axis corks, rodeos and mistys.\n  Doubles where the air time allows.\n- Grabs, held and tweaked: indy, mute, melon, stalefish, method, nose,\n  tail, japan, roast beef, and the ski grabs (safety, mute, japan, tail,\n  critical, blunt and more). Hold time and tweak count.\n- Grinds, slides and presses on rails, boxes and anything grindable on the\n  mountain. Butters and presses on the snow. Switch take-offs and landings.\n- Combos chained across features and across the ground between them.\n- Every trick is performed by the rider's 3D body: visible rotation axes,\n  hands reaching the board or the skis, tweaks, a real posture on rails. A\n  trick label without the matching motion does not count.\n- The mountain offers places for all of it: natural wind lips, cliff\n  drops, pillow lines, rollers, cornices, plus built kickers, rails and\n  boxes.\n\n====================================================================\n5. SCORING - A REAL JUDGING SYSTEM\n====================================================================\n- Every trick is recognized and named live, the way a judge or a\n  commentator would call it (for example \"Switch Backside Double Cork 1080\n  Mute\").\n- Points follow difficulty: rotation, flips and off-axis rotation, grab\n  hold time and tweak, switch, amplitude, and landing quality (for example\n  Perfect / Clean / Sketchy). A crash wipes the unbanked combo.\n- Combos build a multiplier. Repeating the same trick is worth less each\n  time. Variety pays.\n- A run score that rewards riding the mountain well: speed, air time, big\n  drops, long clean riding without a crash, style.\n- Events placed on the mountain in the spirit of the original: trick\n  contests scored in points, races against the clock through checkpoints,\n  freeride runs scored by the judging system. Each event has bronze,\n  silver and gold targets and a results screen that breaks the score down,\n  so the player understands exactly why.\n- Personal bests per event, saved in localStorage.\n- The judging logic is documented in NOTES.md: formulas, weights and why.\n\n====================================================================\n6. THE MOUNTAIN\n====================================================================\n- One large, continuous alpine mountain that can be ridden from the\n  summit to the valley in one long run: ridges, couloirs, cliff bands, open\n  bowls, forests and glades, groomed pistes, and an area with built\n  features.\n- Several start points spread over the mountain.\n- Long draw distance: the whole massif and the surrounding peaks stay\n  visible to the horizon. Use level of detail instead of shrinking the\n  world.\n- Every area is worth riding: lines, features, places to go big.\n- Light and atmosphere that make the snow look its best: pick the time of\n  day and the weather that show your mountain best.\n\n====================================================================\n7. RIDER, CAMERAS, HUD, CONTROLS\n====================================================================\n- A fully articulated 3D rider (body, clothing, helmet and goggles, board\n  or skis) animated from the physics state: crouch, lean into carves, arms\n  balancing, compression on landings, real grabs, ragdoll in a crash. No\n  capsule or box as the final rider.\n- A smooth third-person follow camera with the feel of an action-sports\n  broadcast, a first-person helmet cam, and cinematic angles on big airs.\n- A clean, modern HUD with its own identity: trick string, combo,\n  multiplier, speed, air time, landing verdict, run score, event timer.\n- Keyboard and gamepad (Gamepad API). The active controls are visible on\n  screen.\n\n====================================================================\n8. DEMO MODE AND API - MANDATORY, THE RECORDING DEPENDS ON IT\n====================================================================\n- On load, with no input at all, an AI rider using the same physics rides\n  a full run from high on the mountain: carving, powder, a jump line with\n  real tricks and landings, the live judging HUD and cinematic cameras.\n  No click-to-start screen before it. Any key or gamepad button hands\n  control to the player; after 30 seconds without input the demo resumes.\n- Expose window.GAME from page load:\n    GAME.state()          -> plain object with finite values only:\n                             { speedKmh, airborne, trick, combo,\n                               multiplier, runScore, snowType,\n                               discipline, mode, camera, fps }\n    GAME.demo()           -> start the demo\n    GAME.play(startIndex, discipline)\n                          -> start a player run, discipline is\n                             'snowboard' or 'ski'\n    GAME.setCamera(name)  -> 'follow' | 'helmet' | 'cinematic'\n\n====================================================================\n9. YOUR TOOLBOX\n====================================================================\n- Read ./TOOLBOX.md first. It lists exactly what is installed on this\n  machine, with versions and paths. Nothing else is available.\n- There is no internet access. npm install works only for the packages in\n  the local offline cache listed in TOOLBOX.md.\n- Available and recommended. Use what helps, ignore what does not, and\n  write your own wherever a library fights you:\n  three.js (WebGL2 renderer and addons), postprocessing (bloom, SMAA, tone\n  mapping, depth of field), three-mesh-bvh (fast raycasts against large\n  meshes), @dimforge/rapier3d-compat (rigid bodies, joints, ragdolls,\n  colliders), cannon-es (alternative physics), simplex-noise (terrain and\n  procedural textures), lil-gui (tuning panel during development),\n  esbuild and vite (bundling), Playwright with Chromium (drive the game,\n  screenshots, video clips, console logs, fps), Python 3 with numpy and\n  Pillow (analyze screenshots and audio), ffmpeg, git.\n- If TOOLBOX.md lists Blender (headless, bpy), you may script it to model,\n  rig and export assets as glTF (for example the rider, trees, huts).\n- Everything the player sees and hears is made by you in this session:\n  code, shaders, procedural geometry and textures, synthesized audio, or\n  assets you produce with the listed tools.\n- If your harness offers subagents, you may use them.\n\n====================================================================\n10. HOW TO WORK\n====================================================================\n- Time: your deadline is in ./DEADLINE (local time). Check `date`\n  regularly. Use the whole budget. When you think you are finished, you\n  are not: run the review loop again, find the weakest part of the game,\n  improve it, measure again. Stop only when the deadline is close.\n- The state of ./dist at the deadline is what gets judged, so it must\n  always be runnable. Commit to git after every working milestone. If an\n  experiment breaks the build, revert it.\n- Your context will be compacted during this long run. Files are your\n  memory. Keep DESIGN.md (architecture, systems, decisions, formulas) and\n  PROGRESS.md (done, in progress, next, known problems) current, and re-read\n  both after every compaction and before every new milestone.\n- Order of work:\n  1. Plan briefly: read TOOLBOX.md, write DESIGN.md with architecture,\n     systems, milestones and the biggest risks.\n  2. Vertical slice early: terrain, rider on skis and on a board with the\n     core physics, follow camera, snow shading, ./dist and start.sh\n     working. Commit.\n  3. Breadth: bring every section of this brief to a working first version\n     before going deep on any single one.\n  4. Depth and polish: physics feel, snow, tricks and animation, judging,\n     events, mountain detail, light, audio, HUD, demo rider.\n  5. Review loop until the deadline.\n- The review loop, repeated many times:\n  - Drive the game with Playwright in Chromium: let the demo run, start\n    player runs with GAME.play, switch cameras, and capture screenshots at\n    fixed moments (carving in powder, take-off, mid-air trick, landing,\n    crash, results screen, wide shot of the mountain) plus short clips.\n  - If you can view images, look at every screenshot like a demanding art\n    director and a pro rider would. Whether or not you can, also measure:\n    fraction of clipped white pixels (snow must never blow out into flat\n    white), fraction of near-black pixels, the luminance histogram of the\n    snow, frame-to-frame difference (proves motion), console errors, fps\n    from GAME.state(), your physics logs.\n  - Write down what is weakest, fix it, measure again, commit.\n- Performance is part of quality: target a steady 60 fps at 1920x1080 on\n  the recording machine, one high-end desktop GPU (RTX 5090 class), and\n  spend that headroom on what the player sees. Use level of detail for the\n  terrain, instancing for trees and rocks, GPU particles, frustum culling,\n  sensible shadow cascades. Report what you actually measure, not what you\n  hope.\n- Do not ask questions. Do not touch anything outside this workspace.\n\n====================================================================\n11. QUALITY BAR\n====================================================================\n- The three-second test: any random frame of the demo reads at once as a\n  current-generation winter-sports game: striking light on real snow, a\n  believable rider, a mountain with grandeur.\n- The physics must be visible: a viewer sees the difference between powder\n  and ice, a carve and a skid, a stomp and a crash.\n- No placeholder art in the final build: no untextured grey shapes, no\n  default materials, no programmer-art rider.\n- Zero console errors. No NaN, no rider stuck in the terrain, no camera\n  inside geometry.\n- All user-facing text (UI, HUD, titles, hints) in ENGLISH.\n\n====================================================================\n12. DELIVERABLE\n====================================================================\n- ./dist/ : the built game (index.html plus assets), runs offline.\n- ./start.sh : serves ./dist at http://localhost:8080 without any network\n  access and prints the URL.\n- README.md : title, how to start, full controls (keyboard and gamepad).\n- NOTES.md : an honest report. What you built, how physics and judging\n  work, what you measured (fps, load time, build size), which tools and\n  libraries you used for what, what you threw away and why, what is still\n  weak, what you would do with more time. A weakness written down is worth\n  more than a clean claim.\n- DESIGN.md and PROGRESS.md up to date.\n- Final message: DONE, the absolute path of dist/index.html, and the fps\n  you measured.\n\n---\nWORKBENCH FOR THIS RUN (identical for every model; it replaces any workbench, helper commands, /toolbox paths or offline caches named above):\n- You work on a Mac inside this folder. Work only inside this folder.\n- The bench-* helper commands and /toolbox do not exist here. You have Node.js with npm (online), Python 3 and a shell. You may install npm packages, including Playwright for your own screenshots.\n- Serve your result on port 8141. Other runs use other ports.\n- Your time budget is 6 hours and ends at 10:54 local time. Check the time with the date command.\n- No image, music or video generation models. Nobody will answer questions."
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-23",
@@ -15136,6 +15736,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-24",
@@ -15228,6 +15829,7 @@
         "source_url": "https://github.com/BurakErdemci/kagit-kart#how-it-was-made",
         "text": "make a Mario Kart-like racing game in the browser, at the best level you can; tell me when you think it's worth showing\neverything must be generated by code, with no outside assets"
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-24",
@@ -15327,6 +15929,7 @@
         "source_url": "https://github.com/jbang2004/long-wind",
         "text": "用 three.js 参考这个网站的视觉效果，实现一个剑客在草原上战斗的游戏，要求极致的逼真，极致的美学设计"
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-26",
@@ -15410,6 +16013,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-09-24",
@@ -15489,6 +16093,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-22",
@@ -15595,6 +16200,7 @@
         "source_url": null,
         "text": null
       },
+      "makingOf": null,
       "likes": null,
       "likesRead": null,
       "posted": "2026-10-24",
@@ -15629,9 +16235,9 @@
         "geg91cy2q",
         "go4slgb6w",
         "gie0au2by",
+        "gb72dv8lx",
         "gxshani2z",
-        "g17kxz4cm",
-        "gatg3soyn"
+        "g17kxz4cm"
       ]
     },
     "families": [
@@ -15654,35 +16260,37 @@
           "gls4dgy15",
           "gk98c3y8t",
           "gpmj9q9ol",
+          "geg91cy2q",
           "gmja9kp2v",
           "g9t4d43un",
-          "go98yri36",
-          "geg91cy2q",
-          "gmewfnndy",
           "go4slgb6w",
+          "go98yri36",
+          "gmewfnndy",
           "gron4ulbj",
           "gqdquwa11",
           "gpy3pa5mk",
-          "g9141ggib",
           "gie0au2by",
+          "g9141ggib",
           "g7k2m9q4x",
           "gd0whgrdo",
           "g361pfe4r",
           "g8svijhf1",
+          "gb72dv8lx",
           "g19fvejgd",
           "gserfbtbt",
           "gxshani2z",
+          "g17kxz4cm",
           "gj0w80p9f",
           "g1xjn72p6",
-          "g17kxz4cm",
+          "gatg3soyn",
           "g66ibbf9z",
           "gb5kg9kry",
           "gy0933kol",
           "gle9npeju",
           "gywgtfpc3",
           "g36yaqj7f",
+          "gvz6r7sy1",
           "g04zlqq5p",
-          "gatg3soyn",
           "gdjlcx9uv",
           "gh79jcfs0",
           "g5pav1sj5",
@@ -15705,6 +16313,8 @@
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "gn5esgohi",
+          "gqtpnp68f",
           "g6lthz9ty",
           "gam9t6fa5",
           "gg2s479rq",
@@ -15825,25 +16435,29 @@
         "gklib6jqo",
         "gw96j1zcp",
         "gls4dgy15",
-        "gmja9kp2v"
+        "geg91cy2q"
       ],
       "newIds": [
         "gohxe896s",
         "gklib6jqo",
         "gw96j1zcp",
         "gls4dgy15",
-        "gmja9kp2v",
         "geg91cy2q",
+        "gmja9kp2v",
         "go4slgb6w",
         "gie0au2by",
         "g8svijhf1",
+        "gb72dv8lx",
         "goor334d3",
         "gxshani2z",
         "g17kxz4cm",
+        "gatg3soyn",
         "gle9npeju",
         "g36yaqj7f",
-        "gatg3soyn",
+        "gvz6r7sy1",
         "gh79jcfs0",
+        "gn5esgohi",
+        "gqtpnp68f",
         "g6lthz9ty",
         "gam9t6fa5",
         "gg2s479rq",

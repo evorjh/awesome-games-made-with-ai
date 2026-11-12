@@ -17,6 +17,8 @@ A real-time strategy game where robot armies mine scrap, build bases and fight f
 
 [Play notes →](https://amusehall.com/games/battle-drones/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/battle-drones/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

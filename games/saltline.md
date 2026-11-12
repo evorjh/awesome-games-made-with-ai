@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, mouse to look, left click to fire, right click to aim, R to reload, E to cut a relay, Space to jump, Shift to sprint, C to crouch, Esc to pause
-- **Likes on the original post:** 12,397, counted 2026-11-11
+- **Likes on the original post:** 14,229, counted 2026-11-12
 
 Cut three uplink relays in a rain-soaked container port in a first-person shooter whose models, textures and sounds are all made in code.
 
