@@ -17,4 +17,6 @@ A low-poly racer where you play as a guest and run three-lap races against up to
 
 [Play notes →](https://amusehall.com/games/nfturbo/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/nfturbo/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @brvchss. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

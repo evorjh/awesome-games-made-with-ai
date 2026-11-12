@@ -17,6 +17,8 @@ A felt-and-yarn open world where you drive, walk, fly as a felt bird or dive as 
 
 [Play notes →](https://amusehall.com/games/felt-world/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/felt-world/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

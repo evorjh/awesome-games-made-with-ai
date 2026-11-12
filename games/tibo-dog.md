@@ -17,4 +17,6 @@ Keep Tibo alive for 20 minutes as a horde closes in, choosing a new kitchen weap
 
 [Play notes →](https://amusehall.com/games/tibo-dog/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/tibo-dog/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @poteto. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -17,4 +17,6 @@ Climb a misty mountain road as a wandering traveler in a 3D world painted like i
 
 [Play notes →](https://amusehall.com/games/sumiro/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/sumiro/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @xikhar. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

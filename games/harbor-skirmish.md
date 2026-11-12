@@ -17,4 +17,6 @@ A first-person wave shooter on a toy-like harbor island, where you fight off a r
 
 [Play notes →](https://amusehall.com/games/harbor-skirmish/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/harbor-skirmish/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @OpenDesignHQ. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

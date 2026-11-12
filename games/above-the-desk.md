@@ -17,4 +17,6 @@ A tiny paper courier crosses a giant&#39;s desk at midnight, climbing books and 
 
 [Play notes →](https://amusehall.com/games/above-the-desk/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/above-the-desk/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @xingbugengming. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

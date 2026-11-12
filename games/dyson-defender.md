@@ -17,4 +17,6 @@ A neon space shooter where you fly a fighter around a Dyson sphere and shoot dow
 
 [Play notes →](https://amusehall.com/games/dyson-defender/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/dyson-defender/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @hankofalltrades. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -17,6 +17,8 @@ A watercolor-style courtyard of a Spanish house where you water, shake and tap t
 
 [Play notes →](https://amusehall.com/games/casa-de-gemas/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/casa-de-gemas/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

@@ -17,4 +17,6 @@ Steal fire for Prometheus across eleven painted Greek vases: you don&#39;t walk,
 
 [Play notes →](https://amusehall.com/games/black-figure-the-stolen-flame/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/black-figure-the-stolen-flame/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @m040xie. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

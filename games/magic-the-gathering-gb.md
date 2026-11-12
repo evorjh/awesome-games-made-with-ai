@@ -17,4 +17,6 @@ A Game Boy Color-style card adventure: duel club members with early-era Magic: T
 
 [Play notes →](https://amusehall.com/games/magic-the-gathering-gb/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/magic-the-gathering-gb/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @kylebrussell. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

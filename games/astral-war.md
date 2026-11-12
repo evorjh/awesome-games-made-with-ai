@@ -17,4 +17,6 @@ A fan-made World War II shooter modeled on Call of Duty, with free-for-all and t
 
 [Play notes →](https://amusehall.com/games/astral-war/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/astral-war/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @0xRishi. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

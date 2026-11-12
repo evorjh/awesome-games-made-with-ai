@@ -17,4 +17,6 @@ A cozy island fishing game: cast from the pier or your boat, fight the fish on t
 
 [Play notes →](https://amusehall.com/games/tidewater/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/tidewater/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @dangreenheck. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

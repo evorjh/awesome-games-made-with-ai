@@ -17,4 +17,6 @@ A cozy farm that teaches a language as you play: grow crops, fill orders and cha
 
 [Play notes →](https://amusehall.com/games/happy-farm/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/happy-farm/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @alexcooldev. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

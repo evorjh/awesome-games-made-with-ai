@@ -17,6 +17,8 @@ A cozy online flying game on a tiny globe, where you explore by biplane, magic c
 
 [Play notes →](https://amusehall.com/games/tiny-skies/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/tiny-skies/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

@@ -17,6 +17,8 @@ A third-person wuxia sword-fighting game in three chapters: a golden steppe, a b
 
 [Play notes →](https://amusehall.com/games/long-wind/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/long-wind/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

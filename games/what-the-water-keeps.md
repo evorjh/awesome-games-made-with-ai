@@ -17,4 +17,6 @@ Ride a small lantern-lit boat through eight dreamlike river worlds in one night,
 
 [Play notes →](https://amusehall.com/games/what-the-water-keeps/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/what-the-water-keeps/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @kevin_t_ngo. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

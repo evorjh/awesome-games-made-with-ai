@@ -17,6 +17,8 @@ A voiced murder mystery on a snowbound 1936 sleeper train, where you search the 
 
 [Play notes →](https://amusehall.com/games/dead-air-on-the-meridian/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/dead-air-on-the-meridian/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

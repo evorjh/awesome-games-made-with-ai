@@ -17,4 +17,6 @@ Drive a taxi through a sunset 1980s beach city, picking up passengers and gettin
 
 [Play notes →](https://amusehall.com/games/great-taxi-assignment/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/great-taxi-assignment/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @TomasBencko. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

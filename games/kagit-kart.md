@@ -17,6 +17,8 @@ A kart racer inside a pop-up book, with paper animal drivers, eight karts on the
 
 [Play notes →](https://amusehall.com/games/kagit-kart/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/kagit-kart/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

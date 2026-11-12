@@ -17,4 +17,6 @@ A co-op farming game where two people share one 3D farm in real time, planting c
 
 [Play notes →](https://amusehall.com/games/harness-hollow/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/harness-hollow/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @KrasimirKralev. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -17,4 +17,6 @@ Call plays, throw and tackle in 7v7 backyard American football against a bot tea
 
 [Play notes →](https://amusehall.com/games/yard-clash/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/yard-clash/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @AugustCastilIo. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

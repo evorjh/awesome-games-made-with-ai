@@ -17,6 +17,8 @@ Two trees grow from the same seed but differ in three small ways; turn them, loo
 
 [Play notes →](https://amusehall.com/games/tree-appreciator/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/tree-appreciator/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

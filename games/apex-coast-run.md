@@ -17,4 +17,6 @@ A three-lap race in a red Ferrari 458 Italia along a wooded coast road at golden
 
 [Play notes →](https://amusehall.com/games/apex-coast-run/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/apex-coast-run/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @mindblown_ai. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

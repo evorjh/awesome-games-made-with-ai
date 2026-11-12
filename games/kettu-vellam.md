@@ -17,4 +17,6 @@ Race Kerala snake boats against rival crews through canals, a lake and a monsoon
 
 [Play notes →](https://amusehall.com/games/kettu-vellam/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/kettu-vellam/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @jessinvibe. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

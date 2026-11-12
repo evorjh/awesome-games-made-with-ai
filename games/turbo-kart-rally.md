@@ -17,6 +17,8 @@ A kart racer with drifting, mini-turbos and item boxes, where you race seven AI 
 
 [Play notes →](https://amusehall.com/games/turbo-kart-rally/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/turbo-kart-rally/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

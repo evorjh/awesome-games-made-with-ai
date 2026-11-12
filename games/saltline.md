@@ -17,6 +17,8 @@ Cut three uplink relays in a rain-soaked container port in a first-person shoote
 
 [Play notes →](https://amusehall.com/games/saltline/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/saltline/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

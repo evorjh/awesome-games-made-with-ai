@@ -17,4 +17,6 @@ A calm first-person walk through a sunlit pine forest along a river, where you c
 
 [Play notes →](https://amusehall.com/games/boring-forest/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/boring-forest/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @AndreiProvkin. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

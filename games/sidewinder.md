@@ -17,6 +17,8 @@ A vertical-scrolling shooter from 1987, brought to the browser by one of its ori
 
 [Play notes →](https://amusehall.com/games/sidewinder/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/sidewinder/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

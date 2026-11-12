@@ -17,6 +17,8 @@ Drive a swinging scrapyard crane, swap between a magnet and a claw, and sort ste
 
 [Play notes →](https://amusehall.com/games/pocket-salvage/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creators made it →](https://amusehall.com/games/pocket-salvage/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

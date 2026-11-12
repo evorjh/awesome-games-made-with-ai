@@ -17,4 +17,6 @@ Rocket-powered car soccer in an enclosed stadium, where you boost, jump and flip
 
 [Play notes →](https://amusehall.com/games/rocket-arena/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/rocket-arena/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @LLMJunky. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

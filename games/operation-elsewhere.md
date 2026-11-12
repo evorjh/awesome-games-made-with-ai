@@ -17,4 +17,6 @@ Hold a white concrete room against endless waves of blocky enemies, alone with a
 
 [Play notes →](https://amusehall.com/games/operation-elsewhere/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/operation-elsewhere/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @technomeg. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

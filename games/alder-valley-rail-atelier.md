@@ -17,4 +17,6 @@ A model railway on a table in a cozy room, where you run the trains, ride in the
 
 [Play notes →](https://amusehall.com/games/alder-valley-rail-atelier/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/alder-valley-rail-atelier/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @nickfromlater. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

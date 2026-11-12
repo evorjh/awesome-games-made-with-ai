@@ -17,4 +17,6 @@ Fly an F-16 over Nevada in a detailed jet sim: a 12-mission campaign, daily chal
 
 [Play notes →](https://amusehall.com/games/viper-one-one/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creators made it →](https://amusehall.com/games/viper-one-one/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @aCakeShip. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

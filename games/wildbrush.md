@@ -17,4 +17,6 @@ Explore a grayed-out island with a giant paintbrush, using fire, ice, bounce and
 
 [Play notes →](https://amusehall.com/games/wildbrush/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/wildbrush/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @DannyLimanseta. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

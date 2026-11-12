@@ -17,6 +17,8 @@ A free browser flight sim with a shared sky, where you pick a plane and fly and 
 
 [Play notes →](https://amusehall.com/games/fly-pieter/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/fly-pieter/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

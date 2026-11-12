@@ -17,4 +17,6 @@ Run coach lines across a hand-drawn fantasy realm where a dark lord is rising, i
 
 [Play notes →](https://amusehall.com/games/dread-and-district/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/dread-and-district/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @emollick. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

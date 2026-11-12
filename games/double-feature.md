@@ -17,6 +17,8 @@ A 1930s cartoon run-and-gun starring Kernel, a popcorn hero, with boss fights pr
 
 [Play notes →](https://amusehall.com/games/double-feature/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/double-feature/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

@@ -17,4 +17,6 @@ A turn-based 4X that starts on Earth, where reaching space turns your planet int
 
 [Play notes →](https://amusehall.com/games/vybeciv/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/vybeciv/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @AlbertSimonDev. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

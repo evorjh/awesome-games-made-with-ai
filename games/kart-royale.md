@@ -17,6 +17,8 @@ An eight-kart racer on a seaside circuit with drift boosts and items, where bots
 
 [Play notes →](https://amusehall.com/games/kart-royale/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/kart-royale/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

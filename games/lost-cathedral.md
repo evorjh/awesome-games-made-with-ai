@@ -17,4 +17,6 @@ A third-person boss fight in a candlelit gothic cathedral against a scythe-wield
 
 [Play notes →](https://amusehall.com/games/lost-cathedral/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/lost-cathedral/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @Rabneba. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

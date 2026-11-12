@@ -17,4 +17,6 @@ Lead a lantern-lit party of heroes through waves of the dark in a 3D auto-battle
 
 [Play notes →](https://amusehall.com/games/lanternfall/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/lanternfall/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @loktar00. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

@@ -17,4 +17,6 @@ A head-to-head cooking race in a shared kitchen, chopping, frying and plating or
 
 [Play notes →](https://amusehall.com/games/chef-clash/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/chef-clash/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @_MaxBlade. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

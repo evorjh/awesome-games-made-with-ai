@@ -17,6 +17,8 @@ A one-map shooter where you clear 10 hostiles from a container yard in three min
 
 [Play notes →](https://amusehall.com/games/operation-ironhold/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/operation-ironhold/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

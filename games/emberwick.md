@@ -17,6 +17,8 @@ A top-down fantasy RPG in a village on the eve of its harvest festival, with two
 
 [Play notes →](https://amusehall.com/games/emberwick/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/emberwick/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 ## Prompt
 
 ```text

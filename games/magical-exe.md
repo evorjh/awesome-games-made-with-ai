@@ -17,4 +17,6 @@ A text RPG in a cozy fake terminal where you turn magical, train in your home ci
 
 [Play notes →](https://amusehall.com/games/magical-exe/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)
 
+[How the creator made it →](https://amusehall.com/games/magical-exe/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
+
 <sub>The game belongs to @shirleyleng. Image captured by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>
