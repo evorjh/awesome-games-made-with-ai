@@ -6872,8 +6872,8 @@
         "clip": "https://media.amusehall.com/kettu-vellam/clip.mp4?v=5b675e39d7",
         "unrecordable": null
       },
-      "availability": "available",
-      "unavailableSince": null,
+      "availability": "unavailable",
+      "unavailableSince": "2026-11-12",
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/kettu-vellam/"
@@ -11646,8 +11646,8 @@
         "clip": "https://media.amusehall.com/burn-rate/clip.mp4?v=fd81d56352",
         "unrecordable": null
       },
-      "availability": "available",
-      "unavailableSince": null,
+      "availability": "unavailable",
+      "unavailableSince": "2026-11-12",
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/burn-rate/"
