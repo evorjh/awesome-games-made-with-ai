@@ -7651,8 +7651,8 @@
         "clip": "https://media.amusehall.com/kettu-vellam/clip.mp4?v=5b675e39d7",
         "unrecordable": null
       },
-      "availability": "unavailable",
-      "unavailableSince": "2026-11-12",
+      "availability": "available",
+      "unavailableSince": null,
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/kettu-vellam/"
@@ -13026,8 +13026,8 @@
       },
       "availability": "unavailable",
       "unavailableSince": "2026-11-12",
-      "dropped": false,
-      "featurable": true,
+      "dropped": true,
+      "featurable": false,
       "pageUrl": "https://amusehall.com/games/burn-rate/"
     },
     {
@@ -17529,8 +17529,7 @@
       "gvosn1v6w",
       "g0egemz92",
       "g7lsoeejk",
-      "g4yrw77l6",
-      "g413h634w"
+      "g4yrw77l6"
     ],
     "latestIssue": {
       "number": 3,
