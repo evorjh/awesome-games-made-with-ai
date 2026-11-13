@@ -27,11 +27,6 @@
       "maker": "Anthropic"
     },
     {
-      "id": "grok",
-      "name": "Grok",
-      "maker": "xAI"
-    },
-    {
       "id": "gemini",
       "name": "Gemini",
       "maker": "Google"
@@ -40,6 +35,11 @@
       "id": "gpt",
       "name": "GPT and Codex",
       "maker": "OpenAI"
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "maker": "xAI"
     },
     {
       "id": "kimi",
@@ -260,6 +260,18 @@
         "carbon"
       ],
       "firstSeen": null
+    },
+    {
+      "id": "gemini-4-hydrogen",
+      "name": "Gemini 4 Hydrogen",
+      "family": "gemini",
+      "released": "2026-11-12",
+      "major": true,
+      "aliases": [
+        "hydrogen",
+        "gemini hydrogen"
+      ],
+      "firstSeen": "2026-11-12"
     },
     {
       "id": "grok-4-7",
@@ -602,6 +614,62 @@
       "kind": "app",
       "family": null,
       "referral_url": null
+    },
+    {
+      "id": "openrouter",
+      "name": "OpenRouter",
+      "kind": "ai",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "gpt-5-4-image-2",
+      "name": "GPT-5.4 Image 2",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "gemini-3-pro-image",
+      "name": "Gemini 3 Pro Image",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "lyria-3-pro",
+      "name": "Lyria 3 Pro",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "vite",
+      "name": "Vite",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "playwright",
+      "name": "Playwright",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "supabase",
+      "name": "Supabase",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "agent-browser",
+      "name": "agent-browser",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
     }
   ],
   "genres": [
@@ -878,17 +946,22 @@
         "geg91cy2q",
         "gmja9kp2v",
         "go4slgb6w",
-        "gie0au2by",
-        "g8svijhf1",
         "gb72dv8lx",
+        "gie0au2by",
+        "godr2qz4e",
+        "g8svijhf1",
+        "gy7oawf0w",
         "goor334d3",
         "gxshani2z",
         "g17kxz4cm",
         "gatg3soyn",
+        "gld22k702",
         "gle9npeju",
         "g36yaqj7f",
         "gvz6r7sy1",
         "gh79jcfs0",
+        "gmxiswqhb",
+        "gfivzz7nn",
         "gn5esgohi",
         "gqtpnp68f",
         "g6lthz9ty",
@@ -1178,8 +1251,8 @@
           "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
         ]
       },
-      "likes": 14229,
-      "likesRead": "2026-11-12",
+      "likes": 14529,
+      "likesRead": "2026-11-13",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/felixrieseberg/status/2119925633564463609",
       "evidence": {
@@ -1820,8 +1893,8 @@
           "https://x.com/kevin_t_ngo/status/2119880812254601655"
         ]
       },
-      "likes": 4171,
-      "likesRead": "2026-11-12",
+      "likes": 4212,
+      "likesRead": "2026-11-13",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2119868968307695818",
       "evidence": {
@@ -2491,8 +2564,8 @@
           "https://x.com/mattshumer_/status/2119879860344766782"
         ]
       },
-      "likes": 2366,
-      "likesRead": "2026-11-12",
+      "likes": 2388,
+      "likesRead": "2026-11-13",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/mattshumer_/status/2119877065701036047",
       "evidence": {
@@ -2513,6 +2586,87 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/mirror-earth/"
+    },
+    {
+      "id": "gls4dgy15",
+      "slug": "fighting-opus",
+      "aliases": [],
+      "title": "Fighting-Opus",
+      "added": "2026-11-11",
+      "creators": [
+        {
+          "handle": "Студия Игор",
+          "url": "https://studioigor.itch.io"
+        }
+      ],
+      "primaryHandle": "Студия Игор",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "A and D to move, W to jump, J to strike, K to rush, S+J to sweep, J+K for the super; menus with W, S and Enter",
+      "brandIp": false,
+      "description": "A 2D wuxia fighting game, called Lantern Gate in the game, that the creators say Claude Opus 5.5 built in one go.",
+      "notes": "In the game it's called Lantern Gate: pick a fighter and fight the computer in arcade mode, or a friend on the same keyboard. Strikes, rushes, sweeps and a super move chain into combos, with round intros and hit effects. It needs a keyboard and has no touch controls.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creators say Claude Opus 5.5 put together a playable fighting game in essentially one pass, with a 3D arena, animated fighters, sound and menus.",
+        "sources": [
+          "https://www.youtube.com/watch?v=Ei57tuaHbJc&t=101s"
+        ]
+      },
+      "likes": 2220,
+      "likesRead": "2026-11-13",
+      "posted": "2026-11-05",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ei57tuaHbJc",
+      "evidence": {
+        "url": "https://www.youtube.com/watch?v=Ei57tuaHbJc",
+        "quote": "Opus 5.5 собрал файтинг буквально за один заход."
+      },
+      "playUrl": "https://studioigor.itch.io/fighting-opus",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/fighting-opus/still.webp?v=fe2b08de8c",
+        "preview": "https://media.amusehall.com/fighting-opus/preview.webp?v=12427838c0",
+        "clip": "https://media.amusehall.com/fighting-opus/clip.mp4?v=251a04aab8",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/fighting-opus/"
     },
     {
       "id": "g5n1e788h",
@@ -2592,87 +2746,6 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/soccar/"
-    },
-    {
-      "id": "gls4dgy15",
-      "slug": "fighting-opus",
-      "aliases": [],
-      "title": "Fighting-Opus",
-      "added": "2026-11-11",
-      "creators": [
-        {
-          "handle": "Студия Игор",
-          "url": "https://studioigor.itch.io"
-        }
-      ],
-      "primaryHandle": "Студия Игор",
-      "credits": [
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-opus-5-5"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "action",
-          "name": "Action"
-        },
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "A and D to move, W to jump, J to strike, K to rush, S+J to sweep, J+K for the super; menus with W, S and Enter",
-      "brandIp": false,
-      "description": "A 2D wuxia fighting game, called Lantern Gate in the game, that the creators say Claude Opus 5.5 built in one go.",
-      "notes": "In the game it's called Lantern Gate: pick a fighter and fight the computer in arcade mode, or a friend on the same keyboard. Strikes, rushes, sweeps and a super move chain into combos, with round intros and hit effects. It needs a keyboard and has no touch controls.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creators say Claude Opus 5.5 put together a playable fighting game in essentially one pass, with a 3D arena, animated fighters, sound and menus.",
-        "sources": [
-          "https://www.youtube.com/watch?v=Ei57tuaHbJc&t=101s"
-        ]
-      },
-      "likes": 2118,
-      "likesRead": "2026-11-12",
-      "posted": "2026-11-05",
-      "sourceUrl": "https://www.youtube.com/watch?v=Ei57tuaHbJc",
-      "evidence": {
-        "url": "https://www.youtube.com/watch?v=Ei57tuaHbJc",
-        "quote": "Opus 5.5 собрал файтинг буквально за один заход."
-      },
-      "playUrl": "https://studioigor.itch.io/fighting-opus",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/fighting-opus/still.webp?v=fe2b08de8c",
-        "preview": "https://media.amusehall.com/fighting-opus/preview.webp?v=12427838c0",
-        "clip": "https://media.amusehall.com/fighting-opus/clip.mp4?v=251a04aab8",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/fighting-opus/"
     },
     {
       "id": "gk98c3y8t",
@@ -2917,8 +2990,8 @@
           "https://x.com/kevin_t_ngo/status/2120241674144415797"
         ]
       },
-      "likes": 1694,
-      "likesRead": "2026-11-12",
+      "likes": 1736,
+      "likesRead": "2026-11-13",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2120238844754923874",
       "evidence": {
@@ -3341,8 +3414,8 @@
           "https://x.com/Rubzem/status/2120021124566368419"
         ]
       },
-      "likes": 1508,
-      "likesRead": "2026-11-12",
+      "likes": 1504,
+      "likesRead": "2026-11-13",
       "posted": "2026-11-05",
       "sourceUrl": "https://x.com/Rubzem/status/2118343870450954318",
       "evidence": {
@@ -3506,8 +3579,8 @@
           "https://x.com/loktar00/status/2120212873016389683"
         ]
       },
-      "likes": 1379,
-      "likesRead": "2026-11-12",
+      "likes": 1399,
+      "likesRead": "2026-11-13",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/loktar00/status/2120192761542615271",
       "evidence": {
@@ -3809,6 +3882,111 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/show-of-hands/"
+    },
+    {
+      "id": "gb72dv8lx",
+      "slug": "mist-locked-gate",
+      "aliases": [],
+      "title": "雾锁山门",
+      "added": "2026-11-12",
+      "creators": [
+        {
+          "handle": "op7418",
+          "name": "歸藏",
+          "url": "https://x.com/op7418"
+        }
+      ],
+      "primaryHandle": "op7418",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "jimeng",
+          "name": "Jimeng",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, left click to slash, hold right click to block, Space to dodge",
+      "brandIp": false,
+      "description": "Mist-Locked Gate is a short Chinese-language sword-fighting game with a snowy temple path, a skirmish and a two-phase boss.",
+      "notes": "Follow the snowy path to a fight outside a mountain temple. Chain sword strikes, block to create an opening and dodge when enemies commit to an attack. The demo is in Chinese and covers one area, a group encounter and a boss.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator gave Fable 5.2 a Chinese fantasy theme and says the game took one afternoon of repeated revisions. They describe starting with concept art in Jimeng and turning it into rigged 3D models with Tripo, with the AI writing the asset prompts. The creator turned the process into a reusable skill and describes how it checks gameplay with screenshots and packages the game into a single HTML file.",
+        "sources": [
+          "https://x.com/op7418/status/2120694045299327187",
+          "https://github.com/op7418/guizang-game-skill#演示游戏雾锁山门"
+        ]
+      },
+      "likes": 1107,
+      "likesRead": "2026-11-13",
+      "posted": "2026-11-12",
+      "sourceUrl": "https://x.com/op7418/status/2120694045299327187",
+      "evidence": {
+        "url": "https://x.com/op7418/status/2120694045299327187",
+        "quote": "Fable 5.2 只用了一下午"
+      },
+      "playUrl": "https://op7418.github.io/guizang-game-skill/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/mist-locked-gate/still.webp?v=6cb05ccbbd",
+        "preview": "https://media.amusehall.com/mist-locked-gate/preview.webp?v=b301eccd3b",
+        "clip": "https://media.amusehall.com/mist-locked-gate/clip.mp4?v=6eb4c3e90c",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/mist-locked-gate/"
     },
     {
       "id": "gmewfnndy",
@@ -4426,8 +4604,8 @@
           "https://github.com/jjcm/petalwake#how-it-was-made"
         ]
       },
-      "likes": 840,
-      "likesRead": "2026-11-12",
+      "likes": 838,
+      "likesRead": "2026-11-13",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/pwnies/status/2119987174884143348",
       "evidence": {
@@ -4807,6 +4985,104 @@
       "pageUrl": "https://amusehall.com/games/island-adventure/"
     },
     {
+      "id": "godr2qz4e",
+      "slug": "echo-noein-battlefront",
+      "aliases": [],
+      "title": "ECHO NOEIN: 残響戦線",
+      "added": "2026-11-13",
+      "creators": [
+        {
+          "handle": "elocat",
+          "name": "noa (Lafrontier)",
+          "url": "https://x.com/elocat"
+        }
+      ],
+      "primaryHandle": "elocat",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrow keys to move, Space to boost, number keys or mouse to choose upgrades; attacks are automatic",
+      "brandIp": false,
+      "description": "Pilot a mech through waves of rogue machines, collect echo shards and build an arsenal of weapons and modules to survive a 15-minute sortie.",
+      "notes": "Noa's mech survival game puts movement first: your weapons fire automatically while you dodge machines, gather experience shards and boost through danger. Each level offers three refits, with weapon families and matching modules giving you a build to work toward. A computer-controlled wingman can cover you, and credits earned in sorties buy permanent upgrades and more machines. The first mission asks you to survive for 15 minutes; the interface includes English, Japanese and Simplified Chinese.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Noa says the game took about three hours, using assets from another hobby project. They gave ChatGPT a brief idea and had it write instructions for Claude Code. They worked through conversation, requesting UI and balance changes, and say they had neither read nor edited the code themselves at the time of their reply.",
+        "sources": [
+          "https://x.com/elocat/status/2120872705478308285",
+          "https://noanoa.itch.io/echo-noein-battlefront",
+          "https://x.com/elocat/status/2120919303436611948",
+          "https://x.com/elocat/status/2121056206404174033"
+        ]
+      },
+      "likes": 693,
+      "likesRead": "2026-11-13",
+      "posted": "2026-11-12",
+      "sourceUrl": "https://x.com/elocat/status/2120872705478308285",
+      "evidence": {
+        "url": "https://x.com/elocat/status/2120872705478308285",
+        "quote": "くっぴー(Claude)が３時間で作ってしまったローグライトゲーム"
+      },
+      "playUrl": "https://noanoa.itch.io/echo-noein-battlefront",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/echo-noein-battlefront/still.webp?v=de30a8fdf4",
+        "preview": "https://media.amusehall.com/echo-noein-battlefront/preview.webp?v=20dcd42b09",
+        "clip": "https://media.amusehall.com/echo-noein-battlefront/clip.mp4?v=57fd24649c",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/echo-noein-battlefront/"
+    },
+    {
       "id": "g7k2m9q4x",
       "slug": "arkenfall",
       "aliases": [],
@@ -5175,111 +5451,6 @@
       "pageUrl": "https://amusehall.com/games/ram-altman/"
     },
     {
-      "id": "gb72dv8lx",
-      "slug": "mist-locked-gate",
-      "aliases": [],
-      "title": "雾锁山门",
-      "added": "2026-11-12",
-      "creators": [
-        {
-          "handle": "op7418",
-          "name": "歸藏",
-          "url": "https://x.com/op7418"
-        }
-      ],
-      "primaryHandle": "op7418",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2"
-      ],
-      "tools": [
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "tripo",
-          "name": "Tripo",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "jimeng",
-          "name": "Jimeng",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "action",
-          "name": "Action"
-        },
-        {
-          "id": "adventure",
-          "name": "Adventure"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD to move, left click to slash, hold right click to block, Space to dodge",
-      "brandIp": false,
-      "description": "Mist-Locked Gate is a short Chinese-language sword-fighting game with a snowy temple path, a skirmish and a two-phase boss.",
-      "notes": "Follow the snowy path to a fight outside a mountain temple. Chain sword strikes, block to create an opening and dodge when enemies commit to an attack. The demo is in Chinese and covers one area, a group encounter and a boss.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creator gave Fable 5.2 a Chinese fantasy theme and says the game took one afternoon of repeated revisions. They describe starting with concept art in Jimeng and turning it into rigged 3D models with Tripo, with the AI writing the asset prompts. The creator turned the process into a reusable skill and describes how it checks gameplay with screenshots and packages the game into a single HTML file.",
-        "sources": [
-          "https://x.com/op7418/status/2120694045299327187",
-          "https://github.com/op7418/guizang-game-skill#演示游戏雾锁山门"
-        ]
-      },
-      "likes": 424,
-      "likesRead": "2026-11-12",
-      "posted": "2026-11-12",
-      "sourceUrl": "https://x.com/op7418/status/2120694045299327187",
-      "evidence": {
-        "url": "https://x.com/op7418/status/2120694045299327187",
-        "quote": "Fable 5.2 只用了一下午"
-      },
-      "playUrl": "https://op7418.github.io/guizang-game-skill/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/mist-locked-gate/still.webp?v=6cb05ccbbd",
-        "preview": "https://media.amusehall.com/mist-locked-gate/preview.webp?v=b301eccd3b",
-        "clip": "https://media.amusehall.com/mist-locked-gate/clip.mp4?v=6eb4c3e90c",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/mist-locked-gate/"
-    },
-    {
       "id": "gnqa68iap",
       "slug": "wenware",
       "aliases": [],
@@ -5376,6 +5547,112 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/wenware/"
+    },
+    {
+      "id": "gy7oawf0w",
+      "slug": "sublevel-07",
+      "aliases": [],
+      "title": "SUBLEVEL 07",
+      "added": "2026-11-13",
+      "creators": [
+        {
+          "handle": "wquguru",
+          "name": "WquGuru",
+          "url": "https://x.com/wquguru"
+        }
+      ],
+      "primaryHandle": "wquguru",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "agent-browser",
+          "name": "agent-browser",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to aim, left click to fire, right click for sights, R to reload, Shift to sprint, Space to jump, G for graphics, M to mute, Esc to pause",
+      "brandIp": false,
+      "description": "Survive three waves of hovering sentries in a flooded underground substation, with a red-dot carbine, wet-floor reflections and synthesized sound.",
+      "notes": "You defend a compact underground substation against three waves of hovering sentries. The carbine has recoil, a red-dot sight and a limited magazine, so aim carefully and reload between bursts. Pipes, pillars and equipment break up the room while moving lights reflect across its wet floor. The escalating waves make a short, focused encounter; a desktop mouse and keyboard are required.",
+      "prompt": {
+        "shared": true,
+        "partial": true,
+        "source_url": "https://github.com/wquguru/fable52-fps-repro/blob/main/prompts/04-fps.md",
+        "text": "Build me a FPS. Insanely detailed quality pls, something that looks visually like it can keep up with AAA."
+      },
+      "makingOf": {
+        "summary": "WquGuru used Claude Fable 5.2 in Claude Code for four independent experiments inspired by Saltline, ending with this FPS. They constrained it to one HTML file with no external models, images or audio. The creator reports 40.8 minutes and 73 unattended turns, using subscription allowance equivalent to $15.96 at API rates. They published the prompts, scripts and token accounting, and describe browser screenshots and an automated three-wave check during development.",
+        "sources": [
+          "https://x.com/wquguru/status/2120382704030261437",
+          "https://github.com/wquguru/fable52-fps-repro/blob/main/README.en.md",
+          "https://github.com/wquguru/fable52-fps-repro/blob/main/prompts/04-fps.md"
+        ]
+      },
+      "likes": 382,
+      "likesRead": "2026-11-13",
+      "posted": "2026-11-11",
+      "sourceUrl": "https://x.com/wquguru/status/2120382704030261437",
+      "evidence": {
+        "url": "https://github.com/wquguru/fable52-fps-repro/blob/main/README.en.md",
+        "quote": "Build a 3D FPS from a single prompt: 4 standalone code-generation experiments with Fable 5.2 (Anthropic's large model)"
+      },
+      "playUrl": "https://wquguru.github.io/fable52-fps-repro/demos/04-fps/",
+      "price": "free",
+      "codeUrl": "https://github.com/wquguru/fable52-fps-repro",
+      "media": {
+        "still": "https://media.amusehall.com/sublevel-07/still.webp?v=fbef1e5d23",
+        "preview": "https://media.amusehall.com/sublevel-07/preview.webp?v=0ef733b8f6",
+        "clip": "https://media.amusehall.com/sublevel-07/clip.mp4?v=6425a2d020",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/sublevel-07/"
     },
     {
       "id": "g19fvejgd",
@@ -5625,7 +5902,7 @@
         ]
       },
       "likes": 341,
-      "likesRead": "2026-11-12",
+      "likesRead": "2026-11-13",
       "posted": "2026-09-04",
       "sourceUrl": "https://x.com/WoahWurdz/status/2095958882732355908",
       "evidence": {
@@ -5716,8 +5993,8 @@
           "https://x.com/kevin_t_ngo/status/2119909881516019983"
         ]
       },
-      "likes": 320,
-      "likesRead": "2026-11-12",
+      "likes": 321,
+      "likesRead": "2026-11-13",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2119900487688622171",
       "evidence": {
@@ -5803,8 +6080,8 @@
           "https://dread-and-district.netlify.app/"
         ]
       },
-      "likes": 296,
-      "likesRead": "2026-11-12",
+      "likes": 301,
+      "likesRead": "2026-11-13",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/emollick/status/2120248525254742318",
       "evidence": {
@@ -6221,8 +6498,8 @@
           "https://x.com/AugustCastilIo/status/2120375511058653554"
         ]
       },
-      "likes": 213,
-      "likesRead": "2026-11-12",
+      "likes": 214,
+      "likesRead": "2026-11-13",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/AugustCastilIo/status/2120302122776342865",
       "evidence": {
@@ -6344,6 +6621,88 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/skywake/"
+    },
+    {
+      "id": "gld22k702",
+      "slug": "light-a-star",
+      "aliases": [],
+      "title": "Light a Star",
+      "added": "2026-11-13",
+      "creators": [
+        {
+          "handle": "SidraMiconi",
+          "name": "Sidra Miconi",
+          "url": "https://x.com/SidraMiconi"
+        }
+      ],
+      "primaryHandle": "SidraMiconi",
+      "credits": [
+        {
+          "label": "Gemini 4 Hydrogen",
+          "modelId": "gemini-4-hydrogen",
+          "familyId": "gemini",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-hydrogen"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Drag or flick nuclei with the mouse to collide and fuse them; click the sound button to mute",
+      "brandIp": false,
+      "description": "Flick protons together inside a young star, building a chain of fusion reactions until you have made four helium-4 nuclei.",
+      "notes": "Sidra's fusion toy asks you to drag or flick nuclei together until you have made four helium-4 nuclei. The chain starts with two protons making deuterium, then another proton makes helium-3, and two helium-3 nuclei finish a helium-4 nucleus. Reaction labels and an energy counter show each successful collision as the core grows brighter. Slow contacts bounce apart, so speed and aim matter; reaching the target lets you keep fusing or restart.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Sidra says they built the game with one prompt to Gemini 4 Hydrogen, taking 78 seconds and costing about 19 cents.",
+        "sources": [
+          "https://x.com/SidraMiconi/status/2120948703095820743"
+        ]
+      },
+      "likes": 193,
+      "likesRead": "2026-11-13",
+      "posted": "2026-11-12",
+      "sourceUrl": "https://x.com/SidraMiconi/status/2120948703095820743",
+      "evidence": {
+        "url": "https://x.com/SidraMiconi/status/2120948703095820743",
+        "quote": "Gemini 4 Hydrogen built me a game about hydrogen."
+      },
+      "playUrl": "https://sidramiconi.com/light-a-star/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/light-a-star/still.webp?v=cd6e31c230",
+        "preview": "https://media.amusehall.com/light-a-star/preview.webp?v=25ee123709",
+        "clip": "https://media.amusehall.com/light-a-star/clip.mp4?v=6021fd8afc",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/light-a-star/"
     },
     {
       "id": "g66ibbf9z",
@@ -7180,7 +7539,7 @@
         ]
       },
       "likes": 138,
-      "likesRead": "2026-11-12",
+      "likesRead": "2026-11-13",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/petergyang/status/2119901658394358005",
       "evidence": {
@@ -7544,7 +7903,7 @@
         ]
       },
       "likes": 102,
-      "likesRead": "2026-11-12",
+      "likesRead": "2026-11-13",
       "posted": "2026-11-07",
       "sourceUrl": "https://x.com/kylebrussell/status/2118874479862419640",
       "evidence": {
@@ -7565,6 +7924,128 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/magic-the-gathering-gb/"
+    },
+    {
+      "id": "gmxiswqhb",
+      "slug": "air-strider",
+      "aliases": [],
+      "title": "Air Strider",
+      "added": "2026-11-13",
+      "creators": [
+        {
+          "handle": "Chilkus",
+          "name": "Chilko",
+          "url": "https://chilkus.itch.io/"
+        }
+      ],
+      "primaryHandle": "Chilkus",
+      "credits": [
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "vite",
+          "name": "Vite",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "playwright",
+          "name": "Playwright",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "supabase",
+          "name": "Supabase",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "flight",
+          "name": "Flight"
+        },
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to aim, left mouse for cannon, right mouse for missiles; Q/E/C transform, Shift boosts or evades, Space jumps or hovers, P pauses",
+      "brandIp": false,
+      "description": "Switch between jet, hovering Strider and ground mech to fight across air and ground layers, with cockpit banter and a survival mode.",
+      "notes": "Fighter, Strider and Mech forms give you different ways to move and fight across air and ground layers. The story demo introduces the controls through a voiced mission, while Survivor Mode sends escalating enemies and offers upgrades. Mouse aiming and several transformation keys take some practice; the creator recommends a gamepad. The game is an experimental prototype and its 3D effects can demand a powerful computer.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator says they built Air Strider over two weeks, starting with movement, aiming, camera behavior and transformations before adding other systems. They used Codex for coding and iteration, Three.js for the browser game, Vite for builds, Playwright for checks and captures, and Supabase for rankings. They played each build, described a specific problem and the desired behavior, then tested the change, keeping tuning values in configuration files. Combat presentation grew alongside the mechanics before they added the tutorial, story demo, branching dialogue and Survival Mode.",
+        "sources": [
+          "https://www.reddit.com/r/aigamedev/comments/1xquyde/two_weeks_building_my_dream_mech_game_with_ai_the/",
+          "https://chilkus.itch.io/air-strider",
+          "https://chilkus.itch.io/air-strider/devlog/1758670/launch-changelog"
+        ]
+      },
+      "likes": 85,
+      "likesRead": "2026-11-13",
+      "posted": "2026-11-08",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1xquyde/two_weeks_building_my_dream_mech_game_with_ai_the/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/aigamedev/comments/1xquyde/two_weeks_building_my_dream_mech_game_with_ai_the/",
+        "quote": "Codex for coding and iteration"
+      },
+      "playUrl": "https://chilkus.itch.io/air-strider",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/air-strider/still.webp?v=62c6a29cfb",
+        "preview": "https://media.amusehall.com/air-strider/preview.webp?v=e30a8a8ecb",
+        "clip": "https://media.amusehall.com/air-strider/clip.mp4?v=531932f480",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/air-strider/"
     },
     {
       "id": "g5pav1sj5",
@@ -7656,6 +8137,115 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/kettu-vellam/"
+    },
+    {
+      "id": "gfivzz7nn",
+      "slug": "lantern-street",
+      "aliases": [],
+      "title": "Lantern Street",
+      "added": "2026-11-13",
+      "creators": [
+        {
+          "handle": "earofgeorge",
+          "url": "https://www.reddit.com/user/earofgeorge/"
+        }
+      ],
+      "primaryHandle": "earofgeorge",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "openrouter",
+          "name": "OpenRouter",
+          "kind": "ai",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "gpt-5-4-image-2",
+          "name": "GPT-5.4 Image 2",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "gemini-3-pro-image",
+          "name": "Gemini 3 Pro Image",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "lyria-3-pro",
+          "name": "Lyria 3 Pro",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click ingredients, ice and sweetness, then the shaker and a customer to serve; click dialogue choices and shop menus",
+      "brandIp": false,
+      "description": "Mix boba orders through the evening rush, then learn your regulars’ stories and recover the missing pages of your great-aunt’s recipe book.",
+      "notes": "You inherit a tea stall and prepare drinks by choosing pearls, tea, milk or fruit, ice and sweetness before shaking and serving them. The first shift teaches each step, then customer patience turns the rush into a gentle juggling act. After closing, a regular asks for a drink that shapes the conversation; the recipe notebook offers clues. Evenings let you decorate, buy upgrades with earned coins and set prices, while the story follows the people who return to the street.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator started with a brief for a boba café game for their daughter and asked Claude to question them about the design, giving art and writing priority. They say Claude produced a design system, all the code and a game bible with about 12,000 words of script. Through OpenRouter, Claude directed GPT-5.4 Image 2 for backgrounds and characters, Gemini 3 Pro Image for ingredient icons, and Lyria 3 Pro for music. The creator reports spending about $15.",
+        "sources": [
+          "https://www.reddit.com/r/ClaudeAI/comments/1xn6w4z/asked_claude_for_a_little_boba_shop_game_for_my/",
+          "https://www.reddit.com/r/ClaudeAI/comments/1xn6w4z/comment/19s3pv7u3lbvk/"
+        ]
+      },
+      "likes": 64,
+      "likesRead": "2026-11-13",
+      "posted": "2026-11-03",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeAI/comments/1xn6w4z/asked_claude_for_a_little_boba_shop_game_for_my/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn6w4z/asked_claude_for_a_little_boba_shop_game_for_my/",
+        "quote": "Claude asked me lots of design questions, produced a written game bible (~12k words of script so far), a design system, all the code."
+      },
+      "playUrl": "https://lanternstreetgame.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/lantern-street/still.webp?v=6658802713",
+        "preview": "https://media.amusehall.com/lantern-street/preview.webp?v=e07c09b0f9",
+        "clip": "https://media.amusehall.com/lantern-street/clip.mp4?v=453d11a56b",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/lantern-street/"
     },
     {
       "id": "gy98g0zma",
@@ -9677,6 +10267,119 @@
       "pageUrl": "https://amusehall.com/games/splashline/"
     },
     {
+      "id": "gn5esgohi",
+      "slug": "gaga-pit-showdown",
+      "aliases": [],
+      "title": "Gaga Pit Showdown",
+      "added": "2026-11-12",
+      "creators": [
+        {
+          "handle": "Crazyh1803",
+          "name": "AppsbyDan",
+          "url": "https://github.com/Crazyh1803"
+        }
+      ],
+      "primaryHandle": "Crazyh1803",
+      "credits": [
+        {
+          "label": "Claude Opus 5",
+          "modelId": "claude-opus-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        },
+        {
+          "label": "GPT-5.6 Sol",
+          "modelId": "gpt-5-6-sol",
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude",
+        "gpt"
+      ],
+      "modelIds": [
+        "claude-opus-5",
+        "gpt-5-6-sol"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        },
+        {
+          "id": "godot",
+          "name": "Godot",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "sports",
+          "name": "Sports"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to move, mouse to aim, Space or click to slap, J or E to jump, Shift to dash, C to trap or steal",
+      "brandIp": false,
+      "description": "A pixel-art take on playground gaga ball. Slap the ball across an octagonal court, jump incoming shots and stay in the pit.",
+      "notes": "Jump straight into a free-for-all against three opponents, or build a player and try the Pit Tour. The ball rebounds off the walls, so a shot you dodge can come back across the court. The browser build is a large download.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator says they used Claude Opus 5 in Claude Code and Codex 5.6 Sol for most of the code. The project’s Godot notes describe fighters drawn and animated at runtime, city backgrounds made from generated images and music and effects produced with Python scripts.",
+        "sources": [
+          "https://github.com/evorjh/awesome-games-made-with-ai/issues/1",
+          "https://github.com/Crazyh1803/Gagaball#art-and-project-layout"
+        ]
+      },
+      "likes": 2,
+      "likesRead": "2026-11-13",
+      "posted": null,
+      "sourceUrl": "https://www.instagram.com/reel/DfZdYgFHLUU/",
+      "evidence": {
+        "url": "https://github.com/evorjh/awesome-games-made-with-ai/issues/1",
+        "quote": "Claude Opus 5 with Claude Code, Codex 5.6 Sol"
+      },
+      "playUrl": "https://crazyh1803.github.io/Gagaball/",
+      "price": "free",
+      "codeUrl": "https://github.com/Crazyh1803/Gagaball",
+      "media": {
+        "still": "https://media.amusehall.com/gaga-pit-showdown/still.webp?v=ca966dad31",
+        "preview": "https://media.amusehall.com/gaga-pit-showdown/preview.webp?v=5ee08c4c3d",
+        "clip": "https://media.amusehall.com/gaga-pit-showdown/clip.mp4?v=c366b26311",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/gaga-pit-showdown/"
+    },
+    {
       "id": "g8tp4okfr",
       "slug": "vybenomad",
       "aliases": [],
@@ -10320,119 +11023,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
-    },
-    {
-      "id": "gn5esgohi",
-      "slug": "gaga-pit-showdown",
-      "aliases": [],
-      "title": "Gaga Pit Showdown",
-      "added": "2026-11-12",
-      "creators": [
-        {
-          "handle": "Crazyh1803",
-          "name": "AppsbyDan",
-          "url": "https://github.com/Crazyh1803"
-        }
-      ],
-      "primaryHandle": "Crazyh1803",
-      "credits": [
-        {
-          "label": "Claude Opus 5",
-          "modelId": "claude-opus-5",
-          "familyId": "claude",
-          "toolId": "claude-code"
-        },
-        {
-          "label": "GPT-5.6 Sol",
-          "modelId": "gpt-5-6-sol",
-          "familyId": "gpt",
-          "toolId": "codex"
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude",
-        "gpt"
-      ],
-      "modelIds": [
-        "claude-opus-5",
-        "gpt-5-6-sol"
-      ],
-      "tools": [
-        {
-          "id": "claude-code",
-          "name": "Claude Code",
-          "kind": "ai",
-          "family": "claude",
-          "referral_url": null
-        },
-        {
-          "id": "codex",
-          "name": "Codex",
-          "kind": "ai",
-          "family": "gpt",
-          "referral_url": null
-        },
-        {
-          "id": "godot",
-          "name": "Godot",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "sports",
-          "name": "Sports"
-        },
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD or arrows to move, mouse to aim, Space or click to slap, J or E to jump, Shift to dash, C to trap or steal",
-      "brandIp": false,
-      "description": "A pixel-art take on playground gaga ball. Slap the ball across an octagonal court, jump incoming shots and stay in the pit.",
-      "notes": "Jump straight into a free-for-all against three opponents, or build a player and try the Pit Tour. The ball rebounds off the walls, so a shot you dodge can come back across the court. The browser build is a large download.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creator says they used Claude Opus 5 in Claude Code and Codex 5.6 Sol for most of the code. The project’s Godot notes describe fighters drawn and animated at runtime, city backgrounds made from generated images and music and effects produced with Python scripts.",
-        "sources": [
-          "https://github.com/evorjh/awesome-games-made-with-ai/issues/1",
-          "https://github.com/Crazyh1803/Gagaball#art-and-project-layout"
-        ]
-      },
-      "likes": null,
-      "likesRead": null,
-      "posted": null,
-      "sourceUrl": "https://www.instagram.com/reel/DfZdYgFHLUU/",
-      "evidence": {
-        "url": "https://github.com/evorjh/awesome-games-made-with-ai/issues/1",
-        "quote": "Claude Opus 5 with Claude Code, Codex 5.6 Sol"
-      },
-      "playUrl": "https://crazyh1803.github.io/Gagaball/",
-      "price": "free",
-      "codeUrl": "https://github.com/Crazyh1803/Gagaball",
-      "media": {
-        "still": "https://media.amusehall.com/gaga-pit-showdown/still.webp?v=ca966dad31",
-        "preview": "https://media.amusehall.com/gaga-pit-showdown/preview.webp?v=5ee08c4c3d",
-        "clip": "https://media.amusehall.com/gaga-pit-showdown/clip.mp4?v=c366b26311",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/gaga-pit-showdown/"
     },
     {
       "id": "gqtpnp68f",
@@ -17341,10 +17931,10 @@
         "gw96j1zcp",
         "geg91cy2q",
         "go4slgb6w",
-        "gie0au2by",
         "gb72dv8lx",
-        "gxshani2z",
-        "g17kxz4cm"
+        "gie0au2by",
+        "gy7oawf0w",
+        "gxshani2z"
       ]
     },
     "families": [
@@ -17363,8 +17953,8 @@
           "gjh98608z",
           "g27qw9jqs",
           "gw96j1zcp",
-          "g5n1e788h",
           "gls4dgy15",
+          "g5n1e788h",
           "gk98c3y8t",
           "gpmj9q9ol",
           "geg91cy2q",
@@ -17372,17 +17962,19 @@
           "g9t4d43un",
           "go4slgb6w",
           "go98yri36",
+          "gb72dv8lx",
           "gmewfnndy",
           "gron4ulbj",
           "gqdquwa11",
           "gpy3pa5mk",
           "gie0au2by",
           "g9141ggib",
+          "godr2qz4e",
           "g7k2m9q4x",
           "gd0whgrdo",
           "g361pfe4r",
           "g8svijhf1",
-          "gb72dv8lx",
+          "gy7oawf0w",
           "g19fvejgd",
           "gserfbtbt",
           "gxshani2z",
@@ -17401,6 +17993,7 @@
           "gdjlcx9uv",
           "gh79jcfs0",
           "g5pav1sj5",
+          "gfivzz7nn",
           "gy98g0zma",
           "gpiamf3w9",
           "g71um5h99",
@@ -17415,12 +18008,12 @@
           "g7xrosbbr",
           "gfnwamipv",
           "gfk87cz0z",
+          "gn5esgohi",
           "g8tp4okfr",
           "guks7mvrv",
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
-          "gn5esgohi",
           "gqtpnp68f",
           "g6lthz9ty",
           "gam9t6fa5",
@@ -17487,6 +18080,14 @@
         ]
       },
       {
+        "familyId": "gemini",
+        "gameIds": [
+          "g7lsoeejk",
+          "gld22k702",
+          "g4yrw77l6"
+        ]
+      },
+      {
         "familyId": "gpt",
         "gameIds": [
           "g1bjx9y59",
@@ -17502,6 +18103,7 @@
           "go74usldh",
           "g0licbu6a",
           "g6av67v0c",
+          "gmxiswqhb",
           "g3v8d1w6z",
           "gupsk4h7x",
           "glmkik999",
@@ -17527,9 +18129,7 @@
       "guawsizlo",
       "g10dwuh0n",
       "gvosn1v6w",
-      "g0egemz92",
-      "g7lsoeejk",
-      "g4yrw77l6"
+      "g0egemz92"
     ],
     "latestIssue": {
       "number": 3,
@@ -17551,17 +18151,22 @@
         "geg91cy2q",
         "gmja9kp2v",
         "go4slgb6w",
-        "gie0au2by",
-        "g8svijhf1",
         "gb72dv8lx",
+        "gie0au2by",
+        "godr2qz4e",
+        "g8svijhf1",
+        "gy7oawf0w",
         "goor334d3",
         "gxshani2z",
         "g17kxz4cm",
         "gatg3soyn",
+        "gld22k702",
         "gle9npeju",
         "g36yaqj7f",
         "gvz6r7sy1",
         "gh79jcfs0",
+        "gmxiswqhb",
+        "gfivzz7nn",
         "gn5esgohi",
         "gqtpnp68f",
         "g6lthz9ty",

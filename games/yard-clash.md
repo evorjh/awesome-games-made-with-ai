@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** 1 to 3 pick a play, Space to snap, hold the mouse to aim and throw, WASD to run, Shift to sprint, F to switch player; Space tackles on defense
-- **Likes on the original post:** 213, counted 2026-11-12
+- **Likes on the original post:** 214, counted 2026-11-13
 
 Call plays, throw and tackle in 7v7 backyard American football against a bot team, with a neighbourhood league to climb.
 

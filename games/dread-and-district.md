@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Drag from stop to stop to lay a line, drag a line&#39;s end to extend it, click the panels to add crews, stops and coaches
-- **Likes on the original post:** 296, counted 2026-11-12
+- **Likes on the original post:** 301, counted 2026-11-13
 
 Run coach lines across a hand-drawn fantasy realm where a dark lord is rising, in a transit puzzle written and drawn by Claude agents.
 

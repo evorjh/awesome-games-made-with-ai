@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrows to move, mouse to aim, Space or click to slap, J or E to jump, Shift to dash, C to trap or steal
-- **Likes on the original post:** Unknown
+- **Likes on the original post:** 2, counted 2026-11-13
 
 A pixel-art take on playground gaga ball. Slap the ball across an octagonal court, jump incoming shots and stay in the pit.
 
