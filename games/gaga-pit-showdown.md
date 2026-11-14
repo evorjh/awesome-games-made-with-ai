@@ -8,9 +8,9 @@
 - **Where they name the AI:** [“Claude Opus 5 with Claude Code, Codex 5.6 Sol”](https://github.com/evorjh/awesome-games-made-with-ai/issues/1)
 - **Creator:** [@Crazyh1803](https://github.com/Crazyh1803)
 - **Genre:** Sports, Arcade
-- **Plays on:** Computer
+- **Plays on:** Computer and phone
 - **Price:** Free
-- **Controls:** WASD or arrows to move, mouse to aim, Space or click to slap, J or E to jump, Shift to dash, C to trap or steal
+- **Controls:** On phones, use the on-screen stick to move and aim, with buttons to slap, jump, dash or trap. On desktop, use a gamepad or WASD/arrows to move, mouse to aim, Space/click to slap, J/E to jump, Shift to dash and C to trap or steal.
 - **Likes on the original post:** 2, counted 2026-11-14
 
 A pixel-art take on playground gaga ball. Slap the ball across an octagonal court, jump incoming shots and stay in the pit.

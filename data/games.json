@@ -147,6 +147,17 @@
       "firstSeen": "2026-09-26"
     },
     {
+      "id": "claude-opus",
+      "name": "Claude Opus",
+      "family": "claude",
+      "released": null,
+      "major": false,
+      "aliases": [
+        "opus"
+      ],
+      "firstSeen": "2026-11-14"
+    },
+    {
       "id": "claude-3-7-sonnet",
       "name": "Claude 3.7 Sonnet",
       "family": "claude",
@@ -651,6 +662,27 @@
       "referral_url": null
     },
     {
+      "id": "typescript",
+      "name": "TypeScript",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "vitest",
+      "name": "Vitest",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "wrangler",
+      "name": "Wrangler",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
       "id": "playwright",
       "name": "Playwright",
       "kind": "library",
@@ -1014,6 +1046,7 @@
         "g8x1122vv",
         "g9rjpdfa0",
         "gn5esgohi",
+        "gm15xo3kf",
         "gqtpnp68f",
         "g6lthz9ty",
         "gam9t6fa5",
@@ -10665,7 +10698,7 @@
       "aliases": [],
       "title": "Gaga Pit Showdown",
       "added": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-14",
       "creators": [
         {
           "handle": "Crazyh1803",
@@ -10731,9 +10764,10 @@
         }
       ],
       "devices": [
-        "desktop"
+        "desktop",
+        "phone"
       ],
-      "controls": "WASD or arrows to move, mouse to aim, Space or click to slap, J or E to jump, Shift to dash, C to trap or steal",
+      "controls": "On phones, use the on-screen stick to move and aim, with buttons to slap, jump, dash or trap. On desktop, use a gamepad or WASD/arrows to move, mouse to aim, Space/click to slap, J/E to jump, Shift to dash and C to trap or steal.",
       "brandIp": false,
       "description": "A pixel-art take on playground gaga ball. Slap the ball across an octagonal court, jump incoming shots and stay in the pit.",
       "notes": "Jump straight into a free-for-all against three opponents, or build a player and try the Pit Tour. The ball rebounds off the walls, so a shot you dodge can come back across the court. The browser build is a large download.",
@@ -11424,6 +11458,125 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gm15xo3kf",
+      "slug": "tour-du-pain",
+      "aliases": [],
+      "title": "Tour du Pain",
+      "added": "2026-11-14",
+      "updated": "2026-11-14",
+      "creators": [
+        {
+          "handle": "woutertje-droid",
+          "name": "Wouter Hoonakker",
+          "url": "https://github.com/woutertje-droid"
+        }
+      ],
+      "primaryHandle": "woutertje-droid",
+      "credits": [
+        {
+          "label": "Claude Opus",
+          "modelId": "claude-opus",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "typescript",
+          "name": "TypeScript",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "vite",
+          "name": "Vite",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "vitest",
+          "name": "Vitest",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "wrangler",
+          "name": "Wrangler",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "sports",
+          "name": "Sports"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "In the demo, use the Up and Down arrow keys or the on-screen − and + buttons to change your power.",
+      "brandIp": true,
+      "description": "Ride through the French countryside, collect baguettes and see how much power it takes to stay with the bunch.",
+      "notes": "The solo browser demo includes a group ride with computer-controlled cyclists, an interval workout and two climbs. A simulated trainer pedals for you, and you change its wattage to adjust your effort. The full game uses a Bluetooth smart trainer and supports club rides and voice chat.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Wouter Hoonakker says Claude Opus wrote the code in Claude Code, with six sessions working on separate parts of the game. He used a deploy lock to keep releases from overlapping and ran simulation and gameplay checks before shipping. Logs from riders helped him diagnose Bluetooth problems.",
+        "sources": [
+          "https://tourdupain.app/blog/how-i-build-tour-du-pain-with-claude"
+        ]
+      },
+      "likes": null,
+      "likesRead": "2026-11-14",
+      "posted": "2026-11-14",
+      "sourceUrl": "https://tourdupain.app/blog/how-i-build-tour-du-pain-with-claude",
+      "evidence": {
+        "url": "https://tourdupain.app/blog/how-i-build-tour-du-pain-with-claude#the-right-model-for-each-job",
+        "quote": "Opus does the building, meaning anything that writes or changes code."
+      },
+      "playUrl": "https://tourdupain.app/demo",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/tour-du-pain/still.webp?v=94bfaaabb0",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/tour-du-pain/"
     },
     {
       "id": "gqtpnp68f",
@@ -18488,6 +18641,7 @@
           "ghuag4909",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "gm15xo3kf",
           "gqtpnp68f",
           "g6lthz9ty",
           "gam9t6fa5",
@@ -18644,6 +18798,7 @@
         "g8x1122vv",
         "g9rjpdfa0",
         "gn5esgohi",
+        "gm15xo3kf",
         "gqtpnp68f",
         "g6lthz9ty",
         "gam9t6fa5",
