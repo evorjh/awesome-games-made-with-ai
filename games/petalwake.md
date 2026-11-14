@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** W and S to dive and climb, A and D to bank, Shift to ride the gust, Space twice by a lit pad to land; J opens the journal
-- **Likes on the original post:** 838, counted 2026-11-13
+- **Likes on the original post:** 841, counted 2026-11-14
 
 Ride a broom over a painted coast, delivering parcels to tower tops and hunting hidden treasures, built in a day with Claude Fable 5.2.
 

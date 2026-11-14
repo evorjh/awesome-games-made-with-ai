@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** W A S D or the arrow keys to paddle and steer, drag to look around
-- **Likes on the original post:** 4,212, counted 2026-11-13
+- **Likes on the original post:** 4,240, counted 2026-11-14
 
 Ride a small lantern-lit boat through eight dreamlike river worlds in one night, from a sunset landing to a sky of stars at first light.
 

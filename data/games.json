@@ -670,6 +670,55 @@
       "kind": "app",
       "family": null,
       "referral_url": null
+    },
+    {
+      "id": "pixellab",
+      "name": "PixelLab",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "aseprite",
+      "name": "Aseprite",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "supercollider",
+      "name": "SuperCollider",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "sdl",
+      "name": "SDL",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "emscripten",
+      "name": "Emscripten",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "gitlab-ci",
+      "name": "GitLab CI",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
     }
   ],
   "genres": [
@@ -951,17 +1000,19 @@
         "godr2qz4e",
         "g8svijhf1",
         "gy7oawf0w",
+        "gld22k702",
         "goor334d3",
         "gxshani2z",
         "g17kxz4cm",
         "gatg3soyn",
-        "gld22k702",
         "gle9npeju",
         "g36yaqj7f",
         "gvz6r7sy1",
         "gh79jcfs0",
         "gmxiswqhb",
         "gfivzz7nn",
+        "g8x1122vv",
+        "g9rjpdfa0",
         "gn5esgohi",
         "gqtpnp68f",
         "g6lthz9ty",
@@ -1254,8 +1305,8 @@
           "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
         ]
       },
-      "likes": 14529,
-      "likesRead": "2026-11-13",
+      "likes": 14692,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/felixrieseberg/status/2119925633564463609",
       "evidence": {
@@ -1903,8 +1954,8 @@
           "https://x.com/kevin_t_ngo/status/2119880812254601655"
         ]
       },
-      "likes": 4212,
-      "likesRead": "2026-11-13",
+      "likes": 4240,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2119868968307695818",
       "evidence": {
@@ -2581,8 +2632,8 @@
           "https://x.com/mattshumer_/status/2119879860344766782"
         ]
       },
-      "likes": 2388,
-      "likesRead": "2026-11-13",
+      "likes": 2400,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/mattshumer_/status/2119877065701036047",
       "evidence": {
@@ -2663,8 +2714,8 @@
           "https://www.youtube.com/watch?v=Ei57tuaHbJc&t=101s"
         ]
       },
-      "likes": 2220,
-      "likesRead": "2026-11-13",
+      "likes": 2280,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-05",
       "sourceUrl": "https://www.youtube.com/watch?v=Ei57tuaHbJc",
       "evidence": {
@@ -3012,8 +3063,8 @@
           "https://x.com/kevin_t_ngo/status/2120241674144415797"
         ]
       },
-      "likes": 1736,
-      "likesRead": "2026-11-13",
+      "likes": 1750,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2120238844754923874",
       "evidence": {
@@ -3441,7 +3492,7 @@
         ]
       },
       "likes": 1504,
-      "likesRead": "2026-11-13",
+      "likesRead": "2026-11-14",
       "posted": "2026-11-05",
       "sourceUrl": "https://x.com/Rubzem/status/2118343870450954318",
       "evidence": {
@@ -3607,8 +3658,8 @@
           "https://x.com/loktar00/status/2120212873016389683"
         ]
       },
-      "likes": 1399,
-      "likesRead": "2026-11-13",
+      "likes": 1411,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/loktar00/status/2120192761542615271",
       "evidence": {
@@ -3997,8 +4048,8 @@
           "https://github.com/op7418/guizang-game-skill#演示游戏雾锁山门"
         ]
       },
-      "likes": 1107,
-      "likesRead": "2026-11-13",
+      "likes": 1140,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-12",
       "sourceUrl": "https://x.com/op7418/status/2120694045299327187",
       "evidence": {
@@ -4643,8 +4694,8 @@
           "https://github.com/jjcm/petalwake#how-it-was-made"
         ]
       },
-      "likes": 838,
-      "likesRead": "2026-11-13",
+      "likes": 841,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/pwnies/status/2119987174884143348",
       "evidence": {
@@ -4665,6 +4716,105 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/petalwake/"
+    },
+    {
+      "id": "godr2qz4e",
+      "slug": "echo-noein-battlefront",
+      "aliases": [],
+      "title": "ECHO NOEIN: 残響戦線",
+      "added": "2026-11-13",
+      "updated": "2026-11-13",
+      "creators": [
+        {
+          "handle": "elocat",
+          "name": "noa (Lafrontier)",
+          "url": "https://x.com/elocat"
+        }
+      ],
+      "primaryHandle": "elocat",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrow keys to move, Space to boost, number keys or mouse to choose upgrades; attacks are automatic",
+      "brandIp": false,
+      "description": "Pilot a mech through waves of rogue machines, collect echo shards and build an arsenal of weapons and modules to survive a 15-minute sortie.",
+      "notes": "Noa's mech survival game puts movement first: your weapons fire automatically while you dodge machines, gather experience shards and boost through danger. Each level offers three refits, with weapon families and matching modules giving you a build to work toward. A computer-controlled wingman can cover you, and credits earned in sorties buy permanent upgrades and more machines. The first mission asks you to survive for 15 minutes; the interface includes English, Japanese and Simplified Chinese.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Noa says the game took about three hours, using assets from another hobby project. They gave ChatGPT a brief idea and had it write instructions for Claude Code. They worked through conversation, requesting UI and balance changes, and say they had neither read nor edited the code themselves at the time of their reply.",
+        "sources": [
+          "https://x.com/elocat/status/2120872705478308285",
+          "https://noanoa.itch.io/echo-noein-battlefront",
+          "https://x.com/elocat/status/2120919303436611948",
+          "https://x.com/elocat/status/2121056206404174033"
+        ]
+      },
+      "likes": 799,
+      "likesRead": "2026-11-14",
+      "posted": "2026-11-12",
+      "sourceUrl": "https://x.com/elocat/status/2120872705478308285",
+      "evidence": {
+        "url": "https://x.com/elocat/status/2120872705478308285",
+        "quote": "くっぴー(Claude)が３時間で作ってしまったローグライトゲーム"
+      },
+      "playUrl": "https://noanoa.itch.io/echo-noein-battlefront",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/echo-noein-battlefront/still.webp?v=de30a8fdf4",
+        "preview": "https://media.amusehall.com/echo-noein-battlefront/preview.webp?v=20dcd42b09",
+        "clip": "https://media.amusehall.com/echo-noein-battlefront/clip.mp4?v=57fd24649c",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/echo-noein-battlefront/"
     },
     {
       "id": "g9141ggib",
@@ -5026,105 +5176,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/island-adventure/"
-    },
-    {
-      "id": "godr2qz4e",
-      "slug": "echo-noein-battlefront",
-      "aliases": [],
-      "title": "ECHO NOEIN: 残響戦線",
-      "added": "2026-11-13",
-      "updated": "2026-11-13",
-      "creators": [
-        {
-          "handle": "elocat",
-          "name": "noa (Lafrontier)",
-          "url": "https://x.com/elocat"
-        }
-      ],
-      "primaryHandle": "elocat",
-      "credits": [
-        {
-          "label": "Claude Code",
-          "modelId": null,
-          "familyId": "claude",
-          "toolId": "claude-code"
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [],
-      "tools": [
-        {
-          "id": "claude-code",
-          "name": "Claude Code",
-          "kind": "ai",
-          "family": "claude",
-          "referral_url": null
-        },
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "kind": "ai",
-          "family": "gpt",
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "action",
-          "name": "Action"
-        },
-        {
-          "id": "shooter",
-          "name": "Shooter"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD or arrow keys to move, Space to boost, number keys or mouse to choose upgrades; attacks are automatic",
-      "brandIp": false,
-      "description": "Pilot a mech through waves of rogue machines, collect echo shards and build an arsenal of weapons and modules to survive a 15-minute sortie.",
-      "notes": "Noa's mech survival game puts movement first: your weapons fire automatically while you dodge machines, gather experience shards and boost through danger. Each level offers three refits, with weapon families and matching modules giving you a build to work toward. A computer-controlled wingman can cover you, and credits earned in sorties buy permanent upgrades and more machines. The first mission asks you to survive for 15 minutes; the interface includes English, Japanese and Simplified Chinese.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Noa says the game took about three hours, using assets from another hobby project. They gave ChatGPT a brief idea and had it write instructions for Claude Code. They worked through conversation, requesting UI and balance changes, and say they had neither read nor edited the code themselves at the time of their reply.",
-        "sources": [
-          "https://x.com/elocat/status/2120872705478308285",
-          "https://noanoa.itch.io/echo-noein-battlefront",
-          "https://x.com/elocat/status/2120919303436611948",
-          "https://x.com/elocat/status/2121056206404174033"
-        ]
-      },
-      "likes": 693,
-      "likesRead": "2026-11-13",
-      "posted": "2026-11-12",
-      "sourceUrl": "https://x.com/elocat/status/2120872705478308285",
-      "evidence": {
-        "url": "https://x.com/elocat/status/2120872705478308285",
-        "quote": "くっぴー(Claude)が３時間で作ってしまったローグライトゲーム"
-      },
-      "playUrl": "https://noanoa.itch.io/echo-noein-battlefront",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/echo-noein-battlefront/still.webp?v=de30a8fdf4",
-        "preview": "https://media.amusehall.com/echo-noein-battlefront/preview.webp?v=20dcd42b09",
-        "clip": "https://media.amusehall.com/echo-noein-battlefront/clip.mp4?v=57fd24649c",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/echo-noein-battlefront/"
     },
     {
       "id": "g7k2m9q4x",
@@ -5681,8 +5732,8 @@
           "https://github.com/wquguru/fable52-fps-repro/blob/main/prompts/04-fps.md"
         ]
       },
-      "likes": 382,
-      "likesRead": "2026-11-13",
+      "likes": 388,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-11",
       "sourceUrl": "https://x.com/wquguru/status/2120382704030261437",
       "evidence": {
@@ -5886,6 +5937,89 @@
       "pageUrl": "https://amusehall.com/games/night-market-runner/"
     },
     {
+      "id": "gld22k702",
+      "slug": "light-a-star",
+      "aliases": [],
+      "title": "Light a Star",
+      "added": "2026-11-13",
+      "updated": "2026-11-13",
+      "creators": [
+        {
+          "handle": "SidraMiconi",
+          "name": "Sidra Miconi",
+          "url": "https://x.com/SidraMiconi"
+        }
+      ],
+      "primaryHandle": "SidraMiconi",
+      "credits": [
+        {
+          "label": "Gemini 4 Hydrogen",
+          "modelId": "gemini-4-hydrogen",
+          "familyId": "gemini",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-hydrogen"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Drag or flick nuclei with the mouse to collide and fuse them; click the sound button to mute",
+      "brandIp": false,
+      "description": "Flick protons together inside a young star, building a chain of fusion reactions until you have made four helium-4 nuclei.",
+      "notes": "Sidra's fusion toy asks you to drag or flick nuclei together until you have made four helium-4 nuclei. The chain starts with two protons making deuterium, then another proton makes helium-3, and two helium-3 nuclei finish a helium-4 nucleus. Reaction labels and an energy counter show each successful collision as the core grows brighter. Slow contacts bounce apart, so speed and aim matter; reaching the target lets you keep fusing or restart.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Sidra says they built the game with one prompt to Gemini 4 Hydrogen, taking 78 seconds and costing about 19 cents.",
+        "sources": [
+          "https://x.com/SidraMiconi/status/2120948703095820743"
+        ]
+      },
+      "likes": 354,
+      "likesRead": "2026-11-14",
+      "posted": "2026-11-12",
+      "sourceUrl": "https://x.com/SidraMiconi/status/2120948703095820743",
+      "evidence": {
+        "url": "https://x.com/SidraMiconi/status/2120948703095820743",
+        "quote": "Gemini 4 Hydrogen built me a game about hydrogen."
+      },
+      "playUrl": "https://sidramiconi.com/light-a-star/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/light-a-star/still.webp?v=cd6e31c230",
+        "preview": "https://media.amusehall.com/light-a-star/preview.webp?v=25ee123709",
+        "clip": "https://media.amusehall.com/light-a-star/clip.mp4?v=6021fd8afc",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/light-a-star/"
+    },
+    {
       "id": "goor334d3",
       "slug": "blackwater-silent-harbor",
       "aliases": [],
@@ -5954,8 +6088,8 @@
           "https://github.com/Hiraeth010/blackwater"
         ]
       },
-      "likes": 341,
-      "likesRead": "2026-11-13",
+      "likes": 340,
+      "likesRead": "2026-11-14",
       "posted": "2026-09-04",
       "sourceUrl": "https://x.com/WoahWurdz/status/2095958882732355908",
       "evidence": {
@@ -6047,8 +6181,8 @@
           "https://x.com/kevin_t_ngo/status/2119909881516019983"
         ]
       },
-      "likes": 321,
-      "likesRead": "2026-11-13",
+      "likes": 326,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2119900487688622171",
       "evidence": {
@@ -6135,8 +6269,8 @@
           "https://dread-and-district.netlify.app/"
         ]
       },
-      "likes": 301,
-      "likesRead": "2026-11-13",
+      "likes": 302,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/emollick/status/2120248525254742318",
       "evidence": {
@@ -6558,7 +6692,7 @@
         ]
       },
       "likes": 214,
-      "likesRead": "2026-11-13",
+      "likesRead": "2026-11-14",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/AugustCastilIo/status/2120302122776342865",
       "evidence": {
@@ -6681,89 +6815,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/skywake/"
-    },
-    {
-      "id": "gld22k702",
-      "slug": "light-a-star",
-      "aliases": [],
-      "title": "Light a Star",
-      "added": "2026-11-13",
-      "updated": "2026-11-13",
-      "creators": [
-        {
-          "handle": "SidraMiconi",
-          "name": "Sidra Miconi",
-          "url": "https://x.com/SidraMiconi"
-        }
-      ],
-      "primaryHandle": "SidraMiconi",
-      "credits": [
-        {
-          "label": "Gemini 4 Hydrogen",
-          "modelId": "gemini-4-hydrogen",
-          "familyId": "gemini",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "gemini",
-      "familyIds": [
-        "gemini"
-      ],
-      "modelIds": [
-        "gemini-4-hydrogen"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "puzzle",
-          "name": "Puzzle"
-        },
-        {
-          "id": "simulation",
-          "name": "Simulation"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "Drag or flick nuclei with the mouse to collide and fuse them; click the sound button to mute",
-      "brandIp": false,
-      "description": "Flick protons together inside a young star, building a chain of fusion reactions until you have made four helium-4 nuclei.",
-      "notes": "Sidra's fusion toy asks you to drag or flick nuclei together until you have made four helium-4 nuclei. The chain starts with two protons making deuterium, then another proton makes helium-3, and two helium-3 nuclei finish a helium-4 nucleus. Reaction labels and an energy counter show each successful collision as the core grows brighter. Slow contacts bounce apart, so speed and aim matter; reaching the target lets you keep fusing or restart.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Sidra says they built the game with one prompt to Gemini 4 Hydrogen, taking 78 seconds and costing about 19 cents.",
-        "sources": [
-          "https://x.com/SidraMiconi/status/2120948703095820743"
-        ]
-      },
-      "likes": 193,
-      "likesRead": "2026-11-13",
-      "posted": "2026-11-12",
-      "sourceUrl": "https://x.com/SidraMiconi/status/2120948703095820743",
-      "evidence": {
-        "url": "https://x.com/SidraMiconi/status/2120948703095820743",
-        "quote": "Gemini 4 Hydrogen built me a game about hydrogen."
-      },
-      "playUrl": "https://sidramiconi.com/light-a-star/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/light-a-star/still.webp?v=cd6e31c230",
-        "preview": "https://media.amusehall.com/light-a-star/preview.webp?v=25ee123709",
-        "clip": "https://media.amusehall.com/light-a-star/clip.mp4?v=6021fd8afc",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/light-a-star/"
     },
     {
       "id": "g66ibbf9z",
@@ -7608,8 +7659,8 @@
           "https://www.youtube.com/watch?v=SsSKJA0EHD4&t=184s"
         ]
       },
-      "likes": 138,
-      "likesRead": "2026-11-13",
+      "likes": 139,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/petergyang/status/2119901658394358005",
       "evidence": {
@@ -7976,8 +8027,8 @@
           "https://github.com/kylebrussell/magic-gathering-gb"
         ]
       },
-      "likes": 102,
-      "likesRead": "2026-11-13",
+      "likes": 103,
+      "likesRead": "2026-11-14",
       "posted": "2026-11-07",
       "sourceUrl": "https://x.com/kylebrussell/status/2118874479862419640",
       "evidence": {
@@ -8434,6 +8485,102 @@
       "pageUrl": "https://amusehall.com/games/first-person-bouncer/"
     },
     {
+      "id": "g8x1122vv",
+      "slug": "origami-world",
+      "aliases": [],
+      "title": "Origami World",
+      "added": "2026-11-14",
+      "updated": "2026-11-14",
+      "creators": [
+        {
+          "handle": "SuruiMakesGame",
+          "name": "Surui",
+          "url": "https://suruimakesgame.itch.io/"
+        }
+      ],
+      "primaryHandle": "SuruiMakesGame",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD, arrow keys or click to walk, Shift to run, E or Space to interact; drag to rotate the camera",
+      "brandIp": false,
+      "description": "Walk through a pop-up book, unfold paper buildings and help the residents across five chapters.",
+      "notes": "Enter Paper Harbor as a tiny traveller and follow the paths to unfold houses as you pass. Each chapter gives you small errands, puzzles and places to explore. You can switch between day, dusk and night to find residents in different places.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Surui directed the look and feel of the five chapters, while Claude Opus 5.5 wrote the code, dialogue and translations. They built the world from flat Three.js shapes that rotate along their folds and generated paper details in code. Surui says automated playthroughs across screen sizes and languages exposed issues with the touch controls, layout and translations.",
+        "sources": [
+          "https://suruimakesgame.itch.io/origami-world/devlog/1689910/folding-a-pop-up-book-with-code-making-origami-world",
+          "https://www.reddit.com/r/threejs/comments/1xm90ly/i_made_a_popup_book_you_can_walk_into/"
+        ]
+      },
+      "likes": 56,
+      "likesRead": "2026-11-09",
+      "posted": "2026-11-02",
+      "sourceUrl": "https://www.reddit.com/r/threejs/comments/1xm90ly/i_made_a_popup_book_you_can_walk_into/",
+      "evidence": {
+        "url": "https://suruimakesgame.itch.io/origami-world/devlog/1689910/folding-a-pop-up-book-with-code-making-origami-world",
+        "quote": "Origami World was made by Surui and Claude Opus 5.5"
+      },
+      "playUrl": "https://suruimakesgame.itch.io/origami-world",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/origami-world/still.webp?v=6feacb6fc8",
+        "preview": "https://media.amusehall.com/origami-world/preview.webp?v=65a3b874da",
+        "clip": "https://media.amusehall.com/origami-world/clip.mp4?v=6c3e46f980",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/origami-world/"
+    },
+    {
       "id": "g3v8d1w6z",
       "slug": "vector-dive",
       "aliases": [],
@@ -8716,6 +8863,154 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/harbor-skirmish/"
+    },
+    {
+      "id": "g9rjpdfa0",
+      "slug": "mega-super-racer",
+      "aliases": [],
+      "title": "Mega Super Racer (Demo)",
+      "added": "2026-11-14",
+      "updated": "2026-11-14",
+      "creators": [
+        {
+          "handle": "ArthursoftDev",
+          "name": "Arthursoft",
+          "url": "https://arthursoft.itch.io/"
+        }
+      ],
+      "primaryHandle": "ArthursoftDev",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "pixellab",
+          "name": "PixelLab",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "aseprite",
+          "name": "Aseprite",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "supercollider",
+          "name": "SuperCollider",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "rust",
+          "name": "Rust",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "sdl",
+          "name": "SDL",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "emscripten",
+          "name": "Emscripten",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "gitlab-ci",
+          "name": "GitLab CI",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Keyboard or gamepad, with controls shown in Settings",
+      "brandIp": false,
+      "description": "Drift through four pixel-art tracks and use item boxes to fight for position in a field of up to 32 karts.",
+      "notes": "Pick a racer and run three laps against a crowded field of computer-controlled karts. Drifting charges a boost, and item boxes can change your fortunes in the middle of a race. This browser demo includes four tracks, eight racers and local split-screen.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Arthursoft says the browser demo took a little over three weeks of spare time. They directed the design while specialist Claude Code agents, led by Opus 5.5, wrote and tested changes to the custom Rust engine and game. PixelLab drew the character and kart sprites, which Arthursoft touched up in Aseprite. They used SuperCollider with Claude to make the music after experimenting with Suno.",
+        "sources": [
+          "https://www.reddit.com/r/aigamedev/comments/1xpn7hu/i_built_a_32kart_mode_7_racer_in_rust_with_claude/",
+          "https://arthursoft.itch.io/mega-super-racer"
+        ]
+      },
+      "likes": 46,
+      "likesRead": "2026-11-09",
+      "posted": "2026-11-06",
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1xpn7hu/i_built_a_32kart_mode_7_racer_in_rust_with_claude/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/aigamedev/comments/1xpn7hu/i_built_a_32kart_mode_7_racer_in_rust_with_claude/",
+        "quote": "Claude Opus 5.5 (mostly on medium effort) has been the backbone of the whole project"
+      },
+      "playUrl": "https://arthursoft.itch.io/mega-super-racer",
+      "price": "free-demo",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/mega-super-racer/still.webp?v=aefb27989d",
+        "preview": "https://media.amusehall.com/mega-super-racer/preview.webp?v=24bf0de72e",
+        "clip": "https://media.amusehall.com/mega-super-racer/clip.mp4?v=cd60b5d4f7",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/mega-super-racer/"
     },
     {
       "id": "g71um5h99",
@@ -10456,7 +10751,7 @@
         ]
       },
       "likes": 2,
-      "likesRead": "2026-11-13",
+      "likesRead": "2026-11-14",
       "posted": null,
       "sourceUrl": "https://www.instagram.com/reel/DfZdYgFHLUU/",
       "evidence": {
@@ -18145,8 +18440,8 @@
           "gqdquwa11",
           "gpy3pa5mk",
           "gie0au2by",
-          "g9141ggib",
           "godr2qz4e",
+          "g9141ggib",
           "g7k2m9q4x",
           "gd0whgrdo",
           "g361pfe4r",
@@ -18172,7 +18467,9 @@
           "g5pav1sj5",
           "gfivzz7nn",
           "gy98g0zma",
+          "g8x1122vv",
           "gpiamf3w9",
+          "g9rjpdfa0",
           "g71um5h99",
           "gvs8zscp4",
           "gqojoxunu",
@@ -18259,8 +18556,8 @@
       {
         "familyId": "gemini",
         "gameIds": [
-          "g7lsoeejk",
           "gld22k702",
+          "g7lsoeejk",
           "g4yrw77l6"
         ]
       },
@@ -18333,17 +18630,19 @@
         "godr2qz4e",
         "g8svijhf1",
         "gy7oawf0w",
+        "gld22k702",
         "goor334d3",
         "gxshani2z",
         "g17kxz4cm",
         "gatg3soyn",
-        "gld22k702",
         "gle9npeju",
         "g36yaqj7f",
         "gvz6r7sy1",
         "gh79jcfs0",
         "gmxiswqhb",
         "gfivzz7nn",
+        "g8x1122vv",
+        "g9rjpdfa0",
         "gn5esgohi",
         "gqtpnp68f",
         "g6lthz9ty",

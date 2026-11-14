@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, mouse to look and to fire gilt or gutter shots, Shift to turn your coat, Space to jump
-- **Likes on the original post:** 321, counted 2026-11-13
+- **Likes on the original post:** 326, counted 2026-11-14
 
 Duel a bot in a gilded arena where shots are gold or teal: the color that matches your coat charges your gun, the other one hurts.
 

@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, left click to slash, hold right click to block, Space to dodge
-- **Likes on the original post:** 1,107, counted 2026-11-13
+- **Likes on the original post:** 1,140, counted 2026-11-14
 
 Mist-Locked Gate is a short Chinese-language sword-fighting game with a snowy temple path, a skirmish and a two-phase boss.
 

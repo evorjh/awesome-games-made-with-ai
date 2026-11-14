@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, mouse to aim, left click to fire, right click for sights, R to reload, Shift to sprint, Space to jump, G for graphics, M to mute, Esc to pause
-- **Likes on the original post:** 382, counted 2026-11-13
+- **Likes on the original post:** 388, counted 2026-11-14
 
 Survive three waves of hovering sentries in a flooded underground substation, with a red-dot carbine, wet-floor reflections and synthesized sound.
 
