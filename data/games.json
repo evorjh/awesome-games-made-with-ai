@@ -1179,10 +1179,10 @@
       "price": "free",
       "codeUrl": null,
       "media": {
-        "still": "https://media.amusehall.com/starry-nightrider/still.webp?v=665769cb34",
-        "preview": null,
-        "clip": null,
-        "unrecordable": "multiplayer-join"
+        "still": "https://media.amusehall.com/starry-nightrider/still.webp?v=c78b29ff8e",
+        "preview": "https://media.amusehall.com/starry-nightrider/preview.webp?v=0bc50b1f30",
+        "clip": "https://media.amusehall.com/starry-nightrider/clip.mp4?v=4fd1e0e222",
+        "unrecordable": null
       },
       "availability": "available",
       "unavailableSince": null,
