@@ -1164,7 +1164,7 @@
       "aliases": [],
       "title": "Sumiro",
       "added": "2026-11-04",
-      "updated": "2026-11-12",
+      "updated": "2026-11-14",
       "creators": [
         {
           "handle": "xikhar",
@@ -1242,7 +1242,78 @@
         "text": null
       },
       "makingOf": {
-        "summary": "The creator says they built the original game in 24 hours, starting with a reference video generated with Flux 3 Max on fal. They pulled frames from the clip, rebuilt assets in Blender and put them into Three.js, with Claude Code agents building and checking in parallel. They used GPT Image to make views of the traveler for Tripo to turn into a model, then had Opus 5.5 add cloth physics and animation. They playtested the prototype before expanding it, generated concept art for later scenes and had the agents turn those scenes into levels and fix bugs from playtests.",
+        "summary": "The creator says they built the first version in about a day, starting from one generated video that set the look of everything. They used Claude Opus 5.5 in Claude Code, with agents working in parallel, to build the world and the game, and other AI tools to make the character and the concept art for each level.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "The first version took “around a single day”, in the creator’s words; their first post says “in 24 hours”. They posted a second version on November 7.",
+            "sources": [
+              "https://x.com/xikhar/status/2117776295534997818",
+              "https://x.com/xikhar/status/2117844485170495534",
+              "https://x.com/xikhar/status/2119154602717348267"
+            ]
+          },
+          {
+            "about": "code",
+            "text": "They used Claude Opus 5.5 in Claude Code, “High effort on Opus 5.5 with ultracode” in their words, with agents building and checking the world in parallel.",
+            "sources": [
+              "https://x.com/xikhar/status/2117993870306967920",
+              "https://x.com/xikhar/status/2117776300236820925"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "They generated one reference video with Flux 3 Max on fal to set the look, the world and the character, then rebuilt its assets in Blender and placed them in Three.js.",
+            "sources": [
+              "https://x.com/xikhar/status/2117776297913106657",
+              "https://x.com/xikhar/status/2117776300236820925"
+            ]
+          },
+          {
+            "about": "characters",
+            "text": "They made four side views of the character with GPT Image, turned them into a textured, rigged 3D model with Tripo, and had Opus 5.5 add the cloth physics and animation.",
+            "sources": [
+              "https://x.com/xikhar/status/2117776303378288897",
+              "https://x.com/xikhar/status/2117844485170495534"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "They had GPT Image make up to 8 concept images per level in the same style, and had the agents build each one into a playable 3D level.",
+            "sources": [
+              "https://x.com/xikhar/status/2117776308256362997",
+              "https://x.com/xikhar/status/2117776311368511672"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The weak spot, by the creator’s own account: “Claude cannot hear it”, and making it with music generation models would have taken manual work that “couldn't fit in the 24 hour constraint”, so they “let it slide”.",
+            "sources": [
+              "https://x.com/xikhar/status/2117987456956141642"
+            ]
+          },
+          {
+            "about": "cost",
+            "text": "In the creator’s words: “20% of claude ultra plan”. Video generation on fal was free for them at the time, and the characters took “few hundred credits I suppose” on Tripo.",
+            "sources": [
+              "https://x.com/xikhar/status/2117844485170495534"
+            ]
+          }
+        ],
+        "steps": [
+          "Generate one reference video that fixes the look, the world and the character.",
+          "Screenshot it, rebuild the assets in Blender, and place them in Three.js, with Claude Code agents building and checking in parallel.",
+          "Screenshot the character, make four side views with GPT Image, turn them into a 3D model with Tripo, and let Opus add cloth physics and animation.",
+          "Play the prototype and check that it works before building more.",
+          "Have GPT Image make concept art for each level in the same art style, up to 8 images each.",
+          "Build every scene from its concept art, then play, report bugs, let the agents fix them, and repeat."
+        ],
+        "tips": [
+          "Start where the creator did: settle the look with one generated video before building anything.",
+          "Play the prototype before you build more levels: their step 4.",
+          "Plan the music separately. They later added a step 7: use a music generation model.",
+          "Blender and Three.js are free. Claude Code needs a paid Claude plan or API credits, and image, video and 3D model generators usually charge per use or in credits."
+        ],
         "sources": [
           "https://x.com/xikhar/status/2117776295534997818",
           "https://x.com/xikhar/status/2117776297913106657",
@@ -1250,7 +1321,12 @@
           "https://x.com/xikhar/status/2117776303378288897",
           "https://x.com/xikhar/status/2117776305815249262",
           "https://x.com/xikhar/status/2117776308256362997",
-          "https://x.com/xikhar/status/2117776311368511672"
+          "https://x.com/xikhar/status/2117776311368511672",
+          "https://x.com/xikhar/status/2117844485170495534",
+          "https://x.com/xikhar/status/2117993870306967920",
+          "https://x.com/xikhar/status/2117987456956141642",
+          "https://x.com/xikhar/status/2119164392713646209",
+          "https://x.com/xikhar/status/2119154602717348267"
         ]
       },
       "likes": 15413,
