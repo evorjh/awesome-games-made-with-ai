@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Arrow keys or WASD to steer and accelerate, Shift for turbo
-- **Likes on the original post:** 139, counted 2026-11-14
+- **Likes on the original post:** 140, counted 2026-11-15
 
 Drift, collect coins and spend your turbo in a 3D kart racer with six racers and four tracks.
 

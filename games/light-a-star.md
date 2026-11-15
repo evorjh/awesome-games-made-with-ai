@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Drag or flick nuclei with the mouse to collide and fuse them; click the sound button to mute
-- **Likes on the original post:** 354, counted 2026-11-14
+- **Likes on the original post:** 355, counted 2026-11-15
 
 Flick protons together inside a young star, building a chain of fusion reactions until you have made four helium-4 nuclei.
 
