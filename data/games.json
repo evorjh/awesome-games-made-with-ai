@@ -1358,7 +1358,7 @@
       "aliases": [],
       "title": "Saltline",
       "added": "2026-11-10",
-      "updated": "2026-11-12",
+      "updated": "2026-11-14",
       "creators": [
         {
           "handle": "felixrieseberg",
@@ -1407,10 +1407,66 @@
         "text": "You know, you should also build me a FPS. Insanely detailed quality pls, something that looks visually like it can keep up with AAA. Make it small in scope (like a tiny level) but otherwise impressive photorealistic graphics"
       },
       "makingOf": {
-        "summary": "The creator tested Claude Fable 5.2 with a single brief and gave it no feedback on the first version. They asked for photorealistic graphics within a small level, and the model built the models, textures and sound from scratch. The creator says the run took eight hours and would cost about $550 at API rates. They say they spent another two hours refining the weapon models, sound and gameplay for the current version.",
+        "summary": "The creator gave Claude Fable 5.2 a short prompt and no feedback, to test what the model could do on its own. Every model, texture and sound in the game is made in code. The first version took 8 hours, they say, and they then spent two more hours on the weapon models, sounds and some gameplay for the current version.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "In the creator’s words, the first version “Took 8 hours!”, with no feedback from them along the way. For the current version they say they spent “an additional two hours” improving it.",
+            "sources": [
+              "https://x.com/felixrieseberg/status/2119925633564463609",
+              "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
+            ]
+          },
+          {
+            "about": "code",
+            "text": "They tested Claude Fable 5.2 with “one-shot prompts without human feedback”, in their words; the prompt they shared is shown below. Asked how they guide Claude, they answered “my claude.md is empty”.",
+            "sources": [
+              "https://x.com/felixrieseberg/status/2119925633564463609",
+              "https://x.com/felixrieseberg/status/2119927483994907024",
+              "https://x.com/felixrieseberg/status/2119993051938775184"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "There are no image or 3D model files: in the creator’s words, “All textures and models are functions” and “Claude didn't draw, it wrote shaders.” The game’s start screen says “Every surface, machine and sound is generated in your browser.”",
+            "sources": [
+              "https://x.com/felixrieseberg/status/2120245629725409758",
+              "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "They asked for a small game with a lot of detail: “Insanely detailed quality”, but “small in scope (like a tiny level)”.",
+            "sources": [
+              "https://x.com/felixrieseberg/status/2119927483994907024"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The sounds were made from scratch in the same run, like the models and textures. They were also among what the creator worked on afterwards, along with the weapon models and “some gameplay work”.",
+            "sources": [
+              "https://x.com/felixrieseberg/status/2119925633564463609",
+              "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
+            ]
+          },
+          {
+            "about": "cost",
+            "text": "In the creator’s words: “~$550 at API pricing, ~2.7M output and 445M input tokens, heavily cached.”",
+            "sources": [
+              "https://x.com/felixrieseberg/status/2119925633564463609"
+            ]
+          }
+        ],
+        "tips": [
+          "Ask plainly, as they did. Their prompt, shown below, is a few casual sentences asking for top quality in “a tiny level”, and they say “the age of prompt engineering is basically over”.",
+          "Compare the two versions: the note from Felix on the game’s start screen links to the one-shotted version, so you can see what their extra work changed.",
+          "Read how it was done: the creator says the source is in the game’s HTML, so you can inspect it yourself."
+        ],
         "sources": [
           "https://x.com/felixrieseberg/status/2119925633564463609",
           "https://x.com/felixrieseberg/status/2119927483994907024",
+          "https://x.com/felixrieseberg/status/2119993051938775184",
+          "https://x.com/felixrieseberg/status/2120245629725409758",
           "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
         ]
       },
