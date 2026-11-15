@@ -19,4 +19,14 @@ A first-person wave survival shooter drawn in blue pen on lined notebook paper, 
 
 [How the creator made it →](https://amusehall.com/games/doodle-district/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai#making-of)
 
-<sub>The game belongs to @EvanMilenko. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>
+## Prompt
+
+```text
+You know, this doodle art style, I’m, like, thinking, like, imagine, like, a doodle world come to life, basically. And, uh, when appropriate, maybe some other colors are allowed, but I don’t know. You’d be the judge of that one. Um, and maybe even, like, add, like, a katana you can wield or something like that to deflect bullets or something or, like, to to slash enemies.
+```
+
+This is part of the prompt; the creator didn't share all of it.
+
+[Where the creator shared it](https://x.com/EvanMilenko/status/2099984882864697754)
+
+<sub>The game and its prompt belong to @EvanMilenko. Preview recorded by us. [Ask for a change or removal](https://github.com/evorjh/awesome-games-made-with-ai/issues/new?template=change-or-removal.yml).</sub>

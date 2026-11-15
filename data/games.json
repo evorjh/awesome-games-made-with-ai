@@ -1605,7 +1605,7 @@
       "aliases": [],
       "title": "Doodle District",
       "added": "2026-10-31",
-      "updated": "2026-11-12",
+      "updated": "2026-11-15",
       "creators": [
         {
           "handle": "EvanMilenko",
@@ -1663,15 +1663,67 @@
       "description": "A first-person wave survival shooter drawn in blue pen on lined notebook paper, with guns, a katana and a grappling hook.",
       "notes": "You hold off waves of scribbled enemies in a city sketched in blue ballpoint on lined paper, picking between a rifle, shotgun, sniper and katana, with grenades on G. Movement goes well past running and gunning: wall jumps, double jumps, slides, an air dash and a grapple that swings you around or yanks enemies off ledges. Solo survival runs on two maps, the rooftops and fire escapes of Doodle District and the vines and temple of Doodle Jungle, and an online free-for-all takes up to 10 players. Best on a computer: it needs a keyboard and mouse, or a controller.",
       "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
+        "shared": true,
+        "partial": true,
+        "source_url": "https://x.com/EvanMilenko/status/2099984882864697754",
+        "text": "You know, this doodle art style, I’m, like, thinking, like, imagine, like, a doodle world come to life, basically. And, uh, when appropriate, maybe some other colors are allowed, but I don’t know. You’d be the judge of that one. Um, and maybe even, like, add, like, a katana you can wield or something like that to deflect bullets or something or, like, to to slash enemies."
       },
       "makingOf": {
-        "summary": "The creator made a mock screenshot in ChatGPT and gave it to Claude as the visual reference for the shooter. They say Claude Code built the game in a couple of days with Fable 5.1 and Opus 5 while they set the direction and playtested it. They sent Claude a screenshot to fix a bug that left blue ink floating across the scene, then asked it to add multiplayer after the solo version was working. They used Astra to make some tweaks after release.",
+        "summary": "The creator built the game over a couple of days with Claude Fable 5.1 and Opus 5 in Claude Code, and says they didn't write any of the code. One prompt gave them a rough single-player version, and the rest took many more rounds of telling Claude what to fix, add or tweak. Their own part, they say, was the creative direction, feature ideas and playtesting to find bugs.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "“Over the span of a couple of days”, in the creator’s words. They posted a demo clip on September 4 and opened the game to everyone, with multiplayer, on September 5.",
+            "sources": [
+              "https://www.piratewires.com/p/how-to-make-a-viral-video-game-with",
+              "https://x.com/EvanMilenko/status/2095684248220881049",
+              "https://x.com/EvanMilenko/status/2096356126145015885"
+            ]
+          },
+          {
+            "about": "code",
+            "text": "They used Claude Code with Claude Fable 5.1 and Opus 5, in Three.js, for “the bulk of the game”, and say “I didn’t write a single line of code.” After release they “tweaked a few things with Astra”.",
+            "sources": [
+              "https://www.piratewires.com/p/how-to-make-a-viral-video-game-with",
+              "https://x.com/EvanMilenko/status/2096359753584623933"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Their spoken prompt set the look, “a doodle world come to life”, and left the colors open: “when appropriate, maybe some other colors are allowed, but I don’t know. You’d be the judge of that one.”",
+            "sources": [
+              "https://x.com/EvanMilenko/status/2099984882864697754"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "They announced a new map, Doodle Jungle, on September 7, and on September 9 asked players to reply with the features, weapons and maps they wanted next.",
+            "sources": [
+              "https://x.com/EvanMilenko/status/2097034532092252399",
+              "https://x.com/EvanMilenko/status/2097514352869884163"
+            ]
+          }
+        ],
+        "steps": [
+          "Open Claude Code. The creator calls these steps “The Five Guys Method”.",
+          "Write a prompt. They dictated theirs with text-to-speech, so it came out “quite long and rambly”; part of it is shown below.",
+          "Step away while it works: they went to Five Guys for a burger.",
+          "Check the results."
+        ],
+        "tips": [
+          "Your prompt needn’t be perfect: the creator says prompts “barely even have to make sense”.",
+          "Expect a rough first version, then improve it a request at a time. Theirs came from one prompt, and the rest “took quite a few more iterations”, which they say “Wasn't difficult at all just gotta tell it what to fix/add/tweak.”",
+          "Three.js is free. Claude Code needs a paid Claude plan or API credits."
+        ],
         "sources": [
+          "https://x.com/EvanMilenko/status/2095684248220881049",
+          "https://x.com/EvanMilenko/status/2095902261096464443",
+          "https://x.com/EvanMilenko/status/2096385258455187923",
+          "https://x.com/EvanMilenko/status/2099984882864697754",
+          "https://x.com/EvanMilenko/status/2096356126145015885",
           "https://x.com/EvanMilenko/status/2096359753584623933",
+          "https://x.com/EvanMilenko/status/2097034532092252399",
+          "https://x.com/EvanMilenko/status/2097514352869884163",
           "https://www.piratewires.com/p/how-to-make-a-viral-video-game-with"
         ]
       },
