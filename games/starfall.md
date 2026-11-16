@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse to select ships and give orders, wheel to zoom, Q and E to turn the camera, M, A, S, H and D for orders
-- **Likes on the original post:** 2,484, counted 2026-11-01
+- **Likes on the original post:** 2,482, counted 2026-11-16
 
 A space strategy game where you command a fleet around a two-kilometer mothership, building ships, harvesting asteroids and fighting an AI fleet.
 

@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** A and D to move, hold W or Space to fly, mouse to aim and cast, 1 to 4 to change spell, E to take
-- **Likes on the original post:** 336, counted 2026-11-15
+- **Likes on the original post:** 337, counted 2026-11-16
 
 Descend five cave depths as an alchemist whose spells are real matter, in a roguelike where every pixel burns, flows, melts or collapses.
 

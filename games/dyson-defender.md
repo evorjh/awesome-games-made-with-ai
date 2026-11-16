@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD to move, Q and E to move up and down, mouse to aim, Space to shoot, Shift to boost; an on-screen stick and fire and boost buttons on phones
-- **Likes on the original post:** 7, counted 2026-11-01
+- **Likes on the original post:** 7, counted 2026-11-16
 
 A neon space shooter where you fly a fighter around a Dyson sphere and shoot down the alien ships attacking it.
 

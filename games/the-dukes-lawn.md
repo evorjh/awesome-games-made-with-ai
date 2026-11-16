@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** W and S to drive, A and D to steer, Shift for the throttle, Space for the blades, mouse to look around, C for the camera, Tab for the estate plan
-- **Likes on the original post:** 3,948, counted 2026-11-01
+- **Likes on the original post:** 3,945, counted 2026-11-16
 
 Climb onto a vintage tractor and mow a late duke&#39;s overgrown Great Lawn back into stripes, on an estate shared with everyone else on the server.
 

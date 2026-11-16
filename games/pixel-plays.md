@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Drag back and release, hold and release, or click, depending on the game; arrow keys and Space work too
-- **Likes on the original post:** 863, counted 2026-11-01
+- **Likes on the original post:** 2,207, counted 2026-11-16
 
 Five tiny games in isometric pixel dioramas, from bocce against a bot to diving off an old bridge, a tennis tie-break and a minute on a skate ramp.
 

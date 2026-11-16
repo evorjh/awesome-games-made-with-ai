@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, Shift to run, B to break things, J for a car, U for a helicopter, P to go to a place, E to step out
-- **Likes on the original post:** 2,407, counted 2026-11-15
+- **Likes on the original post:** 2,418, counted 2026-11-16
 
 Walk, drive and fly a helicopter anywhere on a voxel copy of the real Earth, with real-time weather, and break whatever you like.
 

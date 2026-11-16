@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, Space to jump and fly, Shift to sprint
-- **Likes on the original post:** 10, counted 2026-11-01
+- **Likes on the original post:** 10, counted 2026-11-16
 
 Pilot a procedural mechanical beast across snowy mountains, then unfold its wings and fly.
 

@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, Shift to sprint, Space to roll, Q to block or parry, Tab to lock on, F for finishing moves, or a gamepad
-- **Likes on the original post:** 42, counted 2026-11-01
+- **Likes on the original post:** 42, counted 2026-11-16
 
 A rain-soaked samurai action game where a lone ronin fights waves of bandits with combos, parries, rolls and finishing moves.
 

@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse to pitch and roll, Q and E to roll, A and D to turn, W and S to climb and sink, C for the cockpit view; the game&#39;s How to play lists the weapons
-- **Likes on the original post:** 558, counted 2026-11-15
+- **Likes on the original post:** 567, counted 2026-11-16
 
 Fly one attack helicopter against a medieval army dug in on a ridge, dodging ballistae and trebuchets to take the castle before sundown.
 

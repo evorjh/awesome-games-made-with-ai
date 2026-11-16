@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** A and D for the rudder, W and S to ease and tighten the sail, drag to turn the camera
-- **Likes on the original post:** 8, counted 2026-11-01
+- **Likes on the original post:** 8, counted 2026-11-16
 
 A 3D sailing sim where you steer and trim the sail to the wind, with a new race course each day, open-ocean runs and a shared sea.
 

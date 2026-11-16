@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, Space to jump and flip, left-click or Right Shift to boost, Left Shift to powerslide, or a gamepad
-- **Likes on the original post:** 2,136, counted 2026-11-01
+- **Likes on the original post:** 2,126, counted 2026-11-16
 
 Rocket-powered car soccer in a packed stadium, with 1v1, 2v2 and 3v3 matches against bots and a free play mode.
 

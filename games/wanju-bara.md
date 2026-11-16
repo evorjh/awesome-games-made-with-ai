@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD or arrow keys to run, Q or Tab to switch runner, Esc to pause; on phones, drag to run
-- **Likes on the original post:** 2, counted 2026-11-01
+- **Likes on the original post:** 2, counted 2026-11-16
 
 A 3D take on a Punjabi village street game where you lead nine runners across lanes guarded by diving defenders and their Captain.
 

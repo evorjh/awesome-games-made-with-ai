@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Each game shows its own keys; Paper Moon Stairs uses the arrow keys to walk and Space to jump
-- **Likes on the original post:** 1,856, counted 2026-11-01
+- **Likes on the original post:** 1,976, counted 2026-11-16
 
 Thirty-one short WebGL games that Claude rebuilt from AI-generated gameplay videos, each with its own art, music and one simple idea.
 

@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Mouse or touch, drag to look, scroll or pinch to zoom, H to whistle, Space to pause, R to turn a piece
-- **Likes on the original post:** 1,570, counted 2026-11-01
+- **Likes on the original post:** 1,562, counted 2026-11-16
 
 A model railway on a table in a cozy room, where you run the trains, ride in the cab and build your own layout.
 

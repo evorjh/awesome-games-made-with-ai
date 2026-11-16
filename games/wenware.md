@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Drag to look around and set the year, click the map to drop a pin
-- **Likes on the original post:** 390, counted 2026-11-01
+- **Likes on the original post:** 391, counted 2026-11-16
 
 A time-travel guessing game where you study a 360-degree historical scene, then pin where it happened and pick the year.
 

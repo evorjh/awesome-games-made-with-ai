@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, Space to jump, Shift to sprint, C to crouch, F to collect, R to reload, H and J for med kits and shields, Q or 1-3 for weapons
-- **Likes on the original post:** 2,968, counted 2026-11-01
+- **Likes on the original post:** 2,963, counted 2026-11-16
 
 A fan-made battle royale where you pick one of 90 Nintendo and Pokémon fighters, grab guns and outlast the rest as the storm closes in.
 

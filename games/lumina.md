@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Click a crystal, then a neighbor to swap them; swipe on touch screens
-- **Likes on the original post:** 2, counted 2026-11-01
+- **Likes on the original post:** 2, counted 2026-11-16
 
 A space-themed match-3 puzzle game: swap crystals, set off cascades and special crystals, and meet each level&#39;s goals within a move limit.
 

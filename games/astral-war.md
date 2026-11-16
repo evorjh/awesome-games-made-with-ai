@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, Shift to sprint, C to crouch, Space to jump, R to reload, Q to swap, V to knife, G for grenades
-- **Likes on the original post:** 975, counted 2026-11-01
+- **Likes on the original post:** 976, counted 2026-11-16
 
 A fan-made World War II shooter modeled on Call of Duty, with free-for-all and team deathmatch against bots or in online lobbies.
 

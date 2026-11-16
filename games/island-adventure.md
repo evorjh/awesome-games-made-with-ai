@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Click to move, G to pick up or use, I for the inventory, C to craft, B to build, 1-9 for tools
-- **Likes on the original post:** 709, counted 2026-11-01
+- **Likes on the original post:** 710, counted 2026-11-16
 
 Survive on a desert island after a plane crash by gathering, crafting tools, fishing, cooking and building a hut.
 

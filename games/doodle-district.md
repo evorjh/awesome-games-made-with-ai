@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, Space to jump, Shift to sprint, C to slide, Q and E to grapple, F to slash, G for grenades, 1-4 for weapons, or a gamepad
-- **Likes on the original post:** 7,955, counted 2026-11-01
+- **Likes on the original post:** 7,940, counted 2026-11-16
 
 A first-person wave survival shooter drawn in blue pen on lined notebook paper, with guns, a katana and a grappling hook.
 

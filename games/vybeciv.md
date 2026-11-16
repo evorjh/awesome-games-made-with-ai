@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Mouse to select, drag and zoom; Enter ends the turn, B founds a city, T opens research
-- **Likes on the original post:** 6, counted 2026-11-01
+- **Likes on the original post:** 6, counted 2026-11-16
 
 A turn-based 4X that starts on Earth, where reaching space turns your planet into one tile of the Solar System and later of the Galaxy.
 

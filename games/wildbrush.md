@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, Space to jump or glide, Shift to sprint, 1-4 or Tab to pick a paint, F to interact
-- **Likes on the original post:** 4,645, counted 2026-11-01
+- **Likes on the original post:** 4,638, counted 2026-11-16
 
 Explore a grayed-out island with a giant paintbrush, using fire, ice, bounce and vine paints to fight, climb and clear trials.
 

@@ -5,7 +5,7 @@
     "media_base_url": "https://media.amusehall.com",
     "repo_url": "https://github.com/evorjh/awesome-games-made-with-ai",
     "contact_email": "hello@amusehall.com",
-    "mosaic": "mosaic.webp?v=6c1533c251",
+    "mosaic": "mosaic.webp?v=ea979d15b1",
     "mosaic_games": [
       "gqsly543o",
       "gq9bdgg2i",
@@ -1017,23 +1017,23 @@
     {
       "number": 3,
       "week_start": "2026-11-09",
-      "published": null,
+      "published": "2026-11-16",
       "game_of_the_week": "gqsly543o",
       "top": [
         "gqsly543o",
         "gohxe896s",
         "gklib6jqo",
         "gifjcc37f",
-        "gw96j1zcp"
+        "g57hyuelm"
       ],
       "new": [
         "gqsly543o",
         "gohxe896s",
         "gklib6jqo",
         "gifjcc37f",
+        "g57hyuelm",
         "gw96j1zcp",
         "gls4dgy15",
-        "g57hyuelm",
         "geg91cy2q",
         "gmja9kp2v",
         "go4slgb6w",
@@ -1073,6 +1073,25 @@
         "gewgvbipq",
         "ggldrbxft",
         "g4yrw77l6"
+      ]
+    },
+    {
+      "number": 4,
+      "week_start": "2026-11-16",
+      "published": null,
+      "game_of_the_week": "g5u1gyt9c",
+      "top": [
+        "g5u1gyt9c",
+        "g48m4vidg",
+        "g949awofn",
+        "g5camq0si"
+      ],
+      "new": [
+        "g5u1gyt9c",
+        "g48m4vidg",
+        "gzn1npz2s",
+        "g949awofn",
+        "g5camq0si"
       ]
     }
   ],
@@ -1167,8 +1186,8 @@
           "https://x.com/ebbyamir/status/2120628728086904899"
         ]
       },
-      "likes": 17865,
-      "likesRead": "2026-11-15",
+      "likes": 17919,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/ebbyamir/status/2120284261089673376",
       "evidence": {
@@ -1266,8 +1285,8 @@
           "https://x.com/Saccc_c/status/2110694725640474759"
         ]
       },
-      "likes": 17086,
-      "likesRead": "2026-11-01",
+      "likes": 17219,
+      "likesRead": "2026-11-16",
       "posted": "2026-10-13",
       "sourceUrl": "https://x.com/Saccc_c/status/2109962425512734739",
       "evidence": {
@@ -1460,8 +1479,8 @@
           "https://x.com/xikhar/status/2119154602717348267"
         ]
       },
-      "likes": 15413,
-      "likesRead": "2026-11-08",
+      "likes": 15652,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-04",
       "sourceUrl": "https://x.com/xikhar/status/2117776295534997818",
       "evidence": {
@@ -1601,8 +1620,8 @@
           "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
         ]
       },
-      "likes": 14784,
-      "likesRead": "2026-11-15",
+      "likes": 14850,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/felixrieseberg/status/2119925633564463609",
       "evidence": {
@@ -1707,8 +1726,8 @@
           "https://x.com/poteto/status/2119313623155888626"
         ]
       },
-      "likes": 14077,
-      "likesRead": "2026-11-08",
+      "likes": 14074,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/poteto/status/2117004709198475365",
       "evidence": {
@@ -1858,8 +1877,8 @@
           "https://www.piratewires.com/p/how-to-make-a-viral-video-game-with"
         ]
       },
-      "likes": 7955,
-      "likesRead": "2026-11-01",
+      "likes": 7940,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-04",
       "sourceUrl": "https://x.com/EvanMilenko/status/2095684248220881049",
       "evidence": {
@@ -1940,8 +1959,8 @@
           "https://www.paperroute.lol/devlog/"
         ]
       },
-      "likes": 6742,
-      "likesRead": "2026-11-01",
+      "likes": 6728,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-12",
       "sourceUrl": "https://x.com/builtbysketch/status/2098777028078211283",
       "evidence": {
@@ -2027,8 +2046,8 @@
           "https://x.com/DannyLimanseta/status/2104215873120764032"
         ]
       },
-      "likes": 4645,
-      "likesRead": "2026-11-01",
+      "likes": 4638,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-27",
       "sourceUrl": "https://x.com/DannyLimanseta/status/2104215873120764032",
       "evidence": {
@@ -2121,8 +2140,8 @@
           "https://bubucn.com/en/ai-model-evals/storm-race"
         ]
       },
-      "likes": 4375,
-      "likesRead": "2026-11-01",
+      "likes": 4366,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-06",
       "sourceUrl": "https://x.com/BubuStd/status/2096587056755638553",
       "evidence": {
@@ -2210,8 +2229,8 @@
           "https://x.com/levelsio/status/1894395095136276616"
         ]
       },
-      "likes": 4311,
-      "likesRead": "2026-11-01",
+      "likes": 4315,
+      "likesRead": "2026-11-16",
       "posted": "2025-02-22",
       "sourceUrl": "https://x.com/levelsio/status/1893385114496766155",
       "evidence": {
@@ -2302,8 +2321,8 @@
           "https://x.com/kevin_t_ngo/status/2119880812254601655"
         ]
       },
-      "likes": 4257,
-      "likesRead": "2026-11-15",
+      "likes": 4272,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2119868968307695818",
       "evidence": {
@@ -2405,8 +2424,8 @@
           "https://x.com/Rubzem/status/2107828818165833976"
         ]
       },
-      "likes": 4039,
-      "likesRead": "2026-11-01",
+      "likes": 4027,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-27",
       "sourceUrl": "https://x.com/Rubzem/status/2104253584737230926",
       "evidence": {
@@ -2489,8 +2508,8 @@
           "https://x.com/_MaxBlade/status/2102514269745222114"
         ]
       },
-      "likes": 3948,
-      "likesRead": "2026-11-01",
+      "likes": 3945,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-22",
       "sourceUrl": "https://x.com/_MaxBlade/status/2102513817855094922",
       "evidence": {
@@ -2590,8 +2609,8 @@
           "https://github.com/achimala/TheLongSilence"
         ]
       },
-      "likes": 3662,
-      "likesRead": "2026-11-01",
+      "likes": 3654,
+      "likesRead": "2026-11-16",
       "posted": "2026-07-27",
       "sourceUrl": "https://x.com/anshuc/status/2081801966158811506",
       "evidence": {
@@ -2690,8 +2709,8 @@
           "https://github.com/bridge-mind/turbo-kart-rally"
         ]
       },
-      "likes": 3621,
-      "likesRead": "2026-11-01",
+      "likes": 3613,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-22",
       "sourceUrl": "https://x.com/bridgemindai/status/2102451997395866021",
       "evidence": {
@@ -2773,8 +2792,8 @@
           "https://x.com/photonstorm/status/2120330010112434313"
         ]
       },
-      "likes": 3058,
-      "likesRead": "2026-11-15",
+      "likes": 3065,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-11",
       "sourceUrl": "https://x.com/photonstorm/status/2120330010112434313",
       "evidence": {
@@ -2887,8 +2906,8 @@
           "https://x.com/0xRishi/status/2096672779856957719"
         ]
       },
-      "likes": 2968,
-      "likesRead": "2026-11-01",
+      "likes": 2963,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-11",
       "sourceUrl": "https://x.com/0xRishi/status/2098439358537990194",
       "evidence": {
@@ -2909,6 +2928,224 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/super-smash-royale/"
+    },
+    {
+      "id": "g5u1gyt9c",
+      "slug": "castle-valley",
+      "aliases": [],
+      "title": "Castle Valley",
+      "added": "2026-11-16",
+      "updated": "2026-11-16",
+      "creators": [
+        {
+          "handle": "__morse",
+          "name": "Tommy D. Rossi",
+          "url": "https://x.com/__morse"
+        }
+      ],
+      "primaryHandle": "__morse",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to walk, Shift to run, Space to jump, click to look around, click or F or E to swing, M to mute",
+      "brandIp": false,
+      "description": "Carry a torch and sword through a brushstroke-painted valley, past goblins and trolls on the road to a castle.",
+      "notes": "You start in a dark forest and follow the path toward a village and castle. Goblins and trolls rush in with clubs, so step back as they wind up and move in to swing. The world is built from thick strokes of color that stay on the grass, stone and trees as you move.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Tommy D. Rossi credits Claude Fable 5.2 with building the game, which recreates a pixel-art clip by Desimulate. The open repository describes how Three.js renders the landscape using roughly 2.5 million brush marks anchored in 3D.",
+        "facts": [
+          {
+            "about": "art",
+            "text": "The brush sheet has eight marks made in code. Colors are chosen when the world is built, using palettes the repository says were measured from the reference video.",
+            "sources": [
+              "https://github.com/remorses/castle-valley#how-it-looks-painted"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "Steps, blows and creature calls use short recordings. Their pitch varies on playback, and a troll uses a slowed-down goblin voice.",
+            "sources": [
+              "https://github.com/remorses/castle-valley#sound"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/__morse/status/2122013410309153042",
+          "https://x.com/__morse/status/2122014050099876291",
+          "https://github.com/remorses/castle-valley",
+          "https://github.com/remorses/castle-valley#how-it-looks-painted",
+          "https://github.com/remorses/castle-valley#sound"
+        ]
+      },
+      "likes": 2931,
+      "likesRead": "2026-11-16",
+      "posted": "2026-11-15",
+      "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
+      "evidence": {
+        "url": "https://x.com/__morse/status/2122013410309153042",
+        "quote": "fable 5.2 created it for real. playable in your browser"
+      },
+      "playUrl": "https://omw-game.kimaki.dev/",
+      "price": "free",
+      "codeUrl": "https://github.com/remorses/castle-valley",
+      "media": {
+        "still": "https://media.amusehall.com/castle-valley/still.webp?v=626907c74f",
+        "preview": "https://media.amusehall.com/castle-valley/preview.webp?v=499c137c0e",
+        "clip": "https://media.amusehall.com/castle-valley/clip.mp4?v=652ad2ef7e",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/castle-valley/"
+    },
+    {
+      "id": "g57hyuelm",
+      "slug": "small-magic",
+      "aliases": [],
+      "title": "Small Magic",
+      "added": "2026-11-15",
+      "updated": "2026-11-15",
+      "creators": [
+        {
+          "handle": "BlendiByl",
+          "name": "Blendi",
+          "url": "https://x.com/BlendiByl"
+        }
+      ],
+      "primaryHandle": "BlendiByl",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "sandbox",
+          "name": "Sandbox"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, Shift to sprint, Space to jump, left mouse button to cast (hold for more), 1 to 7 or the mouse wheel to change spell, P to pause, H to hide the help",
+      "brandIp": false,
+      "description": "Wander a sunny valley as a wizard with seven spells, from fire to frost to explosions, and try them on about 1,800 breakable physics pieces.",
+      "notes": "A first-person wizard sandbox: you walk a bright valley of meadows, streams and stone buildings with a staff, pick one of seven spells, fire, frost and explosion among them, and cast at whatever you like. The creator counts about 1,800 physics pieces to destroy, and holding the button makes a spell stronger. There are no goals or enemies, so it's a toy for trying spells on things rather than a game to finish.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Blendi says they used Claude Fable 5.2 to make the game in one day. It has no 3D models or texture files: in their words, “it's ALL CODE”. They say the code is open for others to build on.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "In the creator’s words, they made it “in 1 day”.",
+            "sources": [
+              "https://x.com/BlendiByl/status/2121594536153718972"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The creator says there are “zero 3D models or textures, it's ALL CODE”, with “about 1800 physics pieces to destroy”.",
+            "sources": [
+              "https://x.com/BlendiByl/status/2121594536153718972"
+            ]
+          }
+        ],
+        "tips": [
+          "Read and change the code: the creator says it’s open, and invites players to “use it build something”."
+        ],
+        "sources": [
+          "https://x.com/BlendiByl/status/2121594536153718972",
+          "https://x.com/BlendiByl/status/2121600052359827859"
+        ]
+      },
+      "likes": 2510,
+      "likesRead": "2026-11-16",
+      "posted": "2026-11-14",
+      "sourceUrl": "https://x.com/BlendiByl/status/2121594536153718972",
+      "evidence": {
+        "url": "https://x.com/BlendiByl/status/2121594536153718972",
+        "quote": "i used fable 5.2 to make this wizard sandbox game in 1 day"
+      },
+      "playUrl": "https://patch.gg/play/blendi/small-magic",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/small-magic/still.webp?v=5389f383db",
+        "preview": "https://media.amusehall.com/small-magic/preview.webp?v=66e7dd4d14",
+        "clip": "https://media.amusehall.com/small-magic/clip.mp4?v=7a5287560d",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/small-magic/"
     },
     {
       "id": "g27qw9jqs",
@@ -2977,8 +3214,8 @@
           "https://github.com/e01-ai/starfall/blob/main/prompt.md"
         ]
       },
-      "likes": 2484,
-      "likesRead": "2026-11-01",
+      "likes": 2482,
+      "likesRead": "2026-11-16",
       "posted": "2026-07-27",
       "sourceUrl": "https://x.com/mikeluan123/status/2081716631986983093",
       "evidence": {
@@ -3063,8 +3300,8 @@
           "https://x.com/mattshumer_/status/2119879860344766782"
         ]
       },
-      "likes": 2407,
-      "likesRead": "2026-11-15",
+      "likes": 2418,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/mattshumer_/status/2119877065701036047",
       "evidence": {
@@ -3145,8 +3382,8 @@
           "https://www.youtube.com/watch?v=Ei57tuaHbJc&t=101s"
         ]
       },
-      "likes": 2339,
-      "likesRead": "2026-11-15",
+      "likes": 2381,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-05",
       "sourceUrl": "https://www.youtube.com/watch?v=Ei57tuaHbJc",
       "evidence": {
@@ -3167,6 +3404,90 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/fighting-opus/"
+    },
+    {
+      "id": "gpy3pa5mk",
+      "slug": "pixel-plays",
+      "aliases": [],
+      "title": "Pixel Plays",
+      "added": "2026-11-01",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "AmirMushich",
+          "name": "AmirMušić",
+          "url": "https://x.com/AmirMushich"
+        }
+      ],
+      "primaryHandle": "AmirMushich",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "sports",
+          "name": "Sports"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Drag back and release, hold and release, or click, depending on the game; arrow keys and Space work too",
+      "brandIp": false,
+      "description": "Five tiny games in isometric pixel dioramas, from bocce against a bot to diving off an old bridge, a tennis tie-break and a minute on a skate ramp.",
+      "notes": "Each game is a small scene floating on white, with dithered shading. Play bocce against a bot, take five dives off an old bridge, play a clay-court tie-break, spend 60 seconds on a skate ramp, or bring in the laundry before a storm. Every game turns on one physical action, such as dragging back to throw or holding and releasing to jump. Each one takes a few minutes, and the menu switches between them.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator built the collection with Claude Opus 5.5 from a concept by abhi, using Shawn's Small Plays as a visual reference. The games share a plain JavaScript software renderer that draws depth and shadows at low resolution, then scales the image up to keep the pixels sharp. The creator's repository describes drawing the scenes in code without sprite or image assets.",
+        "sources": [
+          "https://x.com/AmirMushich/status/2116509069477621819",
+          "https://github.com/amirmushichge/pixel-plays"
+        ]
+      },
+      "likes": 2207,
+      "likesRead": "2026-11-16",
+      "posted": "2026-10-31",
+      "sourceUrl": "https://x.com/AmirMushich/status/2116509069477621819",
+      "evidence": {
+        "url": "https://x.com/AmirMushich/status/2116509069477621819",
+        "quote": "3D pixel games with Claude Opus 5.5 (OS)"
+      },
+      "playUrl": "https://pixel-plays-ruby.vercel.app/",
+      "price": "free",
+      "codeUrl": "https://github.com/amirmushichge/pixel-plays",
+      "media": {
+        "still": "https://media.amusehall.com/pixel-plays/still.webp?v=64d2b422ed",
+        "preview": "https://media.amusehall.com/pixel-plays/preview.webp?v=490277b0de",
+        "clip": "https://media.amusehall.com/pixel-plays/clip.mp4?v=34d437bcec",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/pixel-plays/"
     },
     {
       "id": "g5n1e788h",
@@ -3225,8 +3546,8 @@
           "https://soccar-one.vercel.app/"
         ]
       },
-      "likes": 2136,
-      "likesRead": "2026-11-01",
+      "likes": 2126,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/BlendiByl/status/2104800823620632641",
       "evidence": {
@@ -3249,24 +3570,24 @@
       "pageUrl": "https://amusehall.com/games/soccar/"
     },
     {
-      "id": "g57hyuelm",
-      "slug": "small-magic",
+      "id": "gpmj9q9ol",
+      "slug": "playable-worlds",
       "aliases": [],
-      "title": "Small Magic",
-      "added": "2026-11-15",
-      "updated": "2026-11-15",
+      "title": "Playable Worlds",
+      "added": "2026-11-01",
+      "updated": "2026-11-12",
       "creators": [
         {
-          "handle": "BlendiByl",
-          "name": "Blendi",
-          "url": "https://x.com/BlendiByl"
+          "handle": "OdinLovis",
+          "name": "Lovis Odin",
+          "url": "https://x.com/OdinLovis"
         }
       ],
-      "primaryHandle": "BlendiByl",
+      "primaryHandle": "OdinLovis",
       "credits": [
         {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
+          "label": "Claude",
+          "modelId": null,
           "familyId": "claude",
           "toolId": null
         }
@@ -3275,27 +3596,29 @@
       "familyIds": [
         "claude"
       ],
-      "modelIds": [
-        "claude-fable-5-2"
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
       ],
-      "tools": [],
       "genres": [
         {
-          "id": "sandbox",
-          "name": "Sandbox"
-        },
-        {
-          "id": "action",
-          "name": "Action"
+          "id": "arcade",
+          "name": "Arcade"
         }
       ],
       "devices": [
         "desktop"
       ],
-      "controls": "WASD to move, Shift to sprint, Space to jump, left mouse button to cast (hold for more), 1 to 7 or the mouse wheel to change spell, P to pause, H to hide the help",
+      "controls": "Each game shows its own keys; Paper Moon Stairs uses the arrow keys to walk and Space to jump",
       "brandIp": false,
-      "description": "Wander a sunny valley as a wizard with seven spells, from fire to frost to explosions, and try them on about 1,800 breakable physics pieces.",
-      "notes": "A first-person wizard sandbox: you walk a bright valley of meadows, streams and stone buildings with a staff, pick one of seven spells, fire, frost and explosion among them, and cast at whatever you like. The creator counts about 1,800 physics pieces to destroy, and holding the button makes a spell stronger. There are no goals or enemies, so it's a toy for trying spells on things rather than a game to finish.",
+      "description": "Thirty-one short WebGL games that Claude rebuilt from AI-generated gameplay videos, each with its own art, music and one simple idea.",
+      "notes": "The collection gathers 31 games, from Paper Moon Stairs, where you climb past lanterns that turn into stars, to a few made for two or four players. Each is a short piece. The gallery shows the original video and the playable scene side by side.",
       "prompt": {
         "shared": false,
         "partial": false,
@@ -3303,53 +3626,35 @@
         "text": null
       },
       "makingOf": {
-        "summary": "Blendi says they used Claude Fable 5.2 to make the game in one day. It has no 3D models or texture files: in their words, “it's ALL CODE”. They say the code is open for others to build on.",
-        "facts": [
-          {
-            "about": "time",
-            "text": "In the creator’s words, they made it “in 1 day”.",
-            "sources": [
-              "https://x.com/BlendiByl/status/2121594536153718972"
-            ]
-          },
-          {
-            "about": "art",
-            "text": "The creator says there are “zero 3D models or textures, it's ALL CODE”, with “about 1800 physics pieces to destroy”.",
-            "sources": [
-              "https://x.com/BlendiByl/status/2121594536153718972"
-            ]
-          }
-        ],
-        "tips": [
-          "Read and change the code: the creator says it’s open, and invites players to “use it build something”."
-        ],
+        "summary": "The creator used gameplay clips generated on fal to establish each game's look, camera and central action. They had Claude study the clips frame by frame, generate matching textures, models and audio on fal, and rebuild each game in plain JavaScript and Three.js. Their Video2Game skill also tells the agent to play the result with keyboard input and record a short clip of it running.",
         "sources": [
-          "https://x.com/BlendiByl/status/2121594536153718972",
-          "https://x.com/BlendiByl/status/2121600052359827859"
+          "https://x.com/OdinLovis/status/2115526967802110284",
+          "https://fal-video-to-game.vercel.app/",
+          "https://github.com/lovisdotio/video-to-game"
         ]
       },
-      "likes": 1956,
-      "likesRead": "2026-11-15",
-      "posted": "2026-11-14",
-      "sourceUrl": "https://x.com/BlendiByl/status/2121594536153718972",
+      "likes": 1976,
+      "likesRead": "2026-11-16",
+      "posted": "2026-10-28",
+      "sourceUrl": "https://x.com/OdinLovis/status/2115526967802110284",
       "evidence": {
-        "url": "https://x.com/BlendiByl/status/2121594536153718972",
-        "quote": "i used fable 5.2 to make this wizard sandbox game in 1 day"
+        "url": "https://x.com/OdinLovis/status/2115526967802110284",
+        "quote": "So I let H3 Max on @fal generate the gameplay video first, and Claude turns it into a real game you can play in the browser: every image, 3D model and sound generated on fal, written in @threejs only."
       },
-      "playUrl": "https://patch.gg/play/blendi/small-magic",
+      "playUrl": "https://fal-video-to-game.vercel.app/",
       "price": "free",
-      "codeUrl": null,
+      "codeUrl": "https://github.com/lovisdotio/video-to-game",
       "media": {
-        "still": "https://media.amusehall.com/small-magic/still.webp?v=5389f383db",
-        "preview": "https://media.amusehall.com/small-magic/preview.webp?v=66e7dd4d14",
-        "clip": "https://media.amusehall.com/small-magic/clip.mp4?v=7a5287560d",
+        "still": "https://media.amusehall.com/playable-worlds/still.webp?v=6eeae3fe9d",
+        "preview": "https://media.amusehall.com/playable-worlds/preview.webp?v=d85bd6ddbc",
+        "clip": "https://media.amusehall.com/playable-worlds/clip.mp4?v=f62f2c3f48",
         "unrecordable": null
       },
       "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
-      "pageUrl": "https://amusehall.com/games/small-magic/"
+      "pageUrl": "https://amusehall.com/games/playable-worlds/"
     },
     {
       "id": "gk98c3y8t",
@@ -3419,8 +3724,8 @@
           "https://github.com/am-will/rl-opus/blob/main/docs/MULTIPLAYER.md"
         ]
       },
-      "likes": 1920,
-      "likesRead": "2026-11-01",
+      "likes": 1917,
+      "likesRead": "2026-11-16",
       "posted": "2026-07-24",
       "sourceUrl": "https://x.com/LLMJunky/status/2080740121398120655",
       "evidence": {
@@ -3441,93 +3746,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/rocket-arena/"
-    },
-    {
-      "id": "gpmj9q9ol",
-      "slug": "playable-worlds",
-      "aliases": [],
-      "title": "Playable Worlds",
-      "added": "2026-11-01",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "OdinLovis",
-          "name": "Lovis Odin",
-          "url": "https://x.com/OdinLovis"
-        }
-      ],
-      "primaryHandle": "OdinLovis",
-      "credits": [
-        {
-          "label": "Claude",
-          "modelId": null,
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [],
-      "tools": [
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "Each game shows its own keys; Paper Moon Stairs uses the arrow keys to walk and Space to jump",
-      "brandIp": false,
-      "description": "Thirty-one short WebGL games that Claude rebuilt from AI-generated gameplay videos, each with its own art, music and one simple idea.",
-      "notes": "The collection gathers 31 games, from Paper Moon Stairs, where you climb past lanterns that turn into stars, to a few made for two or four players. Each is a short piece. The gallery shows the original video and the playable scene side by side.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creator used gameplay clips generated on fal to establish each game's look, camera and central action. They had Claude study the clips frame by frame, generate matching textures, models and audio on fal, and rebuild each game in plain JavaScript and Three.js. Their Video2Game skill also tells the agent to play the result with keyboard input and record a short clip of it running.",
-        "sources": [
-          "https://x.com/OdinLovis/status/2115526967802110284",
-          "https://fal-video-to-game.vercel.app/",
-          "https://github.com/lovisdotio/video-to-game"
-        ]
-      },
-      "likes": 1856,
-      "likesRead": "2026-11-01",
-      "posted": "2026-10-28",
-      "sourceUrl": "https://x.com/OdinLovis/status/2115526967802110284",
-      "evidence": {
-        "url": "https://x.com/OdinLovis/status/2115526967802110284",
-        "quote": "So I let H3 Max on @fal generate the gameplay video first, and Claude turns it into a real game you can play in the browser: every image, 3D model and sound generated on fal, written in @threejs only."
-      },
-      "playUrl": "https://fal-video-to-game.vercel.app/",
-      "price": "free",
-      "codeUrl": "https://github.com/lovisdotio/video-to-game",
-      "media": {
-        "still": "https://media.amusehall.com/playable-worlds/still.webp?v=6eeae3fe9d",
-        "preview": "https://media.amusehall.com/playable-worlds/preview.webp?v=d85bd6ddbc",
-        "clip": "https://media.amusehall.com/playable-worlds/clip.mp4?v=f62f2c3f48",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/playable-worlds/"
     },
     {
       "id": "geg91cy2q",
@@ -3597,8 +3815,8 @@
           "https://x.com/kevin_t_ngo/status/2120241674144415797"
         ]
       },
-      "likes": 1761,
-      "likesRead": "2026-11-15",
+      "likes": 1777,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2120238844754923874",
       "evidence": {
@@ -3720,8 +3938,8 @@
           "https://github.com/dannylimanseta/tinyskies/tree/cursor/globefly-multiplayer-globe-flight-game/docs/cursor-exports"
         ]
       },
-      "likes": 1663,
-      "likesRead": "2026-11-01",
+      "likes": 1662,
+      "likesRead": "2026-11-16",
       "posted": "2026-05-04",
       "sourceUrl": "https://x.com/DannyLimanseta/status/2051306060020072632",
       "evidence": {
@@ -3809,8 +4027,8 @@
           "https://x.com/brvchss/status/2091641571493957888"
         ]
       },
-      "likes": 1604,
-      "likesRead": "2026-11-01",
+      "likes": 1599,
+      "likesRead": "2026-11-16",
       "posted": "2026-07-18",
       "sourceUrl": "https://x.com/brvchss/status/2078421321856245846",
       "evidence": {
@@ -3906,8 +4124,8 @@
           "https://x.com/nickfromlater/status/2098215324743000317"
         ]
       },
-      "likes": 1570,
-      "likesRead": "2026-11-01",
+      "likes": 1562,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-08",
       "sourceUrl": "https://x.com/nickfromlater/status/2097355845524726084",
       "evidence": {
@@ -3928,6 +4146,87 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/alder-valley-rail-atelier/"
+    },
+    {
+      "id": "g9t4d43un",
+      "slug": "voxel-musou",
+      "aliases": [],
+      "title": "Voxel Musou",
+      "added": "2026-10-30",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "BubuStd",
+          "name": "BubuAi",
+          "url": "https://x.com/BubuStd"
+        }
+      ],
+      "primaryHandle": "BubuStd",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD, J to attack, K to charge, L to dodge, Space to jump, I for Musou, mouse to look, or a gamepad",
+      "brandIp": true,
+      "description": "A voxel Three Kingdoms brawler where one officer cuts through hundreds of soldiers with combos, charge attacks and a Musou special.",
+      "notes": "Pick an officer such as Liu Bei, Guan Yu or Zhao Yun and wade into fields packed with voxel soldiers, chaining combos, charge attacks and dodges until a gold gauge fills for a Musou special attack. Story mode follows the Shu campaign through four chapters, from Hulao Gate to Mount Dingjun, with ink-map prologues and dialogue in Chinese and English. Trials add ranked challenges, such as defeating 1,000 soldiers in three minutes. The title logo echoes the Chinese name of the series that inspired it. Best on a computer with a keyboard or a gamepad.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator made the first build as a browser take on Dynasty Warriors, using Claude Opus 5.5 in ultracode mode and Three.js. They say Claude split the work into 13 parts and ran four rounds of builders and fresh reviewers, comparing each pass with real Dynasty Warriors footage. Claude also made the animations, and the sound is synthesized live with Web Audio.",
+        "sources": [
+          "https://x.com/BubuStd/status/2102991290568954264",
+          "https://x.com/BubuStd/status/2103024641275256837",
+          "https://bubucn.com/en/ai-model-evals/voxel-musou"
+        ]
+      },
+      "likes": 1496,
+      "likesRead": "2026-11-16",
+      "posted": "2026-09-24",
+      "sourceUrl": "https://x.com/BubuStd/status/2102991290568954264",
+      "evidence": {
+        "url": "https://x.com/BubuStd/status/2102991290568954264",
+        "quote": "I just built the game I wanted most as a kid on PS2 — Dynasty Warriors — with Opus 5.5 ultracode."
+      },
+      "playUrl": "https://voxel-musou.vercel.app",
+      "price": "free",
+      "codeUrl": "https://github.com/mike007jd/voxel-musou",
+      "media": {
+        "still": "https://media.amusehall.com/voxel-musou/still.webp?v=e84076bf05",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/voxel-musou/"
     },
     {
       "id": "gmja9kp2v",
@@ -4025,8 +4324,8 @@
           "https://x.com/Rubzem/status/2120021124566368419"
         ]
       },
-      "likes": 1505,
-      "likesRead": "2026-11-15",
+      "likes": 1463,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-05",
       "sourceUrl": "https://x.com/Rubzem/status/2118343870450954318",
       "evidence": {
@@ -4047,87 +4346,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/sol-the-last-imperium/"
-    },
-    {
-      "id": "g9t4d43un",
-      "slug": "voxel-musou",
-      "aliases": [],
-      "title": "Voxel Musou",
-      "added": "2026-10-30",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "BubuStd",
-          "name": "BubuAi",
-          "url": "https://x.com/BubuStd"
-        }
-      ],
-      "primaryHandle": "BubuStd",
-      "credits": [
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-opus-5-5"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "action",
-          "name": "Action"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD, J to attack, K to charge, L to dodge, Space to jump, I for Musou, mouse to look, or a gamepad",
-      "brandIp": true,
-      "description": "A voxel Three Kingdoms brawler where one officer cuts through hundreds of soldiers with combos, charge attacks and a Musou special.",
-      "notes": "Pick an officer such as Liu Bei, Guan Yu or Zhao Yun and wade into fields packed with voxel soldiers, chaining combos, charge attacks and dodges until a gold gauge fills for a Musou special attack. Story mode follows the Shu campaign through four chapters, from Hulao Gate to Mount Dingjun, with ink-map prologues and dialogue in Chinese and English. Trials add ranked challenges, such as defeating 1,000 soldiers in three minutes. The title logo echoes the Chinese name of the series that inspired it. Best on a computer with a keyboard or a gamepad.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creator made the first build as a browser take on Dynasty Warriors, using Claude Opus 5.5 in ultracode mode and Three.js. They say Claude split the work into 13 parts and ran four rounds of builders and fresh reviewers, comparing each pass with real Dynasty Warriors footage. Claude also made the animations, and the sound is synthesized live with Web Audio.",
-        "sources": [
-          "https://x.com/BubuStd/status/2102991290568954264",
-          "https://x.com/BubuStd/status/2103024641275256837",
-          "https://bubucn.com/en/ai-model-evals/voxel-musou"
-        ]
-      },
-      "likes": 1497,
-      "likesRead": "2026-11-01",
-      "posted": "2026-09-24",
-      "sourceUrl": "https://x.com/BubuStd/status/2102991290568954264",
-      "evidence": {
-        "url": "https://x.com/BubuStd/status/2102991290568954264",
-        "quote": "I just built the game I wanted most as a kid on PS2 — Dynasty Warriors — with Opus 5.5 ultracode."
-      },
-      "playUrl": "https://voxel-musou.vercel.app",
-      "price": "free",
-      "codeUrl": "https://github.com/mike007jd/voxel-musou",
-      "media": {
-        "still": "https://media.amusehall.com/voxel-musou/still.webp?v=e84076bf05",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/voxel-musou/"
     },
     {
       "id": "go4slgb6w",
@@ -4192,8 +4410,8 @@
           "https://x.com/loktar00/status/2120212873016389683"
         ]
       },
-      "likes": 1417,
-      "likesRead": "2026-11-15",
+      "likes": 1427,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/loktar00/status/2120192761542615271",
       "evidence": {
@@ -4279,8 +4497,8 @@
           "https://x.com/alexcooldev/status/2090031044162662672"
         ]
       },
-      "likes": 1365,
-      "likesRead": "2026-11-01",
+      "likes": 1367,
+      "likesRead": "2026-11-16",
       "posted": "2026-08-02",
       "sourceUrl": "https://x.com/alexcooldev/status/2083921916935700661",
       "evidence": {
@@ -4303,36 +4521,43 @@
       "pageUrl": "https://amusehall.com/games/kings-gambit/"
     },
     {
-      "id": "gjaguhz9t",
-      "slug": "tidebloom-rally",
+      "id": "g48m4vidg",
+      "slug": "getting-there",
       "aliases": [],
-      "title": "Tidebloom Rally",
-      "added": "2026-11-06",
-      "updated": "2026-11-12",
+      "title": "Getting There",
+      "added": "2026-11-16",
+      "updated": "2026-11-16",
       "creators": [
         {
-          "handle": "superalesha",
-          "name": "Alexey Fateev",
-          "url": "https://x.com/superalesha"
+          "handle": "Rubzem",
+          "name": "S",
+          "url": "https://x.com/Rubzem"
         }
       ],
-      "primaryHandle": "superalesha",
+      "primaryHandle": "Rubzem",
       "credits": [
         {
-          "label": "GPT-6 Astra",
-          "modelId": "gpt-6-astra",
-          "familyId": "gpt",
-          "toolId": null
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": "tesana"
         }
       ],
-      "primaryFamily": "gpt",
+      "primaryFamily": "claude",
       "familyIds": [
-        "gpt"
+        "claude"
       ],
       "modelIds": [
-        "gpt-6-astra"
+        "claude-fable-5-2"
       ],
       "tools": [
+        {
+          "id": "tesana",
+          "name": "Tesana",
+          "kind": "ai",
+          "family": null,
+          "referral_url": null
+        },
         {
           "id": "threejs",
           "name": "Three.js",
@@ -4343,21 +4568,21 @@
       ],
       "genres": [
         {
-          "id": "racing",
-          "name": "Racing"
+          "id": "adventure",
+          "name": "Adventure"
         },
         {
-          "id": "arcade",
-          "name": "Arcade"
+          "id": "cozy",
+          "name": "Cozy"
         }
       ],
       "devices": [
         "desktop"
       ],
-      "controls": "WASD or arrow keys to drive, Shift to drift, Space or E for an item, R to reset, P or Esc to pause",
+      "controls": "Arrow keys to walk, Shift to run, Space to interact",
       "brandIp": false,
-      "description": "A kart racer on a skyway high above a pastel sea, with four reef riders to pick from, drifting, items and three laps against five rivals.",
-      "notes": "Pick one of four sea-creature drivers, from a manta to a night pilot, and race five rivals over three laps of Pearldrift Atoll, a track raised on stilts above a calm turquoise sea. Holding Shift while turning drifts, gold rings along the road add speed, and gadgets picked up on the way fire with Space. Other karts from the same experiment are playable on the same site. It needs a keyboard, so it's best on a computer.",
+      "description": "Take the long way home with a kid and a dog named Moss, by foot, canoe, train and more across fourteen storybook chapters.",
+      "notes": "Pack the camper and call Moss to start the journey. Along the way, you can pet animals, help people you meet and spend part of the trip playing as Moss. The chapters move at your pace, with no timer or fail state.",
       "prompt": {
         "shared": false,
         "partial": false,
@@ -4365,34 +4590,173 @@
         "text": null
       },
       "makingOf": {
-        "summary": "The creator says they built four racers from scratch with the same brief to see how the models worked alone and together. For Tidebloom Rally they ran GPT-6 Astra on its own at medium reasoning. In the other builds they ran DeepSeek alone or gave one model the lead and the other a supporting role.",
+        "summary": "Rubzem used Claude Fable 5.2 on Tesana to make a 2D storybook game and describes the build as “Made from scratch in 4 hours.” In the replies, the creator says they used Three.js on Tesana and made all of the game’s assets there.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "The creator describes the build as “Made from scratch in 4 hours.”",
+            "sources": [
+              "https://x.com/Rubzem/status/2122013352755126431"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The creator asked for a hand-painted look and says the assets were made procedurally.",
+            "sources": [
+              "https://x.com/Rubzem/status/2122013352755126431"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The sounds were made procedurally, according to the creator.",
+            "sources": [
+              "https://x.com/Rubzem/status/2122013352755126431"
+            ]
+          },
+          {
+            "about": "code",
+            "text": "Rubzem names Three.js and Tesana in a follow-up and says the entire game was made on Tesana.",
+            "sources": [
+              "https://x.com/Rubzem/status/2122214078060114354",
+              "https://x.com/Rubzem/status/2122218879783174186"
+            ]
+          }
+        ],
         "sources": [
-          "https://x.com/superalesha/status/2099836448044175427",
-          "https://x.com/superalesha/status/2099836450216763607"
+          "https://x.com/Rubzem/status/2122013352755126431",
+          "https://x.com/Rubzem/status/2122013499467694497",
+          "https://x.com/Rubzem/status/2122214078060114354",
+          "https://x.com/Rubzem/status/2122218879783174186",
+          "https://tesana.com/game/getting-there"
         ]
       },
-      "likes": 1158,
-      "likesRead": "2026-11-08",
-      "posted": "2026-09-15",
-      "sourceUrl": "https://x.com/superalesha/status/2099836448044175427",
+      "likes": 1323,
+      "likesRead": "2026-11-16",
+      "posted": "2026-11-15",
+      "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
       "evidence": {
-        "url": "https://x.com/superalesha/status/2099836448044175427",
-        "quote": "Same game prompt, each build from scratch. Astra on medium reasoning, DeepSeek on max throughout."
+        "url": "https://x.com/Rubzem/status/2122013352755126431",
+        "quote": "I asked Fable 5.2 for a beautiful & low-cortisol 2D game with a hand-painted feel."
       },
-      "playUrl": "https://bench-portal.pages.dev/games/kart-astra-solo/",
+      "playUrl": "https://tesana.com/game/getting-there",
       "price": "free",
-      "codeUrl": "https://github.com/alesha-pro/bench-portal/tree/main/games/kart-astra-solo",
+      "codeUrl": null,
       "media": {
-        "still": "https://media.amusehall.com/tidebloom-rally/still.webp?v=82406cd514",
-        "preview": "https://media.amusehall.com/tidebloom-rally/preview.webp?v=84eb3db512",
-        "clip": "https://media.amusehall.com/tidebloom-rally/clip.mp4?v=2028847a7b",
+        "still": "https://media.amusehall.com/getting-there/still.webp?v=73a6f53d07",
+        "preview": "https://media.amusehall.com/getting-there/preview.webp?v=293b42cfb2",
+        "clip": "https://media.amusehall.com/getting-there/clip.mp4?v=7b63b4f474",
         "unrecordable": null
       },
       "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
-      "pageUrl": "https://amusehall.com/games/tidebloom-rally/"
+      "pageUrl": "https://amusehall.com/games/getting-there/"
+    },
+    {
+      "id": "go98yri36",
+      "slug": "show-of-hands",
+      "aliases": [],
+      "title": "Show of Hands",
+      "added": "2026-11-04",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "MeticulAi",
+          "name": "Meticulai",
+          "url": "https://x.com/MeticulAi"
+        }
+      ],
+      "primaryHandle": "MeticulAi",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Hand gestures through your webcam (wave, pinch, fist, clap), or the mouse and keyboard; each game shows its own",
+      "brandIp": false,
+      "description": "Fifteen small 3D games played with your bare hands through a webcam, from steering a starship to releasing lanterns on a night lake.",
+      "notes": "A jungle hall holds the collection: Starbreaker has you steer a starship through an asteroid field and bomb your way out, Lanterns has you cup your hands and lift a paper lantern into the night, and others take you to fireflies, a koi pond, a labyrinth and a marble jar. The camera is asked for once, and the page says the video never leaves your device. Every game also plays with the mouse, which is how we tried it, and the page says phones and tablets aren't supported yet.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator made the collection with Claude Code and Three.js and used fal and Tripo in production. The games share a gesture kit the creator built on Google's MediaPipe Hand Landmarker. The kit smooths changes in hand position so gestures hold steady and includes simulated hands for testing without a webcam.",
+        "sources": [
+          "https://x.com/MeticulAi/status/2117474458671689995",
+          "https://github.com/abouchedidxcode/open-source-hands",
+          "https://github.com/abouchedidxcode/open-source-hands/blob/main/docs/MAKING-A-GAME.md"
+        ]
+      },
+      "likes": 1164,
+      "likesRead": "2026-11-16",
+      "posted": "2026-11-03",
+      "sourceUrl": "https://x.com/MeticulAi/status/2117474458671689995",
+      "evidence": {
+        "url": "https://x.com/MeticulAi/status/2117474458671689995",
+        "quote": "Here are 15 games I made with it, what will you build? 👇 - no controller, just your webcam - made with Claude Code, @fal , @threejs , @tripoai , and a dream"
+      },
+      "playUrl": "https://meticulai.com/games/show-of-hands/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/show-of-hands/still.webp?v=196942ab32",
+        "preview": "https://media.amusehall.com/show-of-hands/preview.webp?v=a519d32df3",
+        "clip": "https://media.amusehall.com/show-of-hands/clip.mp4?v=a7bb7fcbe9",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/show-of-hands/"
     },
     {
       "id": "gb72dv8lx",
@@ -4477,8 +4841,8 @@
           "https://github.com/op7418/guizang-game-skill#演示游戏雾锁山门"
         ]
       },
-      "likes": 1152,
-      "likesRead": "2026-11-15",
+      "likes": 1157,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-12",
       "sourceUrl": "https://x.com/op7418/status/2120694045299327187",
       "evidence": {
@@ -4501,73 +4865,61 @@
       "pageUrl": "https://amusehall.com/games/mist-locked-gate/"
     },
     {
-      "id": "go98yri36",
-      "slug": "show-of-hands",
+      "id": "gjaguhz9t",
+      "slug": "tidebloom-rally",
       "aliases": [],
-      "title": "Show of Hands",
-      "added": "2026-11-04",
+      "title": "Tidebloom Rally",
+      "added": "2026-11-06",
       "updated": "2026-11-12",
       "creators": [
         {
-          "handle": "MeticulAi",
-          "name": "Meticulai",
-          "url": "https://x.com/MeticulAi"
+          "handle": "superalesha",
+          "name": "Alexey Fateev",
+          "url": "https://x.com/superalesha"
         }
       ],
-      "primaryHandle": "MeticulAi",
+      "primaryHandle": "superalesha",
       "credits": [
         {
-          "label": "Claude Code",
-          "modelId": null,
-          "familyId": "claude",
-          "toolId": "claude-code"
+          "label": "GPT-6 Astra",
+          "modelId": "gpt-6-astra",
+          "familyId": "gpt",
+          "toolId": null
         }
       ],
-      "primaryFamily": "claude",
+      "primaryFamily": "gpt",
       "familyIds": [
-        "claude"
+        "gpt"
       ],
-      "modelIds": [],
+      "modelIds": [
+        "gpt-6-astra"
+      ],
       "tools": [
-        {
-          "id": "claude-code",
-          "name": "Claude Code",
-          "kind": "ai",
-          "family": "claude",
-          "referral_url": null
-        },
         {
           "id": "threejs",
           "name": "Three.js",
           "kind": "library",
           "family": null,
           "referral_url": null
-        },
-        {
-          "id": "tripo",
-          "name": "Tripo",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
         }
       ],
       "genres": [
         {
-          "id": "arcade",
-          "name": "Arcade"
+          "id": "racing",
+          "name": "Racing"
         },
         {
-          "id": "cozy",
-          "name": "Cozy"
+          "id": "arcade",
+          "name": "Arcade"
         }
       ],
       "devices": [
         "desktop"
       ],
-      "controls": "Hand gestures through your webcam (wave, pinch, fist, clap), or the mouse and keyboard; each game shows its own",
+      "controls": "WASD or arrow keys to drive, Shift to drift, Space or E for an item, R to reset, P or Esc to pause",
       "brandIp": false,
-      "description": "Fifteen small 3D games played with your bare hands through a webcam, from steering a starship to releasing lanterns on a night lake.",
-      "notes": "A jungle hall holds the collection: Starbreaker has you steer a starship through an asteroid field and bomb your way out, Lanterns has you cup your hands and lift a paper lantern into the night, and others take you to fireflies, a koi pond, a labyrinth and a marble jar. The camera is asked for once, and the page says the video never leaves your device. Every game also plays with the mouse, which is how we tried it, and the page says phones and tablets aren't supported yet.",
+      "description": "A kart racer on a skyway high above a pastel sea, with four reef riders to pick from, drifting, items and three laps against five rivals.",
+      "notes": "Pick one of four sea-creature drivers, from a manta to a night pilot, and race five rivals over three laps of Pearldrift Atoll, a track raised on stilts above a calm turquoise sea. Holding Shift while turning drifts, gold rings along the road add speed, and gadgets picked up on the way fire with Space. Other karts from the same experiment are playable on the same site. It needs a keyboard, so it's best on a computer.",
       "prompt": {
         "shared": false,
         "partial": false,
@@ -4575,35 +4927,34 @@
         "text": null
       },
       "makingOf": {
-        "summary": "The creator made the collection with Claude Code and Three.js and used fal and Tripo in production. The games share a gesture kit the creator built on Google's MediaPipe Hand Landmarker. The kit smooths changes in hand position so gestures hold steady and includes simulated hands for testing without a webcam.",
+        "summary": "The creator says they built four racers from scratch with the same brief to see how the models worked alone and together. For Tidebloom Rally they ran GPT-6 Astra on its own at medium reasoning. In the other builds they ran DeepSeek alone or gave one model the lead and the other a supporting role.",
         "sources": [
-          "https://x.com/MeticulAi/status/2117474458671689995",
-          "https://github.com/abouchedidxcode/open-source-hands",
-          "https://github.com/abouchedidxcode/open-source-hands/blob/main/docs/MAKING-A-GAME.md"
+          "https://x.com/superalesha/status/2099836448044175427",
+          "https://x.com/superalesha/status/2099836450216763607"
         ]
       },
-      "likes": 1148,
-      "likesRead": "2026-11-08",
-      "posted": "2026-11-03",
-      "sourceUrl": "https://x.com/MeticulAi/status/2117474458671689995",
+      "likes": 1156,
+      "likesRead": "2026-11-16",
+      "posted": "2026-09-15",
+      "sourceUrl": "https://x.com/superalesha/status/2099836448044175427",
       "evidence": {
-        "url": "https://x.com/MeticulAi/status/2117474458671689995",
-        "quote": "Here are 15 games I made with it, what will you build? 👇 - no controller, just your webcam - made with Claude Code, @fal , @threejs , @tripoai , and a dream"
+        "url": "https://x.com/superalesha/status/2099836448044175427",
+        "quote": "Same game prompt, each build from scratch. Astra on medium reasoning, DeepSeek on max throughout."
       },
-      "playUrl": "https://meticulai.com/games/show-of-hands/",
+      "playUrl": "https://bench-portal.pages.dev/games/kart-astra-solo/",
       "price": "free",
-      "codeUrl": null,
+      "codeUrl": "https://github.com/alesha-pro/bench-portal/tree/main/games/kart-astra-solo",
       "media": {
-        "still": "https://media.amusehall.com/show-of-hands/still.webp?v=196942ab32",
-        "preview": "https://media.amusehall.com/show-of-hands/preview.webp?v=a519d32df3",
-        "clip": "https://media.amusehall.com/show-of-hands/clip.mp4?v=a7bb7fcbe9",
+        "still": "https://media.amusehall.com/tidebloom-rally/still.webp?v=82406cd514",
+        "preview": "https://media.amusehall.com/tidebloom-rally/preview.webp?v=84eb3db512",
+        "clip": "https://media.amusehall.com/tidebloom-rally/clip.mp4?v=2028847a7b",
         "unrecordable": null
       },
       "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
-      "pageUrl": "https://amusehall.com/games/show-of-hands/"
+      "pageUrl": "https://amusehall.com/games/tidebloom-rally/"
     },
     {
       "id": "gmewfnndy",
@@ -4666,8 +5017,8 @@
           "https://x.com/alexcooldev/status/2119596652227170604"
         ]
       },
-      "likes": 1078,
-      "likesRead": "2026-11-08",
+      "likes": 1129,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-05",
       "sourceUrl": "https://x.com/alexcooldev/status/2118446768006541800",
       "evidence": {
@@ -4773,8 +5124,8 @@
           "https://x.com/0xRishi/status/2096079664603406451"
         ]
       },
-      "likes": 975,
-      "likesRead": "2026-11-01",
+      "likes": 976,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-05",
       "sourceUrl": "https://x.com/0xRishi/status/2096079660605997264",
       "evidence": {
@@ -4898,8 +5249,8 @@
           "https://cordon9.pplx.app/"
         ]
       },
-      "likes": 933,
-      "likesRead": "2026-11-15",
+      "likes": 934,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-11",
       "sourceUrl": "https://x.com/AravSrinivas/status/2120506245131977026",
       "evidence": {
@@ -4982,7 +5333,7 @@
         ]
       },
       "likes": 903,
-      "likesRead": "2026-11-08",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/_MaxBlade/status/2104704696967368758",
       "evidence": {
@@ -5070,8 +5421,8 @@
           "https://github.com/dgreenheck/tidewater"
         ]
       },
-      "likes": 894,
-      "likesRead": "2026-11-08",
+      "likes": 891,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-24",
       "sourceUrl": "https://x.com/dangreenheck/status/2103004432786993341",
       "evidence": {
@@ -5092,177 +5443,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/tidewater/"
-    },
-    {
-      "id": "gpy3pa5mk",
-      "slug": "pixel-plays",
-      "aliases": [],
-      "title": "Pixel Plays",
-      "added": "2026-11-01",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "AmirMushich",
-          "name": "AmirMušić",
-          "url": "https://x.com/AmirMushich"
-        }
-      ],
-      "primaryHandle": "AmirMushich",
-      "credits": [
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-opus-5-5"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "sports",
-          "name": "Sports"
-        },
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "Drag back and release, hold and release, or click, depending on the game; arrow keys and Space work too",
-      "brandIp": false,
-      "description": "Five tiny games in isometric pixel dioramas, from bocce against a bot to diving off an old bridge, a tennis tie-break and a minute on a skate ramp.",
-      "notes": "Each game is a small scene floating on white, with dithered shading. Play bocce against a bot, take five dives off an old bridge, play a clay-court tie-break, spend 60 seconds on a skate ramp, or bring in the laundry before a storm. Every game turns on one physical action, such as dragging back to throw or holding and releasing to jump. Each one takes a few minutes, and the menu switches between them.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creator built the collection with Claude Opus 5.5 from a concept by abhi, using Shawn's Small Plays as a visual reference. The games share a plain JavaScript software renderer that draws depth and shadows at low resolution, then scales the image up to keep the pixels sharp. The creator's repository describes drawing the scenes in code without sprite or image assets.",
-        "sources": [
-          "https://x.com/AmirMushich/status/2116509069477621819",
-          "https://github.com/amirmushichge/pixel-plays"
-        ]
-      },
-      "likes": 863,
-      "likesRead": "2026-11-01",
-      "posted": "2026-10-31",
-      "sourceUrl": "https://x.com/AmirMushich/status/2116509069477621819",
-      "evidence": {
-        "url": "https://x.com/AmirMushich/status/2116509069477621819",
-        "quote": "3D pixel games with Claude Opus 5.5 (OS)"
-      },
-      "playUrl": "https://pixel-plays-ruby.vercel.app/",
-      "price": "free",
-      "codeUrl": "https://github.com/amirmushichge/pixel-plays",
-      "media": {
-        "still": "https://media.amusehall.com/pixel-plays/still.webp?v=64d2b422ed",
-        "preview": "https://media.amusehall.com/pixel-plays/preview.webp?v=490277b0de",
-        "clip": "https://media.amusehall.com/pixel-plays/clip.mp4?v=34d437bcec",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/pixel-plays/"
-    },
-    {
-      "id": "g4slt3fal",
-      "slug": "apex-coast-run",
-      "aliases": [],
-      "title": "APEX / Coast Run",
-      "added": "2026-10-31",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "mindblown_ai",
-          "url": "https://x.com/mindblown_ai"
-        }
-      ],
-      "primaryHandle": "mindblown_ai",
-      "credits": [
-        {
-          "label": "GPT-6 Astra",
-          "modelId": "gpt-6-astra",
-          "familyId": "gpt",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "gpt",
-      "familyIds": [
-        "gpt"
-      ],
-      "modelIds": [
-        "gpt-6-astra"
-      ],
-      "tools": [
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "racing",
-          "name": "Racing"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD or arrow keys, Space to brake, Shift for the handbrake, C to change camera, R to reset",
-      "brandIp": true,
-      "description": "A three-lap race in a red Ferrari 458 Italia along a wooded coast road at golden hour, where you start last of four cars.",
-      "notes": "You start fourth of four on Coast Run, a 1.52 km road through pine woods on the Bay Coast at golden hour, and race three laps in a red Ferrari 458 Italia. The HUD tracks your position, lap time, gear and speed, and running wide onto the shoulder costs grip and flashes a warning. Space brakes, Shift pulls the handbrake, C switches the camera and R puts the car back on the road. The car carries the real model's name and badge. Best on a computer: it needs a keyboard.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creator says they made the first version overnight with GPT-6 Astra and Three.js, taking Need for Speed as the reference for a browser racer. After getting feedback, they said Astra was rewriting the physics engine.",
-        "sources": [
-          "https://x.com/mindblown_ai/status/2097053892152594854",
-          "https://x.com/mindblown_ai/status/2097089410718408881"
-        ]
-      },
-      "likes": 861,
-      "likesRead": "2026-11-01",
-      "posted": "2026-09-07",
-      "sourceUrl": "https://x.com/mindblown_ai/status/2097053892152594854",
-      "evidence": {
-        "url": "https://x.com/mindblown_ai/status/2097053892152594854",
-        "quote": "Three.js and Astra 6 overnight"
-      },
-      "playUrl": "https://apex-coast-run.mindblown.ai/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/apex-coast-run/still.webp?v=b09091ef4d",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/apex-coast-run/"
     },
     {
       "id": "godr2qz4e",
@@ -5340,8 +5520,8 @@
           "https://x.com/elocat/status/2121056206404174033"
         ]
       },
-      "likes": 850,
-      "likesRead": "2026-11-15",
+      "likes": 869,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-12",
       "sourceUrl": "https://x.com/elocat/status/2120872705478308285",
       "evidence": {
@@ -5362,6 +5542,93 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/echo-noein-battlefront/"
+    },
+    {
+      "id": "g4slt3fal",
+      "slug": "apex-coast-run",
+      "aliases": [],
+      "title": "APEX / Coast Run",
+      "added": "2026-10-31",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "mindblown_ai",
+          "url": "https://x.com/mindblown_ai"
+        }
+      ],
+      "primaryHandle": "mindblown_ai",
+      "credits": [
+        {
+          "label": "GPT-6 Astra",
+          "modelId": "gpt-6-astra",
+          "familyId": "gpt",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [
+        "gpt-6-astra"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrow keys, Space to brake, Shift for the handbrake, C to change camera, R to reset",
+      "brandIp": true,
+      "description": "A three-lap race in a red Ferrari 458 Italia along a wooded coast road at golden hour, where you start last of four cars.",
+      "notes": "You start fourth of four on Coast Run, a 1.52 km road through pine woods on the Bay Coast at golden hour, and race three laps in a red Ferrari 458 Italia. The HUD tracks your position, lap time, gear and speed, and running wide onto the shoulder costs grip and flashes a warning. Space brakes, Shift pulls the handbrake, C switches the camera and R puts the car back on the road. The car carries the real model's name and badge. Best on a computer: it needs a keyboard.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator says they made the first version overnight with GPT-6 Astra and Three.js, taking Need for Speed as the reference for a browser racer. After getting feedback, they said Astra was rewriting the physics engine.",
+        "sources": [
+          "https://x.com/mindblown_ai/status/2097053892152594854",
+          "https://x.com/mindblown_ai/status/2097089410718408881"
+        ]
+      },
+      "likes": 860,
+      "likesRead": "2026-11-16",
+      "posted": "2026-09-07",
+      "sourceUrl": "https://x.com/mindblown_ai/status/2097053892152594854",
+      "evidence": {
+        "url": "https://x.com/mindblown_ai/status/2097053892152594854",
+        "quote": "Three.js and Astra 6 overnight"
+      },
+      "playUrl": "https://apex-coast-run.mindblown.ai/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/apex-coast-run/still.webp?v=b09091ef4d",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/apex-coast-run/"
     },
     {
       "id": "gie0au2by",
@@ -5453,7 +5720,7 @@
         ]
       },
       "likes": 842,
-      "likesRead": "2026-11-15",
+      "likesRead": "2026-11-16",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/pwnies/status/2119987174884143348",
       "evidence": {
@@ -5546,8 +5813,8 @@
           "https://github.com/StarKnightt/operation-ironhold/blob/main/PROMPTS.md"
         ]
       },
-      "likes": 793,
-      "likesRead": "2026-11-01",
+      "likes": 790,
+      "likesRead": "2026-11-16",
       "posted": "2026-07-25",
       "sourceUrl": "https://x.com/prasenx/status/2081022068561469715",
       "evidence": {
@@ -5725,8 +5992,8 @@
           "https://www.producthunt.com/products/full-send"
         ]
       },
-      "likes": 744,
-      "likesRead": "2026-11-01",
+      "likes": 737,
+      "likesRead": "2026-11-16",
       "posted": "2026-04-26",
       "sourceUrl": "https://x.com/dvassallo/status/2048530791190364374",
       "evidence": {
@@ -5813,8 +6080,8 @@
           "https://x.com/jasperdeboer/status/1899906819578806550"
         ]
       },
-      "likes": 709,
-      "likesRead": "2026-11-01",
+      "likes": 710,
+      "likesRead": "2026-11-16",
       "posted": "2025-02-27",
       "sourceUrl": "https://x.com/jasperdeboer/status/1895139346216296611",
       "evidence": {
@@ -5897,8 +6164,8 @@
           "https://x.com/LexnLin/status/2102839314887442466"
         ]
       },
-      "likes": 664,
-      "likesRead": "2026-11-01",
+      "likes": 663,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-23",
       "sourceUrl": "https://x.com/LexnLin/status/2102834362530079093",
       "evidence": {
@@ -5991,8 +6258,8 @@
           "https://www.modernclaudefare.com/assets#characters"
         ]
       },
-      "likes": 633,
-      "likesRead": "2026-11-01",
+      "likes": 635,
+      "likesRead": "2026-11-16",
       "posted": "2026-08-03",
       "sourceUrl": "https://x.com/0xRishi/status/2084322235788226653",
       "evidence": {
@@ -6142,8 +6409,8 @@
           "https://bannerfall.itch.io/siege-wing"
         ]
       },
-      "likes": 558,
-      "likesRead": "2026-11-15",
+      "likes": 567,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/builderjaydub/status/2120223731520040966",
       "evidence": {
@@ -6254,8 +6521,8 @@
           "https://x.com/KenLin1985/status/2103900000061460563"
         ]
       },
-      "likes": 532,
-      "likesRead": "2026-11-01",
+      "likes": 529,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-26",
       "sourceUrl": "https://x.com/KenLin1985/status/2103866807954399530",
       "evidence": {
@@ -6419,8 +6686,8 @@
           "https://x.com/emollick/status/2119876449494540554"
         ]
       },
-      "likes": 511,
-      "likesRead": "2026-11-15",
+      "likes": 513,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/emollick/status/2119876449494540554",
       "evidence": {
@@ -6515,8 +6782,8 @@
           "https://x.com/kevin_t_ngo/status/2121701020598415465"
         ]
       },
-      "likes": 401,
-      "likesRead": "2026-11-15",
+      "likes": 491,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-14",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2121701020598415465",
       "evidence": {
@@ -6622,8 +6889,8 @@
           "https://github.com/wquguru/fable52-fps-repro/blob/main/prompts/04-fps.md"
         ]
       },
-      "likes": 391,
-      "likesRead": "2026-11-15",
+      "likes": 394,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-11",
       "sourceUrl": "https://x.com/wquguru/status/2120382704030261437",
       "evidence": {
@@ -6721,8 +6988,8 @@
           "https://wen-ware.com/generate"
         ]
       },
-      "likes": 390,
-      "likesRead": "2026-11-01",
+      "likes": 391,
+      "likesRead": "2026-11-16",
       "posted": "2026-04-26",
       "sourceUrl": "https://x.com/underpaid_mom/status/2048286883080224877",
       "evidence": {
@@ -6813,7 +7080,7 @@
         ]
       },
       "likes": 362,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-07-27",
       "sourceUrl": "https://x.com/Ryancampbell/status/2081750419857133709",
       "evidence": {
@@ -6986,7 +7253,7 @@
         ]
       },
       "likes": 355,
-      "likesRead": "2026-11-15",
+      "likesRead": "2026-11-16",
       "posted": "2026-11-12",
       "sourceUrl": "https://x.com/SidraMiconi/status/2120948703095820743",
       "evidence": {
@@ -7077,8 +7344,8 @@
           "https://github.com/Hiraeth010/blackwater"
         ]
       },
-      "likes": 340,
-      "likesRead": "2026-11-15",
+      "likes": 339,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-04",
       "sourceUrl": "https://x.com/WoahWurdz/status/2095958882732355908",
       "evidence": {
@@ -7183,8 +7450,8 @@
           "https://x.com/_nilni/status/2120214687325499453"
         ]
       },
-      "likes": 336,
-      "likesRead": "2026-11-15",
+      "likes": 337,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/_nilni/status/2119977575053443467",
       "evidence": {
@@ -7276,8 +7543,8 @@
           "https://x.com/kevin_t_ngo/status/2119909881516019983"
         ]
       },
-      "likes": 328,
-      "likesRead": "2026-11-15",
+      "likes": 330,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2119900487688622171",
       "evidence": {
@@ -7364,8 +7631,8 @@
           "https://dread-and-district.netlify.app/"
         ]
       },
-      "likes": 303,
-      "likesRead": "2026-11-15",
+      "likes": 304,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/emollick/status/2120248525254742318",
       "evidence": {
@@ -7471,8 +7738,8 @@
           "https://x.com/aniketjart/status/2105119785432625529"
         ]
       },
-      "likes": 269,
-      "likesRead": "2026-11-01",
+      "likes": 268,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-30",
       "sourceUrl": "https://x.com/aniketjart/status/2105102068818362637",
       "evidence": {
@@ -7560,8 +7827,8 @@
           "https://x.com/RicardoDeZoete/status/2082036643662365081"
         ]
       },
-      "likes": 254,
-      "likesRead": "2026-11-01",
+      "likes": 256,
+      "likesRead": "2026-11-16",
       "posted": "2026-07-30",
       "sourceUrl": "https://x.com/RicardoDeZoete/status/2082926872589918537",
       "evidence": {
@@ -7672,8 +7939,8 @@
           "https://leocoout.medium.com/how-i-made-25k-in-15-days-with-a-game-built-entirely-by-claude-code-94b3b817f0ce"
         ]
       },
-      "likes": 250,
-      "likesRead": "2026-11-01",
+      "likes": 251,
+      "likesRead": "2026-11-16",
       "posted": "2026-04-29",
       "sourceUrl": "https://x.com/leocooout/status/2049610251381756307",
       "evidence": {
@@ -7787,7 +8054,7 @@
         ]
       },
       "likes": 216,
-      "likesRead": "2026-11-15",
+      "likesRead": "2026-11-16",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/AugustCastilIo/status/2120302122776342865",
       "evidence": {
@@ -7888,8 +8155,8 @@
           "https://x.com/aniketjart/status/2120378493729222700"
         ]
       },
-      "likes": 202,
-      "likesRead": "2026-11-08",
+      "likes": 205,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-03",
       "sourceUrl": "https://x.com/aniketjart/status/2117508141076378029",
       "evidence": {
@@ -7980,8 +8247,8 @@
           "https://x.com/SestinaTW/status/2104290176541630701"
         ]
       },
-      "likes": 188,
-      "likesRead": "2026-11-01",
+      "likes": 187,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-27",
       "sourceUrl": "https://x.com/SestinaTW/status/2104045641706189192",
       "evidence": {
@@ -8079,8 +8346,8 @@
           "https://x.com/aniketjart/status/2103136097333309623"
         ]
       },
-      "likes": 183,
-      "likesRead": "2026-11-01",
+      "likes": 184,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-22",
       "sourceUrl": "https://x.com/aniketjart/status/2102546641253478674",
       "evidence": {
@@ -8202,7 +8469,7 @@
         ]
       },
       "likes": 179,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2025-04-11",
       "sourceUrl": "https://x.com/TomasBencko/status/1910684084168179999",
       "evidence": {
@@ -8368,8 +8635,8 @@
           "https://x.com/KanaWorks_AI/status/2103464588348108939"
         ]
       },
-      "likes": 169,
-      "likesRead": "2026-11-01",
+      "likes": 168,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-23",
       "sourceUrl": "https://x.com/KanaWorks_AI/status/2102684116525437206",
       "evidence": {
@@ -8469,8 +8736,8 @@
           "https://github.com/petergpt/gogh-strike/blob/main/docs/DEVELOPMENT.md"
         ]
       },
-      "likes": 165,
-      "likesRead": "2026-11-01",
+      "likes": 164,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-04",
       "sourceUrl": "https://x.com/petergostev/status/2096013280519016608",
       "evidence": {
@@ -8660,8 +8927,8 @@
           "https://github.com/Rabneba/lost-cathedral#assets-and-authoring"
         ]
       },
-      "likes": 143,
-      "likesRead": "2026-11-01",
+      "likes": 142,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-17",
       "sourceUrl": "https://x.com/genex_games/status/2100586874754539672",
       "evidence": {
@@ -8754,8 +9021,8 @@
           "https://www.youtube.com/watch?v=SsSKJA0EHD4&t=184s"
         ]
       },
-      "likes": 140,
-      "likesRead": "2026-11-15",
+      "likes": 141,
+      "likesRead": "2026-11-16",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/petergyang/status/2119901658394358005",
       "evidence": {
@@ -8858,7 +9125,7 @@
         ]
       },
       "likes": 132,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-08-21",
       "sourceUrl": "https://x.com/AndreiProvkin/status/2090810893080686996",
       "evidence": {
@@ -8942,8 +9209,8 @@
           "https://x.com/petergyang/status/2097073151519916048"
         ]
       },
-      "likes": 131,
-      "likesRead": "2026-11-01",
+      "likes": 130,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-05",
       "sourceUrl": "https://x.com/petergyang/status/2096297378584375672",
       "evidence": {
@@ -9035,7 +9302,7 @@
         ]
       },
       "likes": 112,
-      "likesRead": "2026-11-08",
+      "likesRead": "2026-11-16",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/BenjaminDEKR/status/2117042700872802448",
       "evidence": {
@@ -9123,7 +9390,7 @@
         ]
       },
       "likes": 103,
-      "likesRead": "2026-11-15",
+      "likesRead": "2026-11-16",
       "posted": "2026-11-07",
       "sourceUrl": "https://x.com/kylebrussell/status/2118874479862419640",
       "evidence": {
@@ -9338,7 +9605,7 @@
         ]
       },
       "likes": 69,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-25",
       "sourceUrl": "https://x.com/jessinvibe/status/2103565292198838314",
       "evidence": {
@@ -9557,7 +9824,7 @@
         ]
       },
       "likes": 59,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/chongdashu/status/2104962609745428916",
       "evidence": {
@@ -9736,7 +10003,7 @@
         ]
       },
       "likes": 56,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-08",
       "sourceUrl": "https://x.com/Dimillian/status/2097188900888322323",
       "evidence": {
@@ -9842,8 +10109,8 @@
           "https://github.com/denisbondare/haldane-4"
         ]
       },
-      "likes": 53,
-      "likesRead": "2026-11-01",
+      "likes": 54,
+      "likesRead": "2026-11-16",
       "posted": "2026-04-19",
       "sourceUrl": "https://x.com/denisbondare/status/2045947329442718089",
       "evidence": {
@@ -9937,7 +10204,7 @@
         ]
       },
       "likes": 52,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-09",
       "sourceUrl": "https://x.com/OpenDesignHQ/status/2097635757917983223",
       "evidence": {
@@ -10484,7 +10751,7 @@
         ]
       },
       "likes": 42,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/knightama/status/2104880496253817021",
       "evidence": {
@@ -10585,7 +10852,7 @@
         ]
       },
       "likes": 39,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-24",
       "sourceUrl": "https://x.com/scottstts/status/2103260765847486734",
       "evidence": {
@@ -10792,7 +11059,7 @@
         ]
       },
       "likes": 30,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/superalesha/status/2104920915112829231",
       "evidence": {
@@ -10889,7 +11156,7 @@
         ]
       },
       "likes": 28,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-26",
       "sourceUrl": "https://x.com/Rubzem/status/2103983670034145726",
       "evidence": {
@@ -10910,6 +11177,181 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/cozy-cove/"
+    },
+    {
+      "id": "gzn1npz2s",
+      "slug": "grand-theft-wuhu",
+      "aliases": [],
+      "title": "Grand Theft Wuhu",
+      "added": "2026-11-16",
+      "updated": "2026-11-16",
+      "creators": [
+        {
+          "handle": "Admirable-Put7423",
+          "url": "https://www.reddit.com/user/Admirable-Put7423/"
+        }
+      ],
+      "primaryHandle": "Admirable-Put7423",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "open-world",
+          "name": "Open world"
+        },
+        {
+          "id": "sandbox",
+          "name": "Sandbox"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move or drive, Shift to sprint or boost, Space to jump or brake, E or F to enter or exit a vehicle, T to talk, M for the map",
+      "brandIp": true,
+      "description": "Explore Wuhu Island on foot or by car, boat and plane in a browser mashup of Wii Sports Resort and Grand Theft Auto.",
+      "notes": "Wuhu Island is open for exploring, with vehicles to hop into and residents to talk to. The controls change between driving, boating and flying, and the map helps you find your way. You can switch between first- and third-person camera views.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator says they gave Claude a single master prompt for a game that combined Grand Theft Auto with Wii Sports Resort. They say it “pretty much one shotted the game first try.”",
+        "sources": [
+          "https://www.reddit.com/r/ClaudeCode/comments/1xnzywo/build_grand_theft_auto_x_wii_sports_resort_with/"
+        ]
+      },
+      "likes": 25,
+      "likesRead": "2026-11-09",
+      "posted": "2026-11-04",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeCode/comments/1xnzywo/build_grand_theft_auto_x_wii_sports_resort_with/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeCode/comments/1xnzywo/build_grand_theft_auto_x_wii_sports_resort_with/",
+        "quote": "Build Grand Theft Auto x Wii Sports Resort with Claude"
+      },
+      "playUrl": "https://theagencymge.github.io/grand-theft-wuhu-play/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/grand-theft-wuhu/still.webp?v=a00b5eb292",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/grand-theft-wuhu/"
+    },
+    {
+      "id": "g949awofn",
+      "slug": "primordio",
+      "aliases": [],
+      "title": "Primordio (Demo)",
+      "added": "2026-11-16",
+      "updated": "2026-11-16",
+      "creators": [
+        {
+          "handle": "lord-dunsany",
+          "name": "Lord Dunsany",
+          "url": "https://lord-dunsany.itch.io/"
+        }
+      ],
+      "primaryHandle": "lord-dunsany",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to swim, Space to dash, E for the current ability, 1 for Evolve and 2 for Species",
+      "brandIp": false,
+      "description": "Swim for food, collect genes and evolve a pixel-art sea creature part by part in a free two-era demo.",
+      "notes": "You start as a cell and swim for food, spending genes to change your body. Parts affect your movement and which food you can eat. The browser demo includes the first two eras, with a choice to head toward shore or down into deeper water.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator says they used Claude for coding and for translating from Spanish. The itch.io page credits E.V.O.: Search for Eden and its era as influences.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The creator says they used Claude for coding and translation.",
+            "sources": [
+              "https://www.reddit.com/r/incremental_games/comments/1xp4vwe/i_made_primordio_an_evolution_incremental_where/"
+            ]
+          }
+        ],
+        "sources": [
+          "https://www.reddit.com/r/incremental_games/comments/1xp4vwe/i_made_primordio_an_evolution_incremental_where/",
+          "https://lord-dunsany.itch.io/primordio"
+        ]
+      },
+      "likes": 22,
+      "likesRead": "2026-11-09",
+      "posted": "2026-11-06",
+      "sourceUrl": "https://www.reddit.com/r/incremental_games/comments/1xp4vwe/i_made_primordio_an_evolution_incremental_where/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/incremental_games/comments/1xp4vwe/i_made_primordio_an_evolution_incremental_where/",
+        "quote": "using claude for translation 'cause my primary language is spanish and for coding! everything else is on me"
+      },
+      "playUrl": "https://lord-dunsany.itch.io/primordio",
+      "price": "free-demo",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/primordio/still.webp?v=80c3799a75",
+        "preview": "https://media.amusehall.com/primordio/preview.webp?v=9bfdd5ffc1",
+        "clip": "https://media.amusehall.com/primordio/clip.mp4?v=74c7f904e6",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/primordio/"
     },
     {
       "id": "gassta9mp",
@@ -10982,7 +11424,7 @@
         ]
       },
       "likes": 12,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/EnvolDev/status/2104947552328261810",
       "evidence": {
@@ -11074,7 +11516,7 @@
         ]
       },
       "likes": 11,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/lucataco/status/2104393224508882954",
       "evidence": {
@@ -11166,7 +11608,7 @@
         ]
       },
       "likes": 10,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/pradeepXkapoor/status/2104840409851822098",
       "evidence": {
@@ -11244,8 +11686,8 @@
         "text": null
       },
       "makingOf": null,
-      "likes": 9,
-      "likesRead": "2026-11-01",
+      "likes": 10,
+      "likesRead": "2026-11-16",
       "posted": "2026-09-26",
       "sourceUrl": "https://x.com/chrisjdimarco/status/2103874824569344327",
       "evidence": {
@@ -11342,7 +11784,7 @@
         ]
       },
       "likes": 8,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2025-03-01",
       "sourceUrl": "https://x.com/nomalex_/status/1895890592179310616",
       "evidence": {
@@ -11467,7 +11909,7 @@
         ]
       },
       "likes": 8,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-23",
       "sourceUrl": "https://x.com/NicolaManzini/status/2102849288997146722",
       "evidence": {
@@ -11583,7 +12025,7 @@
         ]
       },
       "likes": 7,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2025-02-28",
       "sourceUrl": "https://x.com/hankofalltrades/status/1895422775998959945",
       "evidence": {
@@ -11763,7 +12205,7 @@
         ]
       },
       "likes": 6,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-10-07",
       "sourceUrl": "https://x.com/AlbertSimonDev/status/2107699723574595794",
       "evidence": {
@@ -11848,7 +12290,7 @@
         ]
       },
       "likes": 5,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/jani_penttinen/status/2104696554020114600",
       "evidence": {
@@ -11941,7 +12383,7 @@
         ]
       },
       "likes": 4,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/pipisonx/status/2104541322900123800",
       "evidence": {
@@ -12039,7 +12481,7 @@
         ]
       },
       "likes": 4,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-04-30",
       "sourceUrl": "https://x.com/mrsukeruton/status/2049758014568095996",
       "evidence": {
@@ -12133,7 +12575,7 @@
         ]
       },
       "likes": 3,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/KJLKurt/status/2104703514878374288",
       "evidence": {
@@ -12351,7 +12793,7 @@
         ]
       },
       "likes": 2,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-10-20",
       "sourceUrl": "https://x.com/AlbertSimonDev/status/2112396571828789329",
       "evidence": {
@@ -12445,7 +12887,7 @@
       },
       "makingOf": null,
       "likes": 2,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/awais_builds/status/2104743474549694736",
       "evidence": {
@@ -12534,7 +12976,7 @@
         ]
       },
       "likes": 2,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/agentcelldotdev/status/2104893456028160336",
       "evidence": {
@@ -12619,7 +13061,7 @@
         ]
       },
       "likes": 2,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-05",
       "sourceUrl": "https://x.com/ToolBraidComp/status/2096348348773028115",
       "evidence": {
@@ -12640,6 +13082,109 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/lumina/"
+    },
+    {
+      "id": "g5camq0si",
+      "slug": "aftershock-online",
+      "aliases": [],
+      "title": "Aftershock Online (Demo)",
+      "added": "2026-11-16",
+      "updated": "2026-11-16",
+      "creators": [
+        {
+          "handle": "aftershockonline",
+          "url": "https://aftershockonline.itch.io/"
+        }
+      ],
+      "primaryHandle": "aftershockonline",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "rpg",
+          "name": "RPG"
+        },
+        {
+          "id": "open-world",
+          "name": "Open world"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Keyboard and mouse, with rebindable keys in the settings",
+      "brandIp": false,
+      "description": "Build a superhero and take on the streets and early dungeons of New Meridian, with AI-controlled heroes filling your party.",
+      "notes": "Choose powers for a hero and explore New Meridian. It plays solo, with computer-controlled heroes to fill party slots. The browser demo includes the first 15 levels and the base powers.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator says they built the game solo with Claude Code and Opus 5.5, using “max effort”. They say the current version was their eighteenth iteration.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "The creator describes the build as “6 weeks”.",
+            "sources": [
+              "https://www.reddit.com/r/ClaudeAI/comments/1xlxw7d/i_vibe_coded_a_superhero_mmo_solo_with_opus_55_in/"
+            ]
+          },
+          {
+            "about": "code",
+            "text": "The creator reports using “max effort” in Claude Code and describes this as their eighteenth version.",
+            "sources": [
+              "https://www.reddit.com/r/ClaudeAI/comments/1xlxw7d/i_vibe_coded_a_superhero_mmo_solo_with_opus_55_in/"
+            ]
+          }
+        ],
+        "sources": [
+          "https://www.reddit.com/r/ClaudeAI/comments/1xlxw7d/i_vibe_coded_a_superhero_mmo_solo_with_opus_55_in/",
+          "https://aftershockonline.itch.io/aftershock-online"
+        ]
+      },
+      "likes": 0,
+      "likesRead": "2026-11-09",
+      "posted": "2026-11-02",
+      "sourceUrl": "https://www.reddit.com/r/ClaudeAI/comments/1xlxw7d/i_vibe_coded_a_superhero_mmo_solo_with_opus_55_in/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlxw7d/i_vibe_coded_a_superhero_mmo_solo_with_opus_55_in/",
+        "quote": "i used Claude code on max effort with the project section."
+      },
+      "playUrl": "https://aftershockonline.itch.io/aftershock-online",
+      "price": "free-demo",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/aftershock-online/still.webp?v=281cd6fec0",
+        "preview": "https://media.amusehall.com/aftershock-online/preview.webp?v=fcfa9ae9a0",
+        "clip": "https://media.amusehall.com/aftershock-online/clip.mp4?v=46845c887b",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/aftershock-online/"
     },
     {
       "id": "gbl2jj2mv",
@@ -12701,7 +13246,7 @@
         ]
       },
       "likes": 0,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-30",
       "sourceUrl": "https://x.com/longmaba/status/2105154719241187809",
       "evidence": {
@@ -12814,7 +13359,7 @@
         ]
       },
       "likes": 0,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-10-06",
       "sourceUrl": "https://x.com/Billpwchan/status/2107461457936093325",
       "evidence": {
@@ -12900,7 +13445,7 @@
         ]
       },
       "likes": 0,
-      "likesRead": "2026-11-01",
+      "likesRead": "2026-11-16",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/jlager/status/2104748429192884380",
       "evidence": {
@@ -20018,11 +20563,11 @@
         "gohxe896s",
         "gklib6jqo",
         "gifjcc37f",
-        "gw96j1zcp",
+        "g5u1gyt9c",
         "g57hyuelm",
+        "gw96j1zcp",
         "geg91cy2q",
-        "go4slgb6w",
-        "gb72dv8lx"
+        "go4slgb6w"
       ]
     },
     "families": [
@@ -20041,24 +20586,26 @@
           "g0u52kl87",
           "gjh98608z",
           "gifjcc37f",
+          "g5u1gyt9c",
+          "g57hyuelm",
           "g27qw9jqs",
           "gw96j1zcp",
           "gls4dgy15",
+          "gpy3pa5mk",
           "g5n1e788h",
-          "g57hyuelm",
-          "gk98c3y8t",
           "gpmj9q9ol",
+          "gk98c3y8t",
           "geg91cy2q",
-          "gmja9kp2v",
           "g9t4d43un",
+          "gmja9kp2v",
           "go4slgb6w",
-          "gb72dv8lx",
+          "g48m4vidg",
           "go98yri36",
+          "gb72dv8lx",
           "gmewfnndy",
           "g0iluqdib",
           "gron4ulbj",
           "gqdquwa11",
-          "gpy3pa5mk",
           "godr2qz4e",
           "gie0au2by",
           "g9141ggib",
@@ -20100,6 +20647,8 @@
           "g8yrk1kwa",
           "gqojoxunu",
           "g9l4okhki",
+          "gzn1npz2s",
+          "g949awofn",
           "gassta9mp",
           "g5k0r7b2n",
           "gd09hid7i",
@@ -20112,6 +20661,7 @@
           "g8tp4okfr",
           "guks7mvrv",
           "ghuag4909",
+          "g5camq0si",
           "gbl2jj2mv",
           "gzfrlomi9",
           "gm15xo3kf",
@@ -20234,64 +20784,22 @@
       "g0egemz92"
     ],
     "latestIssue": {
-      "number": 3,
-      "weekStart": "2026-11-09",
+      "number": 4,
+      "weekStart": "2026-11-16",
       "published": null,
-      "gameOfTheWeekId": "gqsly543o",
+      "gameOfTheWeekId": "g5u1gyt9c",
       "topIds": [
-        "gqsly543o",
-        "gohxe896s",
-        "gklib6jqo",
-        "gifjcc37f",
-        "gw96j1zcp"
+        "g5u1gyt9c",
+        "g48m4vidg",
+        "g949awofn",
+        "g5camq0si"
       ],
       "newIds": [
-        "gqsly543o",
-        "gohxe896s",
-        "gklib6jqo",
-        "gifjcc37f",
-        "gw96j1zcp",
-        "gls4dgy15",
-        "g57hyuelm",
-        "geg91cy2q",
-        "gmja9kp2v",
-        "go4slgb6w",
-        "gb72dv8lx",
-        "g0iluqdib",
-        "godr2qz4e",
-        "gie0au2by",
-        "gm1296gah",
-        "g8svijhf1",
-        "gyhgrysj4",
-        "glxawhstw",
-        "gy7oawf0w",
-        "gld22k702",
-        "goor334d3",
-        "gvwa4zwg2",
-        "gxshani2z",
-        "g17kxz4cm",
-        "gatg3soyn",
-        "gle9npeju",
-        "g36yaqj7f",
-        "gvz6r7sy1",
-        "gh79jcfs0",
-        "gmxiswqhb",
-        "gfivzz7nn",
-        "g8x1122vv",
-        "g9rjpdfa0",
-        "gdkef6co7",
-        "g1yiy3hsg",
-        "g8yrk1kwa",
-        "gn5esgohi",
-        "gm15xo3kf",
-        "gqtpnp68f",
-        "g6lthz9ty",
-        "gam9t6fa5",
-        "gg2s479rq",
-        "grgx50cz7",
-        "gewgvbipq",
-        "ggldrbxft",
-        "g4yrw77l6"
+        "g5u1gyt9c",
+        "g48m4vidg",
+        "gzn1npz2s",
+        "g949awofn",
+        "g5camq0si"
       ]
     }
   }

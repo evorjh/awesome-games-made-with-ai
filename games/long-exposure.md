@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, E to interact, T to pass time, Tab for field notes, F for the headlamp
-- **Likes on the original post:** 0, counted 2026-11-01
+- **Likes on the original post:** 0, counted 2026-11-16
 
 A cozy astrophotography sim where you set up a camera and tripod at a lakeside camp, wait for dark and photograph the Milky Way and Orion.
 

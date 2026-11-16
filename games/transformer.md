@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, Shift to drift, Space to jump, R to transform, F for a special, Tab to switch vehicles, click to fight
-- **Likes on the original post:** 39, counted 2026-11-01
+- **Likes on the original post:** 39, counted 2026-11-16
 
 Drive a Cybertruck or an F1 car across an open desert, then fold it into a fighting robot at the press of a key.
 

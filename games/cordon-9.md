@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, mouse to aim, left click to fire, right click for sights, R to reload, Shift to sprint, Space to jump, C to crouch or slide, 1, 2 or Q to swap weapons, E for the UAV, F for the rifle light
-- **Likes on the original post:** 933, counted 2026-11-15
+- **Likes on the original post:** 934, counted 2026-11-16
 
 Hold a rain-soaked city checkpoint against endless waves of the dead in a first-person shooter whose every model, texture and sound is made in code.
 

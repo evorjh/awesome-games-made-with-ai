@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse, E to open the doors
-- **Likes on the original post:** 183, counted 2026-11-01
+- **Likes on the original post:** 184, counted 2026-11-16
 
 A storybook tram game where you drive a small tram between hillside towns floating above the clouds and pick up travelers.
 

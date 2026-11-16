@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse; pick a verb, then click something; right-click does the obvious action
-- **Likes on the original post:** 4, counted 2026-11-01
+- **Likes on the original post:** 4, counted 2026-11-16
 
 A point-and-click pirate comedy with a nine-verb interface, where would-be captain Rupert Flintwhistle sets out to relight a haunted lighthouse.
 

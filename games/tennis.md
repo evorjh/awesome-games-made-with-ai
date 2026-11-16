@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Move the mouse to place your bat, or use W and S (or the arrow keys)
-- **Likes on the original post:** 3,058, counted 2026-11-15
+- **Likes on the original post:** 3,065, counted 2026-11-16
 
 A plain game of bat-and-ball tennis on an old black-and-white screen, until a few hits in it stops being plain at all.
 

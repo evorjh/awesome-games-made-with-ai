@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD, mouse to look, click to grab, hold to swing, release to throw; on phones, left thumb to walk, right thumb to look and a Grab button
-- **Likes on the original post:** 59, counted 2026-11-01
+- **Likes on the original post:** 59, counted 2026-11-16
 
 A first-person bouncer game in a cartoon pub where you grab rowdy patrons, swing them around and throw them out the door.
 

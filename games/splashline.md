@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Left and right arrow keys to steer, Space to jump; a thumbstick and Jump button on touch screens
-- **Likes on the original post:** 3, counted 2026-11-01
+- **Likes on the original post:** 3, counted 2026-11-16
 
 Race 12 other swimmers down a long tropical waterslide on an inflatable ring, steering to stay on the slide and jumping its ramps.
 

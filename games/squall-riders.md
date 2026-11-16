@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** W to accelerate, A and D to steer, Space to hop and trick, Shift for boost; touch buttons on phones
-- **Likes on the original post:** 5, counted 2026-11-01
+- **Likes on the original post:** 5, counted 2026-11-16
 
 Race jet skis against four rivals on a rough, rolling sea, jumping off swells for tricks that charge a speed boost.
 

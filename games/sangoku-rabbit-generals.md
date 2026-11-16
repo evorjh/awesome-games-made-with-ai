@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Drag to aim and release to fire, or arrow keys and Space
-- **Likes on the original post:** 169, counted 2026-11-01
+- **Likes on the original post:** 168, counted 2026-11-16
 
 A side-scrolling Three Kingdoms siege game where you break through eight gates with physics-driven crossbows, catapults, rams and ladders.
 

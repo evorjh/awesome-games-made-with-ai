@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** A and D or arrow keys to walk, Shift to run, mouse for menus and furniture; on-screen arrow and Use buttons on phones
-- **Likes on the original post:** 2, counted 2026-11-01
+- **Likes on the original post:** 2, counted 2026-11-16
 
 A cozy life sim about remote work, where you take contracts, build side projects and move between nine cities while keeping burnout down.
 

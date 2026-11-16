@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD, mouse, Shift to run, Space to jump, hold the mouse button to call fireflies, F or right-click to skip a stone; on phones, left thumb to walk and right thumb to look
-- **Likes on the original post:** 132, counted 2026-11-01
+- **Likes on the original post:** 132, counted 2026-11-16
 
 A calm first-person walk through a sunlit pine forest along a river, where you call fireflies and skip stones across the water.
 

@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, mouse to look, left click for a light attack, E for a heavy attack, right mouse to block, Space to roll, Q to lock on, R to drink a flask; hold Enter to skip the intro
-- **Likes on the original post:** 1,761, counted 2026-11-15
+- **Likes on the original post:** 1,777, counted 2026-11-16
 
 A souls-like boss duel against a drowned cathedral&#39;s choir mistress, made with Claude Fable 5.2, where falling never ends the fight.
 

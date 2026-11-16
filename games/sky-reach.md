@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse to steer, W and S for throttle, Shift to boost, Space to climb, click to fire, E to land
-- **Likes on the original post:** 4,039, counted 2026-11-01
+- **Likes on the original post:** 4,027, counted 2026-11-16
 
 A space-flight adventure where you skim alien hills in a starfighter, take down giant walkers and hunt for warp cores to fix your drive.
 

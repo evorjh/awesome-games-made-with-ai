@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD or arrow keys, mouse to look, F or Space for the flashlight; a joystick and a look pad on phones
-- **Likes on the original post:** 8, counted 2026-11-01
+- **Likes on the original post:** 8, counted 2026-11-16
 
 Search a pine forest at night for seven blue flowers by flashlight while spirits hunt you.
 

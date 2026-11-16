@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD to thrust, mouse or Q and E to turn the view, Space for the lamp, Shift to cut the engine; on phones, left thumb to move, right thumb to look and a Hide button to cut the engine
-- **Likes on the original post:** 53, counted 2026-11-01
+- **Likes on the original post:** 54, counted 2026-11-16
 
 A short ASCII horror game where you pilot a submersible into an uncharted cave beneath the Antarctic ice in 1972.
 

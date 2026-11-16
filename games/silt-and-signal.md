@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** W and S to accelerate and reverse, A and D to steer, E and Q to rise and descend, Shift to boost, F to interact, M for the map
-- **Likes on the original post:** 269, counted 2026-11-01
+- **Likes on the original post:** 268, counted 2026-11-16
 
 Ride a hover-bike through cliff villages, broken aqueducts and sky orchards on a voiced journey across seven worlds, with free-ride and racing modes.
 

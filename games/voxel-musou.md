@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, J to attack, K to charge, L to dodge, Space to jump, I for Musou, mouse to look, or a gamepad
-- **Likes on the original post:** 1,497, counted 2026-11-01
+- **Likes on the original post:** 1,496, counted 2026-11-16
 
 A voxel Three Kingdoms brawler where one officer cuts through hundreds of soldiers with combos, charge attacks and a Musou special.
 

@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse
-- **Likes on the original post:** 1,078, counted 2026-11-08
+- **Likes on the original post:** 1,129, counted 2026-11-16
 
 A cozy farm that teaches a language as you play: grow crops, fill orders and chat with villagers in the language you&#39;re learning.
 

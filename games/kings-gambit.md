@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Mouse or touch, click a piece and then a square, drag to orbit, scroll or pinch to zoom
-- **Likes on the original post:** 1,365, counted 2026-11-01
+- **Likes on the original post:** 1,367, counted 2026-11-16
 
 Full chess on a 3D board in a torch-lit castle hall, with animated soldiers for pieces and a computer opponent at three strengths.
 

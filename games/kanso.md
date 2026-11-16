@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse; drag to rotate, scroll to zoom, click tools and branches
-- **Likes on the original post:** 4, counted 2026-11-01
+- **Likes on the original post:** 4, counted 2026-11-16
 
 Pick a young bonsai from a nursery, then water, prune, trim and wire it as it grows from seedling to ancient tree.
 

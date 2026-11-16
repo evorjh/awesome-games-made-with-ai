@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** A and D to move, W to jump, J to strike, K to rush, S+J to sweep, J+K for the super; menus with W, S and Enter
-- **Likes on the original post:** 2,339, counted 2026-11-15
+- **Likes on the original post:** 2,381, counted 2026-11-16
 
 A 2D wuxia fighting game, called Lantern Gate in the game, that the creators say Claude Opus 5.5 built in one go.
 

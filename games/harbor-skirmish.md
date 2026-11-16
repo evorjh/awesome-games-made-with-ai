@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD, mouse, Space to jump, Shift to sprint, hold E to grapple, Q to dash, C to slide, 1-3 for weapons; on phones, drag to look and use the on-screen arrows and buttons
-- **Likes on the original post:** 52, counted 2026-11-01
+- **Likes on the original post:** 52, counted 2026-11-16
 
 A first-person wave shooter on a toy-like harbor island, where you fight off a rabbit invasion with ink weapons and a grappling hook.
 

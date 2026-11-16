@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free, with in-game purchases
 - **Controls:** W and S for throttle, arrow keys to pitch and roll, A and D for the rudder, Space to fire, Shift for turbo
-- **Likes on the original post:** 4,311, counted 2026-11-01
+- **Likes on the original post:** 4,315, counted 2026-11-16
 
 A free browser flight sim with a shared sky, where you pick a plane and fly and dogfight alongside other players.
 
