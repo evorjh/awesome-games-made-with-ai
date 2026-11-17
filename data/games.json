@@ -182,6 +182,18 @@
       "firstSeen": "2026-09-23"
     },
     {
+      "id": "gpt-astra-6-2",
+      "name": "GPT Astra 6.2",
+      "family": "gpt",
+      "released": null,
+      "major": false,
+      "aliases": [
+        "astra6.2",
+        "astra 6.2"
+      ],
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "gpt-6-astra",
       "name": "GPT-6 Astra",
       "family": "gpt",
@@ -1083,12 +1095,16 @@
       "top": [
         "g5u1gyt9c",
         "g48m4vidg",
-        "g949awofn",
-        "g5camq0si"
+        "grwulo01q",
+        "g53li02ac",
+        "g949awofn"
       ],
       "new": [
         "g5u1gyt9c",
         "g48m4vidg",
+        "grwulo01q",
+        "go44jd756",
+        "g53li02ac",
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si"
@@ -2070,6 +2086,121 @@
       "pageUrl": "https://amusehall.com/games/wildbrush/"
     },
     {
+      "id": "g5u1gyt9c",
+      "slug": "castle-valley",
+      "aliases": [],
+      "title": "Castle Valley",
+      "added": "2026-11-16",
+      "updated": "2026-11-16",
+      "creators": [
+        {
+          "handle": "__morse",
+          "name": "Tommy D. Rossi",
+          "url": "https://x.com/__morse"
+        }
+      ],
+      "primaryHandle": "__morse",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to walk, Shift to run, Space to jump, click to look around, click or F or E to swing, M to mute",
+      "brandIp": false,
+      "description": "Carry a torch and sword through a brushstroke-painted valley, past goblins and trolls on the road to a castle.",
+      "notes": "You start in a dark forest and follow the path toward a village and castle. Goblins and trolls rush in with clubs, so step back as they wind up and move in to swing. The world is built from thick strokes of color that stay on the grass, stone and trees as you move.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Tommy D. Rossi credits Claude Fable 5.2 with building the game, which recreates a pixel-art clip by Desimulate. The open repository describes how Three.js renders the landscape using roughly 2.5 million brush marks anchored in 3D.",
+        "facts": [
+          {
+            "about": "art",
+            "text": "The brush sheet has eight marks made in code. Colors are chosen when the world is built, using palettes the repository says were measured from the reference video.",
+            "sources": [
+              "https://github.com/remorses/castle-valley#how-it-looks-painted"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "Steps, blows and creature calls use short recordings. Their pitch varies on playback, and a troll uses a slowed-down goblin voice.",
+            "sources": [
+              "https://github.com/remorses/castle-valley#sound"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/__morse/status/2122013410309153042",
+          "https://x.com/__morse/status/2122014050099876291",
+          "https://github.com/remorses/castle-valley",
+          "https://github.com/remorses/castle-valley#how-it-looks-painted",
+          "https://github.com/remorses/castle-valley#sound"
+        ]
+      },
+      "likes": 4434,
+      "likesRead": "2026-11-17",
+      "posted": "2026-11-15",
+      "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
+      "evidence": {
+        "url": "https://x.com/__morse/status/2122013410309153042",
+        "quote": "fable 5.2 created it for real. playable in your browser"
+      },
+      "playUrl": "https://omw-game.kimaki.dev/",
+      "price": "free",
+      "codeUrl": "https://github.com/remorses/castle-valley",
+      "media": {
+        "still": "https://media.amusehall.com/castle-valley/still.webp?v=626907c74f",
+        "preview": "https://media.amusehall.com/castle-valley/preview.webp?v=499c137c0e",
+        "clip": "https://media.amusehall.com/castle-valley/clip.mp4?v=652ad2ef7e",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/castle-valley/"
+    },
+    {
       "id": "ggfzbxt7z",
       "slug": "storm-race",
       "aliases": [],
@@ -2930,26 +3061,26 @@
       "pageUrl": "https://amusehall.com/games/super-smash-royale/"
     },
     {
-      "id": "g5u1gyt9c",
-      "slug": "castle-valley",
+      "id": "g48m4vidg",
+      "slug": "getting-there",
       "aliases": [],
-      "title": "Castle Valley",
+      "title": "Getting There",
       "added": "2026-11-16",
       "updated": "2026-11-16",
       "creators": [
         {
-          "handle": "__morse",
-          "name": "Tommy D. Rossi",
-          "url": "https://x.com/__morse"
+          "handle": "Rubzem",
+          "name": "S",
+          "url": "https://x.com/Rubzem"
         }
       ],
-      "primaryHandle": "__morse",
+      "primaryHandle": "Rubzem",
       "credits": [
         {
           "label": "Claude Fable 5.2",
           "modelId": "claude-fable-5-2",
           "familyId": "claude",
-          "toolId": null
+          "toolId": "tesana"
         }
       ],
       "primaryFamily": "claude",
@@ -2960,6 +3091,13 @@
         "claude-fable-5-2"
       ],
       "tools": [
+        {
+          "id": "tesana",
+          "name": "Tesana",
+          "kind": "ai",
+          "family": null,
+          "referral_url": null
+        },
         {
           "id": "threejs",
           "name": "Three.js",
@@ -2974,21 +3112,17 @@
           "name": "Adventure"
         },
         {
-          "id": "exploration",
-          "name": "Exploration"
-        },
-        {
-          "id": "action",
-          "name": "Action"
+          "id": "cozy",
+          "name": "Cozy"
         }
       ],
       "devices": [
         "desktop"
       ],
-      "controls": "WASD or arrows to walk, Shift to run, Space to jump, click to look around, click or F or E to swing, M to mute",
+      "controls": "Arrow keys to walk, Shift to run, Space to interact",
       "brandIp": false,
-      "description": "Carry a torch and sword through a brushstroke-painted valley, past goblins and trolls on the road to a castle.",
-      "notes": "You start in a dark forest and follow the path toward a village and castle. Goblins and trolls rush in with clubs, so step back as they wind up and move in to swing. The world is built from thick strokes of color that stay on the grass, stone and trees as you move.",
+      "description": "Take the long way home with a kid and a dog named Moss, by foot, canoe, train and more across fourteen storybook chapters.",
+      "notes": "Pack the camper and call Moss to start the journey. Along the way, you can pet animals, help people you meet and spend part of the trip playing as Moss. The chapters move at your pace, with no timer or fail state.",
       "prompt": {
         "shared": false,
         "partial": false,
@@ -2996,53 +3130,68 @@
         "text": null
       },
       "makingOf": {
-        "summary": "Tommy D. Rossi credits Claude Fable 5.2 with building the game, which recreates a pixel-art clip by Desimulate. The open repository describes how Three.js renders the landscape using roughly 2.5 million brush marks anchored in 3D.",
+        "summary": "Rubzem used Claude Fable 5.2 on Tesana to make a 2D storybook game and describes the build as “Made from scratch in 4 hours.” In the replies, the creator says they used Three.js on Tesana and made all of the game’s assets there.",
         "facts": [
           {
-            "about": "art",
-            "text": "The brush sheet has eight marks made in code. Colors are chosen when the world is built, using palettes the repository says were measured from the reference video.",
+            "about": "time",
+            "text": "The creator describes the build as “Made from scratch in 4 hours.”",
             "sources": [
-              "https://github.com/remorses/castle-valley#how-it-looks-painted"
+              "https://x.com/Rubzem/status/2122013352755126431"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The creator asked for a hand-painted look and says the assets were made procedurally.",
+            "sources": [
+              "https://x.com/Rubzem/status/2122013352755126431"
             ]
           },
           {
             "about": "sound",
-            "text": "Steps, blows and creature calls use short recordings. Their pitch varies on playback, and a troll uses a slowed-down goblin voice.",
+            "text": "The sounds were made procedurally, according to the creator.",
             "sources": [
-              "https://github.com/remorses/castle-valley#sound"
+              "https://x.com/Rubzem/status/2122013352755126431"
+            ]
+          },
+          {
+            "about": "code",
+            "text": "Rubzem names Three.js and Tesana in a follow-up and says the entire game was made on Tesana.",
+            "sources": [
+              "https://x.com/Rubzem/status/2122214078060114354",
+              "https://x.com/Rubzem/status/2122218879783174186"
             ]
           }
         ],
         "sources": [
-          "https://x.com/__morse/status/2122013410309153042",
-          "https://x.com/__morse/status/2122014050099876291",
-          "https://github.com/remorses/castle-valley",
-          "https://github.com/remorses/castle-valley#how-it-looks-painted",
-          "https://github.com/remorses/castle-valley#sound"
+          "https://x.com/Rubzem/status/2122013352755126431",
+          "https://x.com/Rubzem/status/2122013499467694497",
+          "https://x.com/Rubzem/status/2122214078060114354",
+          "https://x.com/Rubzem/status/2122218879783174186",
+          "https://tesana.com/game/getting-there"
         ]
       },
-      "likes": 2931,
-      "likesRead": "2026-11-16",
+      "likes": 2551,
+      "likesRead": "2026-11-17",
       "posted": "2026-11-15",
-      "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
+      "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
       "evidence": {
-        "url": "https://x.com/__morse/status/2122013410309153042",
-        "quote": "fable 5.2 created it for real. playable in your browser"
+        "url": "https://x.com/Rubzem/status/2122013352755126431",
+        "quote": "I asked Fable 5.2 for a beautiful & low-cortisol 2D game with a hand-painted feel."
       },
-      "playUrl": "https://omw-game.kimaki.dev/",
+      "playUrl": "https://tesana.com/game/getting-there",
       "price": "free",
-      "codeUrl": "https://github.com/remorses/castle-valley",
+      "codeUrl": null,
       "media": {
-        "still": "https://media.amusehall.com/castle-valley/still.webp?v=626907c74f",
-        "preview": "https://media.amusehall.com/castle-valley/preview.webp?v=499c137c0e",
-        "clip": "https://media.amusehall.com/castle-valley/clip.mp4?v=652ad2ef7e",
+        "still": "https://media.amusehall.com/getting-there/still.webp?v=73a6f53d07",
+        "preview": "https://media.amusehall.com/getting-there/preview.webp?v=293b42cfb2",
+        "clip": "https://media.amusehall.com/getting-there/clip.mp4?v=7b63b4f474",
         "unrecordable": null
       },
       "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
-      "pageUrl": "https://amusehall.com/games/castle-valley/"
+      "pageUrl": "https://amusehall.com/games/getting-there/"
     },
     {
       "id": "g57hyuelm",
@@ -4521,26 +4670,26 @@
       "pageUrl": "https://amusehall.com/games/kings-gambit/"
     },
     {
-      "id": "g48m4vidg",
-      "slug": "getting-there",
+      "id": "grwulo01q",
+      "slug": "vice-86",
       "aliases": [],
-      "title": "Getting There",
-      "added": "2026-11-16",
-      "updated": "2026-11-16",
+      "title": "VICE ’86",
+      "added": "2026-11-17",
+      "updated": "2026-11-17",
       "creators": [
         {
-          "handle": "Rubzem",
-          "name": "S",
-          "url": "https://x.com/Rubzem"
+          "handle": "AravSrinivas",
+          "name": "Aravind Srinivas",
+          "url": "https://x.com/AravSrinivas"
         }
       ],
-      "primaryHandle": "Rubzem",
+      "primaryHandle": "AravSrinivas",
       "credits": [
         {
           "label": "Claude Fable 5.2",
           "modelId": "claude-fable-5-2",
           "familyId": "claude",
-          "toolId": "tesana"
+          "toolId": "perplexity"
         }
       ],
       "primaryFamily": "claude",
@@ -4552,37 +4701,34 @@
       ],
       "tools": [
         {
-          "id": "tesana",
-          "name": "Tesana",
+          "id": "perplexity",
+          "name": "Perplexity",
           "kind": "ai",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
           "family": null,
           "referral_url": null
         }
       ],
       "genres": [
         {
-          "id": "adventure",
-          "name": "Adventure"
+          "id": "racing",
+          "name": "Racing"
         },
         {
-          "id": "cozy",
-          "name": "Cozy"
+          "id": "open-world",
+          "name": "Open world"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
         }
       ],
       "devices": [
         "desktop"
       ],
-      "controls": "Arrow keys to walk, Shift to run, Space to interact",
+      "controls": "WASD or arrows to drive, Space for the handbrake, left Shift for nitrous, C to change camera, R to recover, T for time, Y for weather, Esc to pause",
       "brandIp": false,
-      "description": "Take the long way home with a kid and a dog named Moss, by foot, canoe, train and more across fourteen storybook chapters.",
-      "notes": "Pack the camper and call Moss to start the journey. Along the way, you can pet animals, help people you meet and spend part of the trip playing as Moss. The chapters move at your pace, with no timer or fail state.",
+      "description": "Drive a sports car through a neon-lit coastal city, with a garage, changing weather and traffic on the streets.",
+      "notes": "Choose a car and color in the garage, then drive through the palm-lined streets of Southpoint Beach. Traffic and parked cars give you something to steer around, while nitrous and the handbrake let you push the handling. The first load takes time to compile shaders; the driving view and minimap then follow your car through the city.",
       "prompt": {
         "shared": false,
         "partial": false,
@@ -4590,68 +4736,56 @@
         "text": null
       },
       "makingOf": {
-        "summary": "Rubzem used Claude Fable 5.2 on Tesana to make a 2D storybook game and describes the build as “Made from scratch in 4 hours.” In the replies, the creator says they used Three.js on Tesana and made all of the game’s assets there.",
+        "summary": "Aravind Srinivas says Perplexity Teammate built the game with Claude Fable 5.2. Rather than using a game engine or Three.js, it wrote a WebGL2 renderer and generated the city and its assets in code.",
         "facts": [
           {
-            "about": "time",
-            "text": "The creator describes the build as “Made from scratch in 4 hours.”",
+            "about": "code",
+            "text": "The creator reports about 63,000 lines of JavaScript in a 9 MB game.",
             "sources": [
-              "https://x.com/Rubzem/status/2122013352755126431"
+              "https://x.com/AravSrinivas/status/2122338465648103676"
             ]
           },
           {
             "about": "art",
-            "text": "The creator asked for a hand-painted look and says the assets were made procedurally.",
+            "text": "The creator says the city, cars, garage and rain are generated by code, with no external assets.",
             "sources": [
-              "https://x.com/Rubzem/status/2122013352755126431"
+              "https://x.com/AravSrinivas/status/2122338465648103676"
             ]
           },
           {
             "about": "sound",
-            "text": "The sounds were made procedurally, according to the creator.",
+            "text": "The creator says the engine sounds are generated in code too.",
             "sources": [
-              "https://x.com/Rubzem/status/2122013352755126431"
-            ]
-          },
-          {
-            "about": "code",
-            "text": "Rubzem names Three.js and Tesana in a follow-up and says the entire game was made on Tesana.",
-            "sources": [
-              "https://x.com/Rubzem/status/2122214078060114354",
-              "https://x.com/Rubzem/status/2122218879783174186"
+              "https://x.com/AravSrinivas/status/2122338465648103676"
             ]
           }
         ],
         "sources": [
-          "https://x.com/Rubzem/status/2122013352755126431",
-          "https://x.com/Rubzem/status/2122013499467694497",
-          "https://x.com/Rubzem/status/2122214078060114354",
-          "https://x.com/Rubzem/status/2122218879783174186",
-          "https://tesana.com/game/getting-there"
+          "https://x.com/AravSrinivas/status/2122338465648103676"
         ]
       },
-      "likes": 1323,
-      "likesRead": "2026-11-16",
-      "posted": "2026-11-15",
-      "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
+      "likes": 1179,
+      "likesRead": "2026-11-17",
+      "posted": "2026-11-16",
+      "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
       "evidence": {
-        "url": "https://x.com/Rubzem/status/2122013352755126431",
-        "quote": "I asked Fable 5.2 for a beautiful & low-cortisol 2D game with a hand-painted feel."
+        "url": "https://x.com/AravSrinivas/status/2122338465648103676",
+        "quote": "Teammate on Fable 5.2 built an open-world driving game"
       },
-      "playUrl": "https://tesana.com/game/getting-there",
+      "playUrl": "https://heat.pplx.app/",
       "price": "free",
       "codeUrl": null,
       "media": {
-        "still": "https://media.amusehall.com/getting-there/still.webp?v=73a6f53d07",
-        "preview": "https://media.amusehall.com/getting-there/preview.webp?v=293b42cfb2",
-        "clip": "https://media.amusehall.com/getting-there/clip.mp4?v=7b63b4f474",
+        "still": "https://media.amusehall.com/vice-86/still.webp?v=640211c8d6",
+        "preview": "https://media.amusehall.com/vice-86/preview.webp?v=3e1fd67937",
+        "clip": "https://media.amusehall.com/vice-86/clip.mp4?v=9d3d768b55",
         "unrecordable": null
       },
       "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
-      "pageUrl": "https://amusehall.com/games/getting-there/"
+      "pageUrl": "https://amusehall.com/games/vice-86/"
     },
     {
       "id": "go98yri36",
@@ -8271,6 +8405,99 @@
       "pageUrl": "https://amusehall.com/games/double-feature/"
     },
     {
+      "id": "go44jd756",
+      "slug": "mario-kart-ruby-tour",
+      "aliases": [],
+      "title": "Mario Kart 8 · Ruby Tour",
+      "added": "2026-11-17",
+      "updated": "2026-11-17",
+      "creators": [
+        {
+          "handle": "N1n3VASthR33H",
+          "url": "https://space.bilibili.com/3546385209100986"
+        }
+      ],
+      "primaryHandle": "N1n3VASthR33H",
+      "credits": [
+        {
+          "label": "GPT Astra 6.2",
+          "modelId": "gpt-astra-6-2",
+          "familyId": "gpt",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [
+        "gpt-astra-6-2"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "W to accelerate, left and right arrows to steer, Space to drift or perform a trick, E to use an item, R to recover",
+      "brandIp": true,
+      "description": "Race Mario and friends around seven circuits inside a virtual 3DS, Switch or Wii U shell, with drifting, items and kart setup.",
+      "notes": "Pick a circuit, engine class and race mode on the lower screen, then race on the upper one. The map shows bends and the pack while you steer, drift and use items. A garage lets you change the driver and kart setup. This is an unofficial Nintendo fan recreation, so Amusehall shows a still rather than a moving preview.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "N1n3VASthR33H describes making the HTML game over several rounds of conversation. The repository calls it a test of an Astra 6.2 grey-release model; that is the creator’s model attribution.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The creator says “数轮对话制作” (made over several rounds of conversation) and “游戏完全由html写成” (the game is entirely written in HTML). The repository offers a self-contained HTML download as well as browser play.",
+            "sources": [
+              "https://www.bilibili.com/video/BV1vUxX66E3f",
+              "https://github.com/vvvvvvvvvashhh/ruby-kart"
+            ]
+          }
+        ],
+        "sources": [
+          "https://www.bilibili.com/video/BV1vUxX66E3f",
+          "https://github.com/vvvvvvvvvashhh/ruby-kart"
+        ]
+      },
+      "likes": 184,
+      "likesRead": "2026-11-17",
+      "posted": "2026-11-04",
+      "sourceUrl": "https://www.bilibili.com/video/BV1vUxX66E3f",
+      "evidence": {
+        "url": "https://github.com/vvvvvvvvvashhh/ruby-kart",
+        "quote": "此项目为Astra6.2灰度模型推送测试"
+      },
+      "playUrl": "https://ruby-kart-eight-circuits.vvvvvvvvvashhh.chatgpt.site/",
+      "price": "free",
+      "codeUrl": "https://github.com/vvvvvvvvvashhh/ruby-kart",
+      "media": {
+        "still": "https://media.amusehall.com/mario-kart-ruby-tour/still.webp?v=cd2beff134",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/mario-kart-ruby-tour/"
+    },
+    {
       "id": "gb5kg9kry",
       "slug": "last-train-to-the-sea",
       "aliases": [],
@@ -9626,6 +9853,120 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/kettu-vellam/"
+    },
+    {
+      "id": "g53li02ac",
+      "slug": "inbox-zero",
+      "aliases": [],
+      "title": "收件箱清零",
+      "added": "2026-11-17",
+      "updated": "2026-11-17",
+      "creators": [
+        {
+          "handle": "MiaAINews",
+          "name": "Mia 码上 AI",
+          "url": "https://www.youtube.com/@MiaAINews"
+        }
+      ],
+      "primaryHandle": "MiaAINews",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Mouse or left/right arrows to move the paddle, click or Space to launch, number keys or clicks to choose upgrades, P to pause, M to mute",
+      "brandIp": false,
+      "description": "Clear unread messages with a breakout paddle across five office workdays, then face the boss on Friday.",
+      "notes": "Emails, group chats and calendar reminders form the bricks above your paddle. Keep the ball up to mark messages as read, using red @everyone bricks to clear a cluster. The workweek brings new rules and ends with a Friday boss; weekend cards add upgrades for the next week. The default version is Mia’s revised Opus build, with the earlier Claude and Codex versions available alongside it.",
+      "prompt": {
+        "shared": true,
+        "partial": false,
+        "source_url": "https://miaainow.com/zh/games/inbox-zero/",
+        "text": "This game isn't fun enough yet. Make it a LOT more fun."
+      },
+      "makingOf": {
+        "summary": "Mia gave Claude Opus 5.5 an existing breakout game and the short instruction shown below. After playing its rewrite, Mia asked for another revision to reduce empty waiting time and introduce the new mechanics earlier.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "Mia reports “127 分钟” (127 minutes) for the Ultracode rewrite, followed by “10 分钟” (10 minutes) for the revision.",
+            "sources": [
+              "https://miaainow.com/zh/games/inbox-zero/"
+            ]
+          },
+          {
+            "about": "code",
+            "text": "Mia says Claude Code used 19 subagents, first wrote a playtesting script and then held a design meeting. A later test with Mia’s own bot measured idle ball time falling from 17.5% to 6.7% on the phone layout.",
+            "sources": [
+              "https://miaainow.com/zh/games/inbox-zero/"
+            ]
+          },
+          {
+            "about": "cost",
+            "text": "The comparison lists “$57.78” at API prices for the Ultracode rewrite.",
+            "sources": [
+              "https://miaainow.com/zh/games/inbox-zero/"
+            ]
+          }
+        ],
+        "tips": [
+          "Mia’s takeaway is to test with an imperfect player as well as a skilled bot: a bot that never misses can hide long stretches of uninteresting play."
+        ],
+        "sources": [
+          "https://miaainow.com/zh/games/inbox-zero/",
+          "https://www.youtube.com/watch?v=q3CpuRXA-sw"
+        ]
+      },
+      "likes": 67,
+      "likesRead": "2026-11-17",
+      "posted": "2026-11-04",
+      "sourceUrl": "https://www.youtube.com/watch?v=q3CpuRXA-sw",
+      "evidence": {
+        "url": "https://miaainow.com/zh/games/inbox-zero/",
+        "quote": "Claude Opus 5.5 在 Claude Code 里做的（第一轮开着 Ultracode）"
+      },
+      "playUrl": "https://miaainow.com/zh/games/inbox-zero/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/inbox-zero/still.webp?v=d8585fab8b",
+        "preview": "https://media.amusehall.com/inbox-zero/preview.webp?v=97c785aa14",
+        "clip": "https://media.amusehall.com/inbox-zero/clip.mp4?v=d066fcf9c1",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/inbox-zero/"
     },
     {
       "id": "gfivzz7nn",
@@ -20561,13 +20902,13 @@
       "gameIds": [
         "gqsly543o",
         "gohxe896s",
+        "g5u1gyt9c",
         "gklib6jqo",
         "gifjcc37f",
-        "g5u1gyt9c",
+        "g48m4vidg",
         "g57hyuelm",
         "gw96j1zcp",
-        "geg91cy2q",
-        "go4slgb6w"
+        "geg91cy2q"
       ]
     },
     "families": [
@@ -20580,13 +20921,14 @@
           "gohxe896s",
           "g7er41or1",
           "grrn1mt5i",
+          "g5u1gyt9c",
           "gklib6jqo",
           "g8ze3q86y",
           "gng0kobry",
           "g0u52kl87",
           "gjh98608z",
           "gifjcc37f",
-          "g5u1gyt9c",
+          "g48m4vidg",
           "g57hyuelm",
           "g27qw9jqs",
           "gw96j1zcp",
@@ -20599,7 +20941,7 @@
           "g9t4d43un",
           "gmja9kp2v",
           "go4slgb6w",
-          "g48m4vidg",
+          "grwulo01q",
           "go98yri36",
           "gb72dv8lx",
           "gmewfnndy",
@@ -20636,6 +20978,7 @@
           "gdjlcx9uv",
           "gh79jcfs0",
           "g5pav1sj5",
+          "g53li02ac",
           "gfivzz7nn",
           "gy98g0zma",
           "g8x1122vv",
@@ -20751,6 +21094,7 @@
           "g4slt3fal",
           "gnqa68iap",
           "goor334d3",
+          "go44jd756",
           "go74usldh",
           "g0licbu6a",
           "g6av67v0c",
@@ -20791,12 +21135,16 @@
       "topIds": [
         "g5u1gyt9c",
         "g48m4vidg",
-        "g949awofn",
-        "g5camq0si"
+        "grwulo01q",
+        "g53li02ac",
+        "g949awofn"
       ],
       "newIds": [
         "g5u1gyt9c",
         "g48m4vidg",
+        "grwulo01q",
+        "go44jd756",
+        "g53li02ac",
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si"

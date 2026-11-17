@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Arrow keys to walk, Shift to run, Space to interact
-- **Likes on the original post:** 1,323, counted 2026-11-16
+- **Likes on the original post:** 2,551, counted 2026-11-17
 
 Take the long way home with a kid and a dog named Moss, by foot, canoe, train and more across fourteen storybook chapters.
 
