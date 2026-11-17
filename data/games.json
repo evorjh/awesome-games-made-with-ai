@@ -1107,7 +1107,8 @@
         "g53li02ac",
         "gzn1npz2s",
         "g949awofn",
-        "g5camq0si"
+        "g5camq0si",
+        "gsht02b37"
       ]
     }
   ],
@@ -13809,6 +13810,108 @@
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
     },
     {
+      "id": "gsht02b37",
+      "slug": "word-seesaw",
+      "aliases": [],
+      "title": "Word Seesaw",
+      "added": "2026-11-17",
+      "updated": "2026-11-17",
+      "creators": [
+        {
+          "handle": "Intellikode AS",
+          "name": "Intellikode AS",
+          "url": "https://wordseesaw.com/"
+        }
+      ],
+      "primaryHandle": "Intellikode AS",
+      "credits": [
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Click or tap any two letter tiles to swap them",
+      "brandIp": false,
+      "description": "Swap letter tiles to answer each row’s clue, then see how your move count compares with the daily puzzle’s minimum.",
+      "notes": "Each row has a clue, and you can swap tiles across rows or within one row. Once you solve the board, the game shows how many swaps you took and the fewest possible. The daily puzzle is free without an account. A paid pack offers more boards.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Intellikode AS used Codex to help write the game and its tests. Repeated letters made the minimum swap count tricky because several tiles can fill the same spot, and those choices can lead to different totals.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The solver tries the matching misplaced tiles for the first wrong slot and caches the resulting boards. The team checked its answers against an exhaustive search on small boards, and the server replays players’ moves to score a solution.",
+            "sources": [
+              "https://www.reddit.com/r/aigamedev/comments/1xxpkaj/word_seesaw_testing_the_fewestswaps_score_in_an/"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The team used AI to create artwork and draft puzzles.",
+            "sources": [
+              "https://www.reddit.com/r/aigamedev/comments/1xxpkaj/word_seesaw_testing_the_fewestswaps_score_in_an/"
+            ]
+          }
+        ],
+        "sources": [
+          "https://www.reddit.com/r/aigamedev/comments/1xxpkaj/word_seesaw_testing_the_fewestswaps_score_in_an/"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": null,
+      "sourceUrl": "https://www.reddit.com/r/aigamedev/comments/1xxpkaj/word_seesaw_testing_the_fewestswaps_score_in_an/",
+      "evidence": {
+        "url": "https://www.reddit.com/r/aigamedev/comments/1xxpkaj/word_seesaw_testing_the_fewestswaps_score_in_an/",
+        "quote": "Codex helped write the game and its tests"
+      },
+      "playUrl": "https://wordseesaw.com/",
+      "price": "free-with-purchases",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/word-seesaw/still.webp?v=2064d205a9",
+        "preview": "https://media.amusehall.com/word-seesaw/preview.webp?v=2faa0e41ac",
+        "clip": "https://media.amusehall.com/word-seesaw/clip.mp4?v=ce0c3023b2",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/word-seesaw/"
+    },
+    {
       "id": "gm15xo3kf",
       "slug": "tour-du-pain",
       "aliases": [],
@@ -21108,6 +21211,7 @@
           "gf8t89ggq",
           "g55tfp6uh",
           "galxnak4n",
+          "gsht02b37",
           "g4en32oxa",
           "gyb95lxs0",
           "gjwayut53",
@@ -21147,7 +21251,8 @@
         "g53li02ac",
         "gzn1npz2s",
         "g949awofn",
-        "g5camq0si"
+        "g5camq0si",
+        "gsht02b37"
       ]
     }
   }
