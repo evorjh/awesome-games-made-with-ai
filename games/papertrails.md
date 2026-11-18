@@ -2,7 +2,7 @@
 
 **[▶ Play Papertrails](https://amusehall.com/games/papertrails/?utm_source=github&utm_medium=game-file&utm_campaign=awesome-games-made-with-ai)** · [Original post](https://x.com/xikhar/status/2122682962647122403)
 
-<a href="https://amusehall.com/games/papertrails/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/papertrails/preview.webp?v=448bf3ae23" alt="Papertrails by @xikhar" width="100%"></a>
+<a href="https://amusehall.com/games/papertrails/?utm_source=github&amp;utm_medium=game-file&amp;utm_campaign=awesome-games-made-with-ai"><img src="https://media.amusehall.com/papertrails/preview.webp?v=99cfa649a6" alt="Papertrails by @xikhar" width="100%"></a>
 
 - **Made with:** Claude Fable 5.2, Claude Opus 5.5
 - **Where they name the AI:** [“Built with Fable 5.2 and Opus 5.5”](https://x.com/xikhar/status/2122682962647122403)
