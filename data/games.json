@@ -22,6 +22,11 @@
   },
   "families": [
     {
+      "id": "gpt",
+      "name": "GPT and Codex",
+      "maker": "OpenAI"
+    },
+    {
       "id": "claude",
       "name": "Claude",
       "maker": "Anthropic"
@@ -30,11 +35,6 @@
       "id": "gemini",
       "name": "Gemini",
       "maker": "Google"
-    },
-    {
-      "id": "gpt",
-      "name": "GPT and Codex",
-      "maker": "OpenAI"
     },
     {
       "id": "grok",
@@ -183,15 +183,29 @@
     },
     {
       "id": "gpt-astra-6-2",
-      "name": "GPT Astra 6.2",
+      "name": "GPT-6.2 Astra",
       "family": "gpt",
-      "released": null,
-      "major": false,
+      "released": "2026-11-17",
+      "major": true,
       "aliases": [
         "astra6.2",
-        "astra 6.2"
+        "astra 6.2",
+        "gpt astra 6.2",
+        "gpt 6.2 astra"
       ],
       "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "gpt-6-2-sol",
+      "name": "GPT-6.2 Sol",
+      "family": "gpt",
+      "released": "2026-11-17",
+      "major": true,
+      "aliases": [
+        "sol 6.2",
+        "gpt 6.2 sol"
+      ],
+      "firstSeen": null
     },
     {
       "id": "gpt-6-astra",
@@ -1095,19 +1109,21 @@
       "top": [
         "g5u1gyt9c",
         "g48m4vidg",
+        "ghvfh9vrb",
         "grwulo01q",
-        "g53li02ac",
-        "g949awofn"
+        "g53li02ac"
       ],
       "new": [
         "g5u1gyt9c",
         "g48m4vidg",
+        "ghvfh9vrb",
         "grwulo01q",
         "go44jd756",
         "g53li02ac",
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "gpobr6gu9",
         "gsht02b37"
       ]
     }
@@ -2178,8 +2194,8 @@
           "https://github.com/remorses/castle-valley#sound"
         ]
       },
-      "likes": 4434,
-      "likesRead": "2026-11-17",
+      "likes": 4470,
+      "likesRead": "2026-11-18",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
       "evidence": {
@@ -3171,8 +3187,8 @@
           "https://tesana.com/game/getting-there"
         ]
       },
-      "likes": 2551,
-      "likesRead": "2026-11-17",
+      "likes": 2597,
+      "likesRead": "2026-11-18",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
       "evidence": {
@@ -3896,6 +3912,131 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/rocket-arena/"
+    },
+    {
+      "id": "ghvfh9vrb",
+      "slug": "papertrails",
+      "aliases": [],
+      "title": "Papertrails",
+      "added": "2026-11-18",
+      "updated": "2026-11-18",
+      "creators": [
+        {
+          "handle": "xikhar",
+          "name": "Shikhar",
+          "url": "https://x.com/xikhar"
+        }
+      ],
+      "primaryHandle": "xikhar",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        },
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2",
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or click to walk, Shift to run, Ctrl to slow down, Tab for the map, N for night, M for music and V to change the view",
+      "brandIp": false,
+      "description": "Walk through a pop-up book where paper hills, trees and villages unfold ahead of you.",
+      "notes": "Take a paper traveler past little houses and over a stream, with paper trees and paths unfolding as you walk. You can open the map, switch to night or change the camera view. The point is to wander and see what unfolds along the way.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Shikhar shared the starting prompt, which sets out the look of a pop-up book and asks the agent to compare its work with visual references. The agent generated concept frames with GPT Image, collected photos of real pop-ups, and measured color, edges and lighting.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The agent assigned each part to a subagent and used blind critics to compare each build with the reference.",
+            "sources": [
+              "https://x.com/xikhar/status/2122682971664916978"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Shikhar describes generating the printed art as one atlas and cutting pieces from it for the hinged cards.",
+            "sources": [
+              "https://x.com/xikhar/status/2122682971664916978"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "Shikhar describes making style guides for a target of 15 biome types and using GPT Image for weather references.",
+            "sources": [
+              "https://x.com/xikhar/status/2122682974856794385"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/xikhar/status/2122682962647122403",
+          "https://x.com/xikhar/status/2122682965247639606/photo/1",
+          "https://x.com/xikhar/status/2122682968074522767",
+          "https://x.com/xikhar/status/2122682971664916978",
+          "https://x.com/xikhar/status/2122682974856794385"
+        ]
+      },
+      "likes": 1797,
+      "likesRead": "2026-11-18",
+      "posted": "2026-11-17",
+      "sourceUrl": "https://x.com/xikhar/status/2122682962647122403",
+      "evidence": {
+        "url": "https://x.com/xikhar/status/2122682962647122403",
+        "quote": "Built with Fable 5.2 and Opus 5.5"
+      },
+      "playUrl": "https://xikhar.github.io/papertrails/",
+      "price": "free",
+      "codeUrl": "https://github.com/xikhar/papertrails",
+      "media": {
+        "still": "https://media.amusehall.com/papertrails/still.webp?v=81e2651648",
+        "preview": "https://media.amusehall.com/papertrails/preview.webp?v=448bf3ae23",
+        "clip": "https://media.amusehall.com/papertrails/clip.mp4?v=51f9194eab",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/papertrails/"
     },
     {
       "id": "geg91cy2q",
@@ -4765,8 +4906,8 @@
           "https://x.com/AravSrinivas/status/2122338465648103676"
         ]
       },
-      "likes": 1179,
-      "likesRead": "2026-11-17",
+      "likes": 1256,
+      "likesRead": "2026-11-18",
       "posted": "2026-11-16",
       "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
       "evidence": {
@@ -8421,7 +8562,7 @@
       "primaryHandle": "N1n3VASthR33H",
       "credits": [
         {
-          "label": "GPT Astra 6.2",
+          "label": "GPT-6.2 Astra",
           "modelId": "gpt-astra-6-2",
           "familyId": "gpt",
           "toolId": null
@@ -8476,7 +8617,7 @@
         ]
       },
       "likes": 184,
-      "likesRead": "2026-11-17",
+      "likesRead": "2026-11-18",
       "posted": "2026-11-04",
       "sourceUrl": "https://www.bilibili.com/video/BV1vUxX66E3f",
       "evidence": {
@@ -9947,7 +10088,7 @@
         ]
       },
       "likes": 67,
-      "likesRead": "2026-11-17",
+      "likesRead": "2026-11-18",
       "posted": "2026-11-04",
       "sourceUrl": "https://www.youtube.com/watch?v=q3CpuRXA-sw",
       "evidence": {
@@ -13808,6 +13949,97 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gpobr6gu9",
+      "slug": "until-the-first-train",
+      "aliases": [],
+      "title": "Until the First Train — Overtime Survival",
+      "added": "2026-11-18",
+      "updated": "2026-11-18",
+      "creators": [
+        {
+          "handle": "hanpan",
+          "url": "https://github.com/wodn5515"
+        }
+      ],
+      "primaryHandle": "hanpan",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to move, Space to dodge, E for your ultimate and 1–3 to choose upgrades",
+      "brandIp": false,
+      "description": "Clock into an office night shift, dodge waves of enemies and turn staplers and auto-replies into weapons.",
+      "notes": "Start as an intern and try to survive long enough to earn a promotion. Attacks fire on their own as you move around the office. Pick up sticky notes to level up and choose weapons or perks such as homing auto-replies and a PA megaphone.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Hanpan credits Claude Opus 5.5 with the entire build. They say bots played hundreds of runs to tune the balance.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The game uses vanilla JavaScript and an HTML5 canvas.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/141"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/141"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-08",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/141",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/141",
+        "quote": "Built entirely with Claude (Opus 5.5)"
+      },
+      "playUrl": "https://yageun.hanpan.dev/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/until-the-first-train/still.webp?v=2080c5f303",
+        "preview": "https://media.amusehall.com/until-the-first-train/preview.webp?v=bc6ea4681a",
+        "clip": "https://media.amusehall.com/until-the-first-train/clip.mp4?v=d6a1315546",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/until-the-first-train/"
     },
     {
       "id": "gsht02b37",
@@ -21011,10 +21243,46 @@
         "g48m4vidg",
         "g57hyuelm",
         "gw96j1zcp",
-        "geg91cy2q"
+        "ghvfh9vrb"
       ]
     },
     "families": [
+      {
+        "familyId": "gpt",
+        "gameIds": [
+          "g1bjx9y59",
+          "ggfzbxt7z",
+          "gbb6qnox9",
+          "gfn5t9qc7",
+          "gw6g09v6h",
+          "gjaguhz9t",
+          "ghr9cl8oz",
+          "g4slt3fal",
+          "gnqa68iap",
+          "goor334d3",
+          "go44jd756",
+          "go74usldh",
+          "g0licbu6a",
+          "g6av67v0c",
+          "gmxiswqhb",
+          "g3v8d1w6z",
+          "gupsk4h7x",
+          "g1yiy3hsg",
+          "glmkik999",
+          "gzxcj7c46",
+          "gicshdup0",
+          "gf8t89ggq",
+          "g55tfp6uh",
+          "galxnak4n",
+          "gsht02b37",
+          "g4en32oxa",
+          "gyb95lxs0",
+          "gjwayut53",
+          "gdk176s3l",
+          "g1oxzxukr",
+          "g2r51p2c2"
+        ]
+      },
       {
         "familyId": "claude",
         "gameIds": [
@@ -21040,6 +21308,7 @@
           "g5n1e788h",
           "gpmj9q9ol",
           "gk98c3y8t",
+          "ghvfh9vrb",
           "geg91cy2q",
           "g9t4d43un",
           "gmja9kp2v",
@@ -21110,6 +21379,7 @@
           "g5camq0si",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "gpobr6gu9",
           "gm15xo3kf",
           "gqtpnp68f",
           "g6lthz9ty",
@@ -21183,42 +21453,6 @@
           "g7lsoeejk",
           "g4yrw77l6"
         ]
-      },
-      {
-        "familyId": "gpt",
-        "gameIds": [
-          "g1bjx9y59",
-          "ggfzbxt7z",
-          "gbb6qnox9",
-          "gfn5t9qc7",
-          "gw6g09v6h",
-          "gjaguhz9t",
-          "ghr9cl8oz",
-          "g4slt3fal",
-          "gnqa68iap",
-          "goor334d3",
-          "go44jd756",
-          "go74usldh",
-          "g0licbu6a",
-          "g6av67v0c",
-          "gmxiswqhb",
-          "g3v8d1w6z",
-          "gupsk4h7x",
-          "g1yiy3hsg",
-          "glmkik999",
-          "gzxcj7c46",
-          "gicshdup0",
-          "gf8t89ggq",
-          "g55tfp6uh",
-          "galxnak4n",
-          "gsht02b37",
-          "g4en32oxa",
-          "gyb95lxs0",
-          "gjwayut53",
-          "gdk176s3l",
-          "g1oxzxukr",
-          "g2r51p2c2"
-        ]
       }
     ],
     "other": [
@@ -21239,19 +21473,21 @@
       "topIds": [
         "g5u1gyt9c",
         "g48m4vidg",
+        "ghvfh9vrb",
         "grwulo01q",
-        "g53li02ac",
-        "g949awofn"
+        "g53li02ac"
       ],
       "newIds": [
         "g5u1gyt9c",
         "g48m4vidg",
+        "ghvfh9vrb",
         "grwulo01q",
         "go44jd756",
         "g53li02ac",
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "gpobr6gu9",
         "gsht02b37"
       ]
     }
