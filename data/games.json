@@ -1123,6 +1123,7 @@
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "g3j9z13yz",
         "gpobr6gu9",
         "gsht02b37"
       ]
@@ -13951,6 +13952,85 @@
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
     },
     {
+      "id": "g3j9z13yz",
+      "slug": "ashengrid",
+      "aliases": [],
+      "title": "ASHENGRID: Realm of Velkyn",
+      "added": "2026-11-18",
+      "updated": "2026-11-18",
+      "creators": [
+        {
+          "handle": "VelkynForge",
+          "url": "https://velkynforge.itch.io/"
+        }
+      ],
+      "primaryHandle": "VelkynForge",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [],
+      "genres": [
+        {
+          "id": "rpg",
+          "name": "RPG"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        },
+        {
+          "id": "open-world",
+          "name": "Open world"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click tiles to move or target spells, use the number keys to select abilities, and press Space to end a turn",
+      "brandIp": false,
+      "description": "Forge a hero in a dark-fantasy world and fight monsters on an isometric grid with limited action and movement points each turn.",
+      "notes": "Pick a class and swear allegiance to one of four covenants, then watch or skip the motion-comic prologue. The First Ambush button starts a fight against a Cinder-Imp, with a bonus for striking first. Spend movement points to reposition and action points on spells, keeping an eye on range and line of sight. Guest play is free, and you can explore Ashenhaven and gather crafting materials between battles.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": null,
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-15",
+      "sourceUrl": "https://velkynforge.itch.io/ashengrid",
+      "evidence": {
+        "url": null,
+        "quote": "Claude (code), plus AI-assisted art generation"
+      },
+      "playUrl": "https://ashengrid.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/ashengrid/still.webp?v=1442b694af",
+        "preview": null,
+        "clip": null,
+        "unrecordable": "multiplayer-join"
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/ashengrid/"
+    },
+    {
       "id": "gpobr6gu9",
       "slug": "until-the-first-train",
       "aliases": [],
@@ -21379,6 +21459,7 @@
           "g5camq0si",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "g3j9z13yz",
           "gpobr6gu9",
           "gm15xo3kf",
           "gqtpnp68f",
@@ -21487,6 +21568,7 @@
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "g3j9z13yz",
         "gpobr6gu9",
         "gsht02b37"
       ]
