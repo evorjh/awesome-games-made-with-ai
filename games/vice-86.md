@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrows to drive, Space for the handbrake, left Shift for nitrous, C to change camera, R to recover, T for time, Y for weather, Esc to pause
-- **Likes on the original post:** 1,256, counted 2026-11-18
+- **Likes on the original post:** 1,269, counted 2026-11-19
 
 Drive a sports car through a neon-lit coastal city, with a garage, changing weather and traffic on the streets.
 

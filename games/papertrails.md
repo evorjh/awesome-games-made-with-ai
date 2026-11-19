@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or click to walk, Shift to run, Ctrl to slow down, Tab for the map, N for night, M for music and V to change the view
-- **Likes on the original post:** 1,797, counted 2026-11-18
+- **Likes on the original post:** 2,201, counted 2026-11-19
 
 Walk through a pop-up book where paper hills, trees and villages unfold ahead of you.
 

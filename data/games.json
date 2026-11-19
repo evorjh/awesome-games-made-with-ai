@@ -22,6 +22,11 @@
   },
   "families": [
     {
+      "id": "gemini",
+      "name": "Gemini",
+      "maker": "Google"
+    },
+    {
       "id": "gpt",
       "name": "GPT and Codex",
       "maker": "OpenAI"
@@ -32,9 +37,14 @@
       "maker": "Anthropic"
     },
     {
-      "id": "gemini",
-      "name": "Gemini",
-      "maker": "Google"
+      "id": "muse",
+      "name": "Muse",
+      "maker": "Meta"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "maker": "DeepSeek"
     },
     {
       "id": "grok",
@@ -45,11 +55,6 @@
       "id": "kimi",
       "name": "Kimi",
       "maker": "Moonshot AI"
-    },
-    {
-      "id": "muse",
-      "name": "Muse",
-      "maker": "Meta"
     }
   ],
   "models": [
@@ -311,6 +316,18 @@
       "firstSeen": "2026-11-12"
     },
     {
+      "id": "gemini-4-neon",
+      "name": "Gemini 4 Neon",
+      "family": "gemini",
+      "released": "2026-11-18",
+      "major": true,
+      "aliases": [
+        "neon",
+        "gemini neon"
+      ],
+      "firstSeen": "2026-11-19"
+    },
+    {
       "id": "grok-4-7",
       "name": "Grok 4.7",
       "family": "grok",
@@ -369,6 +386,17 @@
       "major": false,
       "aliases": [],
       "firstSeen": null
+    },
+    {
+      "id": "muse-spark",
+      "name": "Muse Spark",
+      "family": "muse",
+      "released": null,
+      "major": false,
+      "aliases": [
+        "muse spark"
+      ],
+      "firstSeen": "2026-11-08"
     }
   ],
   "tools": [
@@ -555,6 +583,13 @@
       "referral_url": null
     },
     {
+      "id": "magnific",
+      "name": "Magnific",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
       "id": "meshy",
       "name": "Meshy",
       "kind": "app",
@@ -625,6 +660,13 @@
       "referral_url": null
     },
     {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "kind": "ai",
+      "family": "deepseek",
+      "referral_url": null
+    },
+    {
       "id": "midjourney",
       "name": "Midjourney",
       "kind": "app",
@@ -669,6 +711,13 @@
     {
       "id": "gpt-5-4-image-2",
       "name": "GPT-5.4 Image 2",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "gpt-image-2-6",
+      "name": "GPT Image 2.6",
       "kind": "app",
       "family": null,
       "referral_url": null
@@ -1111,18 +1160,26 @@
         "g48m4vidg",
         "ghvfh9vrb",
         "grwulo01q",
-        "g53li02ac"
+        "gcvm55qzn"
       ],
       "new": [
         "g5u1gyt9c",
         "g48m4vidg",
         "ghvfh9vrb",
         "grwulo01q",
+        "gcvm55qzn",
         "go44jd756",
+        "gah31vsol",
+        "gtwxlwdgm",
         "g53li02ac",
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "g99ww49gc",
+        "gxq8j3d43",
+        "gjnmzmmd9",
+        "gre5glc9e",
+        "gdqiq8uft",
         "g3j9z13yz",
         "gpobr6gu9",
         "gsht02b37"
@@ -2195,8 +2252,8 @@
           "https://github.com/remorses/castle-valley#sound"
         ]
       },
-      "likes": 4470,
-      "likesRead": "2026-11-18",
+      "likes": 4485,
+      "likesRead": "2026-11-19",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
       "evidence": {
@@ -3188,8 +3245,8 @@
           "https://tesana.com/game/getting-there"
         ]
       },
-      "likes": 2597,
-      "likesRead": "2026-11-18",
+      "likes": 2634,
+      "likesRead": "2026-11-19",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
       "evidence": {
@@ -3657,6 +3714,131 @@
       "pageUrl": "https://amusehall.com/games/pixel-plays/"
     },
     {
+      "id": "ghvfh9vrb",
+      "slug": "papertrails",
+      "aliases": [],
+      "title": "Papertrails",
+      "added": "2026-11-18",
+      "updated": "2026-11-18",
+      "creators": [
+        {
+          "handle": "xikhar",
+          "name": "Shikhar",
+          "url": "https://x.com/xikhar"
+        }
+      ],
+      "primaryHandle": "xikhar",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        },
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2",
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or click to walk, Shift to run, Ctrl to slow down, Tab for the map, N for night, M for music and V to change the view",
+      "brandIp": false,
+      "description": "Walk through a pop-up book where paper hills, trees and villages unfold ahead of you.",
+      "notes": "Take a paper traveler past little houses and over a stream, with paper trees and paths unfolding as you walk. You can open the map, switch to night or change the camera view. The point is to wander and see what unfolds along the way.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Shikhar shared the starting prompt, which sets out the look of a pop-up book and asks the agent to compare its work with visual references. The agent generated concept frames with GPT Image, collected photos of real pop-ups, and measured color, edges and lighting.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The agent assigned each part to a subagent and used blind critics to compare each build with the reference.",
+            "sources": [
+              "https://x.com/xikhar/status/2122682971664916978"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Shikhar describes generating the printed art as one atlas and cutting pieces from it for the hinged cards.",
+            "sources": [
+              "https://x.com/xikhar/status/2122682971664916978"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "Shikhar describes making style guides for a target of 15 biome types and using GPT Image for weather references.",
+            "sources": [
+              "https://x.com/xikhar/status/2122682974856794385"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/xikhar/status/2122682962647122403",
+          "https://x.com/xikhar/status/2122682965247639606/photo/1",
+          "https://x.com/xikhar/status/2122682968074522767",
+          "https://x.com/xikhar/status/2122682971664916978",
+          "https://x.com/xikhar/status/2122682974856794385"
+        ]
+      },
+      "likes": 2201,
+      "likesRead": "2026-11-19",
+      "posted": "2026-11-17",
+      "sourceUrl": "https://x.com/xikhar/status/2122682962647122403",
+      "evidence": {
+        "url": "https://x.com/xikhar/status/2122682962647122403",
+        "quote": "Built with Fable 5.2 and Opus 5.5"
+      },
+      "playUrl": "https://xikhar.github.io/papertrails/",
+      "price": "free",
+      "codeUrl": "https://github.com/xikhar/papertrails",
+      "media": {
+        "still": "https://media.amusehall.com/papertrails/still.webp?v=b34b3ad180",
+        "preview": "https://media.amusehall.com/papertrails/preview.webp?v=99cfa649a6",
+        "clip": "https://media.amusehall.com/papertrails/clip.mp4?v=28b49b7693",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/papertrails/"
+    },
+    {
       "id": "g5n1e788h",
       "slug": "soccar",
       "aliases": [],
@@ -3913,131 +4095,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/rocket-arena/"
-    },
-    {
-      "id": "ghvfh9vrb",
-      "slug": "papertrails",
-      "aliases": [],
-      "title": "Papertrails",
-      "added": "2026-11-18",
-      "updated": "2026-11-18",
-      "creators": [
-        {
-          "handle": "xikhar",
-          "name": "Shikhar",
-          "url": "https://x.com/xikhar"
-        }
-      ],
-      "primaryHandle": "xikhar",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": null
-        },
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2",
-        "claude-opus-5-5"
-      ],
-      "tools": [
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "cozy",
-          "name": "Cozy"
-        },
-        {
-          "id": "exploration",
-          "name": "Exploration"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD or click to walk, Shift to run, Ctrl to slow down, Tab for the map, N for night, M for music and V to change the view",
-      "brandIp": false,
-      "description": "Walk through a pop-up book where paper hills, trees and villages unfold ahead of you.",
-      "notes": "Take a paper traveler past little houses and over a stream, with paper trees and paths unfolding as you walk. You can open the map, switch to night or change the camera view. The point is to wander and see what unfolds along the way.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Shikhar shared the starting prompt, which sets out the look of a pop-up book and asks the agent to compare its work with visual references. The agent generated concept frames with GPT Image, collected photos of real pop-ups, and measured color, edges and lighting.",
-        "facts": [
-          {
-            "about": "code",
-            "text": "The agent assigned each part to a subagent and used blind critics to compare each build with the reference.",
-            "sources": [
-              "https://x.com/xikhar/status/2122682971664916978"
-            ]
-          },
-          {
-            "about": "art",
-            "text": "Shikhar describes generating the printed art as one atlas and cutting pieces from it for the hinged cards.",
-            "sources": [
-              "https://x.com/xikhar/status/2122682971664916978"
-            ]
-          },
-          {
-            "about": "levels",
-            "text": "Shikhar describes making style guides for a target of 15 biome types and using GPT Image for weather references.",
-            "sources": [
-              "https://x.com/xikhar/status/2122682974856794385"
-            ]
-          }
-        ],
-        "sources": [
-          "https://x.com/xikhar/status/2122682962647122403",
-          "https://x.com/xikhar/status/2122682965247639606/photo/1",
-          "https://x.com/xikhar/status/2122682968074522767",
-          "https://x.com/xikhar/status/2122682971664916978",
-          "https://x.com/xikhar/status/2122682974856794385"
-        ]
-      },
-      "likes": 1797,
-      "likesRead": "2026-11-18",
-      "posted": "2026-11-17",
-      "sourceUrl": "https://x.com/xikhar/status/2122682962647122403",
-      "evidence": {
-        "url": "https://x.com/xikhar/status/2122682962647122403",
-        "quote": "Built with Fable 5.2 and Opus 5.5"
-      },
-      "playUrl": "https://xikhar.github.io/papertrails/",
-      "price": "free",
-      "codeUrl": "https://github.com/xikhar/papertrails",
-      "media": {
-        "still": "https://media.amusehall.com/papertrails/still.webp?v=b34b3ad180",
-        "preview": "https://media.amusehall.com/papertrails/preview.webp?v=99cfa649a6",
-        "clip": "https://media.amusehall.com/papertrails/clip.mp4?v=28b49b7693",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/papertrails/"
     },
     {
       "id": "geg91cy2q",
@@ -4907,8 +4964,8 @@
           "https://x.com/AravSrinivas/status/2122338465648103676"
         ]
       },
-      "likes": 1256,
-      "likesRead": "2026-11-18",
+      "likes": 1269,
+      "likesRead": "2026-11-19",
       "posted": "2026-11-16",
       "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
       "evidence": {
@@ -7083,6 +7140,136 @@
       "pageUrl": "https://amusehall.com/games/valsera/"
     },
     {
+      "id": "gcvm55qzn",
+      "slug": "dawnlings",
+      "aliases": [],
+      "title": "Dawnlings",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "kevin_t_ngo",
+          "name": "Kevin Ngo",
+          "url": "https://x.com/kevin_t_ngo"
+        }
+      ],
+      "primaryHandle": "kevin_t_ngo",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "fal",
+          "name": "fal",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "elevenlabs",
+          "name": "ElevenLabs",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "gpt-image-2-6",
+          "name": "GPT Image 2.6",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "platformer",
+          "name": "Platformer"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Left and Right to tilt, Space to hop, Down to split, hold Up to gather",
+      "brandIp": false,
+      "description": "Tilt the world to roll sleepy creatures down hills, split them to fit through tunnels and gather them to push obstacles.",
+      "notes": "Hush Hollow teaches you to tilt the valley and roll the dawnlings into buds that wake up the scenery. Hold Up to gather them into a larger creature or press Down to send smaller ones through gaps. Some blooms briefly change how the group moves, including a puff bloom that lets them float.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Kevin Ngo credits Fable 5.2 in the launch post. The itch.io disclosure credits Claude Code with the code, code-painted art and music arrangement.",
+        "facts": [
+          {
+            "about": "art",
+            "text": "Ngo used GPT Image 2.6 through fal for concept art.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2122969346935017497"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "Ngo used ElevenLabs through fal for sound effects. The release notes also credit ElevenLabs with ambience.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2122969346935017497",
+              "https://kengoworks.itch.io/dawnlings"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/kevin_t_ngo/status/2122969346935017497",
+          "https://kengoworks.itch.io/dawnlings"
+        ]
+      },
+      "likes": 438,
+      "likesRead": "2026-11-19",
+      "posted": "2026-11-18",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2122969346935017497",
+      "evidence": {
+        "url": "https://x.com/kevin_t_ngo/status/2122969346935017497",
+        "quote": "Fable 5.2 made this game demo, playable in the browser"
+      },
+      "playUrl": "https://kengoworks.itch.io/dawnlings",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/dawnlings/still.webp?v=2bbe5d3f55",
+        "preview": "https://media.amusehall.com/dawnlings/preview.webp?v=b1d1bf2f54",
+        "clip": "https://media.amusehall.com/dawnlings/clip.mp4?v=773d071ebb",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/dawnlings/"
+    },
+    {
       "id": "gy7oawf0w",
       "slug": "sublevel-07",
       "aliases": [],
@@ -8943,6 +9130,149 @@
       "pageUrl": "https://amusehall.com/games/hexplorers/"
     },
     {
+      "id": "gah31vsol",
+      "slug": "iron-rotor",
+      "aliases": [],
+      "title": "Iron Rotor",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "ai_for_success",
+          "name": "Ashutosh Shrivastava",
+          "url": "https://x.com/ai_for_success"
+        }
+      ],
+      "primaryHandle": "ai_for_success",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": "antigravity"
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [
+        {
+          "id": "antigravity",
+          "name": "Google Antigravity",
+          "kind": "ai",
+          "family": "gemini",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "typescript",
+          "name": "TypeScript",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "magnific",
+          "name": "Magnific",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "flight",
+          "name": "Flight"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to fly, Space to fire, E for a missile, C to switch camera",
+      "brandIp": true,
+      "description": "Fly a jet or gunship through a pixel-art archipelago, with five combat missions and a free-flight mode.",
+      "notes": "Open Play Game on the showcase page, then choose a mission and an aircraft in the hangar. The opening mission has you bank over a coastal strait to line up attacks on aircraft and boats. The pilot roster features stylized versions of real people.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Ashutosh Shrivastava built the game with Gemini 4 Neon and Antigravity’s Swarm feature. The showcase describes a pipeline that turns images into 3D assets for a custom pixel-art renderer.",
+        "facts": [
+          {
+            "about": "art",
+            "text": "Shrivastava used Magnific’s hosted Tripo integration to turn images into 3D vehicles and landmarks, then used Blender to clean up, scale and rig the assets.",
+            "sources": [
+              "https://ashutoshai.com/showcase/d/iron-rotor"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The game synthesizes sound effects and music in the browser using Web Audio.",
+            "sources": [
+              "https://ashutoshai.com/showcase/d/iron-rotor"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/ai_for_success/status/2123239282626478306",
+          "https://ashutoshai.com/showcase/d/iron-rotor"
+        ]
+      },
+      "likes": 171,
+      "likesRead": "2026-11-19",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/ai_for_success/status/2123239282626478306",
+      "evidence": {
+        "url": "https://x.com/ai_for_success/status/2123239282626478306",
+        "quote": "Built this small 3D game using Gemini 4 Neon and the Swarm feature in Antigravity."
+      },
+      "playUrl": "https://ashutoshai.com/showcase/d/iron-rotor",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/iron-rotor/still.webp?v=b721db43bd",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/iron-rotor/"
+    },
+    {
       "id": "gywgtfpc3",
       "slug": "sangoku-rabbit-generals",
       "aliases": [],
@@ -9693,6 +10023,107 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/harbourline/"
+    },
+    {
+      "id": "gtwxlwdgm",
+      "slug": "outpost-kyber",
+      "aliases": [],
+      "title": "Outpost Kyber",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "DeryaTR_",
+          "name": "Derya Unutmaz",
+          "url": "https://x.com/DeryaTR_"
+        }
+      ],
+      "primaryHandle": "DeryaTR_",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, E to mine or repair, Space to swing, 1–3 to build",
+      "brandIp": true,
+      "description": "Mine crystals, place shields and turrets, and defend a canyon outpost while deflecting enemy fire with a saber.",
+      "notes": "Waves advance on the command core through the canyon, and you can leave the base to gather resources between attacks. Shields block enemy fire and turrets shoot for you. The saber lets you deflect bolts when enemies get close. It uses Star Wars terminology and imagery.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Derya Unutmaz credits Gemini 4 Neon with the tower-defense build. In a reply, Unutmaz names Blender and says the game used no game engine.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "Unutmaz says the build took “about 20 minutes” and used “2% of my 5 hour limit”.",
+            "sources": [
+              "https://x.com/DeryaTR_/status/2123276863481254210"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/DeryaTR_/status/2123276863481254210",
+          "https://x.com/DeryaTR_/status/2123283700788122027"
+        ]
+      },
+      "likes": 105,
+      "likesRead": "2026-11-19",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/DeryaTR_/status/2123276863481254210",
+      "evidence": {
+        "url": "https://x.com/DeryaTR_/status/2123276863481254210",
+        "quote": "Google’s new AI model, Gemini 4 Neon"
+      },
+      "playUrl": "https://outpost-kyber.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/outpost-kyber/still.webp?v=86b3f36c6f",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/outpost-kyber/"
     },
     {
       "id": "gh79jcfs0",
@@ -13950,6 +14381,544 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "g99ww49gc",
+      "slug": "ai-axis-allies",
+      "aliases": [],
+      "title": "AI Axis & Allies",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "hayneian000",
+          "url": "https://github.com/hayneian000"
+        }
+      ],
+      "primaryHandle": "hayneian000",
+      "credits": [
+        {
+          "label": "Muse Spark",
+          "modelId": "muse-spark",
+          "familyId": "muse",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "muse",
+      "familyIds": [
+        "muse"
+      ],
+      "modelIds": [
+        "muse-spark"
+      ],
+      "tools": [
+        {
+          "id": "typescript",
+          "name": "TypeScript",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "vite",
+          "name": "Vite",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click territories and use the phase controls to buy, move and deploy units",
+      "brandIp": true,
+      "description": "Purchase units, take territory and secure capitals on two turn-based maps inspired by Axis & Allies.",
+      "notes": "The smaller American theater map starts with nearby rivals and a race for capitals. Each turn is split into purchase, attack, battle, move and deployment phases. You can share the screen in hot-seat mode for free. Setting up AI seats requires your own provider API key.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator says Buddy, a coding agent based on Muse Spark, wrote most of the code. The creator directed the work and reviewed and merged the resulting pull requests.",
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/pull/140"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-08",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/pull/140",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/pull/140",
+        "quote": "most of the code was written by \"buddy\", an AI coding agent built on Muse (Muse Spark)"
+      },
+      "playUrl": "https://hayneian000.github.io/axis-allies-ai/",
+      "price": "free",
+      "codeUrl": "https://github.com/hayneian000/axis-allies-ai",
+      "media": {
+        "still": "https://media.amusehall.com/ai-axis-allies/still.webp?v=9e4b6f5757",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/ai-axis-allies/"
+    },
+    {
+      "id": "gxq8j3d43",
+      "slug": "harbor-signal",
+      "aliases": [],
+      "title": "Harbor Signal (Demo)",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "laughzxc",
+          "url": "https://laughzxc.itch.io/"
+        }
+      ],
+      "primaryHandle": "laughzxc",
+      "credits": [
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Arrow keys or WASD to signal, Z to undo, R to restart",
+      "brandIp": false,
+      "description": "Send one direction to every rescue boat at once, using reefs and docks to guide them along different routes.",
+      "notes": "Each signal moves every free launch one tile, but a reef can stop a boat and a dock takes it out of the fleet. The early charts teach the rules with a single boat before asking you to coordinate multiple rescues. The browser demo contains 50 charts, and the full 120-chart game is sold as an offline download.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Laughzxc used OpenAI Codex and GPT models over multiple iterations. The creator says AI wrote most of the code and helped design the charts, draft text and make the cover art.",
+        "sources": [
+          "https://itch.io/t/7451937/harbor-signal-one-signal-moves-the-fleet-50-free-browser-puzzles",
+          "https://github.com/evorjh/awesome-games-made-with-ai/issues/4"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-13",
+      "sourceUrl": "https://laughzxc.itch.io/harbor-signal-demo",
+      "evidence": {
+        "url": "https://itch.io/t/7451937/harbor-signal-one-signal-moves-the-fleet-50-free-browser-puzzles",
+        "quote": "made with OpenAI Codex and GPT models. AI wrote most of the code"
+      },
+      "playUrl": "https://laughzxc.itch.io/harbor-signal-demo",
+      "price": "free-demo",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/harbor-signal/still.webp?v=7310f28cb8",
+        "preview": "https://media.amusehall.com/harbor-signal/preview.webp?v=2497d26575",
+        "clip": "https://media.amusehall.com/harbor-signal/clip.mp4?v=cec88c9a56",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/harbor-signal/"
+    },
+    {
+      "id": "gjnmzmmd9",
+      "slug": "last-plank",
+      "aliases": [],
+      "title": "Last Plank",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "laughzxc",
+          "url": "https://laughzxc.itch.io/"
+        }
+      ],
+      "primaryHandle": "laughzxc",
+      "credits": [
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Arrow keys or WASD to move, Z to undo, R to restart",
+      "brandIp": false,
+      "description": "Plan a route across planks that fall behind you, collect the letters and reach shore.",
+      "notes": "Wooden planks drop away as soon as you leave them, while stone tiles let you double back. Early crossings teach the rules in short puzzles before adding tides, locks, ferries and springboards. The featured crossing is a good place to start if you want a two-letter puzzle with a lock.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Laughzxc directed OpenAI Codex and GPT models over multiple iterations. The creator credits the agents with most of the code and with helping to write and test the crossings.",
+        "facts": [
+          {
+            "about": "art",
+            "text": "The creator says agents helped produce the programmatically drawn graphics.",
+            "sources": [
+              "https://github.com/evorjh/awesome-games-made-with-ai/issues/5"
+            ]
+          }
+        ],
+        "sources": [
+          "https://laughzxc.itch.io/last-plank",
+          "https://github.com/evorjh/awesome-games-made-with-ai/issues/5"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-15",
+      "sourceUrl": "https://laughzxc.itch.io/last-plank",
+      "evidence": {
+        "url": "https://laughzxc.itch.io/last-plank",
+        "quote": "Built with OpenAI Codex and GPT models under the creator’s direction."
+      },
+      "playUrl": "https://laughzxc.itch.io/last-plank",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/last-plank/still.webp?v=f8577949e9",
+        "preview": "https://media.amusehall.com/last-plank/preview.webp?v=f404fb26f0",
+        "clip": "https://media.amusehall.com/last-plank/clip.mp4?v=4844461013",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/last-plank/"
+    },
+    {
+      "id": "gre5glc9e",
+      "slug": "openaero-dfw",
+      "aliases": [],
+      "title": "OpenAero DFW",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "mutaaf",
+          "name": "Mutaaf Aziz",
+          "url": "https://github.com/mutaaf"
+        }
+      ],
+      "primaryHandle": "mutaaf",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "vite",
+          "name": "Vite",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "flight",
+          "name": "Flight"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "W and S to pitch, A and D to bank, Shift and Ctrl for throttle, G for gear",
+      "brandIp": true,
+      "description": "Fly landing and takeoff challenges over Dallas–Fort Worth satellite imagery with a coach and a landing grade.",
+      "notes": "Pick a runway and an assistance level, then fly an approach over the city. Learner mode gives on-screen coaching, and the sim grades landings on details such as touchdown and alignment. The simulator includes real aircraft names and models such as the Boeing 737 and Cessna 172.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Mutaaf Aziz uses three scheduled Claude Code routines to develop and maintain the simulator. One reviews the build and maintains the backlog, one implements ready tasks, and one maintains dependencies and performance. The repository publishes their instructions.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The browser build uses Three.js and Vite. The project runs checks before merging and Cloudflare deploys the main branch.",
+            "sources": [
+              "https://github.com/mutaaf/openaero-dfw#built-and-run-by-agents"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/mutaaf/openaero-dfw#built-and-run-by-agents"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-04",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/pull/136",
+      "evidence": {
+        "url": "https://github.com/mutaaf/openaero-dfw#built-and-run-by-agents",
+        "quote": "This repo is developed by three scheduled cloud agents (Claude Code routines)"
+      },
+      "playUrl": "https://mutaafaziz.com/openaero/",
+      "price": "free",
+      "codeUrl": "https://github.com/mutaaf/openaero-dfw",
+      "media": {
+        "still": "https://media.amusehall.com/openaero-dfw/still.webp?v=58a801367e",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/openaero-dfw/"
+    },
+    {
+      "id": "gdqiq8uft",
+      "slug": "red-shelter",
+      "aliases": [],
+      "title": "Red Shelter",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "labiel1",
+          "name": "Rafael Junior",
+          "url": "https://labiel1.itch.io/"
+        }
+      ],
+      "primaryHandle": "labiel1",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        },
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        },
+        {
+          "label": "DeepSeek",
+          "modelId": null,
+          "familyId": "deepseek",
+          "toolId": "deepseek"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude",
+        "gpt",
+        "deepseek"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        },
+        {
+          "id": "deepseek",
+          "name": "DeepSeek",
+          "kind": "ai",
+          "family": "deepseek",
+          "referral_url": null
+        },
+        {
+          "id": "godot",
+          "name": "Godot",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "meshy",
+          "name": "Meshy",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Arrow keys or A and D to change lanes, K or click to shoot",
+      "brandIp": false,
+      "description": "Run three lanes through a zombie-overrun Brazilian city, then bring back supplies to build and defend a shelter.",
+      "notes": "Start in a small shelter with enough supplies for a first expedition. Choose a district, dodge and loot through the run, then spend what you bring back on upgrades for the shelter. The first load can take a while.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Rafael Junior says Claude Code co-authored 154 of 157 commits since September 2026. Junior also names Claude, Codex and DeepSeek. The game uses Godot and GDScript.",
+        "facts": [
+          {
+            "about": "characters",
+            "text": "Junior used Meshy for the main character and the eight survivors.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/133"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "Junior used Gemini for music.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/133"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Junior used Gemini for the first loading-screen illustrations.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/133"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/133"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-02",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/133",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/133",
+        "quote": "Most of the game's code was written with AI coding tools"
+      },
+      "playUrl": "https://labiel1.itch.io/red-shelter",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/red-shelter/still.webp?v=8432de13af",
+        "preview": "https://media.amusehall.com/red-shelter/preview.webp?v=34c7fa5e2a",
+        "clip": "https://media.amusehall.com/red-shelter/clip.mp4?v=0e8389c312",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/red-shelter/"
     },
     {
       "id": "g3j9z13yz",
@@ -21328,6 +22297,16 @@
     },
     "families": [
       {
+        "familyId": "gemini",
+        "gameIds": [
+          "gld22k702",
+          "g7lsoeejk",
+          "gah31vsol",
+          "gtwxlwdgm",
+          "g4yrw77l6"
+        ]
+      },
+      {
         "familyId": "gpt",
         "gameIds": [
           "g1bjx9y59",
@@ -21354,6 +22333,8 @@
           "gf8t89ggq",
           "g55tfp6uh",
           "galxnak4n",
+          "gxq8j3d43",
+          "gjnmzmmd9",
           "gsht02b37",
           "g4en32oxa",
           "gyb95lxs0",
@@ -21385,10 +22366,10 @@
           "gw96j1zcp",
           "gls4dgy15",
           "gpy3pa5mk",
+          "ghvfh9vrb",
           "g5n1e788h",
           "gpmj9q9ol",
           "gk98c3y8t",
-          "ghvfh9vrb",
           "geg91cy2q",
           "g9t4d43un",
           "gmja9kp2v",
@@ -21410,6 +22391,7 @@
           "g8svijhf1",
           "gyhgrysj4",
           "glxawhstw",
+          "gcvm55qzn",
           "gy7oawf0w",
           "g19fvejgd",
           "gserfbtbt",
@@ -21459,6 +22441,8 @@
           "g5camq0si",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "gre5glc9e",
+          "gdqiq8uft",
           "g3j9z13yz",
           "gpobr6gu9",
           "gm15xo3kf",
@@ -21526,14 +22510,6 @@
           "gh1aglxob",
           "gskb3ddhy"
         ]
-      },
-      {
-        "familyId": "gemini",
-        "gameIds": [
-          "gld22k702",
-          "g7lsoeejk",
-          "g4yrw77l6"
-        ]
       }
     ],
     "other": [
@@ -21544,7 +22520,8 @@
       "guawsizlo",
       "g10dwuh0n",
       "gvosn1v6w",
-      "g0egemz92"
+      "g0egemz92",
+      "g99ww49gc"
     ],
     "latestIssue": {
       "number": 4,
@@ -21556,18 +22533,26 @@
         "g48m4vidg",
         "ghvfh9vrb",
         "grwulo01q",
-        "g53li02ac"
+        "gcvm55qzn"
       ],
       "newIds": [
         "g5u1gyt9c",
         "g48m4vidg",
         "ghvfh9vrb",
         "grwulo01q",
+        "gcvm55qzn",
         "go44jd756",
+        "gah31vsol",
+        "gtwxlwdgm",
         "g53li02ac",
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "g99ww49gc",
+        "gxq8j3d43",
+        "gjnmzmmd9",
+        "gre5glc9e",
+        "gdqiq8uft",
         "g3j9z13yz",
         "gpobr6gu9",
         "gsht02b37"
