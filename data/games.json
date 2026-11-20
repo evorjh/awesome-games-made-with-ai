@@ -7484,7 +7484,7 @@
         "clip": "https://media.amusehall.com/dawnlings/clip.mp4?v=773d071ebb",
         "unrecordable": null
       },
-      "availability": "unknown",
+      "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
@@ -10542,8 +10542,8 @@
         "clip": "https://media.amusehall.com/kettu-vellam/clip.mp4?v=5b675e39d7",
         "unrecordable": null
       },
-      "availability": "available",
-      "unavailableSince": null,
+      "availability": "unavailable",
+      "unavailableSince": "2026-11-20",
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/kettu-vellam/"
@@ -15160,7 +15160,7 @@
         "clip": null,
         "unrecordable": null
       },
-      "availability": "unknown",
+      "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": false,
@@ -21853,7 +21853,7 @@
         "clip": "https://media.amusehall.com/silent-meridian/clip.mp4?v=cddfcf1f5e",
         "unrecordable": null
       },
-      "availability": "available",
+      "availability": "unknown",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
