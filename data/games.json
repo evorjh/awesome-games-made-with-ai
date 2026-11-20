@@ -22,14 +22,14 @@
   },
   "families": [
     {
-      "id": "gemini",
-      "name": "Gemini",
-      "maker": "Google"
-    },
-    {
       "id": "gpt",
       "name": "GPT and Codex",
       "maker": "OpenAI"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "maker": "Google"
     },
     {
       "id": "claude",
@@ -833,6 +833,20 @@
       "kind": "app",
       "family": null,
       "referral_url": null
+    },
+    {
+      "id": "howler",
+      "name": "Howler.js",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "fflate",
+      "name": "fflate",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
     }
   ],
   "genres": [
@@ -1166,15 +1180,21 @@
         "g5u1gyt9c",
         "g48m4vidg",
         "ghvfh9vrb",
+        "g9q2ghtjb",
         "grwulo01q",
-        "gcvm55qzn",
-        "go44jd756",
-        "gah31vsol",
         "gtwxlwdgm",
+        "gcvm55qzn",
+        "gah31vsol",
+        "go44jd756",
         "g53li02ac",
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "gdtloorwb",
+        "ggpx14cwp",
+        "guo3jpoqp",
+        "gqxqhe8nj",
+        "gly1fsrsd",
         "g99ww49gc",
         "gxq8j3d43",
         "gjnmzmmd9",
@@ -2252,8 +2272,8 @@
           "https://github.com/remorses/castle-valley#sound"
         ]
       },
-      "likes": 4485,
-      "likesRead": "2026-11-19",
+      "likes": 4484,
+      "likesRead": "2026-11-20",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
       "evidence": {
@@ -3245,8 +3265,8 @@
           "https://tesana.com/game/getting-there"
         ]
       },
-      "likes": 2634,
-      "likesRead": "2026-11-19",
+      "likes": 2643,
+      "likesRead": "2026-11-20",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
       "evidence": {
@@ -3630,90 +3650,6 @@
       "pageUrl": "https://amusehall.com/games/fighting-opus/"
     },
     {
-      "id": "gpy3pa5mk",
-      "slug": "pixel-plays",
-      "aliases": [],
-      "title": "Pixel Plays",
-      "added": "2026-11-01",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "AmirMushich",
-          "name": "AmirMušić",
-          "url": "https://x.com/AmirMushich"
-        }
-      ],
-      "primaryHandle": "AmirMushich",
-      "credits": [
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-opus-5-5"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "sports",
-          "name": "Sports"
-        },
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "Drag back and release, hold and release, or click, depending on the game; arrow keys and Space work too",
-      "brandIp": false,
-      "description": "Five tiny games in isometric pixel dioramas, from bocce against a bot to diving off an old bridge, a tennis tie-break and a minute on a skate ramp.",
-      "notes": "Each game is a small scene floating on white, with dithered shading. Play bocce against a bot, take five dives off an old bridge, play a clay-court tie-break, spend 60 seconds on a skate ramp, or bring in the laundry before a storm. Every game turns on one physical action, such as dragging back to throw or holding and releasing to jump. Each one takes a few minutes, and the menu switches between them.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creator built the collection with Claude Opus 5.5 from a concept by abhi, using Shawn's Small Plays as a visual reference. The games share a plain JavaScript software renderer that draws depth and shadows at low resolution, then scales the image up to keep the pixels sharp. The creator's repository describes drawing the scenes in code without sprite or image assets.",
-        "sources": [
-          "https://x.com/AmirMushich/status/2116509069477621819",
-          "https://github.com/amirmushichge/pixel-plays"
-        ]
-      },
-      "likes": 2207,
-      "likesRead": "2026-11-16",
-      "posted": "2026-10-31",
-      "sourceUrl": "https://x.com/AmirMushich/status/2116509069477621819",
-      "evidence": {
-        "url": "https://x.com/AmirMushich/status/2116509069477621819",
-        "quote": "3D pixel games with Claude Opus 5.5 (OS)"
-      },
-      "playUrl": "https://pixel-plays-ruby.vercel.app/",
-      "price": "free",
-      "codeUrl": "https://github.com/amirmushichge/pixel-plays",
-      "media": {
-        "still": "https://media.amusehall.com/pixel-plays/still.webp?v=64d2b422ed",
-        "preview": "https://media.amusehall.com/pixel-plays/preview.webp?v=490277b0de",
-        "clip": "https://media.amusehall.com/pixel-plays/clip.mp4?v=34d437bcec",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/pixel-plays/"
-    },
-    {
       "id": "ghvfh9vrb",
       "slug": "papertrails",
       "aliases": [],
@@ -3815,8 +3751,8 @@
           "https://x.com/xikhar/status/2122682974856794385"
         ]
       },
-      "likes": 2201,
-      "likesRead": "2026-11-19",
+      "likes": 2243,
+      "likesRead": "2026-11-20",
       "posted": "2026-11-17",
       "sourceUrl": "https://x.com/xikhar/status/2122682962647122403",
       "evidence": {
@@ -3837,6 +3773,90 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/papertrails/"
+    },
+    {
+      "id": "gpy3pa5mk",
+      "slug": "pixel-plays",
+      "aliases": [],
+      "title": "Pixel Plays",
+      "added": "2026-11-01",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "AmirMushich",
+          "name": "AmirMušić",
+          "url": "https://x.com/AmirMushich"
+        }
+      ],
+      "primaryHandle": "AmirMushich",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "sports",
+          "name": "Sports"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Drag back and release, hold and release, or click, depending on the game; arrow keys and Space work too",
+      "brandIp": false,
+      "description": "Five tiny games in isometric pixel dioramas, from bocce against a bot to diving off an old bridge, a tennis tie-break and a minute on a skate ramp.",
+      "notes": "Each game is a small scene floating on white, with dithered shading. Play bocce against a bot, take five dives off an old bridge, play a clay-court tie-break, spend 60 seconds on a skate ramp, or bring in the laundry before a storm. Every game turns on one physical action, such as dragging back to throw or holding and releasing to jump. Each one takes a few minutes, and the menu switches between them.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator built the collection with Claude Opus 5.5 from a concept by abhi, using Shawn's Small Plays as a visual reference. The games share a plain JavaScript software renderer that draws depth and shadows at low resolution, then scales the image up to keep the pixels sharp. The creator's repository describes drawing the scenes in code without sprite or image assets.",
+        "sources": [
+          "https://x.com/AmirMushich/status/2116509069477621819",
+          "https://github.com/amirmushichge/pixel-plays"
+        ]
+      },
+      "likes": 2207,
+      "likesRead": "2026-11-16",
+      "posted": "2026-10-31",
+      "sourceUrl": "https://x.com/AmirMushich/status/2116509069477621819",
+      "evidence": {
+        "url": "https://x.com/AmirMushich/status/2116509069477621819",
+        "quote": "3D pixel games with Claude Opus 5.5 (OS)"
+      },
+      "playUrl": "https://pixel-plays-ruby.vercel.app/",
+      "price": "free",
+      "codeUrl": "https://github.com/amirmushichge/pixel-plays",
+      "media": {
+        "still": "https://media.amusehall.com/pixel-plays/still.webp?v=64d2b422ed",
+        "preview": "https://media.amusehall.com/pixel-plays/preview.webp?v=490277b0de",
+        "clip": "https://media.amusehall.com/pixel-plays/clip.mp4?v=34d437bcec",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/pixel-plays/"
     },
     {
       "id": "g5n1e788h",
@@ -4870,6 +4890,106 @@
       "pageUrl": "https://amusehall.com/games/kings-gambit/"
     },
     {
+      "id": "g9q2ghtjb",
+      "slug": "neon-scramble",
+      "aliases": [],
+      "title": "Neon Scramble",
+      "added": "2026-11-20",
+      "updated": "2026-11-20",
+      "creators": [
+        {
+          "handle": "Google",
+          "url": "https://x.com/Google"
+        }
+      ],
+      "primaryHandle": "Google",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": "google-ai-studio"
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [
+        {
+          "id": "google-ai-studio",
+          "name": "Google AI Studio",
+          "kind": "ai",
+          "family": "gemini",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "platformer",
+          "name": "Platformer"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "A and D to change lanes, Space to jump or vault, S to slide",
+      "brandIp": true,
+      "description": "Run through Shibuya as Google Maps’ Pegman, switching lanes and vaulting over traffic on the way to Google Tokyo.",
+      "notes": "The route starts at Shibuya Scramble Crossing and heads toward Google Tokyo. Switch lanes, jump over obstacles and slide beneath low barriers while the score and combo track your run. A route map shows where you are on the course.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "JY says the team started with a short brief for a Shibuya runner starring Pegman, used /swarm and /grill-me, and made a few adjustments along the way.",
+        "facts": [
+          {
+            "about": "levels",
+            "text": "Google says the team used nearly one million tokens of OpenStreetMap data to build the playable map, including 654 roads, 70 rail lines and 280 building footprints.",
+            "sources": [
+              "https://x.com/Google/status/2123548127080656938"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/Google/status/2123548127080656938",
+          "https://x.com/agenticjay/status/2123433948831453539"
+        ]
+      },
+      "likes": 1298,
+      "likesRead": "2026-11-20",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/Google/status/2123548127080656938",
+      "evidence": {
+        "url": "https://x.com/Google/status/2123548127080656938",
+        "quote": "Built with Gemini 4 Neon"
+      },
+      "playUrl": "https://neon-scramble.ai.studio/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/neon-scramble/still.webp?v=3f7f38565a",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/neon-scramble/"
+    },
+    {
       "id": "grwulo01q",
       "slug": "vice-86",
       "aliases": [],
@@ -4965,7 +5085,7 @@
         ]
       },
       "likes": 1269,
-      "likesRead": "2026-11-19",
+      "likesRead": "2026-11-20",
       "posted": "2026-11-16",
       "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
       "evidence": {
@@ -7044,6 +7164,107 @@
       "pageUrl": "https://amusehall.com/games/i-would-have-gotten-away-with-it/"
     },
     {
+      "id": "gtwxlwdgm",
+      "slug": "outpost-kyber",
+      "aliases": [],
+      "title": "Outpost Kyber",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "DeryaTR_",
+          "name": "Derya Unutmaz",
+          "url": "https://x.com/DeryaTR_"
+        }
+      ],
+      "primaryHandle": "DeryaTR_",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, E to mine or repair, Space to swing, 1–3 to build",
+      "brandIp": true,
+      "description": "Mine crystals, place shields and turrets, and defend a canyon outpost while deflecting enemy fire with a saber.",
+      "notes": "Waves advance on the command core through the canyon, and you can leave the base to gather resources between attacks. Shields block enemy fire and turrets shoot for you. The saber lets you deflect bolts when enemies get close. It uses Star Wars terminology and imagery.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Derya Unutmaz credits Gemini 4 Neon with the tower-defense build. In a reply, Unutmaz names Blender and says the game used no game engine.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "Unutmaz says the build took “about 20 minutes” and used “2% of my 5 hour limit”.",
+            "sources": [
+              "https://x.com/DeryaTR_/status/2123276863481254210"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/DeryaTR_/status/2123276863481254210",
+          "https://x.com/DeryaTR_/status/2123283700788122027"
+        ]
+      },
+      "likes": 496,
+      "likesRead": "2026-11-20",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/DeryaTR_/status/2123276863481254210",
+      "evidence": {
+        "url": "https://x.com/DeryaTR_/status/2123276863481254210",
+        "quote": "Google’s new AI model, Gemini 4 Neon"
+      },
+      "playUrl": "https://outpost-kyber.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/outpost-kyber/still.webp?v=86b3f36c6f",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/outpost-kyber/"
+    },
+    {
       "id": "glxawhstw",
       "slug": "valsera",
       "aliases": [],
@@ -7246,8 +7467,8 @@
           "https://kengoworks.itch.io/dawnlings"
         ]
       },
-      "likes": 438,
-      "likesRead": "2026-11-19",
+      "likes": 477,
+      "likesRead": "2026-11-20",
       "posted": "2026-11-18",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2122969346935017497",
       "evidence": {
@@ -7268,6 +7489,149 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/dawnlings/"
+    },
+    {
+      "id": "gah31vsol",
+      "slug": "iron-rotor",
+      "aliases": [],
+      "title": "Iron Rotor",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "ai_for_success",
+          "name": "Ashutosh Shrivastava",
+          "url": "https://x.com/ai_for_success"
+        }
+      ],
+      "primaryHandle": "ai_for_success",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": "antigravity"
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [
+        {
+          "id": "antigravity",
+          "name": "Google Antigravity",
+          "kind": "ai",
+          "family": "gemini",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "typescript",
+          "name": "TypeScript",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "magnific",
+          "name": "Magnific",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "flight",
+          "name": "Flight"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrows to fly, Space to fire, E for a missile, C to switch camera",
+      "brandIp": true,
+      "description": "Fly a jet or gunship through a pixel-art archipelago, with five combat missions and a free-flight mode.",
+      "notes": "Open Play Game on the showcase page, then choose a mission and an aircraft in the hangar. The opening mission has you bank over a coastal strait to line up attacks on aircraft and boats. The pilot roster features stylized versions of real people.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Ashutosh Shrivastava built the game with Gemini 4 Neon and Antigravity’s Swarm feature. The showcase describes a pipeline that turns images into 3D assets for a custom pixel-art renderer.",
+        "facts": [
+          {
+            "about": "art",
+            "text": "Shrivastava used Magnific’s hosted Tripo integration to turn images into 3D vehicles and landmarks, then used Blender to clean up, scale and rig the assets.",
+            "sources": [
+              "https://ashutoshai.com/showcase/d/iron-rotor"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The game synthesizes sound effects and music in the browser using Web Audio.",
+            "sources": [
+              "https://ashutoshai.com/showcase/d/iron-rotor"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/ai_for_success/status/2123239282626478306",
+          "https://ashutoshai.com/showcase/d/iron-rotor"
+        ]
+      },
+      "likes": 438,
+      "likesRead": "2026-11-20",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/ai_for_success/status/2123239282626478306",
+      "evidence": {
+        "url": "https://x.com/ai_for_success/status/2123239282626478306",
+        "quote": "Built this small 3D game using Gemini 4 Neon and the Swarm feature in Antigravity."
+      },
+      "playUrl": "https://ashutoshai.com/showcase/d/iron-rotor",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/iron-rotor/still.webp?v=b721db43bd",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/iron-rotor/"
     },
     {
       "id": "gy7oawf0w",
@@ -9130,149 +9494,6 @@
       "pageUrl": "https://amusehall.com/games/hexplorers/"
     },
     {
-      "id": "gah31vsol",
-      "slug": "iron-rotor",
-      "aliases": [],
-      "title": "Iron Rotor",
-      "added": "2026-11-19",
-      "updated": "2026-11-19",
-      "creators": [
-        {
-          "handle": "ai_for_success",
-          "name": "Ashutosh Shrivastava",
-          "url": "https://x.com/ai_for_success"
-        }
-      ],
-      "primaryHandle": "ai_for_success",
-      "credits": [
-        {
-          "label": "Gemini 4 Neon",
-          "modelId": "gemini-4-neon",
-          "familyId": "gemini",
-          "toolId": "antigravity"
-        }
-      ],
-      "primaryFamily": "gemini",
-      "familyIds": [
-        "gemini"
-      ],
-      "modelIds": [
-        "gemini-4-neon"
-      ],
-      "tools": [
-        {
-          "id": "antigravity",
-          "name": "Google Antigravity",
-          "kind": "ai",
-          "family": "gemini",
-          "referral_url": null
-        },
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "typescript",
-          "name": "TypeScript",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "magnific",
-          "name": "Magnific",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "tripo",
-          "name": "Tripo",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "blender",
-          "name": "Blender",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "flight",
-          "name": "Flight"
-        },
-        {
-          "id": "action",
-          "name": "Action"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD or arrows to fly, Space to fire, E for a missile, C to switch camera",
-      "brandIp": true,
-      "description": "Fly a jet or gunship through a pixel-art archipelago, with five combat missions and a free-flight mode.",
-      "notes": "Open Play Game on the showcase page, then choose a mission and an aircraft in the hangar. The opening mission has you bank over a coastal strait to line up attacks on aircraft and boats. The pilot roster features stylized versions of real people.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Ashutosh Shrivastava built the game with Gemini 4 Neon and Antigravity’s Swarm feature. The showcase describes a pipeline that turns images into 3D assets for a custom pixel-art renderer.",
-        "facts": [
-          {
-            "about": "art",
-            "text": "Shrivastava used Magnific’s hosted Tripo integration to turn images into 3D vehicles and landmarks, then used Blender to clean up, scale and rig the assets.",
-            "sources": [
-              "https://ashutoshai.com/showcase/d/iron-rotor"
-            ]
-          },
-          {
-            "about": "sound",
-            "text": "The game synthesizes sound effects and music in the browser using Web Audio.",
-            "sources": [
-              "https://ashutoshai.com/showcase/d/iron-rotor"
-            ]
-          }
-        ],
-        "sources": [
-          "https://x.com/ai_for_success/status/2123239282626478306",
-          "https://ashutoshai.com/showcase/d/iron-rotor"
-        ]
-      },
-      "likes": 171,
-      "likesRead": "2026-11-19",
-      "posted": "2026-11-19",
-      "sourceUrl": "https://x.com/ai_for_success/status/2123239282626478306",
-      "evidence": {
-        "url": "https://x.com/ai_for_success/status/2123239282626478306",
-        "quote": "Built this small 3D game using Gemini 4 Neon and the Swarm feature in Antigravity."
-      },
-      "playUrl": "https://ashutoshai.com/showcase/d/iron-rotor",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/iron-rotor/still.webp?v=b721db43bd",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/iron-rotor/"
-    },
-    {
       "id": "gywgtfpc3",
       "slug": "sangoku-rabbit-generals",
       "aliases": [],
@@ -10023,107 +10244,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/harbourline/"
-    },
-    {
-      "id": "gtwxlwdgm",
-      "slug": "outpost-kyber",
-      "aliases": [],
-      "title": "Outpost Kyber",
-      "added": "2026-11-19",
-      "updated": "2026-11-19",
-      "creators": [
-        {
-          "handle": "DeryaTR_",
-          "name": "Derya Unutmaz",
-          "url": "https://x.com/DeryaTR_"
-        }
-      ],
-      "primaryHandle": "DeryaTR_",
-      "credits": [
-        {
-          "label": "Gemini 4 Neon",
-          "modelId": "gemini-4-neon",
-          "familyId": "gemini",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "gemini",
-      "familyIds": [
-        "gemini"
-      ],
-      "modelIds": [
-        "gemini-4-neon"
-      ],
-      "tools": [
-        {
-          "id": "blender",
-          "name": "Blender",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "action",
-          "name": "Action"
-        },
-        {
-          "id": "strategy",
-          "name": "Strategy"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD to move, E to mine or repair, Space to swing, 1–3 to build",
-      "brandIp": true,
-      "description": "Mine crystals, place shields and turrets, and defend a canyon outpost while deflecting enemy fire with a saber.",
-      "notes": "Waves advance on the command core through the canyon, and you can leave the base to gather resources between attacks. Shields block enemy fire and turrets shoot for you. The saber lets you deflect bolts when enemies get close. It uses Star Wars terminology and imagery.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Derya Unutmaz credits Gemini 4 Neon with the tower-defense build. In a reply, Unutmaz names Blender and says the game used no game engine.",
-        "facts": [
-          {
-            "about": "time",
-            "text": "Unutmaz says the build took “about 20 minutes” and used “2% of my 5 hour limit”.",
-            "sources": [
-              "https://x.com/DeryaTR_/status/2123276863481254210"
-            ]
-          }
-        ],
-        "sources": [
-          "https://x.com/DeryaTR_/status/2123276863481254210",
-          "https://x.com/DeryaTR_/status/2123283700788122027"
-        ]
-      },
-      "likes": 105,
-      "likesRead": "2026-11-19",
-      "posted": "2026-11-19",
-      "sourceUrl": "https://x.com/DeryaTR_/status/2123276863481254210",
-      "evidence": {
-        "url": "https://x.com/DeryaTR_/status/2123276863481254210",
-        "quote": "Google’s new AI model, Gemini 4 Neon"
-      },
-      "playUrl": "https://outpost-kyber.vercel.app/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/outpost-kyber/still.webp?v=86b3f36c6f",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/outpost-kyber/"
     },
     {
       "id": "gh79jcfs0",
@@ -14381,6 +14501,577 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gdtloorwb",
+      "slug": "crowd-pick",
+      "aliases": [],
+      "title": "Crowd Pick",
+      "added": "2026-11-20",
+      "updated": "2026-11-20",
+      "creators": [
+        {
+          "handle": "noillirkbest",
+          "url": "https://noillirk.best/"
+        }
+      ],
+      "primaryHandle": "noillirkbest",
+      "credits": [
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click or tap an answer, or use Tab and Enter",
+      "brandIp": false,
+      "description": "Guess the top answer to seven everyday prompts and see how each choice ranks on the practice board.",
+      "notes": "Each untimed question gives you four choices. The board reveals the top pick and awards points based on the editors’ ranking as soon as you answer. Choose Play again to sample another set of prompts.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The Noillirk Guide maintainer used Codex to build a browser practice board. The development note describes leaving each answer reveal visible until the player advances.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The quiz keeps each answer’s original rank attached to it while shuffling the onscreen order, so the score follows the answer rather than its position.",
+            "sources": [
+              "https://gist.github.com/liuzhen264/f4cfdb407a6e1f448dfc03b95c532787"
+            ]
+          }
+        ],
+        "steps": [
+          "Store choices in ranked order and attach the original rank before shuffling.",
+          "Use that rank to score each choice once, disable the answer buttons and show the top pick.",
+          "Let the player use a separate Next question button to advance after reading the reveal."
+        ],
+        "tips": [
+          "Play a round with the keyboard and check that pressing Enter twice does not award points twice. Replay should start at zero."
+        ],
+        "sources": [
+          "https://github.com/evorjh/awesome-games-made-with-ai/issues/6",
+          "https://gist.github.com/liuzhen264/f4cfdb407a6e1f448dfc03b95c532787"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-19",
+      "sourceUrl": "https://github.com/evorjh/awesome-games-made-with-ai/issues/6",
+      "evidence": {
+        "url": "https://vibegamer.io/game/crowd-pick",
+        "quote": "Codex assisted the development of Crowd Pick."
+      },
+      "playUrl": "https://noillirk.best/#practice",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/crowd-pick/still.webp?v=0a94455a33",
+        "preview": "https://media.amusehall.com/crowd-pick/preview.webp?v=f964f70b79",
+        "clip": "https://media.amusehall.com/crowd-pick/clip.mp4?v=9bca0a2c35",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/crowd-pick/"
+    },
+    {
+      "id": "ggpx14cwp",
+      "slug": "dou-dizhu",
+      "aliases": [],
+      "title": "Dou Dizhu",
+      "added": "2026-11-20",
+      "updated": "2026-11-20",
+      "creators": [
+        {
+          "handle": "bigerbigernerd",
+          "url": "https://github.com/bigerbigernerd"
+        }
+      ],
+      "primaryHandle": "bigerbigernerd",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "card",
+          "name": "Card"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click cards to select them, then choose Play, Pass or Hint. Enter plays, Space passes, and H gives a hint",
+      "brandIp": false,
+      "description": "Bid for the landlord role and shed your hand in this browser version of the Chinese three-player card game.",
+      "notes": "The landlord plays alone against two farmers. Match the shape of the last combination with higher cards, play a bomb when the rules allow it, or pass. Play the computer opens a table with two bots and an in-game hint button.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator credits Claude Code with most of the code across the rules engine, computer player, server and interface. The browser version uses JavaScript with a WebSocket server for online play.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The open-source commit for the rules engine and computer player lists Claude Opus 5.5 as a co-author.",
+            "sources": [
+              "https://github.com/bigerbigernerd/chinese-table-games/commit/b74fcaff507d5905094387b08e1efe2b8f572e3d"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/144",
+          "https://github.com/bigerbigernerd/chinese-table-games/commit/b74fcaff507d5905094387b08e1efe2b8f572e3d"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-09",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/144",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/144",
+        "quote": "Claude Code wrote most of the code: rules engine, computer player, server and UI."
+      },
+      "playUrl": "https://doudizhu.pocketplay.win/",
+      "price": "free",
+      "codeUrl": "https://github.com/bigerbigernerd/chinese-table-games",
+      "media": {
+        "still": "https://media.amusehall.com/dou-dizhu/still.webp?v=a5fcc6ecb1",
+        "preview": "https://media.amusehall.com/dou-dizhu/preview.webp?v=e2e163a47a",
+        "clip": "https://media.amusehall.com/dou-dizhu/clip.mp4?v=71c5eb4606",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/dou-dizhu/"
+    },
+    {
+      "id": "guo3jpoqp",
+      "slug": "halflight",
+      "aliases": [],
+      "title": "HALFLIGHT",
+      "added": "2026-11-20",
+      "updated": "2026-11-20",
+      "creators": [
+        {
+          "handle": "CSAF — Core Systems Asset Factory",
+          "url": "https://csaf.itch.io/"
+        }
+      ],
+      "primaryHandle": "CSAF — Core Systems Asset Factory",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click a cell and a market row to load it, scroll the market, and press H for help",
+      "brandIp": false,
+      "description": "Manage a containment vault where decaying materials earn credits and heat can turn a profitable cell into a crisis.",
+      "notes": "Choose a cell and buy a charge from the market to start earning credits. As the material changes, so do its income and heat. Spend the proceeds on shielding, cooling or research while you decide how much risk the vault can carry.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "CSAF used Claude Code to write the game code and text. The studio built the vault on a single JavaScript canvas.",
+        "facts": [
+          {
+            "about": "art",
+            "text": "The creator says the game draws every image at runtime with code.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/153"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The studio’s own tools composed and synthesized the music and sound effects. The in-game clicks follow the vault’s simulated decay rate.",
+            "sources": [
+              "https://csaf.itch.io/halflight"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/153",
+          "https://csaf.itch.io/halflight"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-14",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/153",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/153",
+        "quote": "AI wrote all of the code and the game's text, using Claude Code"
+      },
+      "playUrl": "https://csaf.itch.io/halflight",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/halflight/still.webp?v=88ca8f95e3",
+        "preview": "https://media.amusehall.com/halflight/preview.webp?v=6f0c7b07d6",
+        "clip": "https://media.amusehall.com/halflight/clip.mp4?v=ad3991498f",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/halflight/"
+    },
+    {
+      "id": "gqxqhe8nj",
+      "slug": "kart-rush",
+      "aliases": [],
+      "title": "Kart Rush",
+      "added": "2026-11-20",
+      "updated": "2026-11-20",
+      "creators": [
+        {
+          "handle": "stevkazt",
+          "url": "https://github.com/stevkazt"
+        }
+      ],
+      "primaryHandle": "stevkazt",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "cannon-es",
+          "name": "cannon-es",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Arrow keys or WASD to drive, and on-screen buttons for items and resets",
+      "brandIp": false,
+      "description": "Race five computer drivers in a browser kart racer with drifting, pickup items and a Grand Prix.",
+      "notes": "Pick a driver, kart and track, then race five computer rivals. Use the item pickups to recover ground or defend your lead. Single Race lets you choose a track, and Grand Prix combines races into a cup.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Stevkazt directed the project and tested it on a phone. The game uses Three.js and cannon-es.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The creator says Claude Code wrote all of the game code over many sessions and kept notes between sessions in CLAUDE.md and the docs directory.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/148"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The creator says the game generates its models and textures in code.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/148"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The music and effects are also generated in code.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/148"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/148"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-12",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/148",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/148",
+        "quote": "All of the code was written by Claude Code over many sessions; I directed it and play-tested on my phone."
+      },
+      "playUrl": "https://stevkazt.github.io/kart-rush/",
+      "price": "free",
+      "codeUrl": "https://github.com/stevkazt/kart-rush",
+      "media": {
+        "still": "https://media.amusehall.com/kart-rush/still.webp?v=19ee310b8e",
+        "preview": "https://media.amusehall.com/kart-rush/preview.webp?v=7703b8a8d0",
+        "clip": "https://media.amusehall.com/kart-rush/clip.mp4?v=32d11ce07e",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/kart-rush/"
+    },
+    {
+      "id": "gly1fsrsd",
+      "slug": "next-please",
+      "aliases": [],
+      "title": "Next, Please!",
+      "added": "2026-11-20",
+      "updated": "2026-11-20",
+      "creators": [
+        {
+          "handle": "Robert Chaba",
+          "url": "https://github.com/robertchaba"
+        }
+      ],
+      "primaryHandle": "Robert Chaba",
+      "credits": [
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        },
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "typescript",
+          "name": "TypeScript",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "vite",
+          "name": "Vite",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "howler",
+          "name": "Howler.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "fflate",
+          "name": "fflate",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Use the mouse to handle paperwork, examine patients and stamp certificates",
+      "brandIp": false,
+      "description": "Run a clinic in 1983. Inspect referrals, examine workers and decide which fitness certificates to stamp.",
+      "notes": "Ring the desk bell to call a worker, then read the referral and choose which tests to perform. Time keeps moving while you work, and the papers you file can matter on later days. The browser build offers English and Polish.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Robert Chaba directed Codex as the project grew from a three-patient prototype into a clinic sim with records inspections and an illustrated story chapter. The development log tracks how the interface, saves and tests evolved as the game added new systems.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "Chaba credits Codex with the original code. The browser game uses TypeScript and Canvas 2D, with Vite for the build and fflate for compressed saves.",
+            "sources": [
+              "https://github.com/robertchaba/next-please/blob/master/docs/devlog.md#ai-use"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The development log credits OpenAI image generation for the clinic illustrations, patient portraits and props. The art record publishes the exact generation and edit prompts for scenes and props, including the mechanical stamp sprites.",
+            "sources": [
+              "https://github.com/robertchaba/next-please/blob/master/docs/devlog.md#ai-use",
+              "https://github.com/robertchaba/next-please/blob/master/docs/art-generation-2026-10-24.md#compact-mechanical-stamp-revision"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The soundtrack was generated with Suno. A local script synthesizes the effects, and Howler.js plays audio in the game.",
+            "sources": [
+              "https://github.com/robertchaba/next-please/blob/master/docs/devlog.md#ai-use"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/robertchaba/next-please/blob/master/docs/devlog.md#ai-use",
+          "https://github.com/lappemic/awesome-ai-built-games/issues/146",
+          "https://github.com/robertchaba/next-please/blob/master/docs/art-generation-2026-10-24.md#compact-mechanical-stamp-revision"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-11",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/146",
+      "evidence": {
+        "url": "https://github.com/robertchaba/next-please/blob/master/docs/devlog.md#ai-use",
+        "quote": "All original project code was generated using OpenAI Codex under Robert Chaba's direction."
+      },
+      "playUrl": "https://robertchaba.github.io/next-please/",
+      "price": "free",
+      "codeUrl": "https://github.com/robertchaba/next-please",
+      "media": {
+        "still": "https://media.amusehall.com/next-please/still.webp?v=1471da78a7",
+        "preview": "https://media.amusehall.com/next-please/preview.webp?v=6c91c3294c",
+        "clip": "https://media.amusehall.com/next-please/clip.mp4?v=6f8acefb1a",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/next-please/"
     },
     {
       "id": "g99ww49gc",
@@ -22297,16 +22988,6 @@
     },
     "families": [
       {
-        "familyId": "gemini",
-        "gameIds": [
-          "gld22k702",
-          "g7lsoeejk",
-          "gah31vsol",
-          "gtwxlwdgm",
-          "g4yrw77l6"
-        ]
-      },
-      {
         "familyId": "gpt",
         "gameIds": [
           "g1bjx9y59",
@@ -22333,6 +23014,8 @@
           "gf8t89ggq",
           "g55tfp6uh",
           "galxnak4n",
+          "gdtloorwb",
+          "gly1fsrsd",
           "gxq8j3d43",
           "gjnmzmmd9",
           "gsht02b37",
@@ -22342,6 +23025,17 @@
           "gdk176s3l",
           "g1oxzxukr",
           "g2r51p2c2"
+        ]
+      },
+      {
+        "familyId": "gemini",
+        "gameIds": [
+          "g9q2ghtjb",
+          "gtwxlwdgm",
+          "gah31vsol",
+          "gld22k702",
+          "g7lsoeejk",
+          "g4yrw77l6"
         ]
       },
       {
@@ -22365,8 +23059,8 @@
           "g27qw9jqs",
           "gw96j1zcp",
           "gls4dgy15",
-          "gpy3pa5mk",
           "ghvfh9vrb",
+          "gpy3pa5mk",
           "g5n1e788h",
           "gpmj9q9ol",
           "gk98c3y8t",
@@ -22441,6 +23135,9 @@
           "g5camq0si",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "ggpx14cwp",
+          "guo3jpoqp",
+          "gqxqhe8nj",
           "gre5glc9e",
           "gdqiq8uft",
           "g3j9z13yz",
@@ -22539,15 +23236,21 @@
         "g5u1gyt9c",
         "g48m4vidg",
         "ghvfh9vrb",
+        "g9q2ghtjb",
         "grwulo01q",
-        "gcvm55qzn",
-        "go44jd756",
-        "gah31vsol",
         "gtwxlwdgm",
+        "gcvm55qzn",
+        "gah31vsol",
+        "go44jd756",
         "g53li02ac",
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "gdtloorwb",
+        "ggpx14cwp",
+        "guo3jpoqp",
+        "gqxqhe8nj",
+        "gly1fsrsd",
         "g99ww49gc",
         "gxq8j3d43",
         "gjnmzmmd9",

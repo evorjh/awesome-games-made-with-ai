@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, E to mine or repair, Space to swing, 1–3 to build
-- **Likes on the original post:** 105, counted 2026-11-19
+- **Likes on the original post:** 496, counted 2026-11-20
 
 Mine crystals, place shields and turrets, and defend a canyon outpost while deflecting enemy fire with a saber.
 
