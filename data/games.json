@@ -847,6 +847,76 @@
       "kind": "library",
       "family": null,
       "referral_url": null
+    },
+    {
+      "id": "photoshop",
+      "name": "Adobe Photoshop",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "ffmpeg",
+      "name": "FFmpeg",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "zzfx",
+      "name": "ZzFX",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "kind": "ai",
+      "family": "grok",
+      "referral_url": null
+    },
+    {
+      "id": "rapier",
+      "name": "Rapier",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "recast-navigation-js",
+      "name": "recast-navigation-js",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "kind": "ai",
+      "family": "gemini",
+      "referral_url": null
+    },
+    {
+      "id": "bria-rmbg",
+      "name": "Bria RMBG",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "treblo",
+      "name": "Treblo",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
     }
   ],
   "genres": [
@@ -1178,10 +1248,11 @@
       ],
       "new": [
         "g5u1gyt9c",
+        "g9q2ghtjb",
         "g48m4vidg",
         "ghvfh9vrb",
-        "g9q2ghtjb",
         "grwulo01q",
+        "gvvjmsrcs",
         "gtwxlwdgm",
         "gcvm55qzn",
         "gah31vsol",
@@ -1190,6 +1261,10 @@
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "g6qhf7p7m",
+        "g29xq7wt0",
+        "gfpywvraj",
+        "glupd1vb7",
         "gdtloorwb",
         "ggpx14cwp",
         "guo3jpoqp",
@@ -2272,8 +2347,8 @@
           "https://github.com/remorses/castle-valley#sound"
         ]
       },
-      "likes": 4484,
-      "likesRead": "2026-11-20",
+      "likes": 4479,
+      "likesRead": "2026-11-21",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
       "evidence": {
@@ -2569,6 +2644,106 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/what-the-water-keeps/"
+    },
+    {
+      "id": "g9q2ghtjb",
+      "slug": "neon-scramble",
+      "aliases": [],
+      "title": "Neon Scramble",
+      "added": "2026-11-20",
+      "updated": "2026-11-20",
+      "creators": [
+        {
+          "handle": "Google",
+          "url": "https://x.com/Google"
+        }
+      ],
+      "primaryHandle": "Google",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": "google-ai-studio"
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [
+        {
+          "id": "google-ai-studio",
+          "name": "Google AI Studio",
+          "kind": "ai",
+          "family": "gemini",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "platformer",
+          "name": "Platformer"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "A and D to change lanes, Space to jump or vault, S to slide",
+      "brandIp": true,
+      "description": "Run through Shibuya as Google Maps’ Pegman, switching lanes and vaulting over traffic on the way to Google Tokyo.",
+      "notes": "The route starts at Shibuya Scramble Crossing and heads toward Google Tokyo. Switch lanes, jump over obstacles and slide beneath low barriers while the score and combo track your run. A route map shows where you are on the course.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "JY says the team started with a short brief for a Shibuya runner starring Pegman, used /swarm and /grill-me, and made a few adjustments along the way.",
+        "facts": [
+          {
+            "about": "levels",
+            "text": "Google says the team used nearly one million tokens of OpenStreetMap data to build the playable map, including 654 roads, 70 rail lines and 280 building footprints.",
+            "sources": [
+              "https://x.com/Google/status/2123548127080656938"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/Google/status/2123548127080656938",
+          "https://x.com/agenticjay/status/2123433948831453539"
+        ]
+      },
+      "likes": 4125,
+      "likesRead": "2026-11-21",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/Google/status/2123548127080656938",
+      "evidence": {
+        "url": "https://x.com/Google/status/2123548127080656938",
+        "quote": "Built with Gemini 4 Neon"
+      },
+      "playUrl": "https://neon-scramble.ai.studio/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/neon-scramble/still.webp?v=3f7f38565a",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/neon-scramble/"
     },
     {
       "id": "g8ze3q86y",
@@ -3265,8 +3440,8 @@
           "https://tesana.com/game/getting-there"
         ]
       },
-      "likes": 2643,
-      "likesRead": "2026-11-20",
+      "likes": 2648,
+      "likesRead": "2026-11-21",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
       "evidence": {
@@ -3751,8 +3926,8 @@
           "https://x.com/xikhar/status/2122682974856794385"
         ]
       },
-      "likes": 2243,
-      "likesRead": "2026-11-20",
+      "likes": 2263,
+      "likesRead": "2026-11-21",
       "posted": "2026-11-17",
       "sourceUrl": "https://x.com/xikhar/status/2122682962647122403",
       "evidence": {
@@ -4890,106 +5065,6 @@
       "pageUrl": "https://amusehall.com/games/kings-gambit/"
     },
     {
-      "id": "g9q2ghtjb",
-      "slug": "neon-scramble",
-      "aliases": [],
-      "title": "Neon Scramble",
-      "added": "2026-11-20",
-      "updated": "2026-11-20",
-      "creators": [
-        {
-          "handle": "Google",
-          "url": "https://x.com/Google"
-        }
-      ],
-      "primaryHandle": "Google",
-      "credits": [
-        {
-          "label": "Gemini 4 Neon",
-          "modelId": "gemini-4-neon",
-          "familyId": "gemini",
-          "toolId": "google-ai-studio"
-        }
-      ],
-      "primaryFamily": "gemini",
-      "familyIds": [
-        "gemini"
-      ],
-      "modelIds": [
-        "gemini-4-neon"
-      ],
-      "tools": [
-        {
-          "id": "google-ai-studio",
-          "name": "Google AI Studio",
-          "kind": "ai",
-          "family": "gemini",
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        },
-        {
-          "id": "platformer",
-          "name": "Platformer"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "A and D to change lanes, Space to jump or vault, S to slide",
-      "brandIp": true,
-      "description": "Run through Shibuya as Google Maps’ Pegman, switching lanes and vaulting over traffic on the way to Google Tokyo.",
-      "notes": "The route starts at Shibuya Scramble Crossing and heads toward Google Tokyo. Switch lanes, jump over obstacles and slide beneath low barriers while the score and combo track your run. A route map shows where you are on the course.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "JY says the team started with a short brief for a Shibuya runner starring Pegman, used /swarm and /grill-me, and made a few adjustments along the way.",
-        "facts": [
-          {
-            "about": "levels",
-            "text": "Google says the team used nearly one million tokens of OpenStreetMap data to build the playable map, including 654 roads, 70 rail lines and 280 building footprints.",
-            "sources": [
-              "https://x.com/Google/status/2123548127080656938"
-            ]
-          }
-        ],
-        "sources": [
-          "https://x.com/Google/status/2123548127080656938",
-          "https://x.com/agenticjay/status/2123433948831453539"
-        ]
-      },
-      "likes": 1298,
-      "likesRead": "2026-11-20",
-      "posted": "2026-11-19",
-      "sourceUrl": "https://x.com/Google/status/2123548127080656938",
-      "evidence": {
-        "url": "https://x.com/Google/status/2123548127080656938",
-        "quote": "Built with Gemini 4 Neon"
-      },
-      "playUrl": "https://neon-scramble.ai.studio/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/neon-scramble/still.webp?v=3f7f38565a",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/neon-scramble/"
-    },
-    {
       "id": "grwulo01q",
       "slug": "vice-86",
       "aliases": [],
@@ -5085,7 +5160,7 @@
         ]
       },
       "likes": 1269,
-      "likesRead": "2026-11-20",
+      "likesRead": "2026-11-21",
       "posted": "2026-11-16",
       "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
       "evidence": {
@@ -6887,6 +6962,88 @@
       "pageUrl": "https://amusehall.com/games/siege-wing/"
     },
     {
+      "id": "gvvjmsrcs",
+      "slug": "pokekart-gp",
+      "aliases": [],
+      "title": "PokéKart GP",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "creators": [
+        {
+          "handle": "MozeTech",
+          "url": "https://x.com/MozeTech"
+        }
+      ],
+      "primaryHandle": "MozeTech",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Use WASD or the arrows to ride, Shift to drift, Space to hop, and Enter or Escape for the menu",
+      "brandIp": true,
+      "description": "Ride through Pokémon routes in a fan kart racer with drifts, hops, items and special moves.",
+      "notes": "Pick a rider and course in this unofficial Pokémon and Mario Kart crossover. You can drift around corners and use items or a rider’s special move.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "MozeTech says they made the Pokémon and Mario Kart crossover with Gemini Neon in “one shot.” The creator posted the playable browser build with the announcement.",
+        "sources": [
+          "https://x.com/MozeTech/status/2123635630118998044"
+        ]
+      },
+      "likes": 558,
+      "likesRead": "2026-11-21",
+      "posted": "2026-11-20",
+      "sourceUrl": "https://x.com/MozeTech/status/2123635630118998044",
+      "evidence": {
+        "url": "https://x.com/MozeTech/status/2123635630118998044",
+        "quote": "using Gemini Neon in just one shot!"
+      },
+      "playUrl": "https://poke-kart.pages.dev/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/pokekart-gp/still.webp?v=044faad84c",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/pokekart-gp/"
+    },
+    {
       "id": "g361pfe4r",
       "slug": "karts-com",
       "aliases": [],
@@ -6997,6 +7154,107 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/karts-com/"
+    },
+    {
+      "id": "gtwxlwdgm",
+      "slug": "outpost-kyber",
+      "aliases": [],
+      "title": "Outpost Kyber",
+      "added": "2026-11-19",
+      "updated": "2026-11-19",
+      "creators": [
+        {
+          "handle": "DeryaTR_",
+          "name": "Derya Unutmaz",
+          "url": "https://x.com/DeryaTR_"
+        }
+      ],
+      "primaryHandle": "DeryaTR_",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, E to mine or repair, Space to swing, 1–3 to build",
+      "brandIp": true,
+      "description": "Mine crystals, place shields and turrets, and defend a canyon outpost while deflecting enemy fire with a saber.",
+      "notes": "Waves advance on the command core through the canyon, and you can leave the base to gather resources between attacks. Shields block enemy fire and turrets shoot for you. The saber lets you deflect bolts when enemies get close. It uses Star Wars terminology and imagery.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Derya Unutmaz credits Gemini 4 Neon with the tower-defense build. In a reply, Unutmaz names Blender and says the game used no game engine.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "Unutmaz says the build took “about 20 minutes” and used “2% of my 5 hour limit”.",
+            "sources": [
+              "https://x.com/DeryaTR_/status/2123276863481254210"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/DeryaTR_/status/2123276863481254210",
+          "https://x.com/DeryaTR_/status/2123283700788122027"
+        ]
+      },
+      "likes": 521,
+      "likesRead": "2026-11-21",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/DeryaTR_/status/2123276863481254210",
+      "evidence": {
+        "url": "https://x.com/DeryaTR_/status/2123276863481254210",
+        "quote": "Google’s new AI model, Gemini 4 Neon"
+      },
+      "playUrl": "https://outpost-kyber.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/outpost-kyber/still.webp?v=86b3f36c6f",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/outpost-kyber/"
     },
     {
       "id": "g8svijhf1",
@@ -7162,107 +7420,6 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/i-would-have-gotten-away-with-it/"
-    },
-    {
-      "id": "gtwxlwdgm",
-      "slug": "outpost-kyber",
-      "aliases": [],
-      "title": "Outpost Kyber",
-      "added": "2026-11-19",
-      "updated": "2026-11-19",
-      "creators": [
-        {
-          "handle": "DeryaTR_",
-          "name": "Derya Unutmaz",
-          "url": "https://x.com/DeryaTR_"
-        }
-      ],
-      "primaryHandle": "DeryaTR_",
-      "credits": [
-        {
-          "label": "Gemini 4 Neon",
-          "modelId": "gemini-4-neon",
-          "familyId": "gemini",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "gemini",
-      "familyIds": [
-        "gemini"
-      ],
-      "modelIds": [
-        "gemini-4-neon"
-      ],
-      "tools": [
-        {
-          "id": "blender",
-          "name": "Blender",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "action",
-          "name": "Action"
-        },
-        {
-          "id": "strategy",
-          "name": "Strategy"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD to move, E to mine or repair, Space to swing, 1–3 to build",
-      "brandIp": true,
-      "description": "Mine crystals, place shields and turrets, and defend a canyon outpost while deflecting enemy fire with a saber.",
-      "notes": "Waves advance on the command core through the canyon, and you can leave the base to gather resources between attacks. Shields block enemy fire and turrets shoot for you. The saber lets you deflect bolts when enemies get close. It uses Star Wars terminology and imagery.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Derya Unutmaz credits Gemini 4 Neon with the tower-defense build. In a reply, Unutmaz names Blender and says the game used no game engine.",
-        "facts": [
-          {
-            "about": "time",
-            "text": "Unutmaz says the build took “about 20 minutes” and used “2% of my 5 hour limit”.",
-            "sources": [
-              "https://x.com/DeryaTR_/status/2123276863481254210"
-            ]
-          }
-        ],
-        "sources": [
-          "https://x.com/DeryaTR_/status/2123276863481254210",
-          "https://x.com/DeryaTR_/status/2123283700788122027"
-        ]
-      },
-      "likes": 496,
-      "likesRead": "2026-11-20",
-      "posted": "2026-11-19",
-      "sourceUrl": "https://x.com/DeryaTR_/status/2123276863481254210",
-      "evidence": {
-        "url": "https://x.com/DeryaTR_/status/2123276863481254210",
-        "quote": "Google’s new AI model, Gemini 4 Neon"
-      },
-      "playUrl": "https://outpost-kyber.vercel.app/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/outpost-kyber/still.webp?v=86b3f36c6f",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/outpost-kyber/"
     },
     {
       "id": "glxawhstw",
@@ -7467,8 +7624,8 @@
           "https://kengoworks.itch.io/dawnlings"
         ]
       },
-      "likes": 477,
-      "likesRead": "2026-11-20",
+      "likes": 479,
+      "likesRead": "2026-11-21",
       "posted": "2026-11-18",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2122969346935017497",
       "evidence": {
@@ -7610,8 +7767,8 @@
           "https://ashutoshai.com/showcase/d/iron-rotor"
         ]
       },
-      "likes": 438,
-      "likesRead": "2026-11-20",
+      "likes": 445,
+      "likesRead": "2026-11-21",
       "posted": "2026-11-19",
       "sourceUrl": "https://x.com/ai_for_success/status/2123239282626478306",
       "evidence": {
@@ -10639,8 +10796,8 @@
           "https://www.youtube.com/watch?v=q3CpuRXA-sw"
         ]
       },
-      "likes": 67,
-      "likesRead": "2026-11-18",
+      "likes": 68,
+      "likesRead": "2026-11-21",
       "posted": "2026-11-04",
       "sourceUrl": "https://www.youtube.com/watch?v=q3CpuRXA-sw",
       "evidence": {
@@ -14501,6 +14658,617 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "g6qhf7p7m",
+      "slug": "drag-up-your-bar",
+      "aliases": [],
+      "title": "DRAG UP YOUR BAR",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "creators": [
+        {
+          "handle": "OzAj",
+          "name": "Oz Ajami",
+          "url": "https://ozajart.com/"
+        }
+      ],
+      "primaryHandle": "OzAj",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        },
+        {
+          "id": "photoshop",
+          "name": "Adobe Photoshop",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click the club to start the music, then click guests, the DJ, cocktail bubbles or the show and upgrade buttons",
+      "brandIp": false,
+      "description": "Run a drag club, book performers, and put the money from a busy dance floor back into the venue.",
+      "notes": "Start the music at House of Sequins, hype up guests and run a show. Put the tips into upgrades for the bar, stage, DJ booth and dance floor. The free browser beta has three clubs to open.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Oz Ajami says Claude wrote nearly all the code for the club simulation. Ajami started the artwork with ChatGPT’s image tools and finished it in Photoshop.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The creator credits Claude with nearly all of the HTML, CSS and JavaScript.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/143"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Ajami took the generated images into Photoshop to finish them.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/143"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/143",
+          "https://ozaj.itch.io/drag-up-your-bar"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-25",
+      "sourceUrl": "https://ozaj.itch.io/drag-up-your-bar",
+      "evidence": {
+        "url": "https://ozaj.itch.io/drag-up-your-bar",
+        "quote": "Game code generated with Claude AI."
+      },
+      "playUrl": "https://ozajart.com/game",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/drag-up-your-bar/still.webp?v=83b29d5595",
+        "preview": "https://media.amusehall.com/drag-up-your-bar/preview.webp?v=684318194e",
+        "clip": "https://media.amusehall.com/drag-up-your-bar/clip.mp4?v=a65f60bee2",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/drag-up-your-bar/"
+    },
+    {
+      "id": "g29xq7wt0",
+      "slug": "firestarter-let-it-burn",
+      "aliases": [],
+      "title": "FIRESTARTER - LET IT BURN",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "creators": [
+        {
+          "handle": "todd_dillerson",
+          "url": "https://todd-dillerson.itch.io/"
+        }
+      ],
+      "primaryHandle": "todd_dillerson",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        },
+        {
+          "label": "Claude Sonnet 5.5",
+          "modelId": "claude-sonnet-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        },
+        {
+          "label": "Cursor (model not named)",
+          "modelId": null,
+          "familyId": "",
+          "toolId": "cursor"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5",
+        "claude-sonnet-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "cursor",
+          "name": "Cursor",
+          "kind": "ai",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "grok",
+          "name": "Grok",
+          "kind": "ai",
+          "family": "grok",
+          "referral_url": null
+        },
+        {
+          "id": "trellis",
+          "name": "TRELLIS",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "vite",
+          "name": "Vite",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "rapier",
+          "name": "Rapier",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "recast-navigation-js",
+          "name": "recast-navigation-js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "sandbox",
+          "name": "Sandbox"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Move with WASD, look with the mouse, hold left click to fire, press Space to jump and Escape to pause",
+      "brandIp": false,
+      "description": "Chase a high score in a first-person arcade game where spreading fires chain across a simulated city.",
+      "notes": "Start in Tinder Falls and build a score multiplier as fires spread on their own. The game tracks your best chains and the share of the city burned. Higher completion unlocks larger maps.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator designed and playtested the game and credits Claude Code with Claude Opus 5.5 and Sonnet 5.5, plus Cursor, for the code.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The browser build uses Three.js for rendering, Rapier for physics, recast-navigation-js for navigation and Vite for the build.",
+            "sources": [
+              "https://todd-dillerson.itch.io/firestarter-let-it-burn"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Grok in Cursor produced the on-screen flamethrower’s cel-shaded drawing, which the creator cleaned up. The build also includes a fallback 3D model made with TRELLIS.",
+            "sources": [
+              "https://todd-dillerson.itch.io/firestarter-let-it-burn"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "Most music and effects are synthesized in the browser by AI-written code. The gunshots, bullet impacts and near misses come from recordings credited to the Sonniss bundle.",
+            "sources": [
+              "https://todd-dillerson.itch.io/firestarter-let-it-burn"
+            ]
+          }
+        ],
+        "sources": [
+          "https://todd-dillerson.itch.io/firestarter-let-it-burn"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-21",
+      "sourceUrl": "https://todd-dillerson.itch.io/firestarter-let-it-burn",
+      "evidence": {
+        "url": "https://todd-dillerson.itch.io/firestarter-let-it-burn",
+        "quote": "written with AI coding assistants: Claude Code (Anthropic: Claude Opus 5.5 and Claude Sonnet 5.5) and Cursor."
+      },
+      "playUrl": "https://todd-dillerson.itch.io/firestarter-let-it-burn",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/firestarter-let-it-burn/still.webp?v=cdbbba409d",
+        "preview": "https://media.amusehall.com/firestarter-let-it-burn/preview.webp?v=01c299b0c3",
+        "clip": "https://media.amusehall.com/firestarter-let-it-burn/clip.mp4?v=3a43f3b826",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/firestarter-let-it-burn/"
+    },
+    {
+      "id": "gfpywvraj",
+      "slug": "light-x-dungeon",
+      "aliases": [],
+      "title": "Light x Dungeon",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "creators": [
+        {
+          "handle": "Rombotnik",
+          "url": "https://rombotnik.itch.io/"
+        }
+      ],
+      "primaryHandle": "Rombotnik",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "react",
+          "name": "React",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "meshy",
+          "name": "Meshy",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "gemini",
+          "name": "Gemini",
+          "kind": "ai",
+          "family": "gemini",
+          "referral_url": null
+        },
+        {
+          "id": "bria-rmbg",
+          "name": "Bria RMBG",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "elevenlabs",
+          "name": "ElevenLabs",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "treblo",
+          "name": "Treblo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "rpg",
+          "name": "RPG"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Use the mouse and keyboard or a gamepad. Press 1 or 2 for front-row attacks and Shift+3 or Shift+4 for spells",
+      "brandIp": false,
+      "description": "Lead a party of four through a tomb while its lantern dwindles and combat unfolds in real time.",
+      "notes": "Pick four characters and assign them to front and back rows. Light the way into St. Cendre’s tomb and watch the lantern while you explore. Return to rest and improve your party when the light runs low.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Rombotnik set out to build a complete dungeon crawler in “2 weeks.” Claude Code with Opus 5.5 handled most programming and implementation, alongside writing and content work.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The game uses React and Three.js.",
+            "sources": [
+              "https://rombotnik.itch.io/light-x-dungeon"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Rombotnik used headless Blender through MCP for rigging and animation, Meshy for 3D assets and textures, Gemini for concept art and textures, and Bria RMBG to remove backgrounds.",
+            "sources": [
+              "https://rombotnik.itch.io/light-x-dungeon"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The creator credits ElevenLabs for voices and sound effects and Treblo for music.",
+            "sources": [
+              "https://rombotnik.itch.io/light-x-dungeon"
+            ]
+          }
+        ],
+        "sources": [
+          "https://rombotnik.itch.io/light-x-dungeon"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-29",
+      "sourceUrl": "https://rombotnik.itch.io/light-x-dungeon",
+      "evidence": {
+        "url": "https://rombotnik.itch.io/light-x-dungeon",
+        "quote": "I mainly used Claude Code (Opus 5.5) for programming, content, writing, and implementation."
+      },
+      "playUrl": "https://rombotnik.itch.io/light-x-dungeon",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/light-x-dungeon/still.webp?v=f63caaac04",
+        "preview": "https://media.amusehall.com/light-x-dungeon/preview.webp?v=3959c760ae",
+        "clip": "https://media.amusehall.com/light-x-dungeon/clip.mp4?v=1f444967fb",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/light-x-dungeon/"
+    },
+    {
+      "id": "glupd1vb7",
+      "slug": "lightkeeper",
+      "aliases": [],
+      "title": "Lightkeeper",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "creators": [
+        {
+          "handle": "TheDannos",
+          "url": "https://thedannos.itch.io/"
+        }
+      ],
+      "primaryHandle": "TheDannos",
+      "credits": [
+        {
+          "label": "Claude Sonnet 5.5",
+          "modelId": "claude-sonnet-5-5",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-sonnet-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "elevenlabs",
+          "name": "ElevenLabs",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "ffmpeg",
+          "name": "FFmpeg",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "zzfx",
+          "name": "ZzFX",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Aim with the mouse or WASD, flash with left click or Space, and use the siren with right click or E once unlocked",
+      "brandIp": false,
+      "description": "Guide ships through seven stormy nights by lighting a safe path around the rocks.",
+      "notes": "Hold the beam on a ship long enough for it to plot a course while other ships approach in the dark. A flash briefly lights the sea and uses oil. Between nights, read letters and buy upgrades at the harbor. Lightkeeper tied for first overall in AI Browser Game Jam 5.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "TheDannos designed the game and used Claude Code to implement it. Two AI-written bots simulated hundreds of nights, but human playtesters found a route hint confusing even though the bots liked it.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "TheDannos directed the project and says AI agents built the game in “13 days.”",
+            "sources": [
+              "https://itch.io/jam/ai-jam-5/rate/5265063"
+            ]
+          },
+          {
+            "about": "code",
+            "text": "Claude Sonnet 5.5 wrote the game logic in vanilla JavaScript. Agents worked in parallel on separate branches. The creator describes an agent checking its work with headless browser screenshots.",
+            "sources": [
+              "https://itch.io/jam/ai-jam-5/rate/5265063"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Claude Opus 5.5 used code to draw the woodcut-style art on a 2D canvas.",
+            "sources": [
+              "https://itch.io/jam/ai-jam-5/rate/5265063"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "TheDannos selected 25 of 98 ElevenLabs takes by ear, used Suno for music and used Claude to master and loop the audio. The short UI sounds use ZzFX.",
+            "sources": [
+              "https://thedannos.itch.io/lightkeeper",
+              "https://itch.io/jam/ai-jam-5/rate/5265063"
+            ]
+          }
+        ],
+        "sources": [
+          "https://thedannos.itch.io/lightkeeper",
+          "https://itch.io/jam/ai-jam-5/rate/5265063"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-10-30",
+      "sourceUrl": "https://thedannos.itch.io/lightkeeper",
+      "evidence": {
+        "url": "https://thedannos.itch.io/lightkeeper",
+        "quote": "Code, art and tools: written with Claude (Anthropic) in Claude Code"
+      },
+      "playUrl": "https://html-classic.itch.zone/html/20153942/index.html?v=1793373579",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/lightkeeper/still.webp?v=124469925a",
+        "preview": "https://media.amusehall.com/lightkeeper/preview.webp?v=402067ea08",
+        "clip": "https://media.amusehall.com/lightkeeper/clip.mp4?v=28d8d064ad",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/lightkeeper/"
     },
     {
       "id": "gdtloorwb",
@@ -23031,6 +23799,7 @@
         "familyId": "gemini",
         "gameIds": [
           "g9q2ghtjb",
+          "gvvjmsrcs",
           "gtwxlwdgm",
           "gah31vsol",
           "gld22k702",
@@ -23135,6 +23904,10 @@
           "g5camq0si",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "g6qhf7p7m",
+          "g29xq7wt0",
+          "gfpywvraj",
+          "glupd1vb7",
           "ggpx14cwp",
           "guo3jpoqp",
           "gqxqhe8nj",
@@ -23234,10 +24007,11 @@
       ],
       "newIds": [
         "g5u1gyt9c",
+        "g9q2ghtjb",
         "g48m4vidg",
         "ghvfh9vrb",
-        "g9q2ghtjb",
         "grwulo01q",
+        "gvvjmsrcs",
         "gtwxlwdgm",
         "gcvm55qzn",
         "gah31vsol",
@@ -23246,6 +24020,10 @@
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "g6qhf7p7m",
+        "g29xq7wt0",
+        "gfpywvraj",
+        "glupd1vb7",
         "gdtloorwb",
         "ggpx14cwp",
         "guo3jpoqp",
