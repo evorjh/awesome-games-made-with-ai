@@ -1266,6 +1266,7 @@
         "g29xq7wt0",
         "gfpywvraj",
         "glupd1vb7",
+        "g9hoy2png",
         "gdtloorwb",
         "ggpx14cwp",
         "guo3jpoqp",
@@ -15385,6 +15386,86 @@
       "pageUrl": "https://amusehall.com/games/lightkeeper/"
     },
     {
+      "id": "g9hoy2png",
+      "slug": "paper-boats",
+      "aliases": [],
+      "title": "Paper Boats",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "creators": [
+        {
+          "handle": "Good Game Daily",
+          "url": "https://goodgamedaily.com/"
+        }
+      ],
+      "primaryHandle": "Good Game Daily",
+      "credits": [
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Choose Across or Down, click or tap a square to place each boat, then select one square per turn to search.",
+      "brandIp": false,
+      "description": "Hide three boats on a 5×5 lake and pass one device back and forth as you hunt for your opponent’s fleet.",
+      "notes": "Each player hides one three-square boat and two two-square boats before sealing their lake. The game hides both boards at each handoff so you can pass the device without showing your move. Search one square per turn and use hits to narrow down where the rest of a boat could be. The first player to find all seven occupied squares wins, and an unfinished round can resume in the same browser.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": null,
+      "likes": null,
+      "likesRead": null,
+      "posted": null,
+      "sourceUrl": "https://goodgamedaily.com/play/paper-boats",
+      "evidence": {
+        "url": null,
+        "quote": "Codex assisted implementation and testing."
+      },
+      "playUrl": "https://goodgamedaily.com/play/paper-boats",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/paper-boats/still.webp?v=4ad2968fd3",
+        "preview": "https://media.amusehall.com/paper-boats/preview.webp?v=d11712d814",
+        "clip": "https://media.amusehall.com/paper-boats/clip.mp4?v=56ff20fa31",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/paper-boats/"
+    },
+    {
       "id": "gdtloorwb",
       "slug": "crowd-pick",
       "aliases": [],
@@ -23897,6 +23978,7 @@
           "g55tfp6uh",
           "galxnak4n",
           "g3mu5eugf",
+          "g9hoy2png",
           "gdtloorwb",
           "gly1fsrsd",
           "gxq8j3d43",
@@ -24139,6 +24221,7 @@
         "g29xq7wt0",
         "gfpywvraj",
         "glupd1vb7",
+        "g9hoy2png",
         "gdtloorwb",
         "ggpx14cwp",
         "guo3jpoqp",
