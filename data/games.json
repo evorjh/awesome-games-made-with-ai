@@ -10701,8 +10701,8 @@
       },
       "availability": "unavailable",
       "unavailableSince": "2026-11-20",
-      "dropped": false,
-      "featurable": true,
+      "dropped": true,
+      "featurable": false,
       "pageUrl": "https://amusehall.com/games/kettu-vellam/"
     },
     {
@@ -15569,7 +15569,7 @@
         "clip": "https://media.amusehall.com/halflight/clip.mp4?v=ad3991498f",
         "unrecordable": null
       },
-      "availability": "available",
+      "availability": "unknown",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
@@ -23874,7 +23874,6 @@
           "g04zlqq5p",
           "gdjlcx9uv",
           "gh79jcfs0",
-          "g5pav1sj5",
           "g53li02ac",
           "gfivzz7nn",
           "gy98g0zma",
