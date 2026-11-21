@@ -1262,6 +1262,7 @@
         "g949awofn",
         "g5camq0si",
         "g6qhf7p7m",
+        "g3mu5eugf",
         "g29xq7wt0",
         "gfpywvraj",
         "glupd1vb7",
@@ -14773,6 +14774,119 @@
       "pageUrl": "https://amusehall.com/games/drag-up-your-bar/"
     },
     {
+      "id": "g3mu5eugf",
+      "slug": "fairy-hollow",
+      "aliases": [],
+      "title": "Fairy Hollow",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "creators": [
+        {
+          "handle": "Laughzxc Games",
+          "url": "https://laughzxc.itch.io/"
+        }
+      ],
+      "primaryHandle": "Laughzxc Games",
+      "credits": [
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Click or tap a marker to walk to it. Use W/S to walk, A/D to turn, Space to jump, E to interact or the on-screen controls",
+      "brandIp": false,
+      "description": "Follow a lantern moth through a woodland meadow, then bring wildflowers back to plant at camp.",
+      "notes": "Meadow Visit is a short solo outing with no timer. Follow the moth across Honeyglass Bridge or pick from three flowers on the Flower Walk. Return to camp to choose a pot for each flower and rearrange the garden whenever you like.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Fairy Hollow went through several iterations. Laughzxc Games credits Codex with writing most of the browser game’s code under human direction.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The submission names HTML, JavaScript and CSS as part of the code written with Codex.",
+            "sources": [
+              "https://github.com/evorjh/awesome-games-made-with-ai/issues/7"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The submission includes procedural graphics in its Codex code credit.",
+            "sources": [
+              "https://github.com/evorjh/awesome-games-made-with-ai/issues/7"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "The creator’s gardening update places Flower Walk in chapter one and lets players find its three flowers in any order.",
+            "sources": [
+              "https://laughzxc.itch.io/fairy-hollow/devlog/1793384/a-little-garden-for-fairy-hollow"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/evorjh/awesome-games-made-with-ai/issues/7",
+          "https://laughzxc.itch.io/fairy-hollow/devlog/1793384/a-little-garden-for-fairy-hollow"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-21",
+      "sourceUrl": "https://github.com/evorjh/awesome-games-made-with-ai/issues/7",
+      "evidence": {
+        "url": "https://github.com/evorjh/awesome-games-made-with-ai/issues/7",
+        "quote": "OpenAI Codex wrote most of the HTML, JavaScript, CSS, and procedural graphics code under human direction."
+      },
+      "playUrl": "https://fairy-hollow-honeyglass.purple-ocarina-907.workers.dev/meadow",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/fairy-hollow/still.webp?v=39ed458d54",
+        "preview": "https://media.amusehall.com/fairy-hollow/preview.webp?v=088e5d101d",
+        "clip": "https://media.amusehall.com/fairy-hollow/clip.mp4?v=926bfd1fa3",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/fairy-hollow/"
+    },
+    {
       "id": "g29xq7wt0",
       "slug": "firestarter-let-it-burn",
       "aliases": [],
@@ -23782,6 +23896,7 @@
           "gf8t89ggq",
           "g55tfp6uh",
           "galxnak4n",
+          "g3mu5eugf",
           "gdtloorwb",
           "gly1fsrsd",
           "gxq8j3d43",
@@ -24020,6 +24135,7 @@
         "g949awofn",
         "g5camq0si",
         "g6qhf7p7m",
+        "g3mu5eugf",
         "g29xq7wt0",
         "gfpywvraj",
         "glupd1vb7",
