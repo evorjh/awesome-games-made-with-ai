@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse or left/right arrows to move the paddle, click or Space to launch, number keys or clicks to choose upgrades, P to pause, M to mute
-- **Likes on the original post:** 68, counted 2026-11-21
+- **Likes on the original post:** 68, counted 2026-11-22
 
 Clear unread messages with a breakout paddle across five office workdays, then face the boss on Friday.
 

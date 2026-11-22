@@ -22,6 +22,11 @@
   },
   "families": [
     {
+      "id": "claude",
+      "name": "Claude",
+      "maker": "Anthropic"
+    },
+    {
       "id": "gpt",
       "name": "GPT and Codex",
       "maker": "OpenAI"
@@ -30,11 +35,6 @@
       "id": "gemini",
       "name": "Gemini",
       "maker": "Google"
-    },
-    {
-      "id": "claude",
-      "name": "Claude",
-      "maker": "Anthropic"
     },
     {
       "id": "muse",
@@ -723,6 +723,20 @@
       "referral_url": null
     },
     {
+      "id": "gpt-image-2-5",
+      "name": "GPT Image 2.5",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "hunyuan3d-2",
+      "name": "Hunyuan3D-2",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
       "id": "gemini-3-pro-image",
       "name": "Gemini 3 Pro Image",
       "kind": "app",
@@ -915,6 +929,20 @@
       "id": "treblo",
       "name": "Treblo",
       "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "node-js",
+      "name": "Node.js",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
+    },
+    {
+      "id": "socket-io",
+      "name": "Socket.IO",
+      "kind": "library",
       "family": null,
       "referral_url": null
     }
@@ -1252,15 +1280,21 @@
         "g48m4vidg",
         "ghvfh9vrb",
         "grwulo01q",
+        "gasxbr44a",
         "gvvjmsrcs",
         "gtwxlwdgm",
         "gcvm55qzn",
         "gah31vsol",
+        "g9n2oq4z1",
         "go44jd756",
         "g53li02ac",
+        "g90ty75sw",
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "gkff1230f",
+        "g76fye015",
+        "ghdu7urg0",
         "g6qhf7p7m",
         "g3mu5eugf",
         "g29xq7wt0",
@@ -2349,8 +2383,8 @@
           "https://github.com/remorses/castle-valley#sound"
         ]
       },
-      "likes": 4479,
-      "likesRead": "2026-11-21",
+      "likes": 4480,
+      "likesRead": "2026-11-22",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
       "evidence": {
@@ -2371,6 +2405,106 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/castle-valley/"
+    },
+    {
+      "id": "g9q2ghtjb",
+      "slug": "neon-scramble",
+      "aliases": [],
+      "title": "Neon Scramble",
+      "added": "2026-11-20",
+      "updated": "2026-11-20",
+      "creators": [
+        {
+          "handle": "Google",
+          "url": "https://x.com/Google"
+        }
+      ],
+      "primaryHandle": "Google",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": "google-ai-studio"
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [
+        {
+          "id": "google-ai-studio",
+          "name": "Google AI Studio",
+          "kind": "ai",
+          "family": "gemini",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        },
+        {
+          "id": "platformer",
+          "name": "Platformer"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "A and D to change lanes, Space to jump or vault, S to slide",
+      "brandIp": true,
+      "description": "Run through Shibuya as Google Maps’ Pegman, switching lanes and vaulting over traffic on the way to Google Tokyo.",
+      "notes": "The route starts at Shibuya Scramble Crossing and heads toward Google Tokyo. Switch lanes, jump over obstacles and slide beneath low barriers while the score and combo track your run. A route map shows where you are on the course.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "JY says the team started with a short brief for a Shibuya runner starring Pegman, used /swarm and /grill-me, and made a few adjustments along the way.",
+        "facts": [
+          {
+            "about": "levels",
+            "text": "Google says the team used nearly one million tokens of OpenStreetMap data to build the playable map, including 654 roads, 70 rail lines and 280 building footprints.",
+            "sources": [
+              "https://x.com/Google/status/2123548127080656938"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/Google/status/2123548127080656938",
+          "https://x.com/agenticjay/status/2123433948831453539"
+        ]
+      },
+      "likes": 4434,
+      "likesRead": "2026-11-22",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/Google/status/2123548127080656938",
+      "evidence": {
+        "url": "https://x.com/Google/status/2123548127080656938",
+        "quote": "Built with Gemini 4 Neon"
+      },
+      "playUrl": "https://neon-scramble.ai.studio/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/neon-scramble/still.webp?v=3f7f38565a",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/neon-scramble/"
     },
     {
       "id": "ggfzbxt7z",
@@ -2646,106 +2780,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/what-the-water-keeps/"
-    },
-    {
-      "id": "g9q2ghtjb",
-      "slug": "neon-scramble",
-      "aliases": [],
-      "title": "Neon Scramble",
-      "added": "2026-11-20",
-      "updated": "2026-11-20",
-      "creators": [
-        {
-          "handle": "Google",
-          "url": "https://x.com/Google"
-        }
-      ],
-      "primaryHandle": "Google",
-      "credits": [
-        {
-          "label": "Gemini 4 Neon",
-          "modelId": "gemini-4-neon",
-          "familyId": "gemini",
-          "toolId": "google-ai-studio"
-        }
-      ],
-      "primaryFamily": "gemini",
-      "familyIds": [
-        "gemini"
-      ],
-      "modelIds": [
-        "gemini-4-neon"
-      ],
-      "tools": [
-        {
-          "id": "google-ai-studio",
-          "name": "Google AI Studio",
-          "kind": "ai",
-          "family": "gemini",
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        },
-        {
-          "id": "platformer",
-          "name": "Platformer"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "A and D to change lanes, Space to jump or vault, S to slide",
-      "brandIp": true,
-      "description": "Run through Shibuya as Google Maps’ Pegman, switching lanes and vaulting over traffic on the way to Google Tokyo.",
-      "notes": "The route starts at Shibuya Scramble Crossing and heads toward Google Tokyo. Switch lanes, jump over obstacles and slide beneath low barriers while the score and combo track your run. A route map shows where you are on the course.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "JY says the team started with a short brief for a Shibuya runner starring Pegman, used /swarm and /grill-me, and made a few adjustments along the way.",
-        "facts": [
-          {
-            "about": "levels",
-            "text": "Google says the team used nearly one million tokens of OpenStreetMap data to build the playable map, including 654 roads, 70 rail lines and 280 building footprints.",
-            "sources": [
-              "https://x.com/Google/status/2123548127080656938"
-            ]
-          }
-        ],
-        "sources": [
-          "https://x.com/Google/status/2123548127080656938",
-          "https://x.com/agenticjay/status/2123433948831453539"
-        ]
-      },
-      "likes": 4125,
-      "likesRead": "2026-11-21",
-      "posted": "2026-11-19",
-      "sourceUrl": "https://x.com/Google/status/2123548127080656938",
-      "evidence": {
-        "url": "https://x.com/Google/status/2123548127080656938",
-        "quote": "Built with Gemini 4 Neon"
-      },
-      "playUrl": "https://neon-scramble.ai.studio/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/neon-scramble/still.webp?v=3f7f38565a",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/neon-scramble/"
     },
     {
       "id": "g8ze3q86y",
@@ -3442,8 +3476,8 @@
           "https://tesana.com/game/getting-there"
         ]
       },
-      "likes": 2648,
-      "likesRead": "2026-11-21",
+      "likes": 2658,
+      "likesRead": "2026-11-22",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
       "evidence": {
@@ -3928,8 +3962,8 @@
           "https://x.com/xikhar/status/2122682974856794385"
         ]
       },
-      "likes": 2263,
-      "likesRead": "2026-11-21",
+      "likes": 2280,
+      "likesRead": "2026-11-22",
       "posted": "2026-11-17",
       "sourceUrl": "https://x.com/xikhar/status/2122682962647122403",
       "evidence": {
@@ -5161,8 +5195,8 @@
           "https://x.com/AravSrinivas/status/2122338465648103676"
         ]
       },
-      "likes": 1269,
-      "likesRead": "2026-11-21",
+      "likes": 1270,
+      "likesRead": "2026-11-22",
       "posted": "2026-11-16",
       "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
       "evidence": {
@@ -5802,6 +5836,140 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/cordon-9/"
+    },
+    {
+      "id": "gasxbr44a",
+      "slug": "gta-shenzhen",
+      "aliases": [],
+      "title": "GTA Shenzhen",
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "creators": [
+        {
+          "handle": "KinGao476942",
+          "name": "Kin",
+          "url": "https://x.com/KinGao476942"
+        }
+      ],
+      "primaryHandle": "KinGao476942",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "grok-bot",
+          "name": "Grok Bot",
+          "kind": "ai",
+          "family": "grok",
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "open-world",
+          "name": "Open world"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "sandbox",
+          "name": "Sandbox"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to look, V to switch between flight and walking, F to find a landmark, E to enter a nearby vehicle",
+      "brandIp": true,
+      "description": "Fly over Shenzhen, mark a landmark on the map, then drop to street level to explore on foot or by vehicle.",
+      "notes": "You start above the city with a round street map in the corner. Search for a place by its Chinese name and a marker shows how far you have to go. You can descend onto a rooftop, take to the streets or switch to night to see the skyline light up.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Kin used Claude Fable 5.2 and Tripo to turn OpenStreetMap data into a playable model of Shenzhen. Kin thanks Sac for the inspiration and encouragement, and later described the Shenzhen build as a small demo.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "Kin describes the build time as “三天三夜” (three days and three nights).",
+            "sources": [
+              "https://x.com/KinGao476942/status/2123967104601014521"
+            ]
+          },
+          {
+            "about": "code",
+            "text": "Kin says all development took place in Grok Bot and points readers to a tutorial for connecting Claude Code to it.",
+            "sources": [
+              "https://x.com/KinGao476942/status/2123979889107959897"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "Kin reports modeling 83,182 buildings and 62,088 roads across more than 30 versions of the map.",
+            "sources": [
+              "https://x.com/KinGao476942/status/2123967104601014521"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/KinGao476942/status/2123967104601014521",
+          "https://x.com/KinGao476942/status/2123979889107959897",
+          "https://x.com/KinGao476942/status/2124145202394988747"
+        ]
+      },
+      "likes": 913,
+      "likesRead": "2026-11-22",
+      "posted": "2026-11-21",
+      "sourceUrl": "https://x.com/KinGao476942/status/2123967104601014521",
+      "evidence": {
+        "url": "https://x.com/KinGao476942/status/2123967104601014521",
+        "quote": "我肝了三天三夜，终于用 Claude Fable 5.2 + Tripo 肝出了 GTA 版深圳全城地图！！"
+      },
+      "playUrl": "https://gtashenzhen.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/gta-shenzhen/still.webp?v=51b0e6e712",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/gta-shenzhen/"
     },
     {
       "id": "gron4ulbj",
@@ -6813,6 +6981,88 @@
       "pageUrl": "https://amusehall.com/games/modern-claudefare/"
     },
     {
+      "id": "gvvjmsrcs",
+      "slug": "pokekart-gp",
+      "aliases": [],
+      "title": "PokéKart GP",
+      "added": "2026-11-21",
+      "updated": "2026-11-21",
+      "creators": [
+        {
+          "handle": "MozeTech",
+          "url": "https://x.com/MozeTech"
+        }
+      ],
+      "primaryHandle": "MozeTech",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Use WASD or the arrows to ride, Shift to drift, Space to hop, and Enter or Escape for the menu",
+      "brandIp": true,
+      "description": "Ride through Pokémon routes in a fan kart racer with drifts, hops, items and special moves.",
+      "notes": "Pick a rider and course in this unofficial Pokémon and Mario Kart crossover. You can drift around corners and use items or a rider’s special move.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "MozeTech says they made the Pokémon and Mario Kart crossover with Gemini Neon in “one shot.” The creator posted the playable browser build with the announcement.",
+        "sources": [
+          "https://x.com/MozeTech/status/2123635630118998044"
+        ]
+      },
+      "likes": 593,
+      "likesRead": "2026-11-22",
+      "posted": "2026-11-20",
+      "sourceUrl": "https://x.com/MozeTech/status/2123635630118998044",
+      "evidence": {
+        "url": "https://x.com/MozeTech/status/2123635630118998044",
+        "quote": "using Gemini Neon in just one shot!"
+      },
+      "playUrl": "https://poke-kart.pages.dev/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/pokekart-gp/still.webp?v=044faad84c",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/pokekart-gp/"
+    },
+    {
       "id": "gm1296gah",
       "slug": "siege-wing",
       "aliases": [],
@@ -6962,88 +7212,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/siege-wing/"
-    },
-    {
-      "id": "gvvjmsrcs",
-      "slug": "pokekart-gp",
-      "aliases": [],
-      "title": "PokéKart GP",
-      "added": "2026-11-21",
-      "updated": "2026-11-21",
-      "creators": [
-        {
-          "handle": "MozeTech",
-          "url": "https://x.com/MozeTech"
-        }
-      ],
-      "primaryHandle": "MozeTech",
-      "credits": [
-        {
-          "label": "Gemini 4 Neon",
-          "modelId": "gemini-4-neon",
-          "familyId": "gemini",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "gemini",
-      "familyIds": [
-        "gemini"
-      ],
-      "modelIds": [
-        "gemini-4-neon"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "racing",
-          "name": "Racing"
-        },
-        {
-          "id": "arcade",
-          "name": "Arcade"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "Use WASD or the arrows to ride, Shift to drift, Space to hop, and Enter or Escape for the menu",
-      "brandIp": true,
-      "description": "Ride through Pokémon routes in a fan kart racer with drifts, hops, items and special moves.",
-      "notes": "Pick a rider and course in this unofficial Pokémon and Mario Kart crossover. You can drift around corners and use items or a rider’s special move.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "MozeTech says they made the Pokémon and Mario Kart crossover with Gemini Neon in “one shot.” The creator posted the playable browser build with the announcement.",
-        "sources": [
-          "https://x.com/MozeTech/status/2123635630118998044"
-        ]
-      },
-      "likes": 558,
-      "likesRead": "2026-11-21",
-      "posted": "2026-11-20",
-      "sourceUrl": "https://x.com/MozeTech/status/2123635630118998044",
-      "evidence": {
-        "url": "https://x.com/MozeTech/status/2123635630118998044",
-        "quote": "using Gemini Neon in just one shot!"
-      },
-      "playUrl": "https://poke-kart.pages.dev/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/pokekart-gp/still.webp?v=044faad84c",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/pokekart-gp/"
     },
     {
       "id": "g361pfe4r",
@@ -7235,8 +7403,8 @@
           "https://x.com/DeryaTR_/status/2123283700788122027"
         ]
       },
-      "likes": 521,
-      "likesRead": "2026-11-21",
+      "likes": 523,
+      "likesRead": "2026-11-22",
       "posted": "2026-11-19",
       "sourceUrl": "https://x.com/DeryaTR_/status/2123276863481254210",
       "evidence": {
@@ -7626,8 +7794,8 @@
           "https://kengoworks.itch.io/dawnlings"
         ]
       },
-      "likes": 479,
-      "likesRead": "2026-11-21",
+      "likes": 480,
+      "likesRead": "2026-11-22",
       "posted": "2026-11-18",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2122969346935017497",
       "evidence": {
@@ -7769,8 +7937,8 @@
           "https://ashutoshai.com/showcase/d/iron-rotor"
         ]
       },
-      "likes": 445,
-      "likesRead": "2026-11-21",
+      "likes": 449,
+      "likesRead": "2026-11-22",
       "posted": "2026-11-19",
       "sourceUrl": "https://x.com/ai_for_success/status/2123239282626478306",
       "evidence": {
@@ -8552,6 +8720,145 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/gilt-and-gutter/"
+    },
+    {
+      "id": "g9n2oq4z1",
+      "slug": "chongqing",
+      "aliases": [],
+      "title": "重庆（试玩版）",
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "creators": [
+        {
+          "handle": "GaryAIytb",
+          "name": "Gary曹淦",
+          "url": "https://x.com/GaryAIytb"
+        }
+      ],
+      "primaryHandle": "GaryAIytb",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "gpt-image-2-5",
+          "name": "GPT Image 2.5",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "hunyuan3d-2",
+          "name": "Hunyuan3D-2",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "racing",
+          "name": "Racing"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Use 3 to drive, WASD to steer and accelerate, 2 to ride the monorail, and K to open a time trial. On a phone, tap Drive and hold Gas.",
+      "brandIp": false,
+      "description": "Drive through a miniature Chongqing, take a time trial, or ride the monorail through the apartment block at Liziba.",
+      "notes": "Start with the guided tour for a view across the river to Hongyadong’s stilt houses. Switch to the car to explore at street level, or board the monorail for the approach to Liziba Station. The two landmarks face each other in this version of the city. In Chongqing, Hongyadong is several kilometres downstream.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Gary says Claude Fable 5.2 wrote Python to direct Blender as it modeled the buildings. Most of the scene’s assets were off the shelf, with AI selecting, assembling and lighting them. The game runs on Three.js.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "Gary writes “五天只发了 23 条消息”, meaning they sent 23 messages over five days. They report “25 亿 token” (2.5 billion tokens).",
+            "sources": [
+              "https://x.com/GaryAIytb/status/2123331645046714382"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Gary’s credits name GPT Image 2.5 for facade and train textures made with Wikimedia Commons photos as references. From phase eight, Hunyuan3D-2 generated the taxi and private-car shapes locally. Poly Haven supplied skies and materials.",
+            "sources": [
+              "https://lab.ytdeepsea.com/games/chongqing/credits.html"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "The game uses its own road and terrain layout. Its map moves Hongyadong to the bank opposite Liziba.",
+            "sources": [
+              "https://lab.ytdeepsea.com/games/chongqing/credits.html",
+              "https://lab.ytdeepsea.com/games/chongqing/"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/GaryAIytb/status/2123331645046714382",
+          "https://lab.ytdeepsea.com/games/chongqing/credits.html",
+          "https://lab.ytdeepsea.com/games/chongqing/"
+        ]
+      },
+      "likes": 322,
+      "likesRead": "2026-11-22",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/GaryAIytb/status/2123331645046714382",
+      "evidence": {
+        "url": "https://x.com/GaryAIytb/status/2123331645046714382",
+        "quote": "AI（Claude Fable 5.2）建的：25 亿 token，它自己写 Python 指挥 Blender 一栋一栋建模，我一行代码没写，五天只发了 23 条消息。"
+      },
+      "playUrl": "https://lab.ytdeepsea.com/games/chongqing/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/chongqing/still.webp?v=3c22ddaf99",
+        "preview": "https://media.amusehall.com/chongqing/preview.webp?v=6f22173229",
+        "clip": "https://media.amusehall.com/chongqing/clip.mp4?v=ebb02202f8",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/chongqing/"
     },
     {
       "id": "g17kxz4cm",
@@ -10799,7 +11106,7 @@
         ]
       },
       "likes": 68,
-      "likesRead": "2026-11-21",
+      "likesRead": "2026-11-22",
       "posted": "2026-11-04",
       "sourceUrl": "https://www.youtube.com/watch?v=q3CpuRXA-sw",
       "evidence": {
@@ -12274,6 +12581,103 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/fogline/"
+    },
+    {
+      "id": "g90ty75sw",
+      "slug": "modu-city",
+      "aliases": [],
+      "title": "魔都 City",
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "creators": [
+        {
+          "handle": "HelloworldRex",
+          "url": "https://x.com/Helloworldrex"
+        }
+      ],
+      "primaryHandle": "HelloworldRex",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "open-world",
+          "name": "Open world"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Use WASD to move or drive, F to mount or dismount, T to take a delivery order and M to open the map.",
+      "brandIp": true,
+      "description": "Deliver food by e-bike, cruise Shanghai in a sports car or take the ferry or metro to work in Pudong.",
+      "notes": "The delivery rider starts out on the Bund with ¥300 and an e-bike. A message from the station manager explains how to take the first order. Mount the bike and open the map to find the restaurant.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "HelloworldRex says they made the game with Fable 5.2 while staying in a hotel on a business trip. They built the city in code with Three.js and Blender around the real streets between the Bund and Lujiazui. They downloaded models for pedestrians and several cars. They chose to skip Unreal Engine so players could open the game in a desktop browser.",
+        "sources": [
+          "https://x.com/Helloworldrex/status/2123463281038037124"
+        ]
+      },
+      "likes": 28,
+      "likesRead": "2026-11-22",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/Helloworldrex/status/2123463281038037124",
+      "evidence": {
+        "url": "https://x.com/Helloworldrex/status/2123463281038037124",
+        "quote": "就在酒店里用 Fable 5.2 搓了一个上海版的 GTA"
+      },
+      "playUrl": "https://modu.city/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/modu-city/still.webp?v=147b67738c",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/modu-city/"
     },
     {
       "id": "g9l4okhki",
@@ -14660,6 +15064,386 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gkff1230f",
+      "slug": "a-guilda",
+      "aliases": [],
+      "title": "A Guilda (The Guild)",
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "creators": [
+        {
+          "handle": "labiel1",
+          "name": "Rafael do Nascimento Junior",
+          "url": "https://labiel1.itch.io/"
+        }
+      ],
+      "primaryHandle": "labiel1",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        },
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        },
+        {
+          "label": "DeepSeek",
+          "modelId": null,
+          "familyId": "deepseek",
+          "toolId": "deepseek"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude",
+        "gpt",
+        "deepseek"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        },
+        {
+          "id": "deepseek",
+          "name": "DeepSeek",
+          "kind": "ai",
+          "family": "deepseek",
+          "referral_url": null
+        },
+        {
+          "id": "godot",
+          "name": "Godot",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "gemini",
+          "name": "Gemini",
+          "kind": "ai",
+          "family": "gemini",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        },
+        {
+          "id": "rpg",
+          "name": "RPG"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click the notice board to choose a mission, select adventurers, stamp the dispatch and pick stops on the route map.",
+      "brandIp": false,
+      "description": "Take over a guild in debt. Pick the adventurers for each job, send them out under your wax seal, and decide what risks they take on the road.",
+      "notes": "The Council gives you five days to restore the Grey Raven Guild’s reputation. Read the attributes on a job before assembling a party. On the first wolf hunt the Council suggests Theo and Vera, two strong adventurers who get along. Each stop on the map costs provisions, and a hero’s skills can change the odds of opening a chest or handling another encounter.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Rafael do Nascimento Junior directs the design and story and reviews each change. He credits Claude Code with most of the programming, alongside contributions from Codex and DeepSeek, and used Gemini for the music.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The creator built the game in Godot 4.7 with GDScript and JSON data. In his November 2 submission he reported that Claude had co-authored 123 of the private repository’s 135 commits.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/134"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "In his November 21 devlog, the creator says he cut the guild hall from 23 buttons to 12 on the first day of Chapter 1. He also describes the Council suggesting a pair for the first mission.",
+            "sources": [
+              "https://labiel1.itch.io/a-guilda/devlog/1792778/a-guilda-0937-a-friendlier-first-day"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/134",
+          "https://labiel1.itch.io/a-guilda/devlog/1792778/a-guilda-0937-a-friendlier-first-day"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-02",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/134",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/134",
+        "quote": "Most of the code was written by AI: Claude Code wrote the bulk of it, with Codex (ChatGPT) and DeepSeek helping along the way"
+      },
+      "playUrl": "https://labiel1.itch.io/a-guilda",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/a-guilda/still.webp?v=ae62270ff4",
+        "preview": "https://media.amusehall.com/a-guilda/preview.webp?v=ac00ba5bdd",
+        "clip": "https://media.amusehall.com/a-guilda/clip.mp4?v=0eb3d27747",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/a-guilda/"
+    },
+    {
+      "id": "g76fye015",
+      "slug": "kaiju-disposal",
+      "aliases": [],
+      "title": "KAIJU DISPOSAL",
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "creators": [
+        {
+          "handle": "CSAF — Core Systems Asset Factory",
+          "url": "https://csaf.itch.io/"
+        }
+      ],
+      "primaryHandle": "CSAF — Core Systems Asset Factory",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Click or tap a part to queue a cut and select it again to cancel. Press Space to pause or use the on-screen speed control.",
+      "brandIp": false,
+      "description": "Run a monster cleanup crew. Pick which parts to saw off a fallen giant while the meat loses value and gas builds up in its gut.",
+      "notes": "Choose KAIJU DISPOSAL from the arcade and take the first city contract. Click pieces of the carcass to set the cutting order while the saw crew and truck work through your board. Bone goes to the museum and the glowing core goes to the reactor. When a gut bursts, the crew has to scrub the street before the job pays out.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "CSAF used Claude Code for the JavaScript and the in-game text. The studio built the game without an engine.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "CSAF found that tapping New Firm twice could erase a save because Start Over appeared under the same finger. They put Keep My Firm in that spot and added a double-press test at five window sizes.",
+            "sources": [
+              "https://csaf.itch.io/kaiju-disposal/devlog/1783002/arcade-104-kaiju-disposals-new-firm-question-clear-of-the-road-and-safe-from-a-double-tap"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The studio uses an image model for the itch.io cover. Inside the game, its generator draws each carcass from seven body plans and ten species.",
+            "sources": [
+              "https://csaf.itch.io/kaiju-disposal",
+              "https://github.com/lappemic/awesome-ai-built-games/issues/175"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The game synthesizes its music and sound effects from code.",
+            "sources": [
+              "https://csaf.itch.io/kaiju-disposal"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/175",
+          "https://csaf.itch.io/kaiju-disposal",
+          "https://csaf.itch.io/kaiju-disposal/devlog/1783002/arcade-104-kaiju-disposals-new-firm-question-clear-of-the-road-and-safe-from-a-double-tap"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-21",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/175",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/175",
+        "quote": "AI wrote the code and the game's text, using Claude Code"
+      },
+      "playUrl": "https://csaf.itch.io/kaiju-disposal",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/kaiju-disposal/still.webp?v=0842028bdd",
+        "preview": "https://media.amusehall.com/kaiju-disposal/preview.webp?v=63f88f9bb8",
+        "clip": "https://media.amusehall.com/kaiju-disposal/clip.mp4?v=9533e2a0af",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/kaiju-disposal/"
+    },
+    {
+      "id": "ghdu7urg0",
+      "slug": "word-spies",
+      "aliases": [],
+      "title": "Word Spies",
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "creators": [
+        {
+          "handle": "daluan217",
+          "name": "Daniel Luan",
+          "url": "https://github.com/daluan217"
+        }
+      ],
+      "primaryHandle": "daluan217",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "react",
+          "name": "React",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "node-js",
+          "name": "Node.js",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "socket-io",
+          "name": "Socket.IO",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Click or tap a word card to guess it, or choose Next clue to pass.",
+      "brandIp": false,
+      "description": "One word and a number are all your spymaster gives you. Find the nine words that belong to your team on a board of 25.",
+      "notes": "The daily puzzle puts you in the operative’s seat. The number after each clue tells you how many cards your spymaster has in mind. A wrong guess reveals the card and moves you to the next clue. You can also pass when an association feels too tenuous. The daily puzzle is free, and optional plans raise the limits on other AI game modes.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Daniel Luan liked party word games and wanted to see how language models handled word associations. He designed the game and reviewed each change while Claude Code wrote most of the implementation.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "Luan built Word Spies with React, Node.js and Socket.IO. In his November 4 submission he reported that Claude Code had co-authored 443 of the 489 commits in his then-private repository.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/137"
+            ]
+          }
+        ],
+        "sources": [
+          "https://wordspies.com/about.html",
+          "https://github.com/lappemic/awesome-ai-built-games/issues/137"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-04",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/137",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/137",
+        "quote": "Claude Code wrote most of the code: 443 of the repo's 489 commits are co-authored by Claude Code"
+      },
+      "playUrl": "https://wordspies.com/daily",
+      "price": "free-with-purchases",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/word-spies/still.webp?v=d6c52511c6",
+        "preview": "https://media.amusehall.com/word-spies/preview.webp?v=a067e5e758",
+        "clip": "https://media.amusehall.com/word-spies/clip.mp4?v=8e08c80291",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/word-spies/"
     },
     {
       "id": "g6qhf7p7m",
@@ -23951,60 +24735,6 @@
     },
     "families": [
       {
-        "familyId": "gpt",
-        "gameIds": [
-          "g1bjx9y59",
-          "ggfzbxt7z",
-          "gbb6qnox9",
-          "gfn5t9qc7",
-          "gw6g09v6h",
-          "gjaguhz9t",
-          "ghr9cl8oz",
-          "g4slt3fal",
-          "gnqa68iap",
-          "goor334d3",
-          "go44jd756",
-          "go74usldh",
-          "g0licbu6a",
-          "g6av67v0c",
-          "gmxiswqhb",
-          "g3v8d1w6z",
-          "gupsk4h7x",
-          "g1yiy3hsg",
-          "glmkik999",
-          "gzxcj7c46",
-          "gicshdup0",
-          "gf8t89ggq",
-          "g55tfp6uh",
-          "galxnak4n",
-          "g3mu5eugf",
-          "g9hoy2png",
-          "gdtloorwb",
-          "gly1fsrsd",
-          "gxq8j3d43",
-          "gjnmzmmd9",
-          "gsht02b37",
-          "g4en32oxa",
-          "gyb95lxs0",
-          "gjwayut53",
-          "gdk176s3l",
-          "g1oxzxukr",
-          "g2r51p2c2"
-        ]
-      },
-      {
-        "familyId": "gemini",
-        "gameIds": [
-          "g9q2ghtjb",
-          "gvvjmsrcs",
-          "gtwxlwdgm",
-          "gah31vsol",
-          "gld22k702",
-          "g7lsoeejk",
-          "g4yrw77l6"
-        ]
-      },
-      {
         "familyId": "claude",
         "gameIds": [
           "gqsly543o",
@@ -24039,6 +24769,7 @@
           "gb72dv8lx",
           "gmewfnndy",
           "g0iluqdib",
+          "gasxbr44a",
           "gron4ulbj",
           "gqdquwa11",
           "godr2qz4e",
@@ -24057,6 +24788,7 @@
           "gserfbtbt",
           "gvwa4zwg2",
           "gxshani2z",
+          "g9n2oq4z1",
           "g17kxz4cm",
           "gj0w80p9f",
           "g1xjn72p6",
@@ -24082,6 +24814,7 @@
           "gvs8zscp4",
           "g8yrk1kwa",
           "gqojoxunu",
+          "g90ty75sw",
           "g9l4okhki",
           "gzn1npz2s",
           "g949awofn",
@@ -24100,6 +24833,9 @@
           "g5camq0si",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "gkff1230f",
+          "g76fye015",
+          "ghdu7urg0",
           "g6qhf7p7m",
           "g29xq7wt0",
           "gfpywvraj",
@@ -24176,6 +24912,60 @@
           "gh1aglxob",
           "gskb3ddhy"
         ]
+      },
+      {
+        "familyId": "gpt",
+        "gameIds": [
+          "g1bjx9y59",
+          "ggfzbxt7z",
+          "gbb6qnox9",
+          "gfn5t9qc7",
+          "gw6g09v6h",
+          "gjaguhz9t",
+          "ghr9cl8oz",
+          "g4slt3fal",
+          "gnqa68iap",
+          "goor334d3",
+          "go44jd756",
+          "go74usldh",
+          "g0licbu6a",
+          "g6av67v0c",
+          "gmxiswqhb",
+          "g3v8d1w6z",
+          "gupsk4h7x",
+          "g1yiy3hsg",
+          "glmkik999",
+          "gzxcj7c46",
+          "gicshdup0",
+          "gf8t89ggq",
+          "g55tfp6uh",
+          "galxnak4n",
+          "g3mu5eugf",
+          "g9hoy2png",
+          "gdtloorwb",
+          "gly1fsrsd",
+          "gxq8j3d43",
+          "gjnmzmmd9",
+          "gsht02b37",
+          "g4en32oxa",
+          "gyb95lxs0",
+          "gjwayut53",
+          "gdk176s3l",
+          "g1oxzxukr",
+          "g2r51p2c2"
+        ]
+      },
+      {
+        "familyId": "gemini",
+        "gameIds": [
+          "g9q2ghtjb",
+          "gvvjmsrcs",
+          "gtwxlwdgm",
+          "gah31vsol",
+          "gld22k702",
+          "g7lsoeejk",
+          "g4yrw77l6"
+        ]
       }
     ],
     "other": [
@@ -24207,15 +24997,21 @@
         "g48m4vidg",
         "ghvfh9vrb",
         "grwulo01q",
+        "gasxbr44a",
         "gvvjmsrcs",
         "gtwxlwdgm",
         "gcvm55qzn",
         "gah31vsol",
+        "g9n2oq4z1",
         "go44jd756",
         "g53li02ac",
+        "g90ty75sw",
         "gzn1npz2s",
         "g949awofn",
         "g5camq0si",
+        "gkff1230f",
+        "g76fye015",
+        "ghdu7urg0",
         "g6qhf7p7m",
         "g3mu5eugf",
         "g29xq7wt0",
