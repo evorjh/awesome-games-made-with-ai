@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Mouse or touch, drag back to aim and let go to throw
-- **Likes on the original post:** 10, counted 2026-11-16
+- **Likes on the original post:** 10, counted 2026-11-23
 
 Skip stones across a sunlit mountain lake, timing your release for more bounces and hitting toy boats for bonus points.
 

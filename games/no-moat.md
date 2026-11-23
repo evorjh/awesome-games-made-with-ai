@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse, Space to wait a turn
-- **Likes on the original post:** 130, counted 2026-11-16
+- **Likes on the original post:** 130, counted 2026-11-23
 
 A roguelike deckbuilder about running an AI startup, where your team fights copycats, bugs and rival founders across a branching map.
 

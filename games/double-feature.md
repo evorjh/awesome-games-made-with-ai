@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Arrow keys, Z to jump, X to shoot, Shift to dash; an on-screen stick and buttons on phones
-- **Likes on the original post:** 187, counted 2026-11-16
+- **Likes on the original post:** 184, counted 2026-11-23
 
 A 1930s cartoon run-and-gun starring Kernel, a popcorn hero, with boss fights presented as films at an old movie palace.
 

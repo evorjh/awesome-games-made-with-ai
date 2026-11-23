@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD, J to attack, L to guard, Space to roll, Q to lock on, R to heal; a touch stick and buttons on phones
-- **Likes on the original post:** 142, counted 2026-11-16
+- **Likes on the original post:** 142, counted 2026-11-23
 
 A third-person boss fight in a candlelit gothic cathedral against a scythe-wielding knight called Armored Death.
 

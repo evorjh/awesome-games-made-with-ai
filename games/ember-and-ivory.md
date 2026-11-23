@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Mouse or touch
-- **Likes on the original post:** 0, counted 2026-11-16
+- **Likes on the original post:** 0, counted 2026-11-23
 
 A poker battler: you and a dungeon guardian share one board of cards, and each poker hand you complete becomes an attack.
 

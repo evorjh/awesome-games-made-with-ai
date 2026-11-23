@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Mouse, WASD, Space and C, click to fire, E or right-click to throw
-- **Likes on the original post:** 11, counted 2026-11-16
+- **Likes on the original post:** 11, counted 2026-11-23
 
 A one-on-one zero-gravity duel among asteroids against a bot, with blaster bolts and a sling that hurls rocks.
 

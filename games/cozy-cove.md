@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD or touch joystick, E to talk, Space to cast and reel
-- **Likes on the original post:** 28, counted 2026-11-16
+- **Likes on the original post:** 28, counted 2026-11-23
 
 A pixel-art fishing RPG in a seaside village where an old fisherman teaches you to cast, hook and land your catch.
 

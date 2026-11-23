@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** W to accelerate, left and right arrows to steer, Space to drift or perform a trick, E to use an item, R to recover
-- **Likes on the original post:** 184, counted 2026-11-18
+- **Likes on the original post:** 184, counted 2026-11-23
 
 Race Mario and friends around seven circuits inside a virtual 3DS, Switch or Wii U shell, with drifting, items and kart setup.
 

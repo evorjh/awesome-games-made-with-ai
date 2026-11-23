@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD, mouse, click to attack, Q to dodge, Space to jump, Shift to sprint; an on-screen stick and buttons on phones
-- **Likes on the original post:** 2, counted 2026-11-16
+- **Likes on the original post:** 2, counted 2026-11-23
 
 A third-person sword adventure in a grassy valley where you search for three ember shards that open an old gate.
 

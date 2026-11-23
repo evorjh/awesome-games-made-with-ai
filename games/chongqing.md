@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Use 3 to drive, WASD to steer and accelerate, 2 to ride the monorail, and K to open a time trial. On a phone, tap Drive and hold Gas.
-- **Likes on the original post:** 322, counted 2026-11-22
+- **Likes on the original post:** 326, counted 2026-11-23
 
 Drive through a miniature Chongqing, take a time trial, or ride the monorail through the apartment block at Liziba.
 

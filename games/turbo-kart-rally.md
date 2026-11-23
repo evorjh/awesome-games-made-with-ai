@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrow keys, Space to drift, E or Shift for items, or a gamepad
-- **Likes on the original post:** 3,613, counted 2026-11-16
+- **Likes on the original post:** 3,618, counted 2026-11-23
 
 A kart racer with drifting, mini-turbos and item boxes, where you race seven AI drivers around a seaside circuit.
 

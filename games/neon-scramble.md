@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** A and D to change lanes, Space to jump or vault, S to slide
-- **Likes on the original post:** 4,434, counted 2026-11-22
+- **Likes on the original post:** 4,484, counted 2026-11-23
 
 Run through Shibuya as Google Maps’ Pegman, switching lanes and vaulting over traffic on the way to Google Tokyo.
 

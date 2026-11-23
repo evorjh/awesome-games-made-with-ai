@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, mouse to look, V to switch between flight and walking, F to find a landmark, E to enter a nearby vehicle
-- **Likes on the original post:** 913, counted 2026-11-22
+- **Likes on the original post:** 983, counted 2026-11-23
 
 Fly over Shenzhen, mark a landmark on the map, then drop to street level to explore on foot or by vehicle.
 

@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, left-click to fire, right-click to aim, Shift to sprint, Ctrl to crouch, Space to jump, R to reload, 1-4 for weapons
-- **Likes on the original post:** 790, counted 2026-11-16
+- **Likes on the original post:** 788, counted 2026-11-23
 
 A one-map shooter where you clear 10 hostiles from a container yard in three minutes with a rifle, shotgun, pistol and sniper.
 

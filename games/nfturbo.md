@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrow keys, Space to drift, Enter or click to use an item, R to respawn
-- **Likes on the original post:** 1,599, counted 2026-11-16
+- **Likes on the original post:** 1,598, counted 2026-11-23
 
 A low-poly racer where you play as a guest and run three-lap races against up to five computer cars on three tracks.
 

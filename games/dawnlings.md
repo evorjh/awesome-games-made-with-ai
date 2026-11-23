@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Left and Right to tilt, Space to hop, Down to split, hold Up to gather
-- **Likes on the original post:** 480, counted 2026-11-22
+- **Likes on the original post:** 480, counted 2026-11-23
 
 Tilt the world to roll sleepy creatures down hills, split them to fit through tunnels and gather them to push obstacles.
 

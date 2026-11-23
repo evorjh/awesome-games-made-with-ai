@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Use WASD or the arrows to ride, Shift to drift, Space to hop, and Enter or Escape for the menu
-- **Likes on the original post:** 593, counted 2026-11-22
+- **Likes on the original post:** 593, counted 2026-11-23
 
 Ride through Pokémon routes in a fan kart racer with drifts, hops, items and special moves.
 

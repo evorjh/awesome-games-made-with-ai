@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Use WASD to move or drive, F to mount or dismount, T to take a delivery order and M to open the map.
-- **Likes on the original post:** 28, counted 2026-11-22
+- **Likes on the original post:** 30, counted 2026-11-23
 
 Deliver food by e-bike, cruise Shanghai in a sports car or take the ferry or metro to work in Pudong.
 

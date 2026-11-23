@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, Space to ollie, Shift to grab or grind, Q and E for flips, C to manual, F to talk, or a gamepad
-- **Likes on the original post:** 256, counted 2026-11-16
+- **Likes on the original post:** 256, counted 2026-11-23
 
 A cel-shaded skatepark in a cartoon city where you chain ollies, flips, grinds and manuals into scoring lines.
 

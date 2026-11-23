@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD or arrow keys, Space or Shift to drift, E to use items, or touch controls on phones
-- **Likes on the original post:** 12, counted 2026-11-16
+- **Likes on the original post:** 12, counted 2026-11-23
 
 A kart racer with eight drivers, four tracks, drifting and items, where you race seven AI rivals in Grand Prix cups, single races or time trials.
 

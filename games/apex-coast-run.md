@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrow keys, Space to brake, Shift for the handbrake, C to change camera, R to reset
-- **Likes on the original post:** 860, counted 2026-11-16
+- **Likes on the original post:** 857, counted 2026-11-23
 
 A three-lap race in a red Ferrari 458 Italia along a wooded coast road at golden hour, where you start last of four cars.
 

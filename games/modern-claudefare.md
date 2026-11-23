@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, Shift to sprint, C to crouch, Space to jump, R to reload, Q to swap, V to knife, G and X for grenades
-- **Likes on the original post:** 635, counted 2026-11-16
+- **Likes on the original post:** 634, counted 2026-11-23
 
 A fan-made browser shooter on remakes of four Call of Duty maps, with free-for-all and team deathmatch against bots or in online lobbies.
 

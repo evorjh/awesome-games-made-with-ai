@@ -32,6 +32,11 @@
       "maker": "OpenAI"
     },
     {
+      "id": "grok",
+      "name": "Grok",
+      "maker": "xAI"
+    },
+    {
       "id": "gemini",
       "name": "Gemini",
       "maker": "Google"
@@ -45,11 +50,6 @@
       "id": "deepseek",
       "name": "DeepSeek",
       "maker": "DeepSeek"
-    },
-    {
-      "id": "grok",
-      "name": "Grok",
-      "maker": "xAI"
     },
     {
       "id": "kimi",
@@ -945,6 +945,13 @@
       "kind": "library",
       "family": null,
       "referral_url": null
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare",
+      "kind": "app",
+      "family": null,
+      "referral_url": null
     }
   ],
   "genres": [
@@ -1265,7 +1272,7 @@
     {
       "number": 4,
       "week_start": "2026-11-16",
-      "published": null,
+      "published": "2026-11-23",
       "game_of_the_week": "g5u1gyt9c",
       "top": [
         "g5u1gyt9c",
@@ -1314,6 +1321,26 @@
         "g3j9z13yz",
         "gpobr6gu9",
         "gsht02b37"
+      ]
+    },
+    {
+      "number": 5,
+      "week_start": "2026-11-23",
+      "published": null,
+      "game_of_the_week": "gz3kho1g4",
+      "top": [
+        "gz3kho1g4",
+        "g0i7857j0",
+        "gse7pw9zh"
+      ],
+      "new": [
+        "gz3kho1g4",
+        "g0i7857j0",
+        "gqen458xd",
+        "gv4zk9va6",
+        "gqlllcp1l",
+        "g2p0yitop",
+        "gse7pw9zh"
       ]
     }
   ],
@@ -1408,8 +1435,8 @@
           "https://x.com/ebbyamir/status/2120628728086904899"
         ]
       },
-      "likes": 17919,
-      "likesRead": "2026-11-16",
+      "likes": 17949,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/ebbyamir/status/2120284261089673376",
       "evidence": {
@@ -1507,8 +1534,8 @@
           "https://x.com/Saccc_c/status/2110694725640474759"
         ]
       },
-      "likes": 17219,
-      "likesRead": "2026-11-16",
+      "likes": 17227,
+      "likesRead": "2026-11-23",
       "posted": "2026-10-13",
       "sourceUrl": "https://x.com/Saccc_c/status/2109962425512734739",
       "evidence": {
@@ -1701,8 +1728,8 @@
           "https://x.com/xikhar/status/2119154602717348267"
         ]
       },
-      "likes": 15652,
-      "likesRead": "2026-11-16",
+      "likes": 15696,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-04",
       "sourceUrl": "https://x.com/xikhar/status/2117776295534997818",
       "evidence": {
@@ -1842,8 +1869,8 @@
           "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
         ]
       },
-      "likes": 14850,
-      "likesRead": "2026-11-16",
+      "likes": 15046,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/felixrieseberg/status/2119925633564463609",
       "evidence": {
@@ -1948,8 +1975,8 @@
           "https://x.com/poteto/status/2119313623155888626"
         ]
       },
-      "likes": 14074,
-      "likesRead": "2026-11-16",
+      "likes": 14066,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/poteto/status/2117004709198475365",
       "evidence": {
@@ -2099,8 +2126,8 @@
           "https://www.piratewires.com/p/how-to-make-a-viral-video-game-with"
         ]
       },
-      "likes": 7940,
-      "likesRead": "2026-11-16",
+      "likes": 7927,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-04",
       "sourceUrl": "https://x.com/EvanMilenko/status/2095684248220881049",
       "evidence": {
@@ -2181,8 +2208,8 @@
           "https://www.paperroute.lol/devlog/"
         ]
       },
-      "likes": 6728,
-      "likesRead": "2026-11-16",
+      "likes": 6717,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-12",
       "sourceUrl": "https://x.com/builtbysketch/status/2098777028078211283",
       "evidence": {
@@ -2268,8 +2295,8 @@
           "https://x.com/DannyLimanseta/status/2104215873120764032"
         ]
       },
-      "likes": 4638,
-      "likesRead": "2026-11-16",
+      "likes": 4642,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-27",
       "sourceUrl": "https://x.com/DannyLimanseta/status/2104215873120764032",
       "evidence": {
@@ -2383,8 +2410,8 @@
           "https://github.com/remorses/castle-valley#sound"
         ]
       },
-      "likes": 4480,
-      "likesRead": "2026-11-22",
+      "likes": 4489,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/__morse/status/2122013410309153042",
       "evidence": {
@@ -2483,8 +2510,8 @@
           "https://x.com/agenticjay/status/2123433948831453539"
         ]
       },
-      "likes": 4434,
-      "likesRead": "2026-11-22",
+      "likes": 4484,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-19",
       "sourceUrl": "https://x.com/Google/status/2123548127080656938",
       "evidence": {
@@ -2577,8 +2604,8 @@
           "https://bubucn.com/en/ai-model-evals/storm-race"
         ]
       },
-      "likes": 4366,
-      "likesRead": "2026-11-16",
+      "likes": 4363,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-06",
       "sourceUrl": "https://x.com/BubuStd/status/2096587056755638553",
       "evidence": {
@@ -2666,8 +2693,8 @@
           "https://x.com/levelsio/status/1894395095136276616"
         ]
       },
-      "likes": 4315,
-      "likesRead": "2026-11-16",
+      "likes": 4314,
+      "likesRead": "2026-11-23",
       "posted": "2025-02-22",
       "sourceUrl": "https://x.com/levelsio/status/1893385114496766155",
       "evidence": {
@@ -2758,8 +2785,8 @@
           "https://x.com/kevin_t_ngo/status/2119880812254601655"
         ]
       },
-      "likes": 4272,
-      "likesRead": "2026-11-16",
+      "likes": 4286,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2119868968307695818",
       "evidence": {
@@ -2861,8 +2888,8 @@
           "https://x.com/Rubzem/status/2107828818165833976"
         ]
       },
-      "likes": 4027,
-      "likesRead": "2026-11-16",
+      "likes": 4019,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-27",
       "sourceUrl": "https://x.com/Rubzem/status/2104253584737230926",
       "evidence": {
@@ -2945,8 +2972,8 @@
           "https://x.com/_MaxBlade/status/2102514269745222114"
         ]
       },
-      "likes": 3945,
-      "likesRead": "2026-11-16",
+      "likes": 3942,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-22",
       "sourceUrl": "https://x.com/_MaxBlade/status/2102513817855094922",
       "evidence": {
@@ -3047,7 +3074,7 @@
         ]
       },
       "likes": 3654,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-07-27",
       "sourceUrl": "https://x.com/anshuc/status/2081801966158811506",
       "evidence": {
@@ -3146,8 +3173,8 @@
           "https://github.com/bridge-mind/turbo-kart-rally"
         ]
       },
-      "likes": 3613,
-      "likesRead": "2026-11-16",
+      "likes": 3618,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-22",
       "sourceUrl": "https://x.com/bridgemindai/status/2102451997395866021",
       "evidence": {
@@ -3229,8 +3256,8 @@
           "https://x.com/photonstorm/status/2120330010112434313"
         ]
       },
-      "likes": 3065,
-      "likesRead": "2026-11-16",
+      "likes": 3113,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-11",
       "sourceUrl": "https://x.com/photonstorm/status/2120330010112434313",
       "evidence": {
@@ -3343,8 +3370,8 @@
           "https://x.com/0xRishi/status/2096672779856957719"
         ]
       },
-      "likes": 2963,
-      "likesRead": "2026-11-16",
+      "likes": 2961,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-11",
       "sourceUrl": "https://x.com/0xRishi/status/2098439358537990194",
       "evidence": {
@@ -3476,8 +3503,8 @@
           "https://tesana.com/game/getting-there"
         ]
       },
-      "likes": 2658,
-      "likesRead": "2026-11-22",
+      "likes": 2666,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-15",
       "sourceUrl": "https://x.com/Rubzem/status/2122013352755126431",
       "evidence": {
@@ -3579,8 +3606,8 @@
           "https://x.com/BlendiByl/status/2121600052359827859"
         ]
       },
-      "likes": 2510,
-      "likesRead": "2026-11-16",
+      "likes": 2562,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-14",
       "sourceUrl": "https://x.com/BlendiByl/status/2121594536153718972",
       "evidence": {
@@ -3669,8 +3696,8 @@
           "https://github.com/e01-ai/starfall/blob/main/prompt.md"
         ]
       },
-      "likes": 2482,
-      "likesRead": "2026-11-16",
+      "likes": 2481,
+      "likesRead": "2026-11-23",
       "posted": "2026-07-27",
       "sourceUrl": "https://x.com/mikeluan123/status/2081716631986983093",
       "evidence": {
@@ -3755,8 +3782,8 @@
           "https://x.com/mattshumer_/status/2119879860344766782"
         ]
       },
-      "likes": 2418,
-      "likesRead": "2026-11-16",
+      "likes": 2420,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/mattshumer_/status/2119877065701036047",
       "evidence": {
@@ -3962,8 +3989,8 @@
           "https://x.com/xikhar/status/2122682974856794385"
         ]
       },
-      "likes": 2280,
-      "likesRead": "2026-11-22",
+      "likes": 2294,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-17",
       "sourceUrl": "https://x.com/xikhar/status/2122682962647122403",
       "evidence": {
@@ -4046,8 +4073,8 @@
           "https://github.com/amirmushichge/pixel-plays"
         ]
       },
-      "likes": 2207,
-      "likesRead": "2026-11-16",
+      "likes": 2217,
+      "likesRead": "2026-11-23",
       "posted": "2026-10-31",
       "sourceUrl": "https://x.com/AmirMushich/status/2116509069477621819",
       "evidence": {
@@ -4126,8 +4153,8 @@
           "https://soccar-one.vercel.app/"
         ]
       },
-      "likes": 2126,
-      "likesRead": "2026-11-16",
+      "likes": 2119,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/BlendiByl/status/2104800823620632641",
       "evidence": {
@@ -4213,8 +4240,8 @@
           "https://github.com/lovisdotio/video-to-game"
         ]
       },
-      "likes": 1976,
-      "likesRead": "2026-11-16",
+      "likes": 1974,
+      "likesRead": "2026-11-23",
       "posted": "2026-10-28",
       "sourceUrl": "https://x.com/OdinLovis/status/2115526967802110284",
       "evidence": {
@@ -4304,8 +4331,8 @@
           "https://github.com/am-will/rl-opus/blob/main/docs/MULTIPLAYER.md"
         ]
       },
-      "likes": 1917,
-      "likesRead": "2026-11-16",
+      "likes": 1914,
+      "likesRead": "2026-11-23",
       "posted": "2026-07-24",
       "sourceUrl": "https://x.com/LLMJunky/status/2080740121398120655",
       "evidence": {
@@ -4395,8 +4422,8 @@
           "https://x.com/kevin_t_ngo/status/2120241674144415797"
         ]
       },
-      "likes": 1777,
-      "likesRead": "2026-11-16",
+      "likes": 1807,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2120238844754923874",
       "evidence": {
@@ -4417,6 +4444,142 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/evensong/"
+    },
+    {
+      "id": "gz3kho1g4",
+      "slug": "ramayana-the-sacred-fires",
+      "aliases": [],
+      "title": "Ramayana: The Sacred Fires",
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "creators": [
+        {
+          "handle": "Thaxnay",
+          "url": "https://x.com/Thaxnay"
+        }
+      ],
+      "primaryHandle": "Thaxnay",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        },
+        {
+          "label": "GPT and Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude",
+        "gpt"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "unity",
+          "name": "Unity",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Walk with WASD, run with Shift, roll with E and interact with F. Hold and release the left mouse button to shoot. On touchscreens, use the left stick to move.",
+      "brandIp": false,
+      "description": "Leave Rama’s forest home to find the sage by the banyan, draw your bow against rakshasas and take flight with Jatayu.",
+      "notes": "From the painted threshold of the hut, follow the sage’s marker through the clearing. Drawing the bow changes the view to look over Rama’s shoulder as he aims. The early build has three parts, including a separate flight level. The creator says returning to the hut after defeating the rakshasa is intentional.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Thaxnay credits Claude Fable 5.2 with turning the Ramayana into an action game. The creator names Unity, Blender and GPT among the tools used.",
+        "facts": [
+          {
+            "about": "art",
+            "text": "Asked how the 3D models were made, Thaxnay answered “Claude agents + blender mcp”. A former games-industry character animator, Thaxnay used AI for animation and adjusted many of the animations by hand.",
+            "sources": [
+              "https://x.com/Thaxnay/status/2124750819618865453",
+              "https://x.com/Thaxnay/status/2124751434663215451"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The game’s credits identify Suno for the music and public-domain sound effects by OpenGameArt and Kenney contributors.",
+            "sources": [
+              "https://thaxnay.com/ramayana/"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/Thaxnay/status/2123487166831734894",
+          "https://x.com/Thaxnay/status/2124750819618865453",
+          "https://x.com/Thaxnay/status/2124751434663215451",
+          "https://thaxnay.com/ramayana/"
+        ]
+      },
+      "likes": 1720,
+      "likesRead": "2026-11-23",
+      "posted": "2026-11-19",
+      "sourceUrl": "https://x.com/Thaxnay/status/2123487166831734894",
+      "evidence": {
+        "url": "https://x.com/Thaxnay/status/2123487166831734894",
+        "quote": "Built in Unity + Blender + Claude + GPT."
+      },
+      "playUrl": "https://thaxnay.com/ramayana/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/ramayana-the-sacred-fires/still.webp?v=145870d7ef",
+        "preview": "https://media.amusehall.com/ramayana-the-sacred-fires/preview.webp?v=7e05d8f46a",
+        "clip": "https://media.amusehall.com/ramayana-the-sacred-fires/clip.mp4?v=eb440dde70",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/ramayana-the-sacred-fires/"
     },
     {
       "id": "g8p6ybzyp",
@@ -4518,8 +4681,8 @@
           "https://github.com/dannylimanseta/tinyskies/tree/cursor/globefly-multiplayer-globe-flight-game/docs/cursor-exports"
         ]
       },
-      "likes": 1662,
-      "likesRead": "2026-11-16",
+      "likes": 1661,
+      "likesRead": "2026-11-23",
       "posted": "2026-05-04",
       "sourceUrl": "https://x.com/DannyLimanseta/status/2051306060020072632",
       "evidence": {
@@ -4607,8 +4770,8 @@
           "https://x.com/brvchss/status/2091641571493957888"
         ]
       },
-      "likes": 1599,
-      "likesRead": "2026-11-16",
+      "likes": 1598,
+      "likesRead": "2026-11-23",
       "posted": "2026-07-18",
       "sourceUrl": "https://x.com/brvchss/status/2078421321856245846",
       "evidence": {
@@ -4704,8 +4867,8 @@
           "https://x.com/nickfromlater/status/2098215324743000317"
         ]
       },
-      "likes": 1562,
-      "likesRead": "2026-11-16",
+      "likes": 1560,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-08",
       "sourceUrl": "https://x.com/nickfromlater/status/2097355845524726084",
       "evidence": {
@@ -4785,8 +4948,8 @@
           "https://bubucn.com/en/ai-model-evals/voxel-musou"
         ]
       },
-      "likes": 1496,
-      "likesRead": "2026-11-16",
+      "likes": 1493,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-24",
       "sourceUrl": "https://x.com/BubuStd/status/2102991290568954264",
       "evidence": {
@@ -4807,6 +4970,92 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/voxel-musou/"
+    },
+    {
+      "id": "go4slgb6w",
+      "slug": "lanternfall",
+      "aliases": [],
+      "title": "Lanternfall",
+      "added": "2026-11-11",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "loktar00",
+          "name": "Loktar",
+          "url": "https://x.com/loktar00"
+        }
+      ],
+      "primaryHandle": "loktar00",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "rpg",
+          "name": "RPG"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "The party fights on its own; click the level-up cards, Space fires a flare, M opens the menu, C toggles the close camera, + and - change the speed",
+      "brandIp": false,
+      "description": "Lead a lantern-lit party of heroes through waves of the dark in a 3D auto-battler, choosing an upgrade at every level until the Barrow King arrives.",
+      "notes": "Your party of heroes fights waves on its own in a lantern-lit 3D field. Your part is choosing an upgrade card at each level, firing flares and managing gear and camp from the menu. A boss, the Barrow King, arrives about a minute in. Speed controls let a run go faster. The layout is made for a computer screen.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator directed Claude Fable 5.2 by prompting and says they sent 17 messages, mostly about sound. Fable made the Three.js game, including its models and animations, and tested and revised the build itself. The creator asked for skeletal animation and told the model to check the walk cycle frame by frame. They went back and forth on the walk, pacing and lighting, had the model generate music with YuE2 and brought in sound effects from a pack they already owned.",
+        "sources": [
+          "https://x.com/loktar00/status/2120192761542615271",
+          "https://x.com/loktar00/status/2120532001874927843",
+          "https://x.com/loktar00/status/2120360254533775436",
+          "https://x.com/loktar00/status/2120212873016389683"
+        ]
+      },
+      "likes": 1448,
+      "likesRead": "2026-11-23",
+      "posted": "2026-11-10",
+      "sourceUrl": "https://x.com/loktar00/status/2120192761542615271",
+      "evidence": {
+        "url": "https://x.com/loktar00/status/2120192761542615271",
+        "quote": "Fable 5.2 just created this entire game, animations, models, everything."
+      },
+      "playUrl": "https://loktar00.github.io/lanternfall/",
+      "price": "free",
+      "codeUrl": "https://github.com/loktar00/lanternfall",
+      "media": {
+        "still": "https://media.amusehall.com/lanternfall/still.webp?v=578f01f74b",
+        "preview": "https://media.amusehall.com/lanternfall/preview.webp?v=fc710b4bfe",
+        "clip": "https://media.amusehall.com/lanternfall/clip.mp4?v=54d36601a3",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/lanternfall/"
     },
     {
       "id": "gmja9kp2v",
@@ -4904,8 +5153,8 @@
           "https://x.com/Rubzem/status/2120021124566368419"
         ]
       },
-      "likes": 1463,
-      "likesRead": "2026-11-16",
+      "likes": 1429,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-05",
       "sourceUrl": "https://x.com/Rubzem/status/2118343870450954318",
       "evidence": {
@@ -4926,92 +5175,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/sol-the-last-imperium/"
-    },
-    {
-      "id": "go4slgb6w",
-      "slug": "lanternfall",
-      "aliases": [],
-      "title": "Lanternfall",
-      "added": "2026-11-11",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "loktar00",
-          "name": "Loktar",
-          "url": "https://x.com/loktar00"
-        }
-      ],
-      "primaryHandle": "loktar00",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "rpg",
-          "name": "RPG"
-        },
-        {
-          "id": "strategy",
-          "name": "Strategy"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "The party fights on its own; click the level-up cards, Space fires a flare, M opens the menu, C toggles the close camera, + and - change the speed",
-      "brandIp": false,
-      "description": "Lead a lantern-lit party of heroes through waves of the dark in a 3D auto-battler, choosing an upgrade at every level until the Barrow King arrives.",
-      "notes": "Your party of heroes fights waves on its own in a lantern-lit 3D field. Your part is choosing an upgrade card at each level, firing flares and managing gear and camp from the menu. A boss, the Barrow King, arrives about a minute in. Speed controls let a run go faster. The layout is made for a computer screen.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creator directed Claude Fable 5.2 by prompting and says they sent 17 messages, mostly about sound. Fable made the Three.js game, including its models and animations, and tested and revised the build itself. The creator asked for skeletal animation and told the model to check the walk cycle frame by frame. They went back and forth on the walk, pacing and lighting, had the model generate music with YuE2 and brought in sound effects from a pack they already owned.",
-        "sources": [
-          "https://x.com/loktar00/status/2120192761542615271",
-          "https://x.com/loktar00/status/2120532001874927843",
-          "https://x.com/loktar00/status/2120360254533775436",
-          "https://x.com/loktar00/status/2120212873016389683"
-        ]
-      },
-      "likes": 1427,
-      "likesRead": "2026-11-16",
-      "posted": "2026-11-10",
-      "sourceUrl": "https://x.com/loktar00/status/2120192761542615271",
-      "evidence": {
-        "url": "https://x.com/loktar00/status/2120192761542615271",
-        "quote": "Fable 5.2 just created this entire game, animations, models, everything."
-      },
-      "playUrl": "https://loktar00.github.io/lanternfall/",
-      "price": "free",
-      "codeUrl": "https://github.com/loktar00/lanternfall",
-      "media": {
-        "still": "https://media.amusehall.com/lanternfall/still.webp?v=578f01f74b",
-        "preview": "https://media.amusehall.com/lanternfall/preview.webp?v=fc710b4bfe",
-        "clip": "https://media.amusehall.com/lanternfall/clip.mp4?v=54d36601a3",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/lanternfall/"
     },
     {
       "id": "gth5ddt8o",
@@ -5077,8 +5240,8 @@
           "https://x.com/alexcooldev/status/2090031044162662672"
         ]
       },
-      "likes": 1367,
-      "likesRead": "2026-11-16",
+      "likes": 1365,
+      "likesRead": "2026-11-23",
       "posted": "2026-08-02",
       "sourceUrl": "https://x.com/alexcooldev/status/2083921916935700661",
       "evidence": {
@@ -5195,8 +5358,8 @@
           "https://x.com/AravSrinivas/status/2122338465648103676"
         ]
       },
-      "likes": 1270,
-      "likesRead": "2026-11-22",
+      "likes": 1272,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-16",
       "sourceUrl": "https://x.com/AravSrinivas/status/2122338465648103676",
       "evidence": {
@@ -5300,8 +5463,8 @@
           "https://github.com/abouchedidxcode/open-source-hands/blob/main/docs/MAKING-A-GAME.md"
         ]
       },
-      "likes": 1164,
-      "likesRead": "2026-11-16",
+      "likes": 1172,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-03",
       "sourceUrl": "https://x.com/MeticulAi/status/2117474458671689995",
       "evidence": {
@@ -5406,8 +5569,8 @@
           "https://github.com/op7418/guizang-game-skill#演示游戏雾锁山门"
         ]
       },
-      "likes": 1157,
-      "likesRead": "2026-11-16",
+      "likes": 1169,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-12",
       "sourceUrl": "https://x.com/op7418/status/2120694045299327187",
       "evidence": {
@@ -5499,7 +5662,7 @@
         ]
       },
       "likes": 1156,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-15",
       "sourceUrl": "https://x.com/superalesha/status/2099836448044175427",
       "evidence": {
@@ -5582,8 +5745,8 @@
           "https://x.com/alexcooldev/status/2119596652227170604"
         ]
       },
-      "likes": 1129,
-      "likesRead": "2026-11-16",
+      "likes": 1132,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-05",
       "sourceUrl": "https://x.com/alexcooldev/status/2118446768006541800",
       "evidence": {
@@ -5604,6 +5767,256 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/happy-farm/"
+    },
+    {
+      "id": "g0i7857j0",
+      "slug": "lost-marbles",
+      "aliases": [],
+      "title": "Lost Marbles",
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "creators": [
+        {
+          "handle": "MeticulAi",
+          "name": "Meticulai",
+          "url": "https://x.com/MeticulAi"
+        }
+      ],
+      "primaryHandle": "MeticulAi",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrow keys to steer, Space to jump, Shift to use an ability, R to respawn, C to change camera",
+      "brandIp": false,
+      "description": "Steer a glass marble down a wooden obstacle course as ten racers face elimination at each checkpoint.",
+      "notes": "Choose Solo Show to race 49 bots. Pick three perks before the first drop, then steer around wooden barriers, jump gaps and use your ability as the field thins. The standings mark the cutoff while you race. If you miss it, you can follow another marble or collect your stickers.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Asked how the course and marbles were made, Meticulai answered “Mostly Claude”. The creator says they used their phone to add 50 map elements, a course builder, a marble designer and another game mode.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The creator says the course, the marbles and the shapes inside the glass are generated in code.",
+            "sources": [
+              "https://x.com/MeticulAi/status/2111628480391635378"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Meticulai used CC0 wood textures and a 6K, 360-degree room photo from Poly Haven. The photo lights the scene and its base is flattened so the track sits on the carpet.",
+            "sources": [
+              "https://x.com/MeticulAi/status/2111628480391635378",
+              "https://x.com/MeticulAi/status/2111630587203125358"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "Meticulai credits Freesound for the marble sounds and identifies those recordings as CC0.",
+            "sources": [
+              "https://x.com/MeticulAi/status/2111628480391635378"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/MeticulAi/status/2111568537684955500",
+          "https://x.com/MeticulAi/status/2111628480391635378",
+          "https://x.com/MeticulAi/status/2111630587203125358",
+          "https://x.com/MeticulAi/status/2112214629090828742"
+        ]
+      },
+      "likes": 1118,
+      "likesRead": "2026-11-23",
+      "posted": "2026-10-17",
+      "sourceUrl": "https://x.com/MeticulAi/status/2111568537684955500",
+      "evidence": {
+        "url": "https://x.com/MeticulAi/status/2111628480391635378",
+        "quote": "Mostly Claude. The course, the marbles and everything inside them are generated in code, no Blender."
+      },
+      "playUrl": "https://meticulai.com/games/lost-marbles/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/lost-marbles/still.webp?v=7d88aac6f5",
+        "preview": "https://media.amusehall.com/lost-marbles/preview.webp?v=cc5b119f6d",
+        "clip": "https://media.amusehall.com/lost-marbles/clip.mp4?v=beebdfa608",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/lost-marbles/"
+    },
+    {
+      "id": "gasxbr44a",
+      "slug": "gta-shenzhen",
+      "aliases": [],
+      "title": "GTA Shenzhen",
+      "added": "2026-11-22",
+      "updated": "2026-11-22",
+      "creators": [
+        {
+          "handle": "KinGao476942",
+          "name": "Kin",
+          "url": "https://x.com/KinGao476942"
+        }
+      ],
+      "primaryHandle": "KinGao476942",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "grok-bot",
+          "name": "Grok Bot",
+          "kind": "ai",
+          "family": "grok",
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "open-world",
+          "name": "Open world"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "sandbox",
+          "name": "Sandbox"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to move, mouse to look, V to switch between flight and walking, F to find a landmark, E to enter a nearby vehicle",
+      "brandIp": true,
+      "description": "Fly over Shenzhen, mark a landmark on the map, then drop to street level to explore on foot or by vehicle.",
+      "notes": "You start above the city with a round street map in the corner. Search for a place by its Chinese name and a marker shows how far you have to go. You can descend onto a rooftop, take to the streets or switch to night to see the skyline light up.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Kin used Claude Fable 5.2 and Tripo to turn OpenStreetMap data into a playable model of Shenzhen. Kin thanks Sac for the inspiration and encouragement, and later described the Shenzhen build as a small demo.",
+        "facts": [
+          {
+            "about": "time",
+            "text": "Kin describes the build time as “三天三夜” (three days and three nights).",
+            "sources": [
+              "https://x.com/KinGao476942/status/2123967104601014521"
+            ]
+          },
+          {
+            "about": "code",
+            "text": "Kin says all development took place in Grok Bot and points readers to a tutorial for connecting Claude Code to it.",
+            "sources": [
+              "https://x.com/KinGao476942/status/2123979889107959897"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "Kin reports modeling 83,182 buildings and 62,088 roads across more than 30 versions of the map.",
+            "sources": [
+              "https://x.com/KinGao476942/status/2123967104601014521"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/KinGao476942/status/2123967104601014521",
+          "https://x.com/KinGao476942/status/2123979889107959897",
+          "https://x.com/KinGao476942/status/2124145202394988747"
+        ]
+      },
+      "likes": 983,
+      "likesRead": "2026-11-23",
+      "posted": "2026-11-21",
+      "sourceUrl": "https://x.com/KinGao476942/status/2123967104601014521",
+      "evidence": {
+        "url": "https://x.com/KinGao476942/status/2123967104601014521",
+        "quote": "我肝了三天三夜，终于用 Claude Fable 5.2 + Tripo 肝出了 GTA 版深圳全城地图！！"
+      },
+      "playUrl": "https://gtashenzhen.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/gta-shenzhen/still.webp?v=51b0e6e712",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/gta-shenzhen/"
     },
     {
       "id": "ghr9cl8oz",
@@ -5689,8 +6102,8 @@
           "https://x.com/0xRishi/status/2096079664603406451"
         ]
       },
-      "likes": 976,
-      "likesRead": "2026-11-16",
+      "likes": 974,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-05",
       "sourceUrl": "https://x.com/0xRishi/status/2096079660605997264",
       "evidence": {
@@ -5815,7 +6228,7 @@
         ]
       },
       "likes": 934,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-11-11",
       "sourceUrl": "https://x.com/AravSrinivas/status/2120506245131977026",
       "evidence": {
@@ -5836,140 +6249,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/cordon-9/"
-    },
-    {
-      "id": "gasxbr44a",
-      "slug": "gta-shenzhen",
-      "aliases": [],
-      "title": "GTA Shenzhen",
-      "added": "2026-11-22",
-      "updated": "2026-11-22",
-      "creators": [
-        {
-          "handle": "KinGao476942",
-          "name": "Kin",
-          "url": "https://x.com/KinGao476942"
-        }
-      ],
-      "primaryHandle": "KinGao476942",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": "claude-code"
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2"
-      ],
-      "tools": [
-        {
-          "id": "claude-code",
-          "name": "Claude Code",
-          "kind": "ai",
-          "family": "claude",
-          "referral_url": null
-        },
-        {
-          "id": "grok-bot",
-          "name": "Grok Bot",
-          "kind": "ai",
-          "family": "grok",
-          "referral_url": null
-        },
-        {
-          "id": "tripo",
-          "name": "Tripo",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "open-world",
-          "name": "Open world"
-        },
-        {
-          "id": "exploration",
-          "name": "Exploration"
-        },
-        {
-          "id": "sandbox",
-          "name": "Sandbox"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD to move, mouse to look, V to switch between flight and walking, F to find a landmark, E to enter a nearby vehicle",
-      "brandIp": true,
-      "description": "Fly over Shenzhen, mark a landmark on the map, then drop to street level to explore on foot or by vehicle.",
-      "notes": "You start above the city with a round street map in the corner. Search for a place by its Chinese name and a marker shows how far you have to go. You can descend onto a rooftop, take to the streets or switch to night to see the skyline light up.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Kin used Claude Fable 5.2 and Tripo to turn OpenStreetMap data into a playable model of Shenzhen. Kin thanks Sac for the inspiration and encouragement, and later described the Shenzhen build as a small demo.",
-        "facts": [
-          {
-            "about": "time",
-            "text": "Kin describes the build time as “三天三夜” (three days and three nights).",
-            "sources": [
-              "https://x.com/KinGao476942/status/2123967104601014521"
-            ]
-          },
-          {
-            "about": "code",
-            "text": "Kin says all development took place in Grok Bot and points readers to a tutorial for connecting Claude Code to it.",
-            "sources": [
-              "https://x.com/KinGao476942/status/2123979889107959897"
-            ]
-          },
-          {
-            "about": "levels",
-            "text": "Kin reports modeling 83,182 buildings and 62,088 roads across more than 30 versions of the map.",
-            "sources": [
-              "https://x.com/KinGao476942/status/2123967104601014521"
-            ]
-          }
-        ],
-        "sources": [
-          "https://x.com/KinGao476942/status/2123967104601014521",
-          "https://x.com/KinGao476942/status/2123979889107959897",
-          "https://x.com/KinGao476942/status/2124145202394988747"
-        ]
-      },
-      "likes": 913,
-      "likesRead": "2026-11-22",
-      "posted": "2026-11-21",
-      "sourceUrl": "https://x.com/KinGao476942/status/2123967104601014521",
-      "evidence": {
-        "url": "https://x.com/KinGao476942/status/2123967104601014521",
-        "quote": "我肝了三天三夜，终于用 Claude Fable 5.2 + Tripo 肝出了 GTA 版深圳全城地图！！"
-      },
-      "playUrl": "https://gtashenzhen.com/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/gta-shenzhen/still.webp?v=51b0e6e712",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/gta-shenzhen/"
     },
     {
       "id": "gron4ulbj",
@@ -6031,8 +6310,8 @@
           "https://x.com/_MaxBlade/status/2104704696967368758"
         ]
       },
-      "likes": 903,
-      "likesRead": "2026-11-16",
+      "likes": 904,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/_MaxBlade/status/2104704696967368758",
       "evidence": {
@@ -6120,8 +6399,8 @@
           "https://github.com/dgreenheck/tidewater"
         ]
       },
-      "likes": 891,
-      "likesRead": "2026-11-16",
+      "likes": 893,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-24",
       "sourceUrl": "https://x.com/dangreenheck/status/2103004432786993341",
       "evidence": {
@@ -6219,8 +6498,8 @@
           "https://x.com/elocat/status/2121056206404174033"
         ]
       },
-      "likes": 869,
-      "likesRead": "2026-11-16",
+      "likes": 873,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-12",
       "sourceUrl": "https://x.com/elocat/status/2120872705478308285",
       "evidence": {
@@ -6306,8 +6585,8 @@
           "https://x.com/mindblown_ai/status/2097089410718408881"
         ]
       },
-      "likes": 860,
-      "likesRead": "2026-11-16",
+      "likes": 857,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-07",
       "sourceUrl": "https://x.com/mindblown_ai/status/2097053892152594854",
       "evidence": {
@@ -6418,8 +6697,8 @@
           "https://github.com/jjcm/petalwake#how-it-was-made"
         ]
       },
-      "likes": 842,
-      "likesRead": "2026-11-16",
+      "likes": 843,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/pwnies/status/2119987174884143348",
       "evidence": {
@@ -6512,8 +6791,8 @@
           "https://github.com/StarKnightt/operation-ironhold/blob/main/PROMPTS.md"
         ]
       },
-      "likes": 790,
-      "likesRead": "2026-11-16",
+      "likes": 788,
+      "likesRead": "2026-11-23",
       "posted": "2026-07-25",
       "sourceUrl": "https://x.com/prasenx/status/2081022068561469715",
       "evidence": {
@@ -6630,36 +6909,54 @@
       "pageUrl": "https://amusehall.com/games/above-the-desk/"
     },
     {
-      "id": "g10dwuh0n",
-      "slug": "full-send",
+      "id": "gqen458xd",
+      "slug": "roadster-stunt-arena",
       "aliases": [],
-      "title": "FULL SEND",
-      "added": "2026-10-31",
-      "updated": "2026-11-12",
+      "title": "Roadster Stunt Arena",
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
       "creators": [
         {
-          "handle": "dvassallo",
-          "name": "Daniel Vassallo",
-          "url": "https://x.com/dvassallo"
+          "handle": "aymericrabot",
+          "name": "Aymeric Rabot",
+          "url": "https://x.com/aymericrabot"
         }
       ],
-      "primaryHandle": "dvassallo",
+      "primaryHandle": "aymericrabot",
       "credits": [
         {
-          "label": "Cursor (model not named)",
-          "modelId": null,
-          "familyId": "",
-          "toolId": "cursor"
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
         }
       ],
-      "primaryFamily": "",
-      "familyIds": [],
-      "modelIds": [],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
       "tools": [
         {
-          "id": "cursor",
-          "name": "Cursor",
-          "kind": "ai",
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "rapier",
+          "name": "Rapier",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "kind": "app",
           "family": null,
           "referral_url": null
         }
@@ -6668,16 +6965,19 @@
         {
           "id": "racing",
           "name": "Racing"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
         }
       ],
       "devices": [
-        "desktop",
-        "phone"
+        "desktop"
       ],
-      "controls": "Arrow keys to drive, Space to brake, R to restart the lap; touch buttons on phones",
-      "brandIp": false,
-      "description": "A top-down racer on real-world circuits, where you chase lap records in time trials or race others in rooms you share by code.",
-      "notes": "You drive an open-wheel race car around circuits such as Melbourne, seen from above, chasing your best lap in Time Trials against the record shown in the corner. Newbie and Hardcore classes have their own leaderboards, Multiplayer lets you create a room or join one by code, and the game gives you a random driver name, so there is nothing to sign up for. Works on phones and computers.",
+      "controls": "W and S to drive, A and D to steer, Shift to boost, Space to jump or hover, Q and E to roll in the air, C to change camera",
+      "brandIp": true,
+      "description": "Launch a roadster across a night arena, chase a sub-second sprint to 60 mph and try to land a kickflip.",
+      "notes": "Free Ride gives you nine stunt objectives, from clearing the row of vehicles to riding a wall for three seconds. Hold the accelerator and boost together to see your 0–60 time on the dashboard. To drive solo, open Settings, turn Online Free Ride off, save and choose Free Ride.",
       "prompt": {
         "shared": false,
         "partial": false,
@@ -6685,34 +6985,43 @@
         "text": null
       },
       "makingOf": {
-        "summary": "Daniel Vassallo says his children sketched the idea and built the first version in Cursor, then he helped them refine it into a game they wanted to play. For a later graphics update, the creators used GPT-5.5 to get track scenery data from OpenStreetMap.",
+        "summary": "Aymeric Rabot describes building the browser game with Claude Opus 5.5 in “just a few prompts”. In a follow-up, Rabot estimated “about 170k people” had entered the arena after 48 hours.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "Rabot names Three.js and the Rapier physics engine and credits Cloudflare for the multiplayer mode.",
+            "sources": [
+              "https://x.com/aymericrabot/status/2111519266898169925"
+            ]
+          }
+        ],
         "sources": [
-          "https://x.com/dvassallo/status/2048530791190364374",
-          "https://www.producthunt.com/products/full-send"
+          "https://x.com/aymericrabot/status/2111519266898169925",
+          "https://x.com/aymericrabot/status/2111682207605805525"
         ]
       },
-      "likes": 737,
-      "likesRead": "2026-11-16",
-      "posted": "2026-04-26",
-      "sourceUrl": "https://x.com/dvassallo/status/2048530791190364374",
+      "likes": 734,
+      "likesRead": "2026-11-23",
+      "posted": "2026-10-17",
+      "sourceUrl": "https://x.com/aymericrabot/status/2111519266898169925",
       "evidence": {
-        "url": "https://www.producthunt.com/products/full-send",
-        "quote": "They started it in Cursor, sketching the idea and writing the first version"
+        "url": "https://x.com/aymericrabot/status/2111519266898169925",
+        "quote": "Made with Opus 5.5"
       },
-      "playUrl": "https://fullsend.game/",
+      "playUrl": "https://ragingbot.app/roadster",
       "price": "free",
       "codeUrl": null,
       "media": {
-        "still": "https://media.amusehall.com/full-send/still.webp?v=c4f6388072",
-        "preview": "https://media.amusehall.com/full-send/preview.webp?v=4ef1728f25",
-        "clip": "https://media.amusehall.com/full-send/clip.mp4?v=efcb1b282b",
+        "still": "https://media.amusehall.com/roadster-stunt-arena/still.webp?v=c04eed8540",
+        "preview": null,
+        "clip": null,
         "unrecordable": null
       },
       "availability": "available",
       "unavailableSince": null,
       "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/full-send/"
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/roadster-stunt-arena/"
     },
     {
       "id": "gvosn1v6w",
@@ -6779,8 +7088,8 @@
           "https://x.com/jasperdeboer/status/1899906819578806550"
         ]
       },
-      "likes": 710,
-      "likesRead": "2026-11-16",
+      "likes": 711,
+      "likesRead": "2026-11-23",
       "posted": "2025-02-27",
       "sourceUrl": "https://x.com/jasperdeboer/status/1895139346216296611",
       "evidence": {
@@ -6801,6 +7110,91 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/island-adventure/"
+    },
+    {
+      "id": "g10dwuh0n",
+      "slug": "full-send",
+      "aliases": [],
+      "title": "FULL SEND",
+      "added": "2026-10-31",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "dvassallo",
+          "name": "Daniel Vassallo",
+          "url": "https://x.com/dvassallo"
+        }
+      ],
+      "primaryHandle": "dvassallo",
+      "credits": [
+        {
+          "label": "Cursor (model not named)",
+          "modelId": null,
+          "familyId": "",
+          "toolId": "cursor"
+        }
+      ],
+      "primaryFamily": "",
+      "familyIds": [],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "cursor",
+          "name": "Cursor",
+          "kind": "ai",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Arrow keys to drive, Space to brake, R to restart the lap; touch buttons on phones",
+      "brandIp": false,
+      "description": "A top-down racer on real-world circuits, where you chase lap records in time trials or race others in rooms you share by code.",
+      "notes": "You drive an open-wheel race car around circuits such as Melbourne, seen from above, chasing your best lap in Time Trials against the record shown in the corner. Newbie and Hardcore classes have their own leaderboards, Multiplayer lets you create a room or join one by code, and the game gives you a random driver name, so there is nothing to sign up for. Works on phones and computers.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Daniel Vassallo says his children sketched the idea and built the first version in Cursor, then he helped them refine it into a game they wanted to play. For a later graphics update, the creators used GPT-5.5 to get track scenery data from OpenStreetMap.",
+        "sources": [
+          "https://x.com/dvassallo/status/2048530791190364374",
+          "https://www.producthunt.com/products/full-send"
+        ]
+      },
+      "likes": 708,
+      "likesRead": "2026-11-23",
+      "posted": "2026-04-26",
+      "sourceUrl": "https://x.com/dvassallo/status/2048530791190364374",
+      "evidence": {
+        "url": "https://www.producthunt.com/products/full-send",
+        "quote": "They started it in Cursor, sketching the idea and writing the first version"
+      },
+      "playUrl": "https://fullsend.game/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/full-send/still.webp?v=c4f6388072",
+        "preview": "https://media.amusehall.com/full-send/preview.webp?v=4ef1728f25",
+        "clip": "https://media.amusehall.com/full-send/clip.mp4?v=efcb1b282b",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/full-send/"
     },
     {
       "id": "g7k2m9q4x",
@@ -6863,8 +7257,8 @@
           "https://x.com/LexnLin/status/2102839314887442466"
         ]
       },
-      "likes": 663,
-      "likesRead": "2026-11-16",
+      "likes": 662,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-23",
       "sourceUrl": "https://x.com/LexnLin/status/2102834362530079093",
       "evidence": {
@@ -6957,8 +7351,8 @@
           "https://www.modernclaudefare.com/assets#characters"
         ]
       },
-      "likes": 635,
-      "likesRead": "2026-11-16",
+      "likes": 634,
+      "likesRead": "2026-11-23",
       "posted": "2026-08-03",
       "sourceUrl": "https://x.com/0xRishi/status/2084322235788226653",
       "evidence": {
@@ -7040,7 +7434,7 @@
         ]
       },
       "likes": 593,
-      "likesRead": "2026-11-22",
+      "likesRead": "2026-11-23",
       "posted": "2026-11-20",
       "sourceUrl": "https://x.com/MozeTech/status/2123635630118998044",
       "evidence": {
@@ -7190,8 +7584,8 @@
           "https://bannerfall.itch.io/siege-wing"
         ]
       },
-      "likes": 567,
-      "likesRead": "2026-11-16",
+      "likes": 577,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/builderjaydub/status/2120223731520040966",
       "evidence": {
@@ -7302,8 +7696,8 @@
           "https://x.com/KenLin1985/status/2103900000061460563"
         ]
       },
-      "likes": 529,
-      "likesRead": "2026-11-16",
+      "likes": 528,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-26",
       "sourceUrl": "https://x.com/KenLin1985/status/2103866807954399530",
       "evidence": {
@@ -7403,8 +7797,8 @@
           "https://x.com/DeryaTR_/status/2123283700788122027"
         ]
       },
-      "likes": 523,
-      "likesRead": "2026-11-22",
+      "likes": 526,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-19",
       "sourceUrl": "https://x.com/DeryaTR_/status/2123276863481254210",
       "evidence": {
@@ -7425,6 +7819,89 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/outpost-kyber/"
+    },
+    {
+      "id": "gyhgrysj4",
+      "slug": "i-would-have-gotten-away-with-it",
+      "aliases": [],
+      "title": "I Would Have Gotten Away With It",
+      "added": "2026-11-15",
+      "updated": "2026-11-15",
+      "creators": [
+        {
+          "handle": "emollick",
+          "name": "Ethan Mollick",
+          "url": "https://x.com/emollick"
+        }
+      ],
+      "primaryHandle": "emollick",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "horror",
+          "name": "Horror"
+        },
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD to walk, mouse to look, Shift to sprint, 1 to 8 to put on a mask, Q to take it off, left click to scare or place, E to use, hide, peep or pick up, B for the scheme book, M for the map, Esc to pause",
+      "brandIp": true,
+      "description": "Play the masked villain of a haunted manor, scaring off every visitor over three nights before a gang of meddling kids can unmask you.",
+      "notes": "Here you're the one in the monster mask: a caretaker with a scheme to hide, a manor full of visitors to frighten off, and a nosy gang of kids closing in. Over three nights you put on masks, set traps from a scheme book and slip out of sight before anyone pulls the mask off. It parodies a famous cartoon's chase-and-unmask formula. The creator suggests lowering the graphics settings if it runs slowly.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Ethan Mollick says they had Claude Fable 5.2 build the game, along with a trailer that it also made, music and sounds included.",
+        "sources": [
+          "https://x.com/emollick/status/2119876449494540554"
+        ]
+      },
+      "likes": 518,
+      "likesRead": "2026-11-23",
+      "posted": "2026-11-09",
+      "sourceUrl": "https://x.com/emollick/status/2119876449494540554",
+      "evidence": {
+        "url": "https://x.com/emollick/status/2119876449494540554",
+        "quote": "I had Fable 5.2 build a parody reverse Scooby Doo game where you have to scare away meddling kids."
+      },
+      "playUrl": "https://i-would-have-gotten-away-with-it.netlify.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/i-would-have-gotten-away-with-it/still.webp?v=69f734bc7e",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/i-would-have-gotten-away-with-it/"
     },
     {
       "id": "g8svijhf1",
@@ -7509,89 +7986,6 @@
       "pageUrl": "https://amusehall.com/games/ram-altman/"
     },
     {
-      "id": "gyhgrysj4",
-      "slug": "i-would-have-gotten-away-with-it",
-      "aliases": [],
-      "title": "I Would Have Gotten Away With It",
-      "added": "2026-11-15",
-      "updated": "2026-11-15",
-      "creators": [
-        {
-          "handle": "emollick",
-          "name": "Ethan Mollick",
-          "url": "https://x.com/emollick"
-        }
-      ],
-      "primaryHandle": "emollick",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "horror",
-          "name": "Horror"
-        },
-        {
-          "id": "strategy",
-          "name": "Strategy"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD to walk, mouse to look, Shift to sprint, 1 to 8 to put on a mask, Q to take it off, left click to scare or place, E to use, hide, peep or pick up, B for the scheme book, M for the map, Esc to pause",
-      "brandIp": true,
-      "description": "Play the masked villain of a haunted manor, scaring off every visitor over three nights before a gang of meddling kids can unmask you.",
-      "notes": "Here you're the one in the monster mask: a caretaker with a scheme to hide, a manor full of visitors to frighten off, and a nosy gang of kids closing in. Over three nights you put on masks, set traps from a scheme book and slip out of sight before anyone pulls the mask off. It parodies a famous cartoon's chase-and-unmask formula. The creator suggests lowering the graphics settings if it runs slowly.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Ethan Mollick says they had Claude Fable 5.2 build the game, along with a trailer that it also made, music and sounds included.",
-        "sources": [
-          "https://x.com/emollick/status/2119876449494540554"
-        ]
-      },
-      "likes": 513,
-      "likesRead": "2026-11-16",
-      "posted": "2026-11-09",
-      "sourceUrl": "https://x.com/emollick/status/2119876449494540554",
-      "evidence": {
-        "url": "https://x.com/emollick/status/2119876449494540554",
-        "quote": "I had Fable 5.2 build a parody reverse Scooby Doo game where you have to scare away meddling kids."
-      },
-      "playUrl": "https://i-would-have-gotten-away-with-it.netlify.app/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/i-would-have-gotten-away-with-it/still.webp?v=69f734bc7e",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/i-would-have-gotten-away-with-it/"
-    },
-    {
       "id": "glxawhstw",
       "slug": "valsera",
       "aliases": [],
@@ -7664,8 +8058,8 @@
           "https://x.com/kevin_t_ngo/status/2121701020598415465"
         ]
       },
-      "likes": 491,
-      "likesRead": "2026-11-16",
+      "likes": 513,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-14",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2121701020598415465",
       "evidence": {
@@ -7795,7 +8189,7 @@
         ]
       },
       "likes": 480,
-      "likesRead": "2026-11-22",
+      "likesRead": "2026-11-23",
       "posted": "2026-11-18",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2122969346935017497",
       "evidence": {
@@ -7937,8 +8331,8 @@
           "https://ashutoshai.com/showcase/d/iron-rotor"
         ]
       },
-      "likes": 449,
-      "likesRead": "2026-11-22",
+      "likes": 453,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-19",
       "sourceUrl": "https://x.com/ai_for_success/status/2123239282626478306",
       "evidence": {
@@ -8044,8 +8438,8 @@
           "https://github.com/wquguru/fable52-fps-repro/blob/main/prompts/04-fps.md"
         ]
       },
-      "likes": 394,
-      "likesRead": "2026-11-16",
+      "likes": 397,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-11",
       "sourceUrl": "https://x.com/wquguru/status/2120382704030261437",
       "evidence": {
@@ -8144,7 +8538,7 @@
         ]
       },
       "likes": 391,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-04-26",
       "sourceUrl": "https://x.com/underpaid_mom/status/2048286883080224877",
       "evidence": {
@@ -8165,97 +8559,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/wenware/"
-    },
-    {
-      "id": "g19fvejgd",
-      "slug": "kart-royale",
-      "aliases": [],
-      "title": "Kart Royale",
-      "added": "2026-10-31",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "Ryancampbell",
-          "name": "Ryan Campbell",
-          "url": "https://x.com/Ryancampbell"
-        }
-      ],
-      "primaryHandle": "Ryancampbell",
-      "credits": [
-        {
-          "label": "Claude Opus 5",
-          "modelId": "claude-opus-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-opus-5"
-      ],
-      "tools": [
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "racing",
-          "name": "Racing"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "Arrow keys or WASD, Shift to drift, Space, E or Enter to use an item, Q to look back, or a gamepad",
-      "brandIp": true,
-      "description": "An eight-kart racer on a seaside circuit with drift boosts and items, where bots fill empty seats and other players can join mid-race.",
-      "notes": "Pressing Play puts you in a public room on a sunlit seaside circuit with a full grid of eight karts: bots drive the karts nobody has, and anyone who arrives takes one over mid-race. Its page says you hold a drift through corners to charge a boost, pick up items from boxes to use on rival karts, and race two laps for points before the next grid lines up. A big-screen mode shows the race on a TV, with phones as the controllers. Its page says it also plays on phones, which we haven't tried.",
-      "prompt": {
-        "shared": true,
-        "partial": false,
-        "source_url": "https://github.com/ryancampbell/kart-royale/blob/main/README.md",
-        "text": "I want you to build a kat racing game at the level of the most recent Mario Kart games. It should be utterly perfect, visually beautiful, with every single thing done at AAA quality—from textures to physics to anything you could think of.\n\nFan out sub-agents and have sub-agents tackle each one individually so that the game is utterly perfect. You should /loop on each item and have a separate sub-agent check it visually to ensure it looks triple A. That separate sub-agent should be a really harsh critic, and if it doesn't look triple A, it should keep going.\n\nDon't stop until each sub-agent is utterly wowed with the quality when compared with the actual Mario Kart game. It should literally compare them side by side blind and say which one looks better. Do this in ThreeJS. /loop until it's utterly perfect. Fan out sub-agents and ultracode."
-      },
-      "makingOf": {
-        "summary": "The creator says one prompt to Claude Opus 5 started the Three.js racer, which generates its meshes, textures and sound in code. They used the Gauntlet Loop, with agents building separate systems against a shared art guide and other agents scoring screenshots from a running build. The project's write-up says those reviewers missed play problems such as inverted steering and a phone crash, which surfaced when the creator played. The creator later used Opus 5.5 to add online multiplayer.",
-        "sources": [
-          "https://x.com/Ryancampbell/status/2081750419857133709",
-          "https://x.com/Ryancampbell/status/2082169213238817228",
-          "https://github.com/ryancampbell/kart-royale#the-prompt",
-          "https://www.ryancampbell.com/kart-royale",
-          "https://x.com/Ryancampbell/status/2104674816569876741"
-        ]
-      },
-      "likes": 362,
-      "likesRead": "2026-11-16",
-      "posted": "2026-07-27",
-      "sourceUrl": "https://x.com/Ryancampbell/status/2081750419857133709",
-      "evidence": {
-        "url": "https://x.com/Ryancampbell/status/2081750419857133709",
-        "quote": "Thought I'd try getting Opus 5 to build a Kart racing game after seeing what @mattshumer_ did."
-      },
-      "playUrl": "https://official.homie.rocks/kart-royale/",
-      "price": "free",
-      "codeUrl": "https://github.com/ryancampbell/kart-royale",
-      "media": {
-        "still": "https://media.amusehall.com/kart-royale/still.webp?v=2f10c09955",
-        "preview": null,
-        "clip": null,
-        "unrecordable": "multiplayer-join"
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/kart-royale/"
     },
     {
       "id": "gserfbtbt",
@@ -8348,6 +8651,97 @@
       "pageUrl": "https://amusehall.com/games/night-market-runner/"
     },
     {
+      "id": "g19fvejgd",
+      "slug": "kart-royale",
+      "aliases": [],
+      "title": "Kart Royale",
+      "added": "2026-10-31",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "Ryancampbell",
+          "name": "Ryan Campbell",
+          "url": "https://x.com/Ryancampbell"
+        }
+      ],
+      "primaryHandle": "Ryancampbell",
+      "credits": [
+        {
+          "label": "Claude Opus 5",
+          "modelId": "claude-opus-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Arrow keys or WASD, Shift to drift, Space, E or Enter to use an item, Q to look back, or a gamepad",
+      "brandIp": true,
+      "description": "An eight-kart racer on a seaside circuit with drift boosts and items, where bots fill empty seats and other players can join mid-race.",
+      "notes": "Pressing Play puts you in a public room on a sunlit seaside circuit with a full grid of eight karts: bots drive the karts nobody has, and anyone who arrives takes one over mid-race. Its page says you hold a drift through corners to charge a boost, pick up items from boxes to use on rival karts, and race two laps for points before the next grid lines up. A big-screen mode shows the race on a TV, with phones as the controllers. Its page says it also plays on phones, which we haven't tried.",
+      "prompt": {
+        "shared": true,
+        "partial": false,
+        "source_url": "https://github.com/ryancampbell/kart-royale/blob/main/README.md",
+        "text": "I want you to build a kat racing game at the level of the most recent Mario Kart games. It should be utterly perfect, visually beautiful, with every single thing done at AAA quality—from textures to physics to anything you could think of.\n\nFan out sub-agents and have sub-agents tackle each one individually so that the game is utterly perfect. You should /loop on each item and have a separate sub-agent check it visually to ensure it looks triple A. That separate sub-agent should be a really harsh critic, and if it doesn't look triple A, it should keep going.\n\nDon't stop until each sub-agent is utterly wowed with the quality when compared with the actual Mario Kart game. It should literally compare them side by side blind and say which one looks better. Do this in ThreeJS. /loop until it's utterly perfect. Fan out sub-agents and ultracode."
+      },
+      "makingOf": {
+        "summary": "The creator says one prompt to Claude Opus 5 started the Three.js racer, which generates its meshes, textures and sound in code. They used the Gauntlet Loop, with agents building separate systems against a shared art guide and other agents scoring screenshots from a running build. The project's write-up says those reviewers missed play problems such as inverted steering and a phone crash, which surfaced when the creator played. The creator later used Opus 5.5 to add online multiplayer.",
+        "sources": [
+          "https://x.com/Ryancampbell/status/2081750419857133709",
+          "https://x.com/Ryancampbell/status/2082169213238817228",
+          "https://github.com/ryancampbell/kart-royale#the-prompt",
+          "https://www.ryancampbell.com/kart-royale",
+          "https://x.com/Ryancampbell/status/2104674816569876741"
+        ]
+      },
+      "likes": 361,
+      "likesRead": "2026-11-23",
+      "posted": "2026-07-27",
+      "sourceUrl": "https://x.com/Ryancampbell/status/2081750419857133709",
+      "evidence": {
+        "url": "https://x.com/Ryancampbell/status/2081750419857133709",
+        "quote": "Thought I'd try getting Opus 5 to build a Kart racing game after seeing what @mattshumer_ did."
+      },
+      "playUrl": "https://official.homie.rocks/kart-royale/",
+      "price": "free",
+      "codeUrl": "https://github.com/ryancampbell/kart-royale",
+      "media": {
+        "still": "https://media.amusehall.com/kart-royale/still.webp?v=2f10c09955",
+        "preview": null,
+        "clip": null,
+        "unrecordable": "multiplayer-join"
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/kart-royale/"
+    },
+    {
       "id": "gld22k702",
       "slug": "light-a-star",
       "aliases": [],
@@ -8407,8 +8801,8 @@
           "https://x.com/SidraMiconi/status/2120948703095820743"
         ]
       },
-      "likes": 355,
-      "likesRead": "2026-11-16",
+      "likes": 359,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-12",
       "sourceUrl": "https://x.com/SidraMiconi/status/2120948703095820743",
       "evidence": {
@@ -8429,98 +8823,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/light-a-star/"
-    },
-    {
-      "id": "goor334d3",
-      "slug": "blackwater-silent-harbor",
-      "aliases": [],
-      "title": "BLACKWATER — Silent Harbor",
-      "added": "2026-11-09",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "WoahWurdz",
-          "url": "https://x.com/WoahWurdz"
-        }
-      ],
-      "primaryHandle": "WoahWurdz",
-      "credits": [
-        {
-          "label": "GPT-6 Astra",
-          "modelId": "gpt-6-astra",
-          "familyId": "gpt",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "gpt",
-      "familyIds": [
-        "gpt"
-      ],
-      "modelIds": [
-        "gpt-6-astra"
-      ],
-      "tools": [
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "shooter",
-          "name": "Shooter"
-        },
-        {
-          "id": "action",
-          "name": "Action"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "W A S D to move, mouse to look and fire, right mouse or Q to aim, Shift to sprint, Space to jump, R to reload, E to resupply, Esc to pause",
-      "brandIp": true,
-      "description": "A single-player tactical shooter in a rain-soaked freight terminal at night: clear nine hostiles from cover, then reach the extraction beacon.",
-      "notes": "One mission plays out in a storm at a freight terminal: containers, cranes, wet pavement and rain, nine enemies that move between cover, and a carbine with aiming, recoil and reloads. You recover health behind cover and resupply at a crate near the start. It needs a keyboard and mouse. Its special-operations unit carries the name of a real military contractor.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creator says GPT-6 Astra produced the first build from one prompt in 30 minutes. They tried the same brief with Claude Fable 5.1 and say that run took almost five hours, with crouching, aiming and sliding working in its first build. The creator’s repository says the game generates its art and audio in code.",
-        "sources": [
-          "https://x.com/WoahWurdz/status/2095958882732355908",
-          "https://x.com/WoahWurdz/status/2095961987536576582",
-          "https://github.com/Hiraeth010/blackwater"
-        ]
-      },
-      "likes": 339,
-      "likesRead": "2026-11-16",
-      "posted": "2026-09-04",
-      "sourceUrl": "https://x.com/WoahWurdz/status/2095958882732355908",
-      "evidence": {
-        "url": "https://x.com/WoahWurdz/status/2095958882732355908",
-        "quote": "MY FIRST GAME OUTPUT WITH GPT-6 ASTRA IT ONE-SHOTTED THIS CALL OF DUTY GAME IN 30 MINUTES!!!"
-      },
-      "playUrl": "https://blackwater-roan.vercel.app/",
-      "price": "free",
-      "codeUrl": "https://github.com/Hiraeth010/blackwater",
-      "media": {
-        "still": "https://media.amusehall.com/blackwater-silent-harbor/still.webp?v=3e3c1b3bd2",
-        "preview": null,
-        "clip": null,
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/blackwater-silent-harbor/"
     },
     {
       "id": "gvwa4zwg2",
@@ -8605,8 +8907,8 @@
           "https://x.com/_nilni/status/2120214687325499453"
         ]
       },
-      "likes": 337,
-      "likesRead": "2026-11-16",
+      "likes": 339,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/_nilni/status/2119977575053443467",
       "evidence": {
@@ -8627,6 +8929,98 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/cinderdeep/"
+    },
+    {
+      "id": "goor334d3",
+      "slug": "blackwater-silent-harbor",
+      "aliases": [],
+      "title": "BLACKWATER — Silent Harbor",
+      "added": "2026-11-09",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "WoahWurdz",
+          "url": "https://x.com/WoahWurdz"
+        }
+      ],
+      "primaryHandle": "WoahWurdz",
+      "credits": [
+        {
+          "label": "GPT-6 Astra",
+          "modelId": "gpt-6-astra",
+          "familyId": "gpt",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [
+        "gpt-6-astra"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "W A S D to move, mouse to look and fire, right mouse or Q to aim, Shift to sprint, Space to jump, R to reload, E to resupply, Esc to pause",
+      "brandIp": true,
+      "description": "A single-player tactical shooter in a rain-soaked freight terminal at night: clear nine hostiles from cover, then reach the extraction beacon.",
+      "notes": "One mission plays out in a storm at a freight terminal: containers, cranes, wet pavement and rain, nine enemies that move between cover, and a carbine with aiming, recoil and reloads. You recover health behind cover and resupply at a crate near the start. It needs a keyboard and mouse. Its special-operations unit carries the name of a real military contractor.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator says GPT-6 Astra produced the first build from one prompt in 30 minutes. They tried the same brief with Claude Fable 5.1 and say that run took almost five hours, with crouching, aiming and sliding working in its first build. The creator’s repository says the game generates its art and audio in code.",
+        "sources": [
+          "https://x.com/WoahWurdz/status/2095958882732355908",
+          "https://x.com/WoahWurdz/status/2095961987536576582",
+          "https://github.com/Hiraeth010/blackwater"
+        ]
+      },
+      "likes": 337,
+      "likesRead": "2026-11-23",
+      "posted": "2026-09-04",
+      "sourceUrl": "https://x.com/WoahWurdz/status/2095958882732355908",
+      "evidence": {
+        "url": "https://x.com/WoahWurdz/status/2095958882732355908",
+        "quote": "MY FIRST GAME OUTPUT WITH GPT-6 ASTRA IT ONE-SHOTTED THIS CALL OF DUTY GAME IN 30 MINUTES!!!"
+      },
+      "playUrl": "https://blackwater-roan.vercel.app/",
+      "price": "free",
+      "codeUrl": "https://github.com/Hiraeth010/blackwater",
+      "media": {
+        "still": "https://media.amusehall.com/blackwater-silent-harbor/still.webp?v=3e3c1b3bd2",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/blackwater-silent-harbor/"
     },
     {
       "id": "gxshani2z",
@@ -8698,8 +9092,8 @@
           "https://x.com/kevin_t_ngo/status/2119909881516019983"
         ]
       },
-      "likes": 330,
-      "likesRead": "2026-11-16",
+      "likes": 332,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-09",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2119900487688622171",
       "evidence": {
@@ -8837,8 +9231,8 @@
           "https://lab.ytdeepsea.com/games/chongqing/"
         ]
       },
-      "likes": 322,
-      "likesRead": "2026-11-22",
+      "likes": 326,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-19",
       "sourceUrl": "https://x.com/GaryAIytb/status/2123331645046714382",
       "evidence": {
@@ -8925,8 +9319,8 @@
           "https://dread-and-district.netlify.app/"
         ]
       },
-      "likes": 304,
-      "likesRead": "2026-11-16",
+      "likes": 303,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/emollick/status/2120248525254742318",
       "evidence": {
@@ -9033,7 +9427,7 @@
         ]
       },
       "likes": 268,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-30",
       "sourceUrl": "https://x.com/aniketjart/status/2105102068818362637",
       "evidence": {
@@ -9122,7 +9516,7 @@
         ]
       },
       "likes": 256,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-07-30",
       "sourceUrl": "https://x.com/RicardoDeZoete/status/2082926872589918537",
       "evidence": {
@@ -9234,7 +9628,7 @@
         ]
       },
       "likes": 251,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-04-29",
       "sourceUrl": "https://x.com/leocooout/status/2049610251381756307",
       "evidence": {
@@ -9347,8 +9741,8 @@
           "https://x.com/AugustCastilIo/status/2120375511058653554"
         ]
       },
-      "likes": 216,
-      "likesRead": "2026-11-16",
+      "likes": 215,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-10",
       "sourceUrl": "https://x.com/AugustCastilIo/status/2120302122776342865",
       "evidence": {
@@ -9450,7 +9844,7 @@
         ]
       },
       "likes": 205,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-11-03",
       "sourceUrl": "https://x.com/aniketjart/status/2117508141076378029",
       "evidence": {
@@ -9471,98 +9865,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/skywake/"
-    },
-    {
-      "id": "g66ibbf9z",
-      "slug": "double-feature",
-      "aliases": [],
-      "title": "Double Feature",
-      "added": "2026-10-30",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "SestinaTW",
-          "name": "Sestina",
-          "url": "https://x.com/SestinaTW"
-        }
-      ],
-      "primaryHandle": "SestinaTW",
-      "credits": [
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-opus-5-5"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "action",
-          "name": "Action"
-        },
-        {
-          "id": "platformer",
-          "name": "Platformer"
-        },
-        {
-          "id": "shooter",
-          "name": "Shooter"
-        }
-      ],
-      "devices": [
-        "desktop",
-        "phone"
-      ],
-      "controls": "Arrow keys, Z to jump, X to shoot, Shift to dash; an on-screen stick and buttons on phones",
-      "brandIp": true,
-      "description": "A 1930s cartoon run-and-gun starring Kernel, a popcorn hero, with boss fights presented as films at an old movie palace.",
-      "notes": "You play Kernel, a popcorn hero, in a cartoon run-and-gun dressed up as a night at a 1930s movie palace. The first reel, based on A Trip to the Moon, has Kernel flying a capsule and shooting popcorn at a grinning Moon. The second, It Came From Planet Zog, is fought on foot. You can shoot, dash and parry pink objects to charge an EX shot, and a short rehearsal stage teaches each move first. The Matinee showing is gentler and the Premiere is harder, and both work on phones and computers.",
-      "prompt": {
-        "shared": true,
-        "partial": false,
-        "source_url": "https://x.com/SestinaTW/status/2104047477573947581",
-        "text": "Make a Cuphead inspired game that uses film styles from various eras or ages and Uh, when I say Cuphead, I mean like that visual style. Your focus is very much on the visuals for this here. As well as the fun gameplay. Make one or two actually, make two full complete levels. Actually, let's start with one. Just make one full complete level here. That transitions, but ah, no, we need two. So yeah, make two full complete levels here. And consider this an homage to particular films. of those eras that you choose as well. This is not meant to be informational. It is meant to be fun and extremely polished visually. You have full creative freedom on this, but keep in mind that this is going to go on Twitter. So I want you to consider the angles first and make sure that you have all the tools that you need for this. Uh, you're going to make this into an artifact as well. And I want you to Live up to the challenge."
-      },
-      "makingOf": {
-        "summary": "The creator dictated a brief that used Cuphead as a visual reference and asked Claude Opus 5.5 to pick films for the levels to pay homage to. They gave Claude freedom over the visuals and sound, and its agents built both levels in parallel. The creator says the build took 19 hours and used 35 agents, ending in a single HTML file with the artwork drawn in code.",
-        "sources": [
-          "https://x.com/SestinaTW/status/2104045641706189192",
-          "https://x.com/SestinaTW/status/2104045740171678057",
-          "https://x.com/SestinaTW/status/2104047477573947581",
-          "https://x.com/SestinaTW/status/2104203561588658414",
-          "https://x.com/SestinaTW/status/2104290176541630701"
-        ]
-      },
-      "likes": 187,
-      "likesRead": "2026-11-16",
-      "posted": "2026-09-27",
-      "sourceUrl": "https://x.com/SestinaTW/status/2104045641706189192",
-      "evidence": {
-        "url": "https://x.com/SestinaTW/status/2104045641706189192",
-        "quote": "a Cuphead Inspired Mini-Game built with Claude Opus 5.5."
-      },
-      "playUrl": "https://claude.ai/artifact/Vos8wdB8Jenz9FopZWeRMb",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/double-feature/still.webp?v=c60fa60347",
-        "preview": null,
-        "clip": null,
-        "unrecordable": "human-verification"
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/double-feature/"
     },
     {
       "id": "go44jd756",
@@ -9635,7 +9937,7 @@
         ]
       },
       "likes": 184,
-      "likesRead": "2026-11-18",
+      "likesRead": "2026-11-23",
       "posted": "2026-11-04",
       "sourceUrl": "https://www.bilibili.com/video/BV1vUxX66E3f",
       "evidence": {
@@ -9656,6 +9958,98 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/mario-kart-ruby-tour/"
+    },
+    {
+      "id": "g66ibbf9z",
+      "slug": "double-feature",
+      "aliases": [],
+      "title": "Double Feature",
+      "added": "2026-10-30",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "SestinaTW",
+          "name": "Sestina",
+          "url": "https://x.com/SestinaTW"
+        }
+      ],
+      "primaryHandle": "SestinaTW",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "platformer",
+          "name": "Platformer"
+        },
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Arrow keys, Z to jump, X to shoot, Shift to dash; an on-screen stick and buttons on phones",
+      "brandIp": true,
+      "description": "A 1930s cartoon run-and-gun starring Kernel, a popcorn hero, with boss fights presented as films at an old movie palace.",
+      "notes": "You play Kernel, a popcorn hero, in a cartoon run-and-gun dressed up as a night at a 1930s movie palace. The first reel, based on A Trip to the Moon, has Kernel flying a capsule and shooting popcorn at a grinning Moon. The second, It Came From Planet Zog, is fought on foot. You can shoot, dash and parry pink objects to charge an EX shot, and a short rehearsal stage teaches each move first. The Matinee showing is gentler and the Premiere is harder, and both work on phones and computers.",
+      "prompt": {
+        "shared": true,
+        "partial": false,
+        "source_url": "https://x.com/SestinaTW/status/2104047477573947581",
+        "text": "Make a Cuphead inspired game that uses film styles from various eras or ages and Uh, when I say Cuphead, I mean like that visual style. Your focus is very much on the visuals for this here. As well as the fun gameplay. Make one or two actually, make two full complete levels. Actually, let's start with one. Just make one full complete level here. That transitions, but ah, no, we need two. So yeah, make two full complete levels here. And consider this an homage to particular films. of those eras that you choose as well. This is not meant to be informational. It is meant to be fun and extremely polished visually. You have full creative freedom on this, but keep in mind that this is going to go on Twitter. So I want you to consider the angles first and make sure that you have all the tools that you need for this. Uh, you're going to make this into an artifact as well. And I want you to Live up to the challenge."
+      },
+      "makingOf": {
+        "summary": "The creator dictated a brief that used Cuphead as a visual reference and asked Claude Opus 5.5 to pick films for the levels to pay homage to. They gave Claude freedom over the visuals and sound, and its agents built both levels in parallel. The creator says the build took 19 hours and used 35 agents, ending in a single HTML file with the artwork drawn in code.",
+        "sources": [
+          "https://x.com/SestinaTW/status/2104045641706189192",
+          "https://x.com/SestinaTW/status/2104045740171678057",
+          "https://x.com/SestinaTW/status/2104047477573947581",
+          "https://x.com/SestinaTW/status/2104203561588658414",
+          "https://x.com/SestinaTW/status/2104290176541630701"
+        ]
+      },
+      "likes": 184,
+      "likesRead": "2026-11-23",
+      "posted": "2026-09-27",
+      "sourceUrl": "https://x.com/SestinaTW/status/2104045641706189192",
+      "evidence": {
+        "url": "https://x.com/SestinaTW/status/2104045641706189192",
+        "quote": "a Cuphead Inspired Mini-Game built with Claude Opus 5.5."
+      },
+      "playUrl": "https://claude.ai/artifact/Vos8wdB8Jenz9FopZWeRMb",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/double-feature/still.webp?v=c60fa60347",
+        "preview": null,
+        "clip": null,
+        "unrecordable": "human-verification"
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/double-feature/"
     },
     {
       "id": "gb5kg9kry",
@@ -9733,8 +10127,8 @@
           "https://x.com/aniketjart/status/2103136097333309623"
         ]
       },
-      "likes": 184,
-      "likesRead": "2026-11-16",
+      "likes": 182,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-22",
       "sourceUrl": "https://x.com/aniketjart/status/2102546641253478674",
       "evidence": {
@@ -9856,7 +10250,7 @@
         ]
       },
       "likes": 179,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2025-04-11",
       "sourceUrl": "https://x.com/TomasBencko/status/1910684084168179999",
       "evidence": {
@@ -10022,8 +10416,8 @@
           "https://x.com/KanaWorks_AI/status/2103464588348108939"
         ]
       },
-      "likes": 168,
-      "likesRead": "2026-11-16",
+      "likes": 167,
+      "likesRead": "2026-11-23",
       "posted": "2026-09-23",
       "sourceUrl": "https://x.com/KanaWorks_AI/status/2102684116525437206",
       "evidence": {
@@ -10124,7 +10518,7 @@
         ]
       },
       "likes": 164,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-04",
       "sourceUrl": "https://x.com/petergostev/status/2096013280519016608",
       "evidence": {
@@ -10238,6 +10632,100 @@
       "pageUrl": "https://amusehall.com/games/mall-bats/"
     },
     {
+      "id": "gvz6r7sy1",
+      "slug": "turbo-tails",
+      "aliases": [],
+      "title": "Turbo Tails",
+      "added": "2026-11-12",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "petergyang",
+          "name": "Peter Yang",
+          "url": "https://x.com/petergyang"
+        }
+      ],
+      "primaryHandle": "petergyang",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "suno",
+          "name": "Suno",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Arrow keys or WASD to steer and accelerate, Shift for turbo",
+      "brandIp": false,
+      "description": "Drift, collect coins and spend your turbo in a 3D kart racer with six racers and four tracks.",
+      "notes": "Single-player races put you up against five computer-controlled karts. Coins raise your speed, while drifting and tricks fill the turbo meter. You can also race friends in a multiplayer room.",
+      "prompt": {
+        "shared": true,
+        "partial": true,
+        "source_url": "https://x.com/petergyang/status/2119992966320415042",
+        "text": "Let's make mobile work please\n\nOk let's add multiplayer the simplest way"
+      },
+      "makingOf": {
+        "summary": "The creator says three prompts went into the first version, including requests to make it work on mobile and to add simple multiplayer. They generated the music with Suno and asked Claude to put it in the game. Their comparison video shows how they built the racer with Fable 5.2.",
+        "sources": [
+          "https://x.com/petergyang/status/2119901658394358005",
+          "https://x.com/petergyang/status/2119992966320415042",
+          "https://x.com/petergyang/status/2120013582851293493",
+          "https://www.youtube.com/watch?v=SsSKJA0EHD4&t=184s"
+        ]
+      },
+      "likes": 143,
+      "likesRead": "2026-11-23",
+      "posted": "2026-11-09",
+      "sourceUrl": "https://x.com/petergyang/status/2119901658394358005",
+      "evidence": {
+        "url": "https://x.com/petergyang/status/2119901658394358005",
+        "quote": "Here's my new 3D kart racer game I built with @claudeai Fable 5.2"
+      },
+      "playUrl": "https://turbo-tails.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/turbo-tails/still.webp?v=c1e06b22f1",
+        "preview": "https://media.amusehall.com/turbo-tails/preview.webp?v=d9dbba3159",
+        "clip": "https://media.amusehall.com/turbo-tails/clip.mp4?v=f64a7b9243",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/turbo-tails/"
+    },
+    {
       "id": "g0licbu6a",
       "slug": "lost-cathedral",
       "aliases": [],
@@ -10315,7 +10803,7 @@
         ]
       },
       "likes": 142,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-17",
       "sourceUrl": "https://x.com/genex_games/status/2100586874754539672",
       "evidence": {
@@ -10338,98 +10826,131 @@
       "pageUrl": "https://amusehall.com/games/lost-cathedral/"
     },
     {
-      "id": "gvz6r7sy1",
-      "slug": "turbo-tails",
+      "id": "gv4zk9va6",
+      "slug": "sumi-gai",
       "aliases": [],
-      "title": "Turbo Tails",
-      "added": "2026-11-12",
-      "updated": "2026-11-12",
+      "title": "SUMI GAI: CASE FILE 02:30",
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
       "creators": [
         {
-          "handle": "petergyang",
-          "name": "Peter Yang",
-          "url": "https://x.com/petergyang"
+          "handle": "venturetwins",
+          "name": "Justine Moore",
+          "url": "https://x.com/venturetwins"
         }
       ],
-      "primaryHandle": "petergyang",
+      "primaryHandle": "venturetwins",
       "credits": [
         {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": null
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": "antigravity"
         }
       ],
-      "primaryFamily": "claude",
+      "primaryFamily": "gemini",
       "familyIds": [
-        "claude"
+        "gemini"
       ],
       "modelIds": [
-        "claude-fable-5-2"
+        "gemini-4-neon"
       ],
       "tools": [
         {
-          "id": "suno",
-          "name": "Suno",
-          "kind": "app",
+          "id": "antigravity",
+          "name": "Google Antigravity",
+          "kind": "ai",
+          "family": "gemini",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
           "family": null,
           "referral_url": null
         }
       ],
       "genres": [
         {
-          "id": "racing",
-          "name": "Racing"
+          "id": "adventure",
+          "name": "Adventure"
         },
         {
-          "id": "arcade",
-          "name": "Arcade"
+          "id": "exploration",
+          "name": "Exploration"
+        },
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
         }
       ],
       "devices": [
         "desktop"
       ],
-      "controls": "Arrow keys or WASD to steer and accelerate, Shift for turbo",
-      "brandIp": false,
-      "description": "Drift, collect coins and spend your turbo in a 3D kart racer with six racers and four tracks.",
-      "notes": "Single-player races put you up against five computer-controlled karts. Coins raise your speed, while drifting and tricks fill the turbo meter. You can also race friends in a multiplayer room.",
+      "controls": "Use WASD to walk, the mouse or left and right arrows to look, E to inspect or question someone, and J to open the case board.",
+      "brandIp": true,
+      "description": "Work a murder case on foot in Tokyo’s Golden Gai. Search the alleys and 16 tiny bars for clues, question the locals and file an arrest warrant.",
+      "notes": "Inspect the markers at the red shrine gate to open your first lead. The case board maps the alleys and records which bars you have visited. Step through an open doorway to search a bar. The board requires at least three pieces of evidence before you can file a warrant.",
       "prompt": {
         "shared": true,
-        "partial": true,
-        "source_url": "https://x.com/petergyang/status/2119992966320415042",
-        "text": "Let's make mobile work please\n\nOk let's add multiplayer the simplest way"
+        "partial": false,
+        "source_url": "https://x.com/venturetwins/status/2124572766964003302",
+        "text": "Hi! I'd like to make a cool game where the user is a character wandering around the golden gai in tokyo in the dark trying to find various things"
       },
       "makingOf": {
-        "summary": "The creator says three prompts went into the first version, including requests to make it work on mobile and to add simple multiplayer. They generated the music with Suno and asked Claude to put it in the game. Their comparison video shows how they built the racer with Fable 5.2.",
+        "summary": "Justine Moore started with the instruction shown below, asking for a character who could wander around Golden Gai at night. She credits Gemini 4 Neon with writing the mystery, rendering its world in Three.js and filling 16 bars with characters and clues.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "Moore used Antigravity’s /teamwork feature and reports that it started 44 subagents to build the game.",
+            "sources": [
+              "https://x.com/venturetwins/status/2124571338983801319"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Moore says much of the work went into generating images and texturing the 3D world.",
+            "sources": [
+              "https://x.com/venturetwins/status/2124571338983801319"
+            ]
+          },
+          {
+            "about": "characters",
+            "text": "When Moore said the characters looked too blocky, the system found and downloaded VRoid avatars.",
+            "sources": [
+              "https://x.com/venturetwins/status/2124572766964003302"
+            ]
+          }
+        ],
         "sources": [
-          "https://x.com/petergyang/status/2119901658394358005",
-          "https://x.com/petergyang/status/2119992966320415042",
-          "https://x.com/petergyang/status/2120013582851293493",
-          "https://www.youtube.com/watch?v=SsSKJA0EHD4&t=184s"
+          "https://x.com/venturetwins/status/2124568183902449764",
+          "https://x.com/venturetwins/status/2124571338983801319",
+          "https://x.com/venturetwins/status/2124572766964003302"
         ]
       },
-      "likes": 141,
-      "likesRead": "2026-11-16",
-      "posted": "2026-11-09",
-      "sourceUrl": "https://x.com/petergyang/status/2119901658394358005",
+      "likes": 140,
+      "likesRead": "2026-11-23",
+      "posted": "2026-11-22",
+      "sourceUrl": "https://x.com/venturetwins/status/2124568183902449764",
       "evidence": {
-        "url": "https://x.com/petergyang/status/2119901658394358005",
-        "quote": "Here's my new 3D kart racer game I built with @claudeai Fable 5.2"
+        "url": "https://x.com/venturetwins/status/2124571338983801319",
+        "quote": "I used the /teamwork feature in Antigravity, which spun up 44 subagents to build this game."
       },
-      "playUrl": "https://turbo-tails.vercel.app/",
+      "playUrl": "https://sumi-gai.vercel.app/",
       "price": "free",
       "codeUrl": null,
       "media": {
-        "still": "https://media.amusehall.com/turbo-tails/still.webp?v=c1e06b22f1",
-        "preview": "https://media.amusehall.com/turbo-tails/preview.webp?v=d9dbba3159",
-        "clip": "https://media.amusehall.com/turbo-tails/clip.mp4?v=f64a7b9243",
+        "still": "https://media.amusehall.com/sumi-gai/still.webp?v=48f27603a6",
+        "preview": null,
+        "clip": null,
         "unrecordable": null
       },
       "availability": "available",
       "unavailableSince": null,
       "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/turbo-tails/"
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/sumi-gai/"
     },
     {
       "id": "g04zlqq5p",
@@ -10512,7 +11033,7 @@
         ]
       },
       "likes": 132,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-08-21",
       "sourceUrl": "https://x.com/AndreiProvkin/status/2090810893080686996",
       "evidence": {
@@ -10597,7 +11118,7 @@
         ]
       },
       "likes": 130,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-05",
       "sourceUrl": "https://x.com/petergyang/status/2096297378584375672",
       "evidence": {
@@ -10689,7 +11210,7 @@
         ]
       },
       "likes": 112,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-11-01",
       "sourceUrl": "https://x.com/BenjaminDEKR/status/2117042700872802448",
       "evidence": {
@@ -10777,7 +11298,7 @@
         ]
       },
       "likes": 103,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-11-07",
       "sourceUrl": "https://x.com/kylebrussell/status/2118874479862419640",
       "evidence": {
@@ -10923,98 +11444,6 @@
       "pageUrl": "https://amusehall.com/games/air-strider/"
     },
     {
-      "id": "g5pav1sj5",
-      "slug": "kettu-vellam",
-      "aliases": [],
-      "title": "Kettu-Vellam",
-      "added": "2026-10-30",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "jessinvibe",
-          "name": "Jessin Sam S",
-          "url": "https://x.com/jessinvibe"
-        }
-      ],
-      "primaryHandle": "jessinvibe",
-      "credits": [
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-opus-5-5"
-      ],
-      "tools": [
-        {
-          "id": "v0",
-          "name": "v0",
-          "kind": "ai",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "racing",
-          "name": "Racing"
-        },
-        {
-          "id": "open-world",
-          "name": "Open world"
-        }
-      ],
-      "devices": [
-        "desktop",
-        "phone"
-      ],
-      "controls": "WASD or arrow keys, Shift or Space to boost, C for camera; touch buttons on phones",
-      "brandIp": false,
-      "description": "Race Kerala snake boats against rival crews through canals, a lake and a monsoon storm, or explore a backwater village on foot.",
-      "notes": "You steer a Kerala snake boat, a long wooden hull lined with oarsmen, in three-lap races against five rival crews on the Kuttanad canals, Punnamada Lake or a stormy Vembanad. Three boat types trade speed for handling, and races add side challenges such as collecting garlands. Open World is a separate on-foot mode in a backwater village, starting with a mission to walk home and greet Ammachi, with fishing, coconuts to drink and odd jobs for money. Works on phones and computers.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "The creator used v0 and asked Claude Opus 5.5 to build a game about Kerala's snake boat races.",
-        "sources": [
-          "https://x.com/jessinvibe/status/2103565292198838314"
-        ]
-      },
-      "likes": 69,
-      "likesRead": "2026-11-16",
-      "posted": "2026-09-25",
-      "sourceUrl": "https://x.com/jessinvibe/status/2103565292198838314",
-      "evidence": {
-        "url": "https://x.com/jessinvibe/status/2103565292198838314",
-        "quote": "I asked Claude Opus 5.5 to build a Kerala Snake Boat Race Game."
-      },
-      "playUrl": "https://kettuvellam.com",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/kettu-vellam/still.webp?v=547fc15495",
-        "preview": "https://media.amusehall.com/kettu-vellam/preview.webp?v=39d5a4a9be",
-        "clip": "https://media.amusehall.com/kettu-vellam/clip.mp4?v=5b675e39d7",
-        "unrecordable": null
-      },
-      "availability": "unavailable",
-      "unavailableSince": "2026-11-20",
-      "dropped": true,
-      "featurable": false,
-      "pageUrl": "https://amusehall.com/games/kettu-vellam/"
-    },
-    {
       "id": "g53li02ac",
       "slug": "inbox-zero",
       "aliases": [],
@@ -11105,8 +11534,8 @@
           "https://www.youtube.com/watch?v=q3CpuRXA-sw"
         ]
       },
-      "likes": 68,
-      "likesRead": "2026-11-22",
+      "likes": 70,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-04",
       "sourceUrl": "https://www.youtube.com/watch?v=q3CpuRXA-sw",
       "evidence": {
@@ -11127,6 +11556,98 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/inbox-zero/"
+    },
+    {
+      "id": "g5pav1sj5",
+      "slug": "kettu-vellam",
+      "aliases": [],
+      "title": "Kettu-Vellam",
+      "added": "2026-10-30",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "jessinvibe",
+          "name": "Jessin Sam S",
+          "url": "https://x.com/jessinvibe"
+        }
+      ],
+      "primaryHandle": "jessinvibe",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "v0",
+          "name": "v0",
+          "kind": "ai",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "open-world",
+          "name": "Open world"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "WASD or arrow keys, Shift or Space to boost, C for camera; touch buttons on phones",
+      "brandIp": false,
+      "description": "Race Kerala snake boats against rival crews through canals, a lake and a monsoon storm, or explore a backwater village on foot.",
+      "notes": "You steer a Kerala snake boat, a long wooden hull lined with oarsmen, in three-lap races against five rival crews on the Kuttanad canals, Punnamada Lake or a stormy Vembanad. Three boat types trade speed for handling, and races add side challenges such as collecting garlands. Open World is a separate on-foot mode in a backwater village, starting with a mission to walk home and greet Ammachi, with fishing, coconuts to drink and odd jobs for money. Works on phones and computers.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "The creator used v0 and asked Claude Opus 5.5 to build a game about Kerala's snake boat races.",
+        "sources": [
+          "https://x.com/jessinvibe/status/2103565292198838314"
+        ]
+      },
+      "likes": 69,
+      "likesRead": "2026-11-23",
+      "posted": "2026-09-25",
+      "sourceUrl": "https://x.com/jessinvibe/status/2103565292198838314",
+      "evidence": {
+        "url": "https://x.com/jessinvibe/status/2103565292198838314",
+        "quote": "I asked Claude Opus 5.5 to build a Kerala Snake Boat Race Game."
+      },
+      "playUrl": "https://kettuvellam.com",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/kettu-vellam/still.webp?v=547fc15495",
+        "preview": "https://media.amusehall.com/kettu-vellam/preview.webp?v=39d5a4a9be",
+        "clip": "https://media.amusehall.com/kettu-vellam/clip.mp4?v=5b675e39d7",
+        "unrecordable": null
+      },
+      "availability": "unavailable",
+      "unavailableSince": "2026-11-20",
+      "dropped": true,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/kettu-vellam/"
     },
     {
       "id": "gfivzz7nn",
@@ -11325,7 +11846,7 @@
         ]
       },
       "likes": 59,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/chongdashu/status/2104962609745428916",
       "evidence": {
@@ -11504,7 +12025,7 @@
         ]
       },
       "likes": 56,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-08",
       "sourceUrl": "https://x.com/Dimillian/status/2097188900888322323",
       "evidence": {
@@ -11611,7 +12132,7 @@
         ]
       },
       "likes": 54,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-04-19",
       "sourceUrl": "https://x.com/denisbondare/status/2045947329442718089",
       "evidence": {
@@ -11705,7 +12226,7 @@
         ]
       },
       "likes": 52,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-09",
       "sourceUrl": "https://x.com/OpenDesignHQ/status/2097635757917983223",
       "evidence": {
@@ -12252,7 +12773,7 @@
         ]
       },
       "likes": 42,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/knightama/status/2104880496253817021",
       "evidence": {
@@ -12353,7 +12874,7 @@
         ]
       },
       "likes": 39,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-24",
       "sourceUrl": "https://x.com/scottstts/status/2103260765847486734",
       "evidence": {
@@ -12492,97 +13013,6 @@
       "pageUrl": "https://amusehall.com/games/hoverline/"
     },
     {
-      "id": "gqojoxunu",
-      "slug": "fogline",
-      "aliases": [],
-      "title": "FOGLINE",
-      "added": "2026-10-30",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "superalesha",
-          "name": "Alexey Fateev",
-          "url": "https://x.com/superalesha"
-        }
-      ],
-      "primaryHandle": "superalesha",
-      "credits": [
-        {
-          "label": "Claude Sonnet 5.5",
-          "modelId": "claude-sonnet-5-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-sonnet-5-5"
-      ],
-      "tools": [
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "shooter",
-          "name": "Shooter"
-        },
-        {
-          "id": "action",
-          "name": "Action"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD, mouse, Shift to sprint, C to crouch or slide, Space to jump, Q and E to lean, R to reload, G for grenades",
-      "brandIp": false,
-      "description": "A bodycam-style horde shooter where you hold a rain-soaked trench line against waves of attackers coming out of the fog.",
-      "notes": "Through a chest-mounted bodycam with a timestamp, rain on the lens and a fisheye view, you defend a muddy trench position as HQ radios in waves of attackers emerging from the fog. Between waves a gunsmith screen lets you change your loadout, and the controls include leaning, sliding, grenades and a weapon light. When you go down, the feed cuts to “NO SIGNAL” and an after-action report of your waves, kills and accuracy. Best on a computer: it needs a keyboard and mouse.",
-      "prompt": {
-        "shared": true,
-        "partial": false,
-        "source_url": "https://x.com/superalesha/status/2104920915112829231",
-        "text": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this."
-      },
-      "makingOf": {
-        "summary": "The creator opened a fresh session and gave Claude Sonnet 5.5 at Max effort a single brief for a Bodycam-style shooter. They say the run took almost 12 hours and hit usage limits three times, so they resumed it after resets and eventually told it to wrap up. Sonnet built and tested the game while Fable 5.1 and Opus 5.5 subagents handled audio, weapons, characters, the interface and the environment. It used browser tests and screenshots to check the renderer, materials and lighting along the way.",
-        "sources": [
-          "https://x.com/superalesha/status/2104920915112829231"
-        ]
-      },
-      "likes": 30,
-      "likesRead": "2026-11-16",
-      "posted": "2026-09-29",
-      "sourceUrl": "https://x.com/superalesha/status/2104920915112829231",
-      "evidence": {
-        "url": "https://x.com/superalesha/status/2104920915112829231",
-        "quote": "Sonnet 5.5 built this FPS from 1 prompt."
-      },
-      "playUrl": "https://alesha-pro.github.io/bench-portal/games/fogline/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/fogline/still.webp?v=abd2d5f5ec",
-        "preview": "https://media.amusehall.com/fogline/preview.webp?v=f6f148a486",
-        "clip": "https://media.amusehall.com/fogline/clip.mp4?v=b6db63f051",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/fogline/"
-    },
-    {
       "id": "g90ty75sw",
       "slug": "modu-city",
       "aliases": [],
@@ -12656,8 +13086,8 @@
           "https://x.com/Helloworldrex/status/2123463281038037124"
         ]
       },
-      "likes": 28,
-      "likesRead": "2026-11-22",
+      "likes": 30,
+      "likesRead": "2026-11-23",
       "posted": "2026-11-19",
       "sourceUrl": "https://x.com/Helloworldrex/status/2123463281038037124",
       "evidence": {
@@ -12678,6 +13108,97 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/modu-city/"
+    },
+    {
+      "id": "gqojoxunu",
+      "slug": "fogline",
+      "aliases": [],
+      "title": "FOGLINE",
+      "added": "2026-10-30",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "superalesha",
+          "name": "Alexey Fateev",
+          "url": "https://x.com/superalesha"
+        }
+      ],
+      "primaryHandle": "superalesha",
+      "credits": [
+        {
+          "label": "Claude Sonnet 5.5",
+          "modelId": "claude-sonnet-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-sonnet-5-5"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD, mouse, Shift to sprint, C to crouch or slide, Space to jump, Q and E to lean, R to reload, G for grenades",
+      "brandIp": false,
+      "description": "A bodycam-style horde shooter where you hold a rain-soaked trench line against waves of attackers coming out of the fog.",
+      "notes": "Through a chest-mounted bodycam with a timestamp, rain on the lens and a fisheye view, you defend a muddy trench position as HQ radios in waves of attackers emerging from the fog. Between waves a gunsmith screen lets you change your loadout, and the controls include leaning, sliding, grenades and a weapon light. When you go down, the feed cuts to “NO SIGNAL” and an after-action report of your waves, kills and accuracy. Best on a computer: it needs a keyboard and mouse.",
+      "prompt": {
+        "shared": true,
+        "partial": false,
+        "source_url": "https://x.com/superalesha/status/2104920915112829231",
+        "text": "Make me the most insane and blast of a shooter you can possibly build on ThreeJS + Web shaders bro!The most important things are shooting, dynamics, recoil, graphics, hit impact, gunplay. It's a beautifully designed arena where enemies swarm in hordes. Must have ADS aiming, weapon inertia/weight.3 weapon types: assault rifle / submachine gun, shotgun, and a heavy-hitting marksman rifle.Ability to attach (scopes, silencers, grips). This is a Call Of Duty Style AAA game in the browser. Do it right bro, I believe in you!This is your resume at Activision, do the maximum you can. More graphics, more engagement effects, more impact. You have only one shot at this. It should be a modern setting, modern combat, dirty trenches, drones, fog, drizzling rain. The style of the game is Bodycam, as close to realism as possible.Give yourself fully to this."
+      },
+      "makingOf": {
+        "summary": "The creator opened a fresh session and gave Claude Sonnet 5.5 at Max effort a single brief for a Bodycam-style shooter. They say the run took almost 12 hours and hit usage limits three times, so they resumed it after resets and eventually told it to wrap up. Sonnet built and tested the game while Fable 5.1 and Opus 5.5 subagents handled audio, weapons, characters, the interface and the environment. It used browser tests and screenshots to check the renderer, materials and lighting along the way.",
+        "sources": [
+          "https://x.com/superalesha/status/2104920915112829231"
+        ]
+      },
+      "likes": 30,
+      "likesRead": "2026-11-23",
+      "posted": "2026-09-29",
+      "sourceUrl": "https://x.com/superalesha/status/2104920915112829231",
+      "evidence": {
+        "url": "https://x.com/superalesha/status/2104920915112829231",
+        "quote": "Sonnet 5.5 built this FPS from 1 prompt."
+      },
+      "playUrl": "https://alesha-pro.github.io/bench-portal/games/fogline/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/fogline/still.webp?v=abd2d5f5ec",
+        "preview": "https://media.amusehall.com/fogline/preview.webp?v=f6f148a486",
+        "clip": "https://media.amusehall.com/fogline/clip.mp4?v=b6db63f051",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/fogline/"
     },
     {
       "id": "g9l4okhki",
@@ -12754,7 +13275,7 @@
         ]
       },
       "likes": 28,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-26",
       "sourceUrl": "https://x.com/Rubzem/status/2103983670034145726",
       "evidence": {
@@ -13022,7 +13543,7 @@
         ]
       },
       "likes": 12,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/EnvolDev/status/2104947552328261810",
       "evidence": {
@@ -13114,7 +13635,7 @@
         ]
       },
       "likes": 11,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/lucataco/status/2104393224508882954",
       "evidence": {
@@ -13206,7 +13727,7 @@
         ]
       },
       "likes": 10,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/pradeepXkapoor/status/2104840409851822098",
       "evidence": {
@@ -13285,7 +13806,7 @@
       },
       "makingOf": null,
       "likes": 10,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-26",
       "sourceUrl": "https://x.com/chrisjdimarco/status/2103874824569344327",
       "evidence": {
@@ -13382,7 +13903,7 @@
         ]
       },
       "likes": 8,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2025-03-01",
       "sourceUrl": "https://x.com/nomalex_/status/1895890592179310616",
       "evidence": {
@@ -13507,7 +14028,7 @@
         ]
       },
       "likes": 8,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-23",
       "sourceUrl": "https://x.com/NicolaManzini/status/2102849288997146722",
       "evidence": {
@@ -13623,7 +14144,7 @@
         ]
       },
       "likes": 7,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2025-02-28",
       "sourceUrl": "https://x.com/hankofalltrades/status/1895422775998959945",
       "evidence": {
@@ -13803,7 +14324,7 @@
         ]
       },
       "likes": 6,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-10-07",
       "sourceUrl": "https://x.com/AlbertSimonDev/status/2107699723574595794",
       "evidence": {
@@ -13888,7 +14409,7 @@
         ]
       },
       "likes": 5,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/jani_penttinen/status/2104696554020114600",
       "evidence": {
@@ -13981,7 +14502,7 @@
         ]
       },
       "likes": 4,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/pipisonx/status/2104541322900123800",
       "evidence": {
@@ -14079,7 +14600,7 @@
         ]
       },
       "likes": 4,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-04-30",
       "sourceUrl": "https://x.com/mrsukeruton/status/2049758014568095996",
       "evidence": {
@@ -14173,7 +14694,7 @@
         ]
       },
       "likes": 3,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-28",
       "sourceUrl": "https://x.com/KJLKurt/status/2104703514878374288",
       "evidence": {
@@ -14391,7 +14912,7 @@
         ]
       },
       "likes": 2,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-10-20",
       "sourceUrl": "https://x.com/AlbertSimonDev/status/2112396571828789329",
       "evidence": {
@@ -14485,7 +15006,7 @@
       },
       "makingOf": null,
       "likes": 2,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/awais_builds/status/2104743474549694736",
       "evidence": {
@@ -14574,7 +15095,7 @@
         ]
       },
       "likes": 2,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/agentcelldotdev/status/2104893456028160336",
       "evidence": {
@@ -14659,7 +15180,7 @@
         ]
       },
       "likes": 2,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-05",
       "sourceUrl": "https://x.com/ToolBraidComp/status/2096348348773028115",
       "evidence": {
@@ -14844,7 +15365,7 @@
         ]
       },
       "likes": 0,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-30",
       "sourceUrl": "https://x.com/longmaba/status/2105154719241187809",
       "evidence": {
@@ -14957,7 +15478,7 @@
         ]
       },
       "likes": 0,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-10-06",
       "sourceUrl": "https://x.com/Billpwchan/status/2107461457936093325",
       "evidence": {
@@ -15043,7 +15564,7 @@
         ]
       },
       "likes": 0,
-      "likesRead": "2026-11-16",
+      "likesRead": "2026-11-23",
       "posted": "2026-09-29",
       "sourceUrl": "https://x.com/jlager/status/2104748429192884380",
       "evidence": {
@@ -15064,6 +15585,384 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gqlllcp1l",
+      "slug": "football-krillion",
+      "aliases": [],
+      "title": "Football Krillion",
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "creators": [
+        {
+          "handle": "anoxia",
+          "url": "https://footballkrillion.net/"
+        }
+      ],
+      "primaryHandle": "anoxia",
+      "credits": [
+        {
+          "label": "GPT-6.2 Astra",
+          "modelId": "gpt-astra-6-2",
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [
+        "gpt-astra-6-2"
+      ],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        },
+        {
+          "id": "sports",
+          "name": "Sports"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Type a player or team name, then press Enter or tap Lock in answer. You can pass a question.",
+      "brandIp": true,
+      "description": "Name a player or team for each of seven daily World Cup clues. Teams with fewer tournament appearances can earn more points.",
+      "notes": "You get one answer per clue and as long as you like to think. Each clue has fixed scoring tiers based on World Cup records, so other players’ guesses do not affect your score. The daily quiz, practice rounds and recent archive are free. Optional passes add topic training and a personal notebook.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Anoxia built the question bank from Joshua C. Fjelstul’s historical World Cup database. The creator says the questions, text and images players see were made without generative AI.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "Anoxia used GPT-6.2 Astra through Codex for most of the programming. The quiz derives accepted answers and spelling variants from the source tables and applies its own scoring tiers.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/178",
+              "https://footballkrillion.net/sources/"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/178",
+          "https://footballkrillion.net/sources/",
+          "https://footballkrillion.net/"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-22",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/178",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/178",
+        "quote": "I used GPT-6.2 Astra through Codex for most of the programming."
+      },
+      "playUrl": "https://footballkrillion.net/",
+      "price": "free-with-purchases",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/football-krillion/still.webp?v=40ecad4aab",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/football-krillion/"
+    },
+    {
+      "id": "g2p0yitop",
+      "slug": "roadhead",
+      "aliases": [],
+      "title": "RoadHead",
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "creators": [
+        {
+          "handle": "TombStoneDash",
+          "name": "Hudson Taylor",
+          "url": "https://x.com/TombStoneDash"
+        }
+      ],
+      "primaryHandle": "TombStoneDash",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        },
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        },
+        {
+          "label": "Grok",
+          "modelId": null,
+          "familyId": "grok",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude",
+        "gpt",
+        "grok"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        },
+        {
+          "id": "grok",
+          "name": "Grok",
+          "kind": "ai",
+          "family": "grok",
+          "referral_url": null
+        },
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "elevenlabs",
+          "name": "ElevenLabs",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "racing",
+          "name": "Racing"
+        },
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "Use WASD or the arrows to drive, hold Space to lift, Shift to boost and R to retry. On a phone, hold GO to accelerate and tap the arrows to steer.",
+      "brandIp": true,
+      "description": "Get a rocket-assisted car across a pond, onto a moving ferry or over the Grand Canyon in short driving challenges.",
+      "notes": "Pond Hop asks you to hit the ramp at 40 mph or more. Line up the car between the flags before you launch. Hold the lift thrusters to stay airborne longer and watch your reserve on the dash. Free Play lets you keep driving after a clean landing. Challenge tracks your run and separates assisted and manual records.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Hudson Taylor built RoadHead with Three.js. His studio, TombStone Dash, describes how one founder directed the coding agents and used ElevenLabs for audio.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The TombStone Dash submission names Claude, Codex and Grok as coding agents on the driving game.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/180"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "Taylor used ElevenLabs for voices, sound effects and music.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/issues/180"
+            ]
+          },
+          {
+            "about": "levels",
+            "text": "The credits in the pause menu identify USGS and USDA data as the basis for the Grand Canyon terrain, which was adapted for the course.",
+            "sources": [
+              "https://www.roadhead.ai/index.html?course=grand-canyon"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/180",
+          "https://www.roadhead.ai/support.html",
+          "https://www.roadhead.ai/index.html?course=grand-canyon"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-22",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/180",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/180",
+        "quote": "Built by one founder directing AI coding agents (Claude, Codex, Grok)."
+      },
+      "playUrl": "https://www.roadhead.ai/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/roadhead/still.webp?v=800c957d7e",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/roadhead/"
+    },
+    {
+      "id": "gse7pw9zh",
+      "slug": "tabletop-arena-demo",
+      "aliases": [],
+      "title": "Tabletop Arena Demo",
+      "added": "2026-11-23",
+      "updated": "2026-11-23",
+      "creators": [
+        {
+          "handle": "OblivionKnight117",
+          "url": "https://oblivionknight117.itch.io/"
+        }
+      ],
+      "primaryHandle": "OblivionKnight117",
+      "credits": [
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        },
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        },
+        {
+          "id": "godot",
+          "name": "Godot",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click a figure, choose its action and click a square or target. Space ends the turn. Drag with the right mouse button to rotate the table.",
+      "brandIp": false,
+      "description": "Roll dice and move miniatures across a 3D tabletop. Each hit turns the dial on a figure’s base and changes what it can do.",
+      "notes": "In the first tutorial, Thor spars with Heimdallr at the foot of the rainbow bridge. Click Thor to see how far he can move and what each turn of his dial does to his stats. Moving next to Heimdallr gives him a chance to hit back when you end your turn. A figure that acts two turns in a row must rest on the third, even if an enemy is right beside it. The browser demo includes battles against the computer and local two-player games.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "OblivionKnight117 designed the game and directed Claude’s work on the Godot project. The creator names Claude Code and the Claude app with Opus 5.5.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "Claude wrote most of the Godot code, including work on the rules engine, and wrote store text from the creator’s instructions. The creator tested and tuned the results.",
+            "sources": [
+              "https://github.com/gamesbyai/catalog/issues/310"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The creator used generative tools, including ChatGPT, for art, 3D figures and audio, then selected what went into the game.",
+            "sources": [
+              "https://github.com/gamesbyai/catalog/issues/310",
+              "https://oblivionknight117.itch.io/tabletop-arena-web"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/issues/177",
+          "https://github.com/gamesbyai/catalog/issues/310",
+          "https://oblivionknight117.itch.io/tabletop-arena-web"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-22",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/issues/177",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/issues/177",
+        "quote": "Most of the code was written by Claude from my design and instructions"
+      },
+      "playUrl": "https://oblivionknight117.itch.io/tabletop-arena-web",
+      "price": "free-demo",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/tabletop-arena-demo/still.webp?v=7534f5fdee",
+        "preview": "https://media.amusehall.com/tabletop-arena-demo/preview.webp?v=9b78dfc075",
+        "clip": "https://media.amusehall.com/tabletop-arena-demo/clip.mp4?v=076d15fb40",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/tabletop-arena-demo/"
     },
     {
       "id": "gkff1230f",
@@ -24761,31 +25660,34 @@
           "gpmj9q9ol",
           "gk98c3y8t",
           "geg91cy2q",
+          "gz3kho1g4",
           "g9t4d43un",
-          "gmja9kp2v",
           "go4slgb6w",
+          "gmja9kp2v",
           "grwulo01q",
           "go98yri36",
           "gb72dv8lx",
           "gmewfnndy",
-          "g0iluqdib",
+          "g0i7857j0",
           "gasxbr44a",
+          "g0iluqdib",
           "gron4ulbj",
           "gqdquwa11",
           "godr2qz4e",
           "gie0au2by",
           "g9141ggib",
+          "gqen458xd",
           "g7k2m9q4x",
           "gd0whgrdo",
           "gm1296gah",
           "g361pfe4r",
-          "g8svijhf1",
           "gyhgrysj4",
+          "g8svijhf1",
           "glxawhstw",
           "gcvm55qzn",
           "gy7oawf0w",
-          "g19fvejgd",
           "gserfbtbt",
+          "g19fvejgd",
           "gvwa4zwg2",
           "gxshani2z",
           "g9n2oq4z1",
@@ -24813,8 +25715,8 @@
           "g71um5h99",
           "gvs8zscp4",
           "g8yrk1kwa",
-          "gqojoxunu",
           "g90ty75sw",
+          "gqojoxunu",
           "g9l4okhki",
           "gzn1npz2s",
           "g949awofn",
@@ -24833,6 +25735,8 @@
           "g5camq0si",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "g2p0yitop",
+          "gse7pw9zh",
           "gkff1230f",
           "g76fye015",
           "ghdu7urg0",
@@ -24940,6 +25844,7 @@
           "gf8t89ggq",
           "g55tfp6uh",
           "galxnak4n",
+          "gqlllcp1l",
           "g3mu5eugf",
           "g9hoy2png",
           "gdtloorwb",
@@ -24964,6 +25869,7 @@
           "gah31vsol",
           "gld22k702",
           "g7lsoeejk",
+          "gv4zk9va6",
           "g4yrw77l6"
         ]
       }
@@ -24974,63 +25880,29 @@
       "g8p6ybzyp",
       "gth5ddt8o",
       "guawsizlo",
-      "g10dwuh0n",
       "gvosn1v6w",
+      "g10dwuh0n",
       "g0egemz92",
       "g99ww49gc"
     ],
     "latestIssue": {
-      "number": 4,
-      "weekStart": "2026-11-16",
+      "number": 5,
+      "weekStart": "2026-11-23",
       "published": null,
-      "gameOfTheWeekId": "g5u1gyt9c",
+      "gameOfTheWeekId": "gz3kho1g4",
       "topIds": [
-        "g5u1gyt9c",
-        "g48m4vidg",
-        "ghvfh9vrb",
-        "grwulo01q",
-        "gcvm55qzn"
+        "gz3kho1g4",
+        "g0i7857j0",
+        "gse7pw9zh"
       ],
       "newIds": [
-        "g5u1gyt9c",
-        "g9q2ghtjb",
-        "g48m4vidg",
-        "ghvfh9vrb",
-        "grwulo01q",
-        "gasxbr44a",
-        "gvvjmsrcs",
-        "gtwxlwdgm",
-        "gcvm55qzn",
-        "gah31vsol",
-        "g9n2oq4z1",
-        "go44jd756",
-        "g53li02ac",
-        "g90ty75sw",
-        "gzn1npz2s",
-        "g949awofn",
-        "g5camq0si",
-        "gkff1230f",
-        "g76fye015",
-        "ghdu7urg0",
-        "g6qhf7p7m",
-        "g3mu5eugf",
-        "g29xq7wt0",
-        "gfpywvraj",
-        "glupd1vb7",
-        "g9hoy2png",
-        "gdtloorwb",
-        "ggpx14cwp",
-        "guo3jpoqp",
-        "gqxqhe8nj",
-        "gly1fsrsd",
-        "g99ww49gc",
-        "gxq8j3d43",
-        "gjnmzmmd9",
-        "gre5glc9e",
-        "gdqiq8uft",
-        "g3j9z13yz",
-        "gpobr6gu9",
-        "gsht02b37"
+        "gz3kho1g4",
+        "g0i7857j0",
+        "gqen458xd",
+        "gv4zk9va6",
+        "gqlllcp1l",
+        "g2p0yitop",
+        "gse7pw9zh"
       ]
     }
   }

@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrows to fly, Space to fire, E for a missile, C to switch camera
-- **Likes on the original post:** 449, counted 2026-11-22
+- **Likes on the original post:** 453, counted 2026-11-23
 
 Fly a jet or gunship through a pixel-art archipelago, with five combat missions and a free-flight mode.
 

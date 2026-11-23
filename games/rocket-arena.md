@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, Space to jump and flip, Shift to boost, Ctrl to powerslide, Q and E to air roll, or a gamepad
-- **Likes on the original post:** 1,917, counted 2026-11-16
+- **Likes on the original post:** 1,914, counted 2026-11-23
 
 Rocket-powered car soccer in an enclosed stadium, where you boost, jump and flip to knock a giant ball past a bot.
 

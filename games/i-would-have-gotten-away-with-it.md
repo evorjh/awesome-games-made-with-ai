@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to walk, mouse to look, Shift to sprint, 1 to 8 to put on a mask, Q to take it off, left click to scare or place, E to use, hide, peep or pick up, B for the scheme book, M for the map, Esc to pause
-- **Likes on the original post:** 513, counted 2026-11-16
+- **Likes on the original post:** 518, counted 2026-11-23
 
 Play the masked villain of a haunted manor, scaring off every visitor over three nights before a gang of meddling kids can unmask you.
 

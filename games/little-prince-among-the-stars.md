@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, mouse to look
-- **Likes on the original post:** 17,219, counted 2026-11-16
+- **Likes on the original post:** 17,227, counted 2026-11-23
 
 A 3D story game that follows the little prince from planet to planet, starting on his tiny home asteroid with its volcanoes and rose.
 

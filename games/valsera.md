@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** A and D or the arrow keys to move, Space to jump, J or Z to attack, K, X or Shift to dodge, Q, E and R for skills, W or F to talk and use, Tab for the book, Esc to pause
-- **Likes on the original post:** 491, counted 2026-11-16
+- **Likes on the original post:** 513, counted 2026-11-23
 
 A side-scrolling RPG drawn in coloured pencil, every picture made in code: draw your hero, then set out under a great stone viaduct.
 

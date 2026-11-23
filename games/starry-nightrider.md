@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** W to pedal, A and D to steer, S to brake, E for tricks, Space to leap (tap it three times to fly), F to get off and walk, T for theater mode, Tab for the next highlight
-- **Likes on the original post:** 17,919, counted 2026-11-16
+- **Likes on the original post:** 17,949, counted 2026-11-23
 
 Ride Van Gogh&#39;s bicycle through a 3D town painted in the swirling brushstrokes of The Starry Night, collecting glowing orbs for the steeple.
 

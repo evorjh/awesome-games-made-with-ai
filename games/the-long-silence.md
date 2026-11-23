@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD and mouse on foot; at the helm, mouse or arrow keys to steer, W and S for throttle, hold F to scan, J to fold-jump, M for the star map
-- **Likes on the original post:** 3,654, counted 2026-11-16
+- **Likes on the original post:** 3,654, counted 2026-11-23
 
 Wake aboard a survey ship, take the helm and fly a procedural galaxy, scanning worlds and searching for seven alien Resonators.
 

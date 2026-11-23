@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD to move, Shift to sprint, Space to jump, left mouse button to cast (hold for more), 1 to 7 or the mouse wheel to change spell, P to pause, H to hide the help
-- **Likes on the original post:** 2,510, counted 2026-11-16
+- **Likes on the original post:** 2,562, counted 2026-11-23
 
 Wander a sunny valley as a wizard with seven spells, from fire to frost to explosions, and try them on about 1,800 breakable physics pieces.
 

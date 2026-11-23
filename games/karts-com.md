@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD or arrow keys, Space or Shift to drift, E to throw an item; touch buttons on phones
-- **Likes on the original post:** 529, counted 2026-11-16
+- **Likes on the original post:** 528, counted 2026-11-23
 
 An arcade kart racer on street circuits in 30 world cities, from Los Angeles to Kyoto, against seven CPU drivers or players online.
 

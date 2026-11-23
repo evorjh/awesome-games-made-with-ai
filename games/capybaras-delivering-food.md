@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrow keys to ride, mouse to look, Space to brake, Shift to drift, Tab for the phone
-- **Likes on the original post:** 251, counted 2026-11-16
+- **Likes on the original post:** 251, counted 2026-11-23
 
 Ride a scooter around a city as a capybara courier, taking orders on an in-game phone and delivering them before time runs out.
 

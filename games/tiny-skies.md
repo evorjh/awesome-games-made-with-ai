@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** W for throttle, S to slow down, A and D to turn, the up arrow to climb, Space to shoot
-- **Likes on the original post:** 1,662, counted 2026-11-16
+- **Likes on the original post:** 1,661, counted 2026-11-23
 
 A cozy online flying game on a tiny globe, where you explore by biplane, magic carpet or boat and try to save the world from the moon.
 

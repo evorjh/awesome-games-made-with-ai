@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrows to walk, Shift to run, Space to jump, click to look around, click or F or E to swing, M to mute
-- **Likes on the original post:** 4,480, counted 2026-11-22
+- **Likes on the original post:** 4,489, counted 2026-11-23
 
 Carry a torch and sword through a brushstroke-painted valley, past goblins and trolls on the road to a castle.
 

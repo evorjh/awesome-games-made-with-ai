@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Arrow keys, Space to deliver, X and mouse to throw at windows; drag and tap on phones
-- **Likes on the original post:** 6,728, counted 2026-11-16
+- **Likes on the original post:** 6,717, counted 2026-11-23
 
 Ride a bike down a sunny hillside street at dawn and land newspapers in lit-up mailboxes, one morning at a time across a week.
 

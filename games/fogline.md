@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, Shift to sprint, C to crouch or slide, Space to jump, Q and E to lean, R to reload, G for grenades
-- **Likes on the original post:** 30, counted 2026-11-16
+- **Likes on the original post:** 30, counted 2026-11-23
 
 A bodycam-style horde shooter where you hold a rain-soaked trench line against waves of attackers coming out of the fog.
 

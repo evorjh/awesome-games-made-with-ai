@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** WASD or arrow keys, Shift or Space to boost, C for camera; touch buttons on phones
-- **Likes on the original post:** 69, counted 2026-11-16
+- **Likes on the original post:** 69, counted 2026-11-23
 
 Race Kerala snake boats against rival crews through canals, a lake and a monsoon storm, or explore a backwater village on foot.
 

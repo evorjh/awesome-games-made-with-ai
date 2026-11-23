@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD, mouse, Shift to sprint, Space to jump, C to crouch, R to reload, Q for smoke, G for a paint bomb, T to spray your art tag
-- **Likes on the original post:** 164, counted 2026-11-16
+- **Likes on the original post:** 164, counted 2026-11-23
 
 A painterly team shooter where you pick a Post-Impressionist painter and fight a bot crew through a town made from Van Gogh&#39;s paintings.
 

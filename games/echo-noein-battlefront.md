@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrow keys to move, Space to boost, number keys or mouse to choose upgrades; attacks are automatic
-- **Likes on the original post:** 869, counted 2026-11-16
+- **Likes on the original post:** 873, counted 2026-11-23
 
 Pilot a mech through waves of rogue machines, collect echo shards and build an arsenal of weapons and modules to survive a 15-minute sortie.
 

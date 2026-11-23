@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Arrow keys or WASD, Shift to drift, Space, E or Enter to use an item, Q to look back, or a gamepad
-- **Likes on the original post:** 362, counted 2026-11-16
+- **Likes on the original post:** 361, counted 2026-11-23
 
 An eight-kart racer on a seaside circuit with drift boosts and items, where bots fill empty seats and other players can join mid-race.
 

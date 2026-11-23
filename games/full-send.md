@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Arrow keys to drive, Space to brake, R to restart the lap; touch buttons on phones
-- **Likes on the original post:** 737, counted 2026-11-16
+- **Likes on the original post:** 708, counted 2026-11-23
 
 A top-down racer on real-world circuits, where you chase lap records in time trials or race others in rooms you share by code.
 
