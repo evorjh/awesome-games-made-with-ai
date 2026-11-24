@@ -11,7 +11,7 @@
 - **Plays on:** Computer and phone
 - **Price:** Free
 - **Controls:** Walk with WASD, run with Shift, roll with E and interact with F. Hold and release the left mouse button to shoot. On touchscreens, use the left stick to move.
-- **Likes on the original post:** 1,720, counted 2026-11-23
+- **Likes on the original post:** 1,738, counted 2026-11-24
 
 Leave Rama’s forest home to find the sage by the banyan, draw your bow against rakshasas and take flight with Jatayu.
 
