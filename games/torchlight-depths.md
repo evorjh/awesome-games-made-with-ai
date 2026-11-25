@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrow keys to move, Space to attack; any movement or attack key takes over from auto-play
-- **Likes on the original post:** 255, counted 2026-11-24
+- **Likes on the original post:** 563, counted 2026-11-25
 
 Take control of a torch-bearing dungeon explorer, fighting creatures and gathering gold in a world drawn with shaders.
 

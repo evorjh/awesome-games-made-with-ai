@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrow keys to drive, Escape to pause and access checkpoint recovery
-- **Likes on the original post:** 48, counted 2026-11-24
+- **Likes on the original post:** 51, counted 2026-11-25
 
 Choose a car and race three computer drivers around retro mountain circuits or point-to-point routes.
 

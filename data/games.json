@@ -520,6 +520,13 @@
       "referral_url": null
     },
     {
+      "id": "preact",
+      "name": "Preact",
+      "kind": "library",
+      "family": null,
+      "referral_url": null
+    },
+    {
       "id": "pixijs",
       "name": "PixiJS",
       "kind": "library",
@@ -1334,22 +1341,29 @@
       "number": 5,
       "week_start": "2026-11-23",
       "published": null,
-      "game_of_the_week": "gz3kho1g4",
+      "game_of_the_week": "gyyq6yxhi",
       "top": [
+        "gyyq6yxhi",
         "gz3kho1g4",
+        "gx5hn08iw",
         "g0i7857j0",
-        "g5womn6ni",
-        "gfq2hy38b",
-        "gbqupfras"
+        "g5womn6ni"
       ],
       "new": [
+        "gyyq6yxhi",
         "gz3kho1g4",
+        "gx5hn08iw",
         "g0i7857j0",
         "g5womn6ni",
         "gqen458xd",
         "gfq2hy38b",
+        "gt77xz1pu",
         "gv4zk9va6",
         "gbqupfras",
+        "gpwm0r0jp",
+        "grywie0nb",
+        "gdug4r9zk",
+        "g9pm0riru",
         "gyf6is48g",
         "g5sk362p6",
         "gqlllcp1l",
@@ -4191,6 +4205,118 @@
       "pageUrl": "https://amusehall.com/games/soccar/"
     },
     {
+      "id": "gyyq6yxhi",
+      "slug": "cinderwatch",
+      "aliases": [],
+      "title": "Cinderwatch",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "creators": [
+        {
+          "handle": "kevin_t_ngo",
+          "name": "Kevin Ngo",
+          "url": "https://x.com/kevin_t_ngo"
+        }
+      ],
+      "primaryHandle": "kevin_t_ngo",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click a pad to build, Space to call the next wave, C to switch commanders, drag to pan, and scroll to zoom.",
+      "brandIp": false,
+      "description": "Build towers around a beacon as waves close in, or hand command to the game and watch the battle.",
+      "notes": "A commander starts placing towers as soon as you open the game. Click a building pad to take over and pick from four tower types. You can call a wave early to earn gold or hand command back. Boss waves lead to battlefields with a different road and terrain.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Kevin Ngo used Fable 5.2 to make a tower defense game that runs from one HTML file.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The build joins the game’s JavaScript modules and inlines Three.js. The resulting file can be opened directly in a browser.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2125119969109418333",
+              "https://github.com/kevintngo/cinderwatch"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The game generates its models and textures in code, then uses dithering, depth-aware blur and grain to give the battle a miniature look.",
+            "sources": [
+              "https://github.com/kevintngo/cinderwatch"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "The game synthesizes its sound in code alongside its generated models and textures.",
+            "sources": [
+              "https://github.com/kevintngo/cinderwatch"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/kevin_t_ngo/status/2125119969109418333",
+          "https://github.com/kevintngo/cinderwatch"
+        ]
+      },
+      "likes": 2005,
+      "likesRead": "2026-11-25",
+      "posted": "2026-11-24",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2125119969109418333",
+      "evidence": {
+        "url": "https://x.com/kevin_t_ngo/status/2125119969109418333",
+        "quote": "I asked Fable 5.2 to make a tower defense game in a single HTML."
+      },
+      "playUrl": "https://kevintngo.github.io/cinderwatch/",
+      "price": "free",
+      "codeUrl": "https://github.com/kevintngo/cinderwatch",
+      "media": {
+        "still": "https://media.amusehall.com/cinderwatch/still.webp?v=795277c545",
+        "preview": "https://media.amusehall.com/cinderwatch/preview.webp?v=7edec82a9c",
+        "clip": "https://media.amusehall.com/cinderwatch/clip.mp4?v=89c2212471",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/cinderwatch/"
+    },
+    {
       "id": "gpmj9q9ol",
       "slug": "playable-worlds",
       "aliases": [],
@@ -4572,8 +4698,8 @@
           "https://thaxnay.com/ramayana/"
         ]
       },
-      "likes": 1738,
-      "likesRead": "2026-11-24",
+      "likes": 1744,
+      "likesRead": "2026-11-25",
       "posted": "2026-11-19",
       "sourceUrl": "https://x.com/Thaxnay/status/2123487166831734894",
       "evidence": {
@@ -5278,6 +5404,151 @@
       "pageUrl": "https://amusehall.com/games/kings-gambit/"
     },
     {
+      "id": "gx5hn08iw",
+      "slug": "brushwild",
+      "aliases": [],
+      "title": "Brushwild",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "creators": [
+        {
+          "handle": "kevin_t_ngo",
+          "name": "Kevin Ngo",
+          "url": "https://x.com/kevin_t_ngo"
+        }
+      ],
+      "primaryHandle": "kevin_t_ngo",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        },
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2",
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "preact",
+          "name": "Preact",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "typescript",
+          "name": "TypeScript",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "vite",
+          "name": "Vite",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "rpg",
+          "name": "RPG"
+        },
+        {
+          "id": "open-world",
+          "name": "Open world"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or click to move, Space to evade, right-drag to turn the camera, and 1–4 to use assigned skills.",
+      "brandIp": false,
+      "description": "Choose a class and set out from Hearthmere into a growing world drawn to look like pen and coloured pencil.",
+      "notes": "The Warden fights up close, the Emberwright casts elemental magic, and the Strider uses bows, daggers and traps. The opening tutorial teaches movement and camera controls in Hearthmere. Follow the roads out of town to find encounters, shrines and dungeon entrances. Pick up gear and spend skill points as your character develops.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Kevin Ngo used Fable 5.2 for the initial build of Brushwild. He describes how the game renders terrain and characters to look like pencil and ink.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The creator described the original browser build as “~300kB”. The game generates its terrain in chunks.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2125321244686029289",
+              "https://github.com/kevintngo/procedural-rpg"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Ngo carried over the look of his 2D game Valsera. Shaders draw the 3D world, and the game draws inventory and class art in Canvas.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2125445306586402825",
+              "https://github.com/kevintngo/procedural-rpg"
+            ]
+          },
+          {
+            "about": "characters",
+            "text": "Ngo says he is using Opus 5.5 to add characters, enemies and areas after the initial build.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2125449165257990305"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/kevin_t_ngo/status/2125321244686029289",
+          "https://x.com/kevin_t_ngo/status/2125445306586402825",
+          "https://x.com/kevin_t_ngo/status/2125449165257990305",
+          "https://github.com/kevintngo/procedural-rpg",
+          "https://github.com/kevintngo/procedural-rpg/blob/main/package.json"
+        ]
+      },
+      "likes": 1361,
+      "likesRead": "2026-11-25",
+      "posted": "2026-11-24",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2125321244686029289",
+      "evidence": {
+        "url": "https://x.com/kevin_t_ngo/status/2125321244686029289",
+        "quote": "I asked Fable 5.2 to make a procedural, open-world RPG, playable in your browser"
+      },
+      "playUrl": "https://kevintngo.github.io/procedural-rpg/",
+      "price": "free",
+      "codeUrl": "https://github.com/kevintngo/procedural-rpg",
+      "media": {
+        "still": "https://media.amusehall.com/brushwild/still.webp?v=e4236e3fa7",
+        "preview": "https://media.amusehall.com/brushwild/preview.webp?v=867c1d49c7",
+        "clip": "https://media.amusehall.com/brushwild/clip.mp4?v=a0350399b6",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/brushwild/"
+    },
+    {
       "id": "grwulo01q",
       "slug": "vice-86",
       "aliases": [],
@@ -5875,8 +6146,8 @@
           "https://x.com/MeticulAi/status/2112214629090828742"
         ]
       },
-      "likes": 1118,
-      "likesRead": "2026-11-24",
+      "likes": 1119,
+      "likesRead": "2026-11-25",
       "posted": "2026-10-17",
       "sourceUrl": "https://x.com/MeticulAi/status/2111568537684955500",
       "evidence": {
@@ -6624,8 +6895,8 @@
           "https://x.com/Densitylucky/status/2122839223896256757"
         ]
       },
-      "likes": 869,
-      "likesRead": "2026-11-24",
+      "likes": 870,
+      "likesRead": "2026-11-25",
       "posted": "2026-11-17",
       "sourceUrl": "https://x.com/Densitylucky/status/2122834417647513702",
       "evidence": {
@@ -7126,8 +7397,8 @@
           "https://x.com/aymericrabot/status/2111682207605805525"
         ]
       },
-      "likes": 733,
-      "likesRead": "2026-11-24",
+      "likes": 735,
+      "likesRead": "2026-11-25",
       "posted": "2026-10-17",
       "sourceUrl": "https://x.com/aymericrabot/status/2111519266898169925",
       "evidence": {
@@ -7732,6 +8003,99 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/siege-wing/"
+    },
+    {
+      "id": "gfq2hy38b",
+      "slug": "torchlight-depths",
+      "aliases": [],
+      "title": "Torchlight Depths",
+      "added": "2026-11-24",
+      "updated": "2026-11-24",
+      "creators": [
+        {
+          "handle": "kevin_t_ngo",
+          "name": "Kevin Ngo",
+          "url": "https://x.com/kevin_t_ngo"
+        }
+      ],
+      "primaryHandle": "kevin_t_ngo",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [],
+      "genres": [
+        {
+          "id": "action",
+          "name": "Action"
+        },
+        {
+          "id": "rpg",
+          "name": "RPG"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or arrow keys to move, Space to attack; any movement or attack key takes over from auto-play",
+      "brandIp": false,
+      "description": "Take control of a torch-bearing dungeon explorer, fighting creatures and gathering gold in a world drawn with shaders.",
+      "notes": "The dungeon begins in auto-play, with a title over the action until you take control. Press a movement key or Space to switch to manual play, then explore the rooms and swing at nearby creatures. Gold, health and the depth counter track the run. The scene keeps much of the dungeon in darkness around your moving torch.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Kevin Ngo used Gemini 4 Neon with a prompt credited to Loktar. He shared the shader-rendered dungeon as a browser game in a single HTML file.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "Asked how much of the file is shader code, Ngo answered: “About a third: 30.4 kB of the 96.1 kB is shader code.”",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2125011058486309236"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/kevin_t_ngo/status/2125001629850345678",
+          "https://x.com/kevin_t_ngo/status/2125011058486309236"
+        ]
+      },
+      "likes": 563,
+      "likesRead": "2026-11-25",
+      "posted": "2026-11-23",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2125001629850345678",
+      "evidence": {
+        "url": "https://x.com/kevin_t_ngo/status/2125001629850345678",
+        "quote": "Made with Gemini 4 Neon using @loktar00's prompt."
+      },
+      "playUrl": "https://kevintngo.github.io/dungeon-game/",
+      "price": "free",
+      "codeUrl": "https://github.com/kevintngo/dungeon-game",
+      "media": {
+        "still": "https://media.amusehall.com/torchlight-depths/still.webp?v=1280abec95",
+        "preview": "https://media.amusehall.com/torchlight-depths/preview.webp?v=bb3c226a38",
+        "clip": "https://media.amusehall.com/torchlight-depths/clip.mp4?v=6853c5ae31",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/torchlight-depths/"
     },
     {
       "id": "g361pfe4r",
@@ -9242,6 +9606,128 @@
       "pageUrl": "https://amusehall.com/games/gilt-and-gutter/"
     },
     {
+      "id": "gt77xz1pu",
+      "slug": "little-city",
+      "aliases": [],
+      "title": "Little City",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "creators": [
+        {
+          "handle": "sprezzyyy",
+          "name": "Derek Yao",
+          "url": "https://x.com/sprezzyyy"
+        }
+      ],
+      "primaryHandle": "sprezzyyy",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "typescript",
+          "name": "TypeScript",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "vite",
+          "name": "Vite",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "sandbox",
+          "name": "Sandbox"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        },
+        {
+          "id": "simulation",
+          "name": "Simulation"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Choose a piece and click to place it. Use F to fly, Escape for the whole-island view, or the Undo button.",
+      "brandIp": false,
+      "description": "Place blocks that turn into buildings, then watch people and boats go about their day on a little island.",
+      "notes": "Start with the suggested settlement or clear the island and build from scratch. The position and height of each piece can change what it becomes. Try putting a house beside a tall tower to make a chapel. The town saves in your browser and you can share a copy.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Derek Yao asked Fable 5.2 for a browser city builder inspired by Townscaper. The public project uses TypeScript and Three.js and builds with Vite.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "Yao says the block-building system can make up to 83 distinct buildings.",
+            "sources": [
+              "https://x.com/sprezzyyy/status/2125322688243900597"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/sprezzyyy/status/2125321545665192054",
+          "https://x.com/sprezzyyy/status/2125322688243900597",
+          "https://x.com/sprezzyyy/status/2125326244531318972",
+          "https://littlecity.io/about/",
+          "https://github.com/yaoderek/littlecity/blob/main/package.json"
+        ]
+      },
+      "likes": 328,
+      "likesRead": "2026-11-25",
+      "posted": "2026-11-24",
+      "sourceUrl": "https://x.com/sprezzyyy/status/2125321545665192054",
+      "evidence": {
+        "url": "https://x.com/sprezzyyy/status/2125321545665192054",
+        "quote": "I asked Fable 5.2 to make a sandbox city builder game inspired by Townscaper."
+      },
+      "playUrl": "https://littlecity.io/",
+      "price": "free",
+      "codeUrl": "https://github.com/yaoderek/littlecity",
+      "media": {
+        "still": "https://media.amusehall.com/little-city/still.webp?v=56f33277e0",
+        "preview": "https://media.amusehall.com/little-city/preview.webp?v=7e976a8ac0",
+        "clip": "https://media.amusehall.com/little-city/clip.mp4?v=8d296e7db3",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/little-city/"
+    },
+    {
       "id": "g9n2oq4z1",
       "slug": "chongqing",
       "aliases": [],
@@ -9663,99 +10149,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/pocket-skatepark/"
-    },
-    {
-      "id": "gfq2hy38b",
-      "slug": "torchlight-depths",
-      "aliases": [],
-      "title": "Torchlight Depths",
-      "added": "2026-11-24",
-      "updated": "2026-11-24",
-      "creators": [
-        {
-          "handle": "kevin_t_ngo",
-          "name": "Kevin Ngo",
-          "url": "https://x.com/kevin_t_ngo"
-        }
-      ],
-      "primaryHandle": "kevin_t_ngo",
-      "credits": [
-        {
-          "label": "Gemini 4 Neon",
-          "modelId": "gemini-4-neon",
-          "familyId": "gemini",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "gemini",
-      "familyIds": [
-        "gemini"
-      ],
-      "modelIds": [
-        "gemini-4-neon"
-      ],
-      "tools": [],
-      "genres": [
-        {
-          "id": "action",
-          "name": "Action"
-        },
-        {
-          "id": "rpg",
-          "name": "RPG"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD or arrow keys to move, Space to attack; any movement or attack key takes over from auto-play",
-      "brandIp": false,
-      "description": "Take control of a torch-bearing dungeon explorer, fighting creatures and gathering gold in a world drawn with shaders.",
-      "notes": "The dungeon begins in auto-play, with a title over the action until you take control. Press a movement key or Space to switch to manual play, then explore the rooms and swing at nearby creatures. Gold, health and the depth counter track the run. The scene keeps much of the dungeon in darkness around your moving torch.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Kevin Ngo used Gemini 4 Neon with a prompt credited to Loktar. He shared the shader-rendered dungeon as a browser game in a single HTML file.",
-        "facts": [
-          {
-            "about": "code",
-            "text": "Asked how much of the file is shader code, Ngo answered: “About a third: 30.4 kB of the 96.1 kB is shader code.”",
-            "sources": [
-              "https://x.com/kevin_t_ngo/status/2125011058486309236"
-            ]
-          }
-        ],
-        "sources": [
-          "https://x.com/kevin_t_ngo/status/2125001629850345678",
-          "https://x.com/kevin_t_ngo/status/2125011058486309236"
-        ]
-      },
-      "likes": 255,
-      "likesRead": "2026-11-24",
-      "posted": "2026-11-23",
-      "sourceUrl": "https://x.com/kevin_t_ngo/status/2125001629850345678",
-      "evidence": {
-        "url": "https://x.com/kevin_t_ngo/status/2125001629850345678",
-        "quote": "Made with Gemini 4 Neon using @loktar00's prompt."
-      },
-      "playUrl": "https://kevintngo.github.io/dungeon-game/",
-      "price": "free",
-      "codeUrl": "https://github.com/kevintngo/dungeon-game",
-      "media": {
-        "still": "https://media.amusehall.com/torchlight-depths/still.webp?v=1280abec95",
-        "preview": "https://media.amusehall.com/torchlight-depths/preview.webp?v=bb3c226a38",
-        "clip": "https://media.amusehall.com/torchlight-depths/clip.mp4?v=6853c5ae31",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/torchlight-depths/"
     },
     {
       "id": "g1xjn72p6",
@@ -10863,8 +11256,8 @@
           "https://x.com/venturetwins/status/2124572766964003302"
         ]
       },
-      "likes": 158,
-      "likesRead": "2026-11-24",
+      "likes": 160,
+      "likesRead": "2026-11-25",
       "posted": "2026-11-22",
       "sourceUrl": "https://x.com/venturetwins/status/2124568183902449764",
       "evidence": {
@@ -12596,8 +12989,8 @@
           "https://news.ycombinator.com/item?id=50595558"
         ]
       },
-      "likes": 48,
-      "likesRead": "2026-11-24",
+      "likes": 51,
+      "likesRead": "2026-11-25",
       "posted": "2026-11-21",
       "sourceUrl": "https://news.ycombinator.com/item?id=50589184",
       "evidence": {
@@ -15956,6 +16349,388 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/ember-and-ivory/"
+    },
+    {
+      "id": "gpwm0r0jp",
+      "slug": "deepcut-duel",
+      "aliases": [],
+      "title": "Deepcut Duel",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "creators": [
+        {
+          "handle": "Mirai",
+          "url": "https://github.com/gamesbyai/catalog/issues/298"
+        }
+      ],
+      "primaryHandle": "Mirai",
+      "credits": [
+        {
+          "label": "Codex",
+          "modelId": null,
+          "familyId": "gpt",
+          "toolId": "codex"
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "codex",
+          "name": "Codex",
+          "kind": "ai",
+          "family": "gpt",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Type a short answer and choose Dig. Open Play Unlimited for a solo practice set.",
+      "brandIp": true,
+      "description": "Answer five trivia questions and dig for treasure. A correct answer earns more when it belongs to a rarer scoring tier.",
+      "notes": "The daily game gives everyone the same five questions. Answers in less familiar tiers score more and take the drill deeper. The game sets those tiers in advance. Play Unlimited gives you solo practice, and sharing a challenge is optional.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Mirai used Codex to implement the game. Claude helped coordinate the work and review the visual design.",
+        "sources": [
+          "https://github.com/gamesbyai/catalog/issues/298"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-17",
+      "sourceUrl": "https://github.com/gamesbyai/catalog/issues/298",
+      "evidence": {
+        "url": "https://github.com/gamesbyai/catalog/issues/298",
+        "quote": "Codex was used for implementation, with Claude coordinating and reviewing visual design."
+      },
+      "playUrl": "https://deepcutduel.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/deepcut-duel/still.webp?v=8fa9f27af7",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/deepcut-duel/"
+    },
+    {
+      "id": "grywie0nb",
+      "slug": "froobaloo",
+      "aliases": [],
+      "title": "Froobaloo",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "creators": [
+        {
+          "handle": "Froobalooo",
+          "name": "Jeremy Toeman",
+          "url": "https://x.com/Froobalooo"
+        }
+      ],
+      "primaryHandle": "Froobalooo",
+      "credits": [
+        {
+          "label": "Claude",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [],
+      "genres": [
+        {
+          "id": "puzzle",
+          "name": "Puzzle"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Choose a game from the homepage. In Caseboard, click word tiles that fit the clue, then advance to the next clue.",
+      "brandIp": false,
+      "description": "A collection of daily puzzles, including a word board that mixes clue answers with deliberate red herrings.",
+      "notes": "Caseboard gives you clues and a limited number of guesses to find eight words. Sourceword asks you to make as many words as possible from the day’s letters, and Cryptadoodle asks you to decode a quotation. The games are separate and the homepage marks experiments and prototypes.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Jeremy Toeman designs the puzzles, writes their content and works out their logic. He says he curates them daily.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "Toeman credits Claude with writing all of the game code.",
+            "sources": [
+              "https://github.com/gamesbyai/catalog/issues/300",
+              "https://froobaloo.com/"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/gamesbyai/catalog/issues/300",
+          "https://froobaloo.com/"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-17",
+      "sourceUrl": "https://github.com/gamesbyai/catalog/issues/300",
+      "evidence": {
+        "url": "https://froobaloo.com/",
+        "quote": "Game Code 100% Built by Claude."
+      },
+      "playUrl": "https://froobaloo.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/froobaloo/still.webp?v=000cc95857",
+        "preview": "https://media.amusehall.com/froobaloo/preview.webp?v=137fdba387",
+        "clip": "https://media.amusehall.com/froobaloo/clip.mp4?v=41528f2eb7",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/froobaloo/"
+    },
+    {
+      "id": "gdug4r9zk",
+      "slug": "gravity",
+      "aliases": [],
+      "title": "Gravity",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "creators": [
+        {
+          "handle": "HertzMC",
+          "url": "https://hertzmc.itch.io/"
+        }
+      ],
+      "primaryHandle": "HertzMC",
+      "credits": [
+        {
+          "label": "Claude Code",
+          "modelId": null,
+          "familyId": "claude",
+          "toolId": "claude-code"
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "claude-code",
+          "name": "Claude Code",
+          "kind": "ai",
+          "family": "claude",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "arcade",
+          "name": "Arcade"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Steer with the mouse. Press Space to pull in small objects and use the pause button to stop.",
+      "brandIp": false,
+      "description": "Guide a pebble through space, pulling in smaller rocks until you can swallow the next biggest body.",
+      "notes": "Objects smaller than yours help it grow. Dodge larger bodies, especially when they flash before a charge. The pull gives you a way to gather nearby objects without chasing each one. The first course starts with a boulder to outgrow.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "HertzMC chose the game’s six levels, tested how they played on phones and asked for adjustments. Claude Code handled the implementation.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "Claude Code wrote the game in plain JavaScript using HTML5 Canvas.",
+            "sources": [
+              "https://github.com/lappemic/awesome-ai-built-games/pull/152",
+              "https://github.com/gamesbyai/catalog/issues/312"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The creator says the game draws its art in code.",
+            "sources": [
+              "https://github.com/gamesbyai/catalog/issues/312"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "HertzMC says the game generates its audio in code.",
+            "sources": [
+              "https://github.com/gamesbyai/catalog/issues/312"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/lappemic/awesome-ai-built-games/pull/152",
+          "https://github.com/gamesbyai/catalog/issues/312"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-13",
+      "sourceUrl": "https://github.com/lappemic/awesome-ai-built-games/pull/152",
+      "evidence": {
+        "url": "https://github.com/lappemic/awesome-ai-built-games/pull/152",
+        "quote": "Claude Code wrote all of the code, and the title screen says so"
+      },
+      "playUrl": "https://gravity.hertzmc.com/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/gravity/still.webp?v=a0a9c186c9",
+        "preview": "https://media.amusehall.com/gravity/preview.webp?v=86216fc69a",
+        "clip": "https://media.amusehall.com/gravity/clip.mp4?v=799efb20b3",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/gravity/"
+    },
+    {
+      "id": "g9pm0riru",
+      "slug": "war-of-the-blood-kings-the-siege",
+      "aliases": [],
+      "title": "War of the Blood Kings: The Siege",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "creators": [
+        {
+          "handle": "fogey_tom",
+          "name": "FOGG Games",
+          "url": "https://x.com/fogey_tom"
+        }
+      ],
+      "primaryHandle": "fogey_tom",
+      "credits": [
+        {
+          "label": "Grok Bot",
+          "modelId": null,
+          "familyId": "grok",
+          "toolId": "grok-bot"
+        }
+      ],
+      "primaryFamily": "grok",
+      "familyIds": [
+        "grok"
+      ],
+      "modelIds": [],
+      "tools": [
+        {
+          "id": "grok-bot",
+          "name": "Grok Bot",
+          "kind": "ai",
+          "family": "grok",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click a soldier, choose a highlighted square to move, then choose a target in range.",
+      "brandIp": false,
+      "description": "Take turns moving and attacking with a small army in a castle where two kings are fighting over the same throne.",
+      "notes": "Your first battle teaches how to select a fighter, move and strike before handing over the turn. The burning hall gives that quick battle a time limit measured in rounds. The full siege and same-screen play are available from the mode menu.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "FOGG Games adapted its designer’s decades-old board-game work for browsers. The designer set the rules, lore and art direction, and decided which changes shipped.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The creator says a team of Grok Bot agents wrote most of the HTML5 implementation and helped with playtesting.",
+            "sources": [
+              "https://github.com/gamesbyai/catalog/issues/296"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "The agents helped with art under the designer’s direction.",
+            "sources": [
+              "https://github.com/gamesbyai/catalog/issues/296"
+            ]
+          }
+        ],
+        "sources": [
+          "https://github.com/gamesbyai/catalog/issues/296"
+        ]
+      },
+      "likes": null,
+      "likesRead": null,
+      "posted": "2026-11-16",
+      "sourceUrl": "https://github.com/gamesbyai/catalog/issues/296",
+      "evidence": {
+        "url": "https://github.com/gamesbyai/catalog/issues/296",
+        "quote": "A small team of Grok Bot AI agents wrote most of the HTML5 code"
+      },
+      "playUrl": "https://harbor-iris-pixel-meadow.grok.me/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/war-of-the-blood-kings-the-siege/still.webp?v=547ed07ecd",
+        "preview": "https://media.amusehall.com/war-of-the-blood-kings-the-siege/preview.webp?v=41d0bf0b58",
+        "clip": "https://media.amusehall.com/war-of-the-blood-kings-the-siege/clip.mp4?v=e7801456eb",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/war-of-the-blood-kings-the-siege/"
     },
     {
       "id": "gyf6is48g",
@@ -26273,6 +27048,7 @@
           "ghvfh9vrb",
           "gpy3pa5mk",
           "g5n1e788h",
+          "gyyq6yxhi",
           "gpmj9q9ol",
           "gk98c3y8t",
           "geg91cy2q",
@@ -26280,6 +27056,7 @@
           "g9t4d43un",
           "go4slgb6w",
           "gmja9kp2v",
+          "gx5hn08iw",
           "grwulo01q",
           "go98yri36",
           "gb72dv8lx",
@@ -26306,6 +27083,7 @@
           "g19fvejgd",
           "gvwa4zwg2",
           "gxshani2z",
+          "gt77xz1pu",
           "g9n2oq4z1",
           "g17kxz4cm",
           "gj0w80p9f",
@@ -26351,6 +27129,8 @@
           "g5camq0si",
           "gbl2jj2mv",
           "gzfrlomi9",
+          "grywie0nb",
+          "gdug4r9zk",
           "g2p0yitop",
           "gse7pw9zh",
           "gkff1230f",
@@ -26462,6 +27242,7 @@
           "gf8t89ggq",
           "g55tfp6uh",
           "galxnak4n",
+          "gpwm0r0jp",
           "gqlllcp1l",
           "g3mu5eugf",
           "g9hoy2png",
@@ -26483,10 +27264,10 @@
         "gameIds": [
           "g9q2ghtjb",
           "gvvjmsrcs",
+          "gfq2hy38b",
           "gtwxlwdgm",
           "gah31vsol",
           "gld22k702",
-          "gfq2hy38b",
           "g7lsoeejk",
           "gv4zk9va6",
           "gyf6is48g",
@@ -26504,28 +27285,36 @@
       "gvosn1v6w",
       "g10dwuh0n",
       "g0egemz92",
+      "g9pm0riru",
       "g99ww49gc"
     ],
     "latestIssue": {
       "number": 5,
       "weekStart": "2026-11-23",
       "published": null,
-      "gameOfTheWeekId": "gz3kho1g4",
+      "gameOfTheWeekId": "gyyq6yxhi",
       "topIds": [
+        "gyyq6yxhi",
         "gz3kho1g4",
+        "gx5hn08iw",
         "g0i7857j0",
-        "g5womn6ni",
-        "gfq2hy38b",
-        "gbqupfras"
+        "g5womn6ni"
       ],
       "newIds": [
+        "gyyq6yxhi",
         "gz3kho1g4",
+        "gx5hn08iw",
         "g0i7857j0",
         "g5womn6ni",
         "gqen458xd",
         "gfq2hy38b",
+        "gt77xz1pu",
         "gv4zk9va6",
         "gbqupfras",
+        "gpwm0r0jp",
+        "grywie0nb",
+        "gdug4r9zk",
+        "g9pm0riru",
         "gyf6is48g",
         "g5sk362p6",
         "gqlllcp1l",
