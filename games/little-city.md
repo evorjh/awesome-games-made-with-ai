@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Choose a piece and click to place it. Use F to fly, Escape for the whole-island view, or the Undo button.
-- **Likes on the original post:** 328, counted 2026-11-25
+- **Likes on the original post:** 997, counted 2026-11-26
 
 Place blocks that turn into buildings, then watch people and boats go about their day on a little island.
 

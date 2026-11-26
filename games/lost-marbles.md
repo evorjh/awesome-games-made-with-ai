@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or arrow keys to steer, Space to jump, Shift to use an ability, R to respawn, C to change camera
-- **Likes on the original post:** 1,119, counted 2026-11-25
+- **Likes on the original post:** 1,118, counted 2026-11-26
 
 Steer a glass marble down a wooden obstacle course as ten racers face elimination at each checkpoint.
 

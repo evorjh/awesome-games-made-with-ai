@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Use WASD to walk, the mouse or left and right arrows to look, E to inspect or question someone, and J to open the case board.
-- **Likes on the original post:** 160, counted 2026-11-25
+- **Likes on the original post:** 162, counted 2026-11-26
 
 Work a murder case on foot in Tokyo’s Golden Gai. Search the alleys and 16 tiny bars for clues, question the locals and file an arrest warrant.
 
