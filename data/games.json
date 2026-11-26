@@ -22257,7 +22257,7 @@
       },
       "availability": "unavailable",
       "unavailableSince": "2026-11-25",
-      "dropped": false,
+      "dropped": true,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/unicorn-academy/"
     },
@@ -27168,7 +27168,6 @@
           "gv4b2v57t",
           "guyp9f4kz",
           "gspep8kwb",
-          "g4njs90m4",
           "g7i19obf8",
           "g4xdl5xx7",
           "gz9zf9xuh",
