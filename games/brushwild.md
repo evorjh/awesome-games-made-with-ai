@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** WASD or click to move, Space to evade, right-drag to turn the camera, and 1–4 to use assigned skills.
-- **Likes on the original post:** 2,569, counted 2026-11-26
+- **Likes on the original post:** 2,692, counted 2026-11-27
 
 Choose a class and set out from Hearthmere into a growing world drawn to look like pen and coloured pencil.
 

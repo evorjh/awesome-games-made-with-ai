@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Click a pad to build, Space to call the next wave, C to switch commanders, drag to pan, and scroll to zoom.
-- **Likes on the original post:** 2,336, counted 2026-11-26
+- **Likes on the original post:** 2,353, counted 2026-11-27
 
 Build towers around a beacon as waves close in, or hand command to the game and watch the battle.
 

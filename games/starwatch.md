@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Click a slot to build. Drag to pan, right-drag to rotate, and scroll to zoom.
-- **Likes on the original post:** 304, counted 2026-11-26
+- **Likes on the original post:** 585, counted 2026-11-27
 
 Build towers on a floating battlefield and protect your base with strikes, stasis and drop pods.
 

@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** Mouse to steer, click to roll, hold to boost, right mouse button or F to fire, Space to cycle views
-- **Likes on the original post:** 870, counted 2026-11-26
+- **Likes on the original post:** 871, counted 2026-11-27
 
 Pilot a pixel-art jet above autumn lakes, switch into its instrument-filled cockpit and fire missiles into the landscape.
 

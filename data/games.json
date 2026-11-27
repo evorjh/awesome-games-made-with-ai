@@ -1359,6 +1359,7 @@
         "gqen458xd",
         "gfq2hy38b",
         "gjy8bcasd",
+        "gv4gl4zeb",
         "gv4zk9va6",
         "gbqupfras",
         "gpwm0r0jp",
@@ -3423,6 +3424,151 @@
       "pageUrl": "https://amusehall.com/games/super-smash-royale/"
     },
     {
+      "id": "gx5hn08iw",
+      "slug": "brushwild",
+      "aliases": [],
+      "title": "Brushwild",
+      "added": "2026-11-25",
+      "updated": "2026-11-25",
+      "creators": [
+        {
+          "handle": "kevin_t_ngo",
+          "name": "Kevin Ngo",
+          "url": "https://x.com/kevin_t_ngo"
+        }
+      ],
+      "primaryHandle": "kevin_t_ngo",
+      "credits": [
+        {
+          "label": "Claude Fable 5.2",
+          "modelId": "claude-fable-5-2",
+          "familyId": "claude",
+          "toolId": null
+        },
+        {
+          "label": "Claude Opus 5.5",
+          "modelId": "claude-opus-5-5",
+          "familyId": "claude",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "claude",
+      "familyIds": [
+        "claude"
+      ],
+      "modelIds": [
+        "claude-fable-5-2",
+        "claude-opus-5-5"
+      ],
+      "tools": [
+        {
+          "id": "preact",
+          "name": "Preact",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "typescript",
+          "name": "TypeScript",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "vite",
+          "name": "Vite",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "rpg",
+          "name": "RPG"
+        },
+        {
+          "id": "open-world",
+          "name": "Open world"
+        },
+        {
+          "id": "exploration",
+          "name": "Exploration"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "WASD or click to move, Space to evade, right-drag to turn the camera, and 1–4 to use assigned skills.",
+      "brandIp": false,
+      "description": "Choose a class and set out from Hearthmere into a growing world drawn to look like pen and coloured pencil.",
+      "notes": "The Warden fights up close, the Emberwright casts elemental magic, and the Strider uses bows, daggers and traps. The opening tutorial teaches movement and camera controls in Hearthmere. Follow the roads out of town to find encounters, shrines and dungeon entrances. Pick up gear and spend skill points as your character develops.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Kevin Ngo used Fable 5.2 for the initial build of Brushwild. He describes how the game renders terrain and characters to look like pencil and ink.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The creator described the original browser build as “~300kB”. The game generates its terrain in chunks.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2125321244686029289",
+              "https://github.com/kevintngo/procedural-rpg"
+            ]
+          },
+          {
+            "about": "art",
+            "text": "Ngo carried over the look of his 2D game Valsera. Shaders draw the 3D world, and the game draws inventory and class art in Canvas.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2125445306586402825",
+              "https://github.com/kevintngo/procedural-rpg"
+            ]
+          },
+          {
+            "about": "characters",
+            "text": "Ngo says he is using Opus 5.5 to add characters, enemies and areas after the initial build.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2125449165257990305"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/kevin_t_ngo/status/2125321244686029289",
+          "https://x.com/kevin_t_ngo/status/2125445306586402825",
+          "https://x.com/kevin_t_ngo/status/2125449165257990305",
+          "https://github.com/kevintngo/procedural-rpg",
+          "https://github.com/kevintngo/procedural-rpg/blob/main/package.json"
+        ]
+      },
+      "likes": 2692,
+      "likesRead": "2026-11-27",
+      "posted": "2026-11-24",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2125321244686029289",
+      "evidence": {
+        "url": "https://x.com/kevin_t_ngo/status/2125321244686029289",
+        "quote": "I asked Fable 5.2 to make a procedural, open-world RPG, playable in your browser"
+      },
+      "playUrl": "https://kevintngo.github.io/procedural-rpg/",
+      "price": "free",
+      "codeUrl": "https://github.com/kevintngo/procedural-rpg",
+      "media": {
+        "still": "https://media.amusehall.com/brushwild/still.webp?v=e4236e3fa7",
+        "preview": "https://media.amusehall.com/brushwild/preview.webp?v=867c1d49c7",
+        "clip": "https://media.amusehall.com/brushwild/clip.mp4?v=a0350399b6",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/brushwild/"
+    },
+    {
       "id": "g48m4vidg",
       "slug": "getting-there",
       "aliases": [],
@@ -3554,151 +3700,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/getting-there/"
-    },
-    {
-      "id": "gx5hn08iw",
-      "slug": "brushwild",
-      "aliases": [],
-      "title": "Brushwild",
-      "added": "2026-11-25",
-      "updated": "2026-11-25",
-      "creators": [
-        {
-          "handle": "kevin_t_ngo",
-          "name": "Kevin Ngo",
-          "url": "https://x.com/kevin_t_ngo"
-        }
-      ],
-      "primaryHandle": "kevin_t_ngo",
-      "credits": [
-        {
-          "label": "Claude Fable 5.2",
-          "modelId": "claude-fable-5-2",
-          "familyId": "claude",
-          "toolId": null
-        },
-        {
-          "label": "Claude Opus 5.5",
-          "modelId": "claude-opus-5-5",
-          "familyId": "claude",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "claude",
-      "familyIds": [
-        "claude"
-      ],
-      "modelIds": [
-        "claude-fable-5-2",
-        "claude-opus-5-5"
-      ],
-      "tools": [
-        {
-          "id": "preact",
-          "name": "Preact",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "typescript",
-          "name": "TypeScript",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "vite",
-          "name": "Vite",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "rpg",
-          "name": "RPG"
-        },
-        {
-          "id": "open-world",
-          "name": "Open world"
-        },
-        {
-          "id": "exploration",
-          "name": "Exploration"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "WASD or click to move, Space to evade, right-drag to turn the camera, and 1–4 to use assigned skills.",
-      "brandIp": false,
-      "description": "Choose a class and set out from Hearthmere into a growing world drawn to look like pen and coloured pencil.",
-      "notes": "The Warden fights up close, the Emberwright casts elemental magic, and the Strider uses bows, daggers and traps. The opening tutorial teaches movement and camera controls in Hearthmere. Follow the roads out of town to find encounters, shrines and dungeon entrances. Pick up gear and spend skill points as your character develops.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Kevin Ngo used Fable 5.2 for the initial build of Brushwild. He describes how the game renders terrain and characters to look like pencil and ink.",
-        "facts": [
-          {
-            "about": "code",
-            "text": "The creator described the original browser build as “~300kB”. The game generates its terrain in chunks.",
-            "sources": [
-              "https://x.com/kevin_t_ngo/status/2125321244686029289",
-              "https://github.com/kevintngo/procedural-rpg"
-            ]
-          },
-          {
-            "about": "art",
-            "text": "Ngo carried over the look of his 2D game Valsera. Shaders draw the 3D world, and the game draws inventory and class art in Canvas.",
-            "sources": [
-              "https://x.com/kevin_t_ngo/status/2125445306586402825",
-              "https://github.com/kevintngo/procedural-rpg"
-            ]
-          },
-          {
-            "about": "characters",
-            "text": "Ngo says he is using Opus 5.5 to add characters, enemies and areas after the initial build.",
-            "sources": [
-              "https://x.com/kevin_t_ngo/status/2125449165257990305"
-            ]
-          }
-        ],
-        "sources": [
-          "https://x.com/kevin_t_ngo/status/2125321244686029289",
-          "https://x.com/kevin_t_ngo/status/2125445306586402825",
-          "https://x.com/kevin_t_ngo/status/2125449165257990305",
-          "https://github.com/kevintngo/procedural-rpg",
-          "https://github.com/kevintngo/procedural-rpg/blob/main/package.json"
-        ]
-      },
-      "likes": 2569,
-      "likesRead": "2026-11-26",
-      "posted": "2026-11-24",
-      "sourceUrl": "https://x.com/kevin_t_ngo/status/2125321244686029289",
-      "evidence": {
-        "url": "https://x.com/kevin_t_ngo/status/2125321244686029289",
-        "quote": "I asked Fable 5.2 to make a procedural, open-world RPG, playable in your browser"
-      },
-      "playUrl": "https://kevintngo.github.io/procedural-rpg/",
-      "price": "free",
-      "codeUrl": "https://github.com/kevintngo/procedural-rpg",
-      "media": {
-        "still": "https://media.amusehall.com/brushwild/still.webp?v=e4236e3fa7",
-        "preview": "https://media.amusehall.com/brushwild/preview.webp?v=867c1d49c7",
-        "clip": "https://media.amusehall.com/brushwild/clip.mp4?v=a0350399b6",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/brushwild/"
     },
     {
       "id": "g57hyuelm",
@@ -4150,8 +4151,8 @@
           "https://github.com/kevintngo/cinderwatch"
         ]
       },
-      "likes": 2336,
-      "likesRead": "2026-11-26",
+      "likes": 2353,
+      "likesRead": "2026-11-27",
       "posted": "2026-11-24",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2125119969109418333",
       "evidence": {
@@ -4844,8 +4845,8 @@
           "https://thaxnay.com/ramayana/"
         ]
       },
-      "likes": 1746,
-      "likesRead": "2026-11-26",
+      "likes": 1750,
+      "likesRead": "2026-11-27",
       "posted": "2026-11-19",
       "sourceUrl": "https://x.com/Thaxnay/status/2123487166831734894",
       "evidence": {
@@ -6147,8 +6148,8 @@
           "https://x.com/MeticulAi/status/2112214629090828742"
         ]
       },
-      "likes": 1118,
-      "likesRead": "2026-11-26",
+      "likes": 1120,
+      "likesRead": "2026-11-27",
       "posted": "2026-10-17",
       "sourceUrl": "https://x.com/MeticulAi/status/2111568537684955500",
       "evidence": {
@@ -6269,8 +6270,8 @@
           "https://github.com/yaoderek/littlecity/blob/main/package.json"
         ]
       },
-      "likes": 997,
-      "likesRead": "2026-11-26",
+      "likes": 1023,
+      "likesRead": "2026-11-27",
       "posted": "2026-11-24",
       "sourceUrl": "https://x.com/sprezzyyy/status/2125321545665192054",
       "evidence": {
@@ -7018,8 +7019,8 @@
           "https://x.com/Densitylucky/status/2122839223896256757"
         ]
       },
-      "likes": 870,
-      "likesRead": "2026-11-26",
+      "likes": 871,
+      "likesRead": "2026-11-27",
       "posted": "2026-11-17",
       "sourceUrl": "https://x.com/Densitylucky/status/2122834417647513702",
       "evidence": {
@@ -7521,7 +7522,7 @@
         ]
       },
       "likes": 735,
-      "likesRead": "2026-11-26",
+      "likesRead": "2026-11-27",
       "posted": "2026-10-17",
       "sourceUrl": "https://x.com/aymericrabot/status/2111519266898169925",
       "evidence": {
@@ -7964,8 +7965,8 @@
           "https://x.com/kevin_t_ngo/status/2125011058486309236"
         ]
       },
-      "likes": 596,
-      "likesRead": "2026-11-26",
+      "likes": 599,
+      "likesRead": "2026-11-27",
       "posted": "2026-11-23",
       "sourceUrl": "https://x.com/kevin_t_ngo/status/2125001629850345678",
       "evidence": {
@@ -8068,6 +8069,141 @@
       "dropped": false,
       "featurable": false,
       "pageUrl": "https://amusehall.com/games/pokekart-gp/"
+    },
+    {
+      "id": "gjy8bcasd",
+      "slug": "starwatch",
+      "aliases": [],
+      "title": "Starwatch",
+      "added": "2026-11-26",
+      "updated": "2026-11-26",
+      "creators": [
+        {
+          "handle": "kevin_t_ngo",
+          "name": "Kevin Ngo",
+          "url": "https://x.com/kevin_t_ngo"
+        }
+      ],
+      "primaryHandle": "kevin_t_ngo",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [
+        {
+          "id": "fal",
+          "name": "fal",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "gpt-image-2-6",
+          "name": "GPT Image 2.6",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "blender",
+          "name": "Blender",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "tripo",
+          "name": "Tripo",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        },
+        {
+          "id": "elevenlabs",
+          "name": "ElevenLabs",
+          "kind": "app",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "strategy",
+          "name": "Strategy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "Click a slot to build. Drag to pan, right-drag to rotate, and scroll to zoom.",
+      "brandIp": false,
+      "description": "Build towers on a floating battlefield and protect your base with strikes, stasis and drop pods.",
+      "notes": "The first battlefield starts with a limited pool of coins and empty slots around the path. Click a slot to choose a tower, then watch the lanes when the wave begins. The ability bar gives you a strike, stasis, a drop pod and overdrive.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "Kevin Ngo described two ways he used concept images to make assets for Starwatch. He also reported a balance pass after player feedback.",
+        "facts": [
+          {
+            "about": "art",
+            "text": "Ngo made concept images with GPT Image 2.6 and had AI use them to build assets in Blender. He also fed concept art into Tripo through fal and had AI rig and animate the resulting models.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2125715517172535597",
+              "https://x.com/kevin_t_ngo/status/2125742991675646316"
+            ]
+          },
+          {
+            "about": "sound",
+            "text": "Ngo used ElevenLabs through fal for some of the sound effects.",
+            "sources": [
+              "https://x.com/kevin_t_ngo/status/2125715517172535597"
+            ]
+          }
+        ],
+        "sources": [
+          "https://x.com/kevin_t_ngo/status/2125706215699460335",
+          "https://x.com/kevin_t_ngo/status/2125715517172535597",
+          "https://x.com/kevin_t_ngo/status/2125742991675646316",
+          "https://x.com/kevin_t_ngo/status/2125758998255468706"
+        ]
+      },
+      "likes": 585,
+      "likesRead": "2026-11-27",
+      "posted": "2026-11-25",
+      "sourceUrl": "https://x.com/kevin_t_ngo/status/2125706215699460335",
+      "evidence": {
+        "url": "https://x.com/kevin_t_ngo/status/2125706215699460335",
+        "quote": "I asked Gemini 4 Neon to make a tower defense game, playable in your browser."
+      },
+      "playUrl": "https://starwatch-game.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/starwatch/still.webp?v=b49b9217fc",
+        "preview": "https://media.amusehall.com/starwatch/preview.webp?v=c28b7f960a",
+        "clip": "https://media.amusehall.com/starwatch/clip.mp4?v=a12c00958f",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/starwatch/"
     },
     {
       "id": "gm1296gah",
@@ -8968,6 +9104,119 @@
       "pageUrl": "https://amusehall.com/games/iron-rotor/"
     },
     {
+      "id": "gv4gl4zeb",
+      "slug": "origami-storybook",
+      "aliases": [],
+      "title": "折纸漫游记：立体书之旅",
+      "added": "2026-11-27",
+      "updated": "2026-11-27",
+      "creators": [
+        {
+          "handle": "huang18825",
+          "name": "渣渣渣渣渣",
+          "url": "https://x.com/huang18825"
+        }
+      ],
+      "primaryHandle": "huang18825",
+      "credits": [
+        {
+          "label": "Gemini 4 Neon",
+          "modelId": "gemini-4-neon",
+          "familyId": "gemini",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gemini",
+      "familyIds": [
+        "gemini"
+      ],
+      "modelIds": [
+        "gemini-4-neon"
+      ],
+      "tools": [
+        {
+          "id": "antigravity",
+          "name": "Google Antigravity",
+          "kind": "ai",
+          "family": "gemini",
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "platformer",
+          "name": "Platformer"
+        },
+        {
+          "id": "adventure",
+          "name": "Adventure"
+        },
+        {
+          "id": "cozy",
+          "name": "Cozy"
+        }
+      ],
+      "devices": [
+        "desktop"
+      ],
+      "controls": "A and D to move, Space to jump or hold to glide, and E to switch to an unlocked companion.",
+      "brandIp": true,
+      "description": "Open a pop-up storybook and guide folded-paper characters through platforming levels, collecting stars and unlocking companions.",
+      "notes": "Begin as Thumbelina on a page of the book and jump across folded platforms to collect stars. When you reach the paper stream, the tutorial shows how to summon the butterfly and fly to the bridge switch. The menus and instructions are in Chinese.",
+      "prompt": {
+        "shared": true,
+        "partial": true,
+        "source_url": "https://x.com/huang18825/status/2125881671278793168",
+        "text": "/grill-me 我想做一个折纸涂鸦风格的第三人称收集游戏，包含独立关卡 能力获取并使用能力解密。来点意见！"
+      },
+      "makingOf": {
+        "summary": "The creator took inspiration from their daughter’s origami crafts and asked Gemini 4 Neon to make a platformer in a folded-paper doodle style. They also had Neon storyboard the promo, play the game to capture footage and edit the video. The workflow below is the creator’s general approach to building games in Antigravity.",
+        "facts": [
+          {
+            "about": "code",
+            "text": "The creator says they made the project from scratch with Gemini 4 Neon in Antigravity, using /swarm throughout and setting the thinking level to “xhigh”.",
+            "sources": [
+              "https://x.com/huang18825/status/2125099388431434147"
+            ]
+          }
+        ],
+        "steps": [
+          "Start with a rough idea, then use /grill-me to clarify the design over several rounds.",
+          "Use /plan to draft the development plan, confirm its details and fine-tune it.",
+          "Use /swarm to implement the plan.",
+          "After reviewing the result, brainstorm more gameplay details if you want to expand it.",
+          "Use /learn if you want to turn the process into reusable skills or other assets."
+        ],
+        "sources": [
+          "https://x.com/huang18825/status/2125076324536762753",
+          "https://x.com/huang18825/status/2125099388431434147",
+          "https://x.com/huang18825/status/2125881671278793168"
+        ]
+      },
+      "likes": 403,
+      "likesRead": "2026-11-27",
+      "posted": "2026-11-24",
+      "sourceUrl": "https://x.com/huang18825/status/2125076324536762753",
+      "evidence": {
+        "url": "https://x.com/huang18825/status/2125099388431434147",
+        "quote": "全程是在 Antigravity 里用 Gemini 4 Neon 完成的，包括操作游戏录屏和剪辑。"
+      },
+      "playUrl": "https://origami-popup-test.bel5217.workers.dev/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/origami-storybook/still.webp?v=edab70c8da",
+        "preview": null,
+        "clip": null,
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": false,
+      "pageUrl": "https://amusehall.com/games/origami-storybook/"
+    },
+    {
       "id": "gy7oawf0w",
       "slug": "sublevel-07",
       "aliases": [],
@@ -9866,141 +10115,6 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/chongqing/"
-    },
-    {
-      "id": "gjy8bcasd",
-      "slug": "starwatch",
-      "aliases": [],
-      "title": "Starwatch",
-      "added": "2026-11-26",
-      "updated": "2026-11-26",
-      "creators": [
-        {
-          "handle": "kevin_t_ngo",
-          "name": "Kevin Ngo",
-          "url": "https://x.com/kevin_t_ngo"
-        }
-      ],
-      "primaryHandle": "kevin_t_ngo",
-      "credits": [
-        {
-          "label": "Gemini 4 Neon",
-          "modelId": "gemini-4-neon",
-          "familyId": "gemini",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "gemini",
-      "familyIds": [
-        "gemini"
-      ],
-      "modelIds": [
-        "gemini-4-neon"
-      ],
-      "tools": [
-        {
-          "id": "fal",
-          "name": "fal",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "gpt-image-2-6",
-          "name": "GPT Image 2.6",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "blender",
-          "name": "Blender",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "tripo",
-          "name": "Tripo",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        },
-        {
-          "id": "elevenlabs",
-          "name": "ElevenLabs",
-          "kind": "app",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "strategy",
-          "name": "Strategy"
-        }
-      ],
-      "devices": [
-        "desktop"
-      ],
-      "controls": "Click a slot to build. Drag to pan, right-drag to rotate, and scroll to zoom.",
-      "brandIp": false,
-      "description": "Build towers on a floating battlefield and protect your base with strikes, stasis and drop pods.",
-      "notes": "The first battlefield starts with a limited pool of coins and empty slots around the path. Click a slot to choose a tower, then watch the lanes when the wave begins. The ability bar gives you a strike, stasis, a drop pod and overdrive.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "Kevin Ngo described two ways he used concept images to make assets for Starwatch. He also reported a balance pass after player feedback.",
-        "facts": [
-          {
-            "about": "art",
-            "text": "Ngo made concept images with GPT Image 2.6 and had AI use them to build assets in Blender. He also fed concept art into Tripo through fal and had AI rig and animate the resulting models.",
-            "sources": [
-              "https://x.com/kevin_t_ngo/status/2125715517172535597",
-              "https://x.com/kevin_t_ngo/status/2125742991675646316"
-            ]
-          },
-          {
-            "about": "sound",
-            "text": "Ngo used ElevenLabs through fal for some of the sound effects.",
-            "sources": [
-              "https://x.com/kevin_t_ngo/status/2125715517172535597"
-            ]
-          }
-        ],
-        "sources": [
-          "https://x.com/kevin_t_ngo/status/2125706215699460335",
-          "https://x.com/kevin_t_ngo/status/2125715517172535597",
-          "https://x.com/kevin_t_ngo/status/2125742991675646316",
-          "https://x.com/kevin_t_ngo/status/2125758998255468706"
-        ]
-      },
-      "likes": 304,
-      "likesRead": "2026-11-26",
-      "posted": "2026-11-25",
-      "sourceUrl": "https://x.com/kevin_t_ngo/status/2125706215699460335",
-      "evidence": {
-        "url": "https://x.com/kevin_t_ngo/status/2125706215699460335",
-        "quote": "I asked Gemini 4 Neon to make a tower defense game, playable in your browser."
-      },
-      "playUrl": "https://starwatch-game.vercel.app/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/starwatch/still.webp?v=b49b9217fc",
-        "preview": "https://media.amusehall.com/starwatch/preview.webp?v=c28b7f960a",
-        "clip": "https://media.amusehall.com/starwatch/clip.mp4?v=a12c00958f",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/starwatch/"
     },
     {
       "id": "g17kxz4cm",
@@ -11392,8 +11506,8 @@
           "https://x.com/venturetwins/status/2124572766964003302"
         ]
       },
-      "likes": 162,
-      "likesRead": "2026-11-26",
+      "likes": 163,
+      "likesRead": "2026-11-27",
       "posted": "2026-11-22",
       "sourceUrl": "https://x.com/venturetwins/status/2124568183902449764",
       "evidence": {
@@ -12903,100 +13017,6 @@
       "pageUrl": "https://amusehall.com/games/haldane-4/"
     },
     {
-      "id": "gupsk4h7x",
-      "slug": "harbor-skirmish",
-      "aliases": [],
-      "title": "Harbor Skirmish",
-      "added": "2026-10-30",
-      "updated": "2026-11-12",
-      "creators": [
-        {
-          "handle": "OpenDesignHQ",
-          "name": "OpenDesign",
-          "url": "https://x.com/OpenDesignHQ"
-        }
-      ],
-      "primaryHandle": "OpenDesignHQ",
-      "credits": [
-        {
-          "label": "GPT-6 Astra",
-          "modelId": "gpt-6-astra",
-          "familyId": "gpt",
-          "toolId": null
-        }
-      ],
-      "primaryFamily": "gpt",
-      "familyIds": [
-        "gpt"
-      ],
-      "modelIds": [
-        "gpt-6-astra"
-      ],
-      "tools": [
-        {
-          "id": "threejs",
-          "name": "Three.js",
-          "kind": "library",
-          "family": null,
-          "referral_url": null
-        }
-      ],
-      "genres": [
-        {
-          "id": "shooter",
-          "name": "Shooter"
-        },
-        {
-          "id": "action",
-          "name": "Action"
-        }
-      ],
-      "devices": [
-        "desktop",
-        "phone"
-      ],
-      "controls": "WASD, mouse, Space to jump, Shift to sprint, hold E to grapple, Q to dash, C to slide, 1-3 for weapons; on phones, drag to look and use the on-screen arrows and buttons",
-      "brandIp": false,
-      "description": "A first-person wave shooter on a toy-like harbor island, where you fight off a rabbit invasion with ink weapons and a grappling hook.",
-      "notes": "Rabbits have invaded Seabreeze, a small harbor town, and you hold them off in waves with first-person ink weapons: a rifle, a scattergun and a paper blade. You can double jump, dash and slide through the streets, or hold E to swing on a grappling hook up to the rooftops. Each wave shows how many rabbits remain, and your score climbs as you clear them. Works on phones and computers.",
-      "prompt": {
-        "shared": false,
-        "partial": false,
-        "source_url": null,
-        "text": null
-      },
-      "makingOf": {
-        "summary": "OpenDesign gave GPT-6 Astra a brief for a playable island game with movement and wave combat. The team says it built this version in Three.js and gave DeepSeek V4.1 Flash the same task to compare the results.",
-        "sources": [
-          "https://x.com/OpenDesignHQ/status/2097635757917983223",
-          "https://open-design.ai/showcase/island-adventure-game-design/",
-          "https://open-design.ai/showcase/island-fps-game-design/"
-        ]
-      },
-      "likes": 52,
-      "likesRead": "2026-11-23",
-      "posted": "2026-09-09",
-      "sourceUrl": "https://x.com/OpenDesignHQ/status/2097635757917983223",
-      "evidence": {
-        "url": "https://x.com/OpenDesignHQ/status/2097635757917983223",
-        "quote": "We built two Three.js games with GPT-6 Astra and DeepSeek V4.1 Flash."
-      },
-      "playUrl": "https://gpt6astra-game.vercel.app/",
-      "price": "free",
-      "codeUrl": null,
-      "media": {
-        "still": "https://media.amusehall.com/harbor-skirmish/still.webp?v=24dc7baead",
-        "preview": "https://media.amusehall.com/harbor-skirmish/preview.webp?v=6bfb11d9b2",
-        "clip": "https://media.amusehall.com/harbor-skirmish/clip.mp4?v=a87715d801",
-        "unrecordable": null
-      },
-      "availability": "available",
-      "unavailableSince": null,
-      "dropped": false,
-      "featurable": true,
-      "pageUrl": "https://amusehall.com/games/harbor-skirmish/"
-    },
-    {
       "id": "gbqupfras",
       "slug": "outpost-racer",
       "aliases": [],
@@ -13125,8 +13145,8 @@
           "https://news.ycombinator.com/item?id=50595558"
         ]
       },
-      "likes": 51,
-      "likesRead": "2026-11-26",
+      "likes": 52,
+      "likesRead": "2026-11-27",
       "posted": "2026-11-21",
       "sourceUrl": "https://news.ycombinator.com/item?id=50589184",
       "evidence": {
@@ -13147,6 +13167,100 @@
       "dropped": false,
       "featurable": true,
       "pageUrl": "https://amusehall.com/games/outpost-racer/"
+    },
+    {
+      "id": "gupsk4h7x",
+      "slug": "harbor-skirmish",
+      "aliases": [],
+      "title": "Harbor Skirmish",
+      "added": "2026-10-30",
+      "updated": "2026-11-12",
+      "creators": [
+        {
+          "handle": "OpenDesignHQ",
+          "name": "OpenDesign",
+          "url": "https://x.com/OpenDesignHQ"
+        }
+      ],
+      "primaryHandle": "OpenDesignHQ",
+      "credits": [
+        {
+          "label": "GPT-6 Astra",
+          "modelId": "gpt-6-astra",
+          "familyId": "gpt",
+          "toolId": null
+        }
+      ],
+      "primaryFamily": "gpt",
+      "familyIds": [
+        "gpt"
+      ],
+      "modelIds": [
+        "gpt-6-astra"
+      ],
+      "tools": [
+        {
+          "id": "threejs",
+          "name": "Three.js",
+          "kind": "library",
+          "family": null,
+          "referral_url": null
+        }
+      ],
+      "genres": [
+        {
+          "id": "shooter",
+          "name": "Shooter"
+        },
+        {
+          "id": "action",
+          "name": "Action"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "phone"
+      ],
+      "controls": "WASD, mouse, Space to jump, Shift to sprint, hold E to grapple, Q to dash, C to slide, 1-3 for weapons; on phones, drag to look and use the on-screen arrows and buttons",
+      "brandIp": false,
+      "description": "A first-person wave shooter on a toy-like harbor island, where you fight off a rabbit invasion with ink weapons and a grappling hook.",
+      "notes": "Rabbits have invaded Seabreeze, a small harbor town, and you hold them off in waves with first-person ink weapons: a rifle, a scattergun and a paper blade. You can double jump, dash and slide through the streets, or hold E to swing on a grappling hook up to the rooftops. Each wave shows how many rabbits remain, and your score climbs as you clear them. Works on phones and computers.",
+      "prompt": {
+        "shared": false,
+        "partial": false,
+        "source_url": null,
+        "text": null
+      },
+      "makingOf": {
+        "summary": "OpenDesign gave GPT-6 Astra a brief for a playable island game with movement and wave combat. The team says it built this version in Three.js and gave DeepSeek V4.1 Flash the same task to compare the results.",
+        "sources": [
+          "https://x.com/OpenDesignHQ/status/2097635757917983223",
+          "https://open-design.ai/showcase/island-adventure-game-design/",
+          "https://open-design.ai/showcase/island-fps-game-design/"
+        ]
+      },
+      "likes": 52,
+      "likesRead": "2026-11-23",
+      "posted": "2026-09-09",
+      "sourceUrl": "https://x.com/OpenDesignHQ/status/2097635757917983223",
+      "evidence": {
+        "url": "https://x.com/OpenDesignHQ/status/2097635757917983223",
+        "quote": "We built two Three.js games with GPT-6 Astra and DeepSeek V4.1 Flash."
+      },
+      "playUrl": "https://gpt6astra-game.vercel.app/",
+      "price": "free",
+      "codeUrl": null,
+      "media": {
+        "still": "https://media.amusehall.com/harbor-skirmish/still.webp?v=24dc7baead",
+        "preview": "https://media.amusehall.com/harbor-skirmish/preview.webp?v=6bfb11d9b2",
+        "clip": "https://media.amusehall.com/harbor-skirmish/clip.mp4?v=a87715d801",
+        "unrecordable": null
+      },
+      "availability": "available",
+      "unavailableSince": null,
+      "dropped": false,
+      "featurable": true,
+      "pageUrl": "https://amusehall.com/games/harbor-skirmish/"
     },
     {
       "id": "g9rjpdfa0",
@@ -27177,8 +27291,8 @@
           "g0u52kl87",
           "gjh98608z",
           "gifjcc37f",
-          "g48m4vidg",
           "gx5hn08iw",
+          "g48m4vidg",
           "g57hyuelm",
           "g27qw9jqs",
           "gw96j1zcp",
@@ -27369,8 +27483,8 @@
           "g6av67v0c",
           "gmxiswqhb",
           "g3v8d1w6z",
-          "gupsk4h7x",
           "gbqupfras",
+          "gupsk4h7x",
           "g1yiy3hsg",
           "glmkik999",
           "gzxcj7c46",
@@ -27401,10 +27515,11 @@
           "g9q2ghtjb",
           "gfq2hy38b",
           "gvvjmsrcs",
+          "gjy8bcasd",
           "gtwxlwdgm",
           "gah31vsol",
+          "gv4gl4zeb",
           "gld22k702",
-          "gjy8bcasd",
           "g7lsoeejk",
           "gv4zk9va6",
           "gyf6is48g",
@@ -27447,6 +27562,7 @@
         "gqen458xd",
         "gfq2hy38b",
         "gjy8bcasd",
+        "gv4gl4zeb",
         "gv4zk9va6",
         "gbqupfras",
         "gpwm0r0jp",

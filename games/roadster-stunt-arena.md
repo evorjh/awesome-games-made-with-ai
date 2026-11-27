@@ -11,7 +11,7 @@
 - **Plays on:** Computer
 - **Price:** Free
 - **Controls:** W and S to drive, A and D to steer, Shift to boost, Space to jump or hover, Q and E to roll in the air, C to change camera
-- **Likes on the original post:** 735, counted 2026-11-26
+- **Likes on the original post:** 735, counted 2026-11-27
 
 Launch a roadster across a night arena, chase a sub-second sprint to 60 mph and try to land a kickflip.
 
