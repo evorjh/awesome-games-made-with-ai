@@ -10394,7 +10394,7 @@
         "clip": "https://media.amusehall.com/pocket-skatepark/clip.mp4?v=8dcfdc4867",
         "unrecordable": null
       },
-      "availability": "available",
+      "availability": "unknown",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
@@ -21004,7 +21004,7 @@
         "clip": null,
         "unrecordable": "human-verification"
       },
-      "availability": "unknown",
+      "availability": "available",
       "unavailableSince": null,
       "dropped": false,
       "featurable": true,
